@@ -1,0 +1,40 @@
+Title: Page not found 404
+
+URL Source: https://www.truckscout24.com/tsp/ts-193-93-836
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+TruckScout24.com is official sponsor of:
+
+![Image 1: Darts EM](https://cdn.truckscout24.com/img/frontend/template/footer/sponsoring/pdc.svg?v=1763643660)
+
+![Image 2: american truck promotion](https://cdn.truckscout24.com/img/frontend/template/footer/sponsoring/american_truck.png?v=1763643660)
+
+![Image 3: EHF Champions League](https://cdn.truckscout24.com/img/frontend/template/footer/sponsoring/ehf_b_ts.svg?v=1763643660)
+
+![Image 4: Morlock Motors](https://cdn.truckscout24.com/img/frontend/template/footer/sponsoring/morlock_motors.svg?v=1763643660)
+
+**Successful:** Task carried out
+
+**Error:** Task could not be carried out
+
+Sell
+
+Service & support
+
+Company
+
+Legal matters
+
+All information, offers and prices on this website are subject to change and non-binding!
+
+By using this website you accept our [**terms and conditions**](https://www.truckscout24.com/terms/) and [**privacy policy**](https://www.truckscout24.com/privacy/). 
+
+ Designated trademarks belong to their respective holders. 
+
+ TruckScout24 GmbH does not assume liability for the content of linked external websites.
+
+© 2000 - 2026 TruckScout24 GmbH
+
+This website is protected by reCAPTCHA and the [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) from Google apply.

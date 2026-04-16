@@ -1,0 +1,824 @@
+Title: Automated Fact-Checker
+
+URL Source: https://originality.ai/automated-fact-checker
+
+Published Time: Tue, 14 Apr 2026 02:23:02 GMT
+
+Markdown Content:
+# Automated Fact-Checker
+
+[![Image 1](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/697adecd6e84ed653c98d5ed_Originality%20white%20logo.svg)![Image 2](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6935d898db83103ce647e9a4_Originality%20Icon.svg)](https://originality.ai/)
+
+*   Our Products
+
+  Our Products
+
+[AI Checker Detect AI content in your text](https://originality.ai/)[Plagiarism Checker Check for presence of plagiarism](https://originality.ai/plagiarism-checker)[Content Optimizer Rank better in Google search](https://originality.ai/content-optimizer)[Bulk Scan Scan multiple texts at once](https://originality.ai/bulk-scan)  [Fact Checker Check authenticity of your facts](https://originality.ai/automated-fact-checker)[Grammar Checker Fix grammar & spelling issues](https://originality.ai/grammar-checker)[Readability Checker Make your text easy to read](https://originality.ai/readability-checker)[Deep Scan AI writing tutor & suggestions](https://originality.ai/blog/introducing-deep-scan)     Integrations
+
+[![Image 3](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bce263a88369cc94d39d52_Chrome.svg) Chrome Extension ![Image 4](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Add to Chrome & Google Docs](https://originality.ai/chrome-extension)[![Image 5](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bce2625612aa96415ccbae_Moodle.svg) Moodle Plugin ![Image 6](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Get Originality.ai in Moodle](https://originality.ai/moodle-plugin)[![Image 7](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bce26327a6ae0440e11471_Wordpress.svg) WordPress Plugin ![Image 8](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Get Originality.ai in WordPress](https://originality.ai/wordpress-plugin)[API ![Image 9](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Get our API into your apps](https://docs.originality.ai/api-v2-0-new)     
+*   Integrations
+
+  Integrations
+
+[![Image 10](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bce263a88369cc94d39d52_Chrome.svg) Chrome Extension ![Image 11](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Add to Chrome & Google Docs](https://originality.ai/chrome-extension)[![Image 12](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bce2625612aa96415ccbae_Moodle.svg) Moodle Plugin ![Image 13](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Get Originality.ai in Moodle](https://originality.ai/moodle-plugin)[![Image 14](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bce26327a6ae0440e11471_Wordpress.svg) WordPress Plugin ![Image 15](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Get Originality.ai in WordPress](https://originality.ai/wordpress-plugin)[API ![Image 16](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Get our API into your apps](https://docs.originality.ai/api-v2-0-new)     
+*   [Pricing](https://originality.ai/pricing) 
+*   Resources
+
+  [Blogs ![Image 17](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Detect AI content in your text](https://originality.ai/blog)[Education ![Image 18](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Check for presence of plagiarism](https://originality.ai/education)[Enterprise ![Image 19](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Rank better in Google search](https://originality.ai/enterprise)[Press ![Image 20](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Scan multiple texts at once](https://originality.ai/press)  [Testimonials ![Image 21](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Check authenticity of your facts](https://originality.ai/testimonials)[Support ![Image 22](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Fix grammar & spelling issues](https://help.originality.ai/en/)[Contact ![Image 23](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69bb71572f08889c6e84330f_link.svg) Make your text easy to read](https://originality.ai/contact-us)     
+*   [Pricing](https://originality.ai/pricing) 
+
+[![Image 24](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6935d898db83103ce647e9a4_Originality%20Icon.svg) Signup / Login](https://app.originality.ai/signup)
+
+[AI Checker](https://originality.ai/)[Plagiarism Checker](https://originality.ai/plagiarism-checker)[Grammar Checker](https://originality.ai/grammar-checker)[Readability Checker](https://originality.ai/readability-checker)[Fact Checker](https://originality.ai/automated-fact-checker)[Content Optimizer](https://originality.ai/content-optimizer)[![Image 25](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69ba4d9cacfbc6e28e4825da_Chrome.svg) Chrome Extension](https://originality.ai/chrome-extension)
+
+# Automated Fact-Checker
+
+[Originality.ai’s](https://originality.ai/) patented, real-time, and accurate Fact Checker identifies false facts and helps you avoid AI hallucinations. Publish content with integrity.
+
+This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
+
+Trusted by Industry Leaders
+
+![Image 26: Stanford University](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da0196bb12e3904b0212d9_0c0b336e21c24c9a793d5e22a966cf8c_Stanford%20University.avif)![Image 27: Harvard University](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158cdab1558be5d6767a8_d8c9691c59d7e3927983f6bc8daa91b8_harvard.avif)![Image 28: Moodle](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da05391d086704a4e1e2f6_Moodle.svg)![Image 29: The Guardian](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6821588b7dd5bf3e5e52706d_1e59ddb44e6acf78c42101fab8e12afb_theguardian.avif)![Image 30: The New York Times](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68215886a375ea5e1aa3b112_5459b8b340fe01d6a56a7e873a5faf2c_thenyt.avif)![Image 31: Flippa](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6821587a42d40ea0c344ada0_86594be7243b05624d1dca5d1a5909ca_flippa.avif)![Image 32: Motion Invest](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68215880201a0eea0f5ac754_7251a18abe024b5045f40a9eb8b6e6fd_motioninvest.avif)![Image 33: Surfer](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68215893aa4076d7df551d1a_0f69eea46316eda7bc3c7b3ec4224893_surfer.avif)![Image 34: Dotdash meredith](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68215897603c679c285124b4_f527bb4318928e336066532f3dbbc1b7_dotdash.avif)![Image 35: GD](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158a5e5e7b8cecba250aa_16cbb7f73539af463559b3c6977e193d_gd.avif)![Image 36: Diggity Marketing](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158aad069b1dc6d4c72cb_4179310c79cda4741aa274e548b9856f_diggity.avif)![Image 37: Writeraccess](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158b7410727114afbcb41_4da97baccf810f931743acb46047286c_writeraccess.avif)![Image 38: GM](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158bdc77e2530a290b35b_2cb85a9132e5065fcea88453d7ca9210_gm.avif)![Image 39](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d9fd32d1167c4432cb2fde_gartner.svg)![Image 40: Alibaba.com](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158d218f3be0736527fa7_2e66f341b6ff20c4e1833bc9e112cd38_alibaba.avif)![Image 41](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da034264c36ce4b51734ee_Northeastern%20University.svg)![Image 42](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68ba7e6395718cff1ea1319e_Duke%20University.svg)![Image 43: Walmart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158c25adcf3840a285d0e_8c7c83560b11902b34616bbd393ccc7c_walmart.avif)![Image 44: AT&T](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158c6e86c2903b2df2574_36aed5c2bbf632cee4db5367af53b14b_AT%26T.avif)![Image 45: AA](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158c9246767ccf17818eb_bca6ee296aef654868c6c62f77b5b138_AA.avif)![Image 46: ezoic](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d9fba616786469fed3b398_ezoic.avif)![Image 47: verblio](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d9fbddbf13bc56ff2cb46d_verblio.webp)![Image 48](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d9fd32b010df995f81964a_Composly.svg)![Image 49: RV](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da02c3da4cbf7e0a17c167_RV.avif)![Image 50](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d9fd32d3a94b98c52a2855_pensko.svg)![Image 51](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da0307bf13bc56ff2dac44_surge%20ai.svg)![Image 52: Flywheel](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da027a58f7d78bc3f9dd16_24c8f720b6ea6195b1d0138efcb090f5_Flywheel.webp)![Image 53](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da0238c9027aee8bf9928e_acquco.svg)![Image 54: Reuters](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6821589cd069b1dc6d4c6e06_74f423b5f85fe209d824f606e8228965_reuters.avif)![Image 55: Business Insider](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158ae172a418ac8628baa_dadabf075025ffde97cdd4ab6b823a29_businessinsider.avif)![Image 56: Neil Patel](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158751372b038a394e85b_d5f81beac23d1d9dba8f62d7ed10f7ab_neilpatel.avif)![Image 57: Purdue University](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d4eb6f055f20f58499fc7e_Purdue%20white.avif)![Image 58: UOP](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da017d0c3e545bc1e8cfe7_UOP.avif)![Image 59: Boston College](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68ba8a1395718cff1ea3ad06_Boston%20logo%202.avif)
+
+![Image 60](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c49a827336032a8ad23d3_multiple%20icon.svg)
+
+A complete suite of QA/QC products
+
+## Fact Checker, AI Checker, Plagiarism Checker, Readability Checker & More!
+
+![Image 61](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6913e8f37b5013da66e87993_heading%20bottom%20line.svg)
+In addition to our Fact Checker feature listed on this page we have a complete suite of AI tools to help Editors including[AI Checking](https://originality.ai/), [Plagiarism Checking](https://originality.ai/plagiarism-checker), [Readability Checking](https://originality.ai/readability-checker)&[Grammar](https://originality.ai/grammar-checker)&[Spelling Checking](https://originality.ai/readability-checker).
+
+[![Image 62](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c49a8ea005cf43f99106d_Fact%20Checker%20icon.svg) Fact Checker› Use our fact checking aid to help ensure your content is factually correct.](https://originality.ai/automated-fact-checker)[![Image 63](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c3209058d0d2ca7c7dc35_AI%20checker%20icon.svg) AI Checker› Most Accurate AI Detector for all AI writing tools. Try now for free.](https://originality.ai/)[![Image 64](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c49a8ea005cf43f991068_Plagiarism%20checker%20icon.svg) Plagiarism Checker› See if text has been plagiarized from anywhere on the internet.](https://originality.ai/plagiarism-checker)[![Image 65](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c49a82714d17c3e837c3a_Content%20Optimizer%20icon.svg) Content Optimizer› AI-powered content optimization that helps your content predictably rank better in Google.](https://originality.ai/content-optimizer)[![Image 66](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c49a80574eefca67599ab_Editorial%20Guidelines%20icon.svg) Bulk Scan› Scale content QA and scan an entire website’s content easily.](https://originality.ai/bulk-scan)[![Image 67](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c49a85d420051d601cc8d_Grammar%20checker%20icon.svg) Grammar Checker› Say goodbye to typos. Catch grammar and spelling errors before you publish.](https://originality.ai/grammar-checker)[![Image 68](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c49a8e04a966ccfe0df41_Readability%20checker%20icon.svg) Readability Checker› Optimize readability for your target audience to communicate clearly.](https://originality.ai/readability-checker)
+
+![Image 69](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c4d0d572e607a9915eab8_Secure%20icon.svg)
+
+Advanced, Comprehensive, and Precise
+
+## Fact Checking Has Never Been More Important
+
+![Image 70](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68262514616fe8e42e69f108_heading%20bottom%20line.svg)
+
+Fact-checking is time-intensive, yet essential. Misinformation, potential false facts, and AI errors can have huge consequences; just consider the [Deloitte scandal](https://originality.ai/blog/deloitte-ai-report-errors-scandal)and the [AI book list scandal](https://originality.ai/blog/ai-book-list-scandal). Proper fact-checking means protecting the authenticity of your work as a writer, editor, student, or teacher.
+
+![Image 71](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c50448e35f97c74725bb6_all%20apps%20icon.svg)
+Benefits of Originality.ai’s Fact Checking Assistant
+
+## Publish your content and submit assignments with confidence
+
+![Image 72](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681b10b064a06e570bc725b1_h2-bottom-line.svg)
+
+[Originality.ai's](https://originality.ai/) Fact Checker is built to support writers, students, editors, and teachers.
+
+[Sign up now›](https://app.originality.ai/signup)
+
+![Image 73: Large AI Models](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69d73340383f09861ab456a4_credible.svg)
+
+Prevent the consequences of incorrect facts
+
+*   Loss of credibility
+*   Editorial delays
+*   Spread of misinformation
+*   AI model bias proliferation
+*   Increased public scrutiny
+
+![Image 74: Large AI Models](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69d7334028b460d02bd2a8a3_verified.svg)
+
+Real-time, accurate fact checks to streamline review
+
+*   Fact Status: Potentially True or Potentially False
+*   Explanation: Why is it Potentially True or False?
+*   Source: Links to real-time sources
+*   Real-time (not limited to Sept. 2021 or earlier)
+*   Cross-reference and verify facts
+
+![Image 75: Large AI Models](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69d73340200691c2192cb474_newspaper.svg)
+
+Generate bibliographic citations (1 citation or a full list)
+
+*   Generate 1 citation or export a full citation list
+*   Select citation style: APA, MLA, Chicago, IEEE
+*   Export & download a PDF bibliography
+*   Learn more about the [citations feature.](https://originality.ai/blog/feature-fact-checking-citations)
+
+## Studies on "Do AI Detectors work?"
+
+3rd Party AI Detection Accuracy Studies
+
+Originality.ai was shown to be the most accurate AI detector across multiple published studies. Including the most in depth analysis to date looking at 12 detectors and 11 LLMs.
+
+[Read more ›](https://originality.ai/blog/ai-detection-studies-round-up)
+
+![Image 76: 3rd Party AI Detection Accuracy Studies](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c4d0d669d45a819d05b92_AI%20detector%20studies%20image.avif)
+
+![Image 77: 3rd Party AI Detection Accuracy Studies](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682d816584d85a43a294beaa_Study%20table%20image.avif)
+
+Internal AI Detection Benchmark & Study
+
+Our detector was the most accurate across multiple publicly available datasets tested covering blog posts, books, research papers, essays, news, wiki and reviews. We built and open-sourced a testing tool to help others replicate on their own data.
+
+[Read more ›](https://originality.ai/blog/ai-accuracy)
+
+![Image 78: Internal AI Detection Benchmark & Study](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c4d12f5fea785fc20c72c_Accuracy%20study%20image.avif)
+
+![Image 79: Internal AI Detection Benchmark & Study](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682d81652aba4dc219d9c812_Study%20table%202%20image.avif)
+
+![Image 80](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c50448e35f97c74725bb6_all%20apps%20icon.svg)
+Our unfair advantage
+
+## Why are we most accurate?
+
+![Image 81](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c4e13932e1c2d0bd1ad2d_heading%20bottom%20line.svg)
+AI Detectors without an in-depth analysis verified by third party studies should be used with caution.
+
+[Sign up now›](https://app.originality.ai/signup)
+
+![Image 82: Large AI Models](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682240043180e750d76b3aa1_network%20icon.svg)
+
+Proven Third-Party Accuracy
+
+You don’t just need to take our word for it. Independent [third-party studies](https://originality.ai/blog/ai-detection-studies-round-up) have also found the Originality.ai AI detector to be exceptionally accurate.
+
+![Image 83: Focused on Published Text, Not Academia, Research, or Historical](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682240046c9d3097059f217d_focus%20icon.svg)
+
+Accurate on Latest Models
+
+We are constantly testing our AI detection models against the latest flagship models from OpenAI, Anthropic, Meta and other leading LLM providers.
+
+![Image 84: Built and Trained on “Adversarial” Datasets](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682240042a88fa509e59378d_training%20icon.svg)
+
+Built and Trained on “Adversarial” Datasets
+
+We have a full time “Red Team” that is actively testing strategies to make undetectable AI content. Once they find a strategy (such as Paraphrase Plagiarism) that can create high quality[undetectable AI](https://originality.ai/blog/make-ai-writing-undetectable)generated text and bypass our AI content detector we improve our AI technology and make it detectable.
+
+![Image 85](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c50448e35f97c74725bb6_all%20apps%20icon.svg)
+Fact Checker Features
+
+## How Does Originality.ai’s Automated Fact Checker Work?
+
+![Image 86](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6913e8f37b5013da66e87993_heading%20bottom%20line.svg)
+
+[Originality.ai](https://originality.ai/) is the industry leader in [patented content quality tools.](https://originality.ai/blog/originality-ai-patent) The [Originality.ai](https://originality.ai/) Fact Checker is an internally built AI trained to provide factual answers, with context, sources, and citations. Not to mention it’s [highly accurate](https://originality.ai/blog/originality-ai-patent) with a superior edge over GPT-4o.
+
+[Sign up now›](https://app.originality.ai/signup)
+
+![Image 87: Edit](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68262420e0b3a7f420199dfb_Edit%20image.avif)
+
+1. Input Content
+
+Input your content, such as a blog, essay, paper, or other assignment. Conveniently copy-paste, upload a document, import from a URL, or use the API.
+
+![Image 88: Highlighting](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/69d9d87980fd90fb16375694_950bbd61b31b0f95a526c03b74e7aefe_Scan%20Entire%20Article.png)
+
+2. Scan an Entire Article
+
+Click to scan your entire document for factual accuracy. Then, review the Fact Check Score and the Potentially True or Potentially False facts.
+
+![Image 89: Highlighting](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6826242043b395cee2bcf07a_Highlighting%20image.avif)
+
+3. Review Sources & Get Citations
+
+Check the overall percentage of Potentially True or Potentially False facts and sources for each fact, then export the source as a citation (or the whole list of sources as a PDF bibliography).
+
+![Image 90: A Complete QA/QC Solution](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c58c8572e607a991de03d_QA%20solution%20image.avif)
+
+4. Organizational Fact Check Monitoring
+
+Mitigate the risk of publishing factually incorrect information across all of your organization’s content with [Bulk Scan](https://originality.ai/bulk-scan) for checking facts, potential AI content, and plagiarism.
+
+## Originality.ai is Built For…
+
+![Image 91: Marketers, Writers & Publishers ](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6820181e61501902f7884905_Web%20publisher.avif)
+
+Marketers, Writers & Publishers
+
+*   Transparently check for AI text to avoid[Google penalties](https://originality.ai/can-google-detect-penalize-ai-content)
+*   Maintain brand integrity
+*   [Bulk scan](https://originality.ai/bulk-scan) to understand AI usage site-wide
+*   Stay ahead with [Predictive SEO](https://originality.ai/blog/predictive-seo-content-optimization-accuracy)
+*   Check [factual accuracy](https://originality.ai/automated-fact-checker) (avoid AI hallucinations)
+*   [Detect plagiarism](https://originality.ai/plagiarism-checker) and duplicate content
+*   Streamline workflow with a [WordPress Plugin](https://originality.ai/wordpress-plugin)
+*   Create engaging people-first, human-written content that’s rank-worthy and [readable](https://originality.ai/readability-checker)
+
+[Scan your entire site with Originality.ai›](https://app.originality.ai/signup)
+
+![Image 92: Teachers & Students](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d4e88032412b489d3eb78e_Teachers%20%26%20Students.avif)
+
+Teachers & Students
+
+*   Uphold integrity and transparency across: assignments, essays, coursework, papers
+*   [Moodle Plugin](https://moodle.org/plugins/plagiarism_origai): easily check for AI content and plagiarism in Moodle LMS
+*   Peace of mind for students with a [Free Chrome Extension](https://chromewebstore.google.com/detail/ai-detector-and-human-wri/kdngfaamkbbkdbemejnlkmjfpmndjdmb) to ‘Watch a Writer Write’
+*   Deep Scan: See why text is flagged as AI + how to ethically edit it, so your work is identified as original (not AI)!
+
+[Check papers, assignments, & essays for AI›](https://app.originality.ai/signup)
+
+![Image 93: Agencies & Enterprise](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/698d69458f6681c1dd8b262e_Schools%20%26%20Enterprise%20image.avif)
+
+Agencies & Enterprise
+
+*   Manage client & writer expectations for AI use
+*   Integrate a process for AI detection, plagiarism checking, and factual accuracy at scale
+*   Streamline editorial processes across teams with team management and report sharing
+
+[Content QA that scales with your brand›](https://app.originality.ai/signup)
+
+![Image 94](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681be28955946af767fb4c36_integration%20icon.svg)
+Integrations: Extensions & Plugins
+
+## Works anywhere
+
+Seamlessly integrate our AI Checker into your favorite platforms like Chrome, WordPress, Moodle and more. Check for AI use without skipping a beat.
+
+[![Image 95](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681be1ea2906cbb26215c2d9_Chrome%20icon.svg) Chrome extensions](https://chromewebstore.google.com/detail/ai-detector-and-human-wri/kdngfaamkbbkdbemejnlkmjfpmndjdmb?pli=1)[![Image 96](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c63f47188a4ce6133bc24_Wordpress%20icon.svg) Wordpress plugin](https://originality.ai/wordpress-plugin)[![Image 97](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682019f03dc65fa89a37ed43_api%20icon.svg) API](https://docs.originality.ai/api-v2-0-new)[![Image 98](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d06548395a837cd50e2d6c_Moodle%20icon.webp) Moodle](https://moodle.org/plugins/plagiarism_origai)
+
+![Image 99: Works anywhere](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da0d77f15a31572805275e_Creative%20Integration.avif)
+
+## How to use Originality.ai
+
+![Image 100: Paste or Upload Text](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c63ed0a87fb46d8428a9a_Paste%20text%20image.avif)
+
+Step 1
+
+Paste or Upload Text
+
+Login to Originality.ai and paste your text into the editor. You may also upload a PDF or enter a URL for scanning.
+
+![Image 101: Select Scan Types](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681b25c5bc2a73f9e1272c07_Scan%20type%20image.avif)
+
+Step 2
+
+Select Scan Types
+
+Select your desired scan types like AI, Plagiarism, Content Optimization, Readability, Grammar OR Fact checker to scan your text against.
+
+![Image 102: Click Scan](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c63edc493cae99425e470_Click%20scan%20image.avif)
+
+Step 3
+
+Click Scan
+
+Click on the Scan button and get scores for each scan types with detailed explanations and sentence highlights wherever applicable.
+
+## Benefits of Our Free AI Detector Chrome Extension
+
+![Image 103: Check for AI Content on Any Website Quickly](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c544d194f3bfa17f39345_Quick%20scan%20image.avif)
+
+Quick scan
+
+Check for AI Content on Any Website Quickly
+
+With our Chrome Extension you can check any webpage to see if it is AI written text.
+
+![Image 104: Quickly Check Content Using our Copy/Paste Window](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c544d8a47d3c3b598b0f1_Easy%20copy%20paste%20image.avif)
+
+Easy copy paste
+
+Quickly Check Content Using our Copy/Paste Window
+
+Easy-to-use copy and paste text window: check content within any text editor or CMS (like Wordpress).
+
+![Image 105: Watch a Writer Write and Monitor for AI-generated copy](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6826116086222c1442712793_Chrome%20extension%20benefits.avif)
+
+Identify Copy Paste
+
+Watch a Writer Write
+
+Peace of mind for writers and students. Watch a writer write the entire document with a sped up behind the scenes look and shareable report.
+
+Document History
+
+Check Writing Activity by Author
+
+See a history of writing sessions (table & graph), durations, authors, and number of characters to verify if content is Original.
+
+![Image 106: See A Table & Graph Of Activity By the Author](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681be762b8f92b192dfb777b_Team%20management%20image.avif)
+
+![Image 107: See A Table & Graph Of Activity By the Author](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682d860ff4c40d48bdde6301_Document%20History%20image.avif)
+
+[![Image 108](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681be1ea2906cbb26215c2d9_Chrome%20icon.svg) Free AI Checker Chrome Extension](https://chromewebstore.google.com/detail/ai-detector-and-human-wri/kdngfaamkbbkdbemejnlkmjfpmndjdmb?pli=1)
+
+![Image 109](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c55f787bb89352192f3a3_private%20icon.svg)
+Features Our Enterprise and Education Customers Love
+
+## Security, Privacy, Controls & API
+
+![Image 110](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c5572d6cc2020aa66b5da_heading%20bottom%20line.svg)
+We understand the unique needs of high-volume web publishers, agencies, schools, and education institutions who need transparency at scale. Don’t risk the negative impacts of [Google search traffic dropping](https://originality.ai/can-google-detect-penalize-ai-content) or AI writing in student assignments.
+
+[Sign up now›](https://app.originality.ai/signup)
+
+![Image 111: Team Management](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c1d3ccfce39c196ace366_Team%20management%20card%20image.avif)
+
+Team Management
+
+Add, remove and monitor usage of your organization's users. Assign roles as Admin, Manager or User to limit individual ability to access the whole set of features.
+
+![Image 112: AI Checker API](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c1d3c8c4025a7157a341f_AI%20checker%20card%20image.avif)
+
+AI Checker API
+
+Reliable, Full-Featured, and Fast API Access. See the [AI detection API](https://docs.originality.ai/api-v2-0-new) your developers will love.
+
+![Image 113: Your Text is Encrypted](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c1d3ca690d69858946199_End%20to%20end%20image.avif)
+
+Your Text is Encrypted
+
+TLS 1.2 or higher is achieved with our end-to-end military grade 256 bit encryption. Your content is highly protected, even our back-end engineers can’t access it.
+
+![Image 114: Data Not Used in Training](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c1d3cd85257e145efa78a_Data%20opt%20out%20image.avif)
+
+Data Not Used in Training
+
+Optionally opt-in or opt-out of your data being used in future AI training.
+
+![Image 115: A Complete QA/QC Solution](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c58c8572e607a991de03d_QA%20solution%20image.avif)
+
+A Complete QA/QC Solution
+
+Get a full suite of QA/QC features from plagiarism checking to fact checking and readability. Publish with integrity.
+
+![Image 116: One-Click delete Scan History](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c58c8647e9c374df59c2a_Delete%20scan%20history%20image.avif)
+
+1-Click Delete Scan History
+
+Easily delete all your scan history in 1 click. Keep your scan and Originality reports history organized.
+
+![Image 117: Sentence Level Highlighting](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c58c855af4eedd4bfe2d6_Sentence%20Highlighting%20image.avif)
+
+Sentence Level Highlighting
+
+Our AI content detector will highlight sentences indicating the probability of whether or not each sentence was AI written or human written.
+
+![Image 118](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681b0b8f501b86ea837912af_Leading%20icon.svg)
+
+What Is the Best AI Detector Model for Your Needs?
+
+## Patented Industry Leading Models That Fit Your Use Case
+
+![Image 119](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681b10b064a06e570bc725b1_h2-bottom-line.svg)
+
+The use of AI in content writing is nuanced. We have models that are tuned to your specific use case. Whether you allow AI editing or want NO AI to get past your review we have a model that is optimized for your approach to AI text detection.
+
+![Image 120: Lite 1.0.1](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681b16be97c02e8d1a9a41f4_eba2ba6a5b29104700c04beabb3a2ace_Lite%201%20image.avif)
+
+For Writers & Editors
+
+Lite 1.0.2
+
+When you allow AI editing (think grammarly)
+
+*   99% accurate at detecting AI content.
+*   0.5% false positive rate.
+*   Allows for some light AI editing.
+
+*   Robust against humanizing methods.
+
+![Image 121: Lite 1.0.1](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681b16be97c02e8d1a9a41f4_eba2ba6a5b29104700c04beabb3a2ace_Lite%201%20image.avif)
+
+For Students & Teachers
+
+Academic
+
+Best for education use cases
+
+*   99%+ accurate at detecting AI content.
+*   <1% false positive rate.
+*   Detect AI in academic writing.
+*   Robust against humanizers.
+
+![Image 122: Multi Language](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c5c5f6341af04beb49b38_Lite%20image.avif)
+
+For Professionals
+
+Turbo
+
+Zero tolerance policy on use of AI
+
+*   99%+ accurate at detecting AI content.
+*   1.5% false positive rate.
+*   Robust against bypassing methods.
+*   Does not allow for AI editing.
+
+![Image 123: Multi Language](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c5c5f6341af04beb49b38_Lite%20image.avif)
+
+For Non-English Texts
+
+Multi Language
+
+Optimized for 30 Languages
+
+*   Including Spanish, Portuguese, French, German, Dutch, Arabic and many other languages.
+*   Removes language barriers globally.
+*   Automatically detects the language.
+
+![Image 124](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c658c40c429420c46ce0c_money%20icon.svg)
+## Flexible Pricing
+
+![Image 125](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681c6585ef21633b91cbad0a_heading%20bottom%20line.svg)
+Protect your reputation & improve your content quality by accurately detecting plagiarized content and artificially generated text.
+
+[See Originality.ai pricing›](https://originality.ai/pricing)
+
+Kityo Martin
+
+![Image 126](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681bc3873d8aebc45028ad58_5-star%20image.svg)
+
+Founder
+
+ClickingPublish.com
+
+At Clicking Publish, producing original, high-quality content is essential to our success. To maintain these standards, it's important that we verify the work from freelancers and outsourced writers.Originality.ai makes this process easy for us by providing a simple and efficient tool that ensures the content we receive meets our expectations.
+
+![Image 127: Flexible Pricing](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681bfe6eb41dc82eef68132c_Pricing%20cards.avif)
+
+## Key Originality.ai Features
+
+![Image 128: Factual Accuracy](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d4e87fcb60cddac9e38814_Factual%20Accuracy.avif)
+
+Factual Accuracy
+
+*   Real-time fact checking; check the latest facts (no training date cutoffs)
+*   Avoid AI hallucinations like the [AI book scandal](https://originality.ai/blog/ai-book-list-scandal)
+*   Save time with context and source links to verify facts fast
+
+*   More Accurate than GPT-5: Our fact checker outperformed existing LLMs in our latest testing
+
+[Is your content factually correct?›](https://app.originality.ai/signup)
+
+![Image 129: Plagiarism Checking](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d4e87fb4f63d41371e72eb_Plagiarism%20Checking.avif)
+
+Plagiarism Checking
+
+*   Identify global plagiarism with 99.5% accuracy
+*   Surpasses competitors like Copyscape, Grammarly and Turnitin
+*   Modern plagiarism detection
+
+*   Catch copy-paste and complex plagiarism types like paraphrase and patchwork
+
+*   Shareable report to prove that writing is original and authentic
+
+[Identify plagiarism in your text›](https://app.originality.ai/signup)
+
+![Image 130: Readability and Grammar Checking](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d4e87f6d700f0af62ec113_Readability%20and%20Grammar%20Checking.avif)
+
+Readability & Grammar Checking
+
+*   The popular “aim for Grade 8 readability” target is _wrong_. Our readability scores are based on a [modern study](https://originality.ai/blog/best-readability-score-to-rank-in-google) of what _actually_ ranks well in Google!
+*   Easily spot grammar and spelling issues and then refine copy in 1 click with ‘Fix issues’
+*   Scale grammar and spelling checks with an API
+
+[Write readable, grammatically correct text for your audience›](https://app.originality.ai/signup)
+
+## Customers love Originality.ai
+
+![Image 131: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Sam Saltis
+
+![Image 132](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 133](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 134](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 135](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 136](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+Originality is a great tool for detecting AI content. **The product has been invaluable for our content marketing team**. Fernanda and the team are always very responsive and helpful. Highly recommend this product.
+
+![Image 137: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Miguel Maloney Thompson
+
+![Image 138](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 139](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 140](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 141](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 142](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+**I have the opportunity to make sure that my writing is plagiarism-free**, and with a lot of AI-generated content around, I can ensure my writing does not get flagged as just another to the bunch.
+
+I do technical writing where there are only so many ways to describe concepts and ideas. However, **Originality.ai gives me the opportunity to personalize my writing even more**, which is an advantage. With some time, I can give my content a sense of uniqueness.
+
+![Image 143: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+John Kohn
+
+![Image 144](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 145](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 146](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 147](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 148](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+**Reliable and trustworthy**. Originality is always so quick to respond to my questions and lend a helping hand.**It’s a very good tool for detecting ChatGPT use on academic papers, especially with the "view writing" feature** which shows the text being typed by the student as they were typing it.
+
+![Image 149: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Stevie Lambert
+
+![Image 150](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 151](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 152](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 153](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 154](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+**AI is accurate** compared to free choices and the support staff like Ellie are very helpful. The interface is easy to use and **shows a % chance of the work being AI**. It’s also, nice that it shows what parts may be AI or not.
+
+![Image 155: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Aptidus
+
+![Image 156](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 157](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 158](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 159](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 160](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+**The service provided is exceptional, offering the most accurate and reliable AI detector available on the market**. The customer support team is exceptionally responsive.
+
+![Image 161: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Gbas gbos
+
+![Image 162](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 163](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 164](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 165](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 166](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+**Originality's AI checker and plagiarism detector are absolutely phenomenal**—by far the best I have used (yes, I used all of Winston, GPT zero, etc.). The Turbo model is CRAZY good!
+
+![Image 167: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Vivek Pandey
+
+![Image 168](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 169](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 170](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 171](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 172](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+There are lots of similar AI detection tools available online but **nothing comes even close to what they offer**. I can't trust any other tools other than theirs. Have tried maybe 20-30 other websites and settled with them.
+
+![Image 173: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Yanmin Wang
+
+![Image 174](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 175](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 176](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 177](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 178](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+I had an excellent experience with the support team at Originality.ai. They were **incredibly responsive** and provided clear, detailed answers to all my questions. The explanations were thorough, and I now have a much better understanding of how the platform works and how my content is handled.
+
+The team was patient and professional and **went above and beyond to ensure all my concerns were addressed**. I truly appreciate their help and the **top-notch customer service** they provide. Highly recommended!
+
+![Image 179: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Canadian Law Student
+
+![Image 180](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 181](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 182](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 183](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 184](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+**Originality.ai is the best tool on the market**. I have used comparable services and this one is exceptional. It provides an **accurate report with a match score**which really helps writers/researchers adjust and improve their work.
+
+There are also **advanced features such as paraphrase detection** which are not available with any other comparable service. The features provided by Originality.ai are **exceptional for users who want to avoid plagiarism and also improve their research process**. I hope to continue using Originality.ai for many years to come.
+
+![Image 185: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+John Willsdon
+
+![Image 186](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 187](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 188](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 189](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 190](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+This is a really helpful tool. Certainly **the best of the AI detectors** I tried. What makes it great is that you also get a bunch of other tools that are really helpful. The **fact checker is awesome**, it gives you feedback on whether or not points in your essay are factual or not by reading the source material in your citations.
+
+![Image 191: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Todd
+
+![Image 192](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 193](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 194](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 195](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 196](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+**I have been using this tool since the start!** And it has **saved me many times**. Many times when checking clients' sites the problem was AI content or plagiarism.
+
+![Image 197: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Chris Swanson
+
+![Image 198](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 199](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 200](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 201](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 202](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+**When I hire writers, I want 100% human-written content. I depend upon Originality.ai to check this for me**.
+
+![Image 203: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Dirk Berger
+
+![Image 204](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 205](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 206](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 207](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 208](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+Originality.ai saved me from making a big mistake. I have written a book with the help of ChatGPT, 40% of my work is AI; 60% is human. **It identified the AI, and now I am writing it all by myself. 88-100% human. Thank you Originality.ai**.
+
+![Image 209: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Rob McTavish
+
+![Image 210](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 211](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 212](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 213](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 214](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+I started to look for an easy tool to confirm my suspicions over some of the material being submitted by my students in first-year Communication courses. I found Originality.ai and tried it out. It worked so well that I actually tested it out with some material I created using AI as an example and sure enough,**it perfectly determined which was my work, what was totally AI-written, and what was edited AI material**.
+
+![Image 215: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Andrew Stevenson
+
+![Image 216](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 217](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 218](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 219](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 220](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+Originality.ai has been **remarkable in its ability to detect AI content**. The customer service is also incredible in how thorough and responsive they are. Highly recommend this program.
+
+![Image 221: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Pieter Steenkamp
+
+![Image 222](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 223](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 224](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 225](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 226](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+**I found Originality.ai to be the best AI detector. I use it for my student's assignments and recommend it to my colleagues.**
+
+![Image 227: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+JC Playz
+
+![Image 228](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 229](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 230](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 231](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 232](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+**Originality really lives up to the expectations, it's super reliable and has the best detector for AI.** Now I can understand why so many people use it such as professionals.
+
+![Image 233: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Trish McLean
+
+![Image 234](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 235](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 236](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 237](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 238](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+**Incredible experience. Excellent product.** Very easy to use, thorough and informative. Brady was incredibly helpful on the chat. He carefully checked my document to see why it had a high score for AI and then explained it to me. He provided individualized advice on how to move forward. Excellent! Thank you Brady.
+
+![Image 239: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Joseph Bereber
+
+![Image 240](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 241](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 242](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 243](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 244](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+Customer service is top-notch. Not only are they super accommodating, they are also super helpful. **The tools on Originality.ai are also incredibly accurate and very useful.** I've had nothing but positive experiences using this service.
+
+![Image 245: Peter Stuart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68e4b51690c96090c0dddfc6_Star.avif)
+
+Peter Stuart
+
+![Image 246](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 247](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 248](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 249](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)![Image 250](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68267104c0065d5441117397_Star%20image.svg)
+
+**Originality.ai is by far the best AI detector tool**. We have used other tools to detect AI in content but we have found that Originality.ai is by far the most accurate. This, combined with flexible payment plans to suit individual requirements and sharp customer support. Originality.ai is a no-brainer if you are looking for an AI detection solution.
+
+[View All Testimonials›](https://originality.ai/testimonials)
+
+## In the Press
+
+Featured by Leading Publications
+
+![Image 251: Stanford University](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da0196bb12e3904b0212d9_0c0b336e21c24c9a793d5e22a966cf8c_Stanford%20University.avif)![Image 252: Harvard University](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158cdab1558be5d6767a8_d8c9691c59d7e3927983f6bc8daa91b8_harvard.avif)![Image 253: Moodle](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da05391d086704a4e1e2f6_Moodle.svg)![Image 254: The Guardian](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6821588b7dd5bf3e5e52706d_1e59ddb44e6acf78c42101fab8e12afb_theguardian.avif)![Image 255: The New York Times](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68215886a375ea5e1aa3b112_5459b8b340fe01d6a56a7e873a5faf2c_thenyt.avif)![Image 256: Flippa](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6821587a42d40ea0c344ada0_86594be7243b05624d1dca5d1a5909ca_flippa.avif)![Image 257: Motion Invest](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68215880201a0eea0f5ac754_7251a18abe024b5045f40a9eb8b6e6fd_motioninvest.avif)![Image 258: Surfer](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68215893aa4076d7df551d1a_0f69eea46316eda7bc3c7b3ec4224893_surfer.avif)![Image 259: Dotdash meredith](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68215897603c679c285124b4_f527bb4318928e336066532f3dbbc1b7_dotdash.avif)![Image 260: GD](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158a5e5e7b8cecba250aa_16cbb7f73539af463559b3c6977e193d_gd.avif)![Image 261: Diggity Marketing](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158aad069b1dc6d4c72cb_4179310c79cda4741aa274e548b9856f_diggity.avif)![Image 262: Writeraccess](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158b7410727114afbcb41_4da97baccf810f931743acb46047286c_writeraccess.avif)![Image 263: GM](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158bdc77e2530a290b35b_2cb85a9132e5065fcea88453d7ca9210_gm.avif)![Image 264](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d9fd32d1167c4432cb2fde_gartner.svg)![Image 265: Alibaba.com](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158d218f3be0736527fa7_2e66f341b6ff20c4e1833bc9e112cd38_alibaba.avif)![Image 266](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da034264c36ce4b51734ee_Northeastern%20University.svg)![Image 267](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68ba7e6395718cff1ea1319e_Duke%20University.svg)![Image 268: Walmart](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158c25adcf3840a285d0e_8c7c83560b11902b34616bbd393ccc7c_walmart.avif)![Image 269: AT&T](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158c6e86c2903b2df2574_36aed5c2bbf632cee4db5367af53b14b_AT%26T.avif)![Image 270: AA](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158c9246767ccf17818eb_bca6ee296aef654868c6c62f77b5b138_AA.avif)![Image 271: ezoic](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d9fba616786469fed3b398_ezoic.avif)![Image 272: verblio](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d9fbddbf13bc56ff2cb46d_verblio.webp)![Image 273](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d9fd32b010df995f81964a_Composly.svg)![Image 274: RV](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da02c3da4cbf7e0a17c167_RV.avif)![Image 275](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d9fd32d3a94b98c52a2855_pensko.svg)![Image 276](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da0307bf13bc56ff2dac44_surge%20ai.svg)![Image 277: Flywheel](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da027a58f7d78bc3f9dd16_24c8f720b6ea6195b1d0138efcb090f5_Flywheel.webp)![Image 278](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da0238c9027aee8bf9928e_acquco.svg)![Image 279: Reuters](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/6821589cd069b1dc6d4c6e06_74f423b5f85fe209d824f606e8228965_reuters.avif)![Image 280: Business Insider](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158ae172a418ac8628baa_dadabf075025ffde97cdd4ab6b823a29_businessinsider.avif)![Image 281: Neil Patel](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/682158751372b038a394e85b_d5f81beac23d1d9dba8f62d7ed10f7ab_neilpatel.avif)![Image 282: Purdue University](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68d4eb6f055f20f58499fc7e_Purdue%20white.avif)![Image 283: UOP](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68da017d0c3e545bc1e8cfe7_UOP.avif)![Image 284: Boston College](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68ba8a1395718cff1ea3ad06_Boston%20logo%202.avif)
+
+![Image 285: CNN](https://cdn.prod.website-files.com/63ee996e404f640fa6b177c9/6826c1c64387dcc5d171501d_CNN%20image.svg)
+Jennifer Korn
+
+How companies are embracing generative AI for employees…or not
+
+Many prominent companies have entirely blocked internal ChatGPT use, including [JPMorgan Chase](https://www.cnn.com/2023/02/22/tech/jpmorgan-chatgpt-employees/index.html), Northrup Grumman, Apple, Verizon, Spotify and Accenture, according to AI content detector Originality.AI, with several citing privacy and security concerns.
+
+[Read the story ›](https://edition.cnn.com/2023/09/22/tech/generative-ai-corporate-policy/index.html)
+
+![Image 286: Politico](https://cdn.prod.website-files.com/63ee996e404f640fa6b177c9/6826c23bab8ee1fb86f9a009_Politico%20icon.svg)
+Ben Schreckinger
+
+AI vs. public opinion
+
+Originality.ai, a site that provides detection services for AI-generated content and plagiarism, published a [convenient tracker](https://originality.ai/blog/openai-chatgpt-lawsuit-list) that lists the 10 pending lawsuits against OpenAI and ChatGPT.
+
+[Read the story ›](https://www.politico.com/newsletters/digital-future-daily/2023/09/25/ai-vs-public-opinion-00118002)
+
+![Image 287: The Guardian](https://cdn.prod.website-files.com/63ee996e404f640fa6b177c9/6826c76b9e6c4e5f97c0aa7b_The%20Guardion.svg)
+Betsy Reed
+
+Mushroom pickers urged to avoid foraging books on Amazon that appear to be written by AI
+
+Four samples from the books were examined for the Guardian by Originality.ai, a US firm that detects AI content.
+
+[Read the story ›](https://www.theguardian.com/technology/2023/sep/01/mushroom-pickers-urged-to-avoid-foraging-books-on-amazon-that-appear-to-be-written-by-ai)
+
+![Image 288: The New York times](https://cdn.prod.website-files.com/63ee996e404f640fa6b177c9/6826c7e02a64b0f5e7a8a53f_thenyt.svg)
+Steven Lee Myers & Tiffany Hsu
+
+Another Side of the A.I. Boom: Detecting What A.I. Makes
+
+More than a dozen companies have popped up to offer services aimed at identifying whether photos, text and videos are made by humans or machines.
+
+[Read the story ›](https://www.nytimes.com/2023/05/18/technology/ai-chat-gpt-detection-tools.html)
+
+![Image 289: Financial Times](https://cdn.prod.website-files.com/63ee996e404f640fa6b177c9/6826c825dc5b8a3ac2f45f3b_Financial%20Times.svg)
+Generative AI: hype not hyperintelligence is lifting values
+
+Generative artificial intelligence could produce [magic in the sky](https://www.ft.com/content/dd9ba2f6-f509-42f0-8e97-4271c7b84ded), says Sam Altman founder of pioneering start-up OpenAI. Successful entrepreneurs are entitled to make visionary statements.
+
+[Read the story ›](https://www.ft.com/content/26d9f37b-bf22-4662-9fc8-1a1ae50011f3#comments-anchor)
+
+![Image 290: Axios](https://cdn.prod.website-files.com/63ee996e404f640fa6b177c9/68277978871118ea6b09e6bb_Axios%20logo.svg)
+Sara Fischer
+
+Major websites are blocking AI crawlers from accessing their content
+
+Nearly 20% of the top 1000 websites in the world are blocking crawler bots that gather web data for AI services, according to new data from [Originality.AI](https://originality.ai/ai-bot-blocking), an AI content detector.
+
+[Read the story ›](https://www.axios.com/2023/08/31/major-websites-are-blocking-ai-crawlers-from-accessing-their-content)
+
+![Image 291: Nature](https://cdn.prod.website-files.com/63ee996e404f640fa6b177c9/6827796429a360fa31f283b9_nature%20logo.svg)
+Andrea Taloni, Vincenzo Scorcia, and Giuseppe Giannaccare
+
+Modern threats in academia: evaluating plagiarism and artificial intelligence detection scores of ChatGPT
+
+Plagiarism and research integrity are sensitive issues in the academic setting, especially after the recent offspring of artificial intelligence (AI) and large language models (LLMs) such as GPT-4.0 [[1]](https://www.nature.com/articles/s41433-023-02678-7#ref-CR1).
+
+[Read the story ›](https://www.nature.com/articles/s41433-023-02678-7)
+
+![Image 292: Digiday](https://cdn.prod.website-files.com/63ee996e404f640fa6b177c9/68277949026b6a0660e193ba_Digiday%20logo.svg)
+Sara Guaglione
+
+Why publishers are questioning the effectiveness of blocking AI web crawlers
+
+A number of publishers — including Bloomberg and The New York Times — were quick to block OpenAI’s web crawler [from accessing their sites](https://digiday.com/media/wtf-is-openais-gptbot/), to protect their content from getting scraped and used to feed the artificial intelligence tech company’s large language models (LLMs).
+
+[Read the story ›](https://digiday.com/media/a-symbolic-gesture-publishers-question-the-effectiveness-of-blocking-ai-web-crawlers/)
+
+[View All Press›](https://originality.ai/press)
+
+## Frequently Asked Questions
+
+![Image 293](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681b2058f1a08c26aae9a581_h2-bottom-line3.svg)
+
+How accurate is the Fact-checker?
+
+![Image 294](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681d6e5783e01416ba0b5734_faq-icon.svg)
+
+We completed a [fact checker accuracy study](https://originality.ai/blog/ai-fact-checking-accuracy) looking at the accuracy of our Fact Checking aid. The results show an overall 86.69% accuracy. Originality.ai closely tied GPT-5 for accuracy, with a slight lead (Originality = 86.69% accuracy vs. GPT-5 = 86.67%), while decisively beating GPT-4o. However, the accuracy still means that the tool should be used as a fact checking aid and not viewed as the final source of truth.
+
+What kinds of facts can I check?
+
+![Image 295](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681d6e5783e01416ba0b5734_faq-icon.svg)
+
+Nearly everything! The fact has to be verifiable though, so for example you can’t check “Chocolate ice cream is the best flavour.” as this is an opinion which cannot be peer verified. Also, for now we are steering clear of anything political.
+
+Is it multilingual?
+
+![Image 296](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681d6e5783e01416ba0b5734_faq-icon.svg)
+
+In short, no. But watch this space for updates in the coming months!
+
+What is the source coverage for the Fact Checker and does it provide source citations?
+
+![Image 297](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681d6e5783e01416ba0b5734_faq-icon.svg)
+
+The Originality.ai Fact Checker has at least 1 source for every identified fact, each with a url, and now a title and date (if relevant). Plus, you can now generate a quick copy-pasteable citation in the style of your choice (APA, MLA, Chicago Notes and Bibliography, IEEE) for each individual search result source used by the Fact Scanner in its evaluation. Additionally, users can now generate a .docx or .txt file containing all the sources the Fact Scanner used in its scan.
+
+How does the Fact Checker work?
+
+![Image 298](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681d6e5783e01416ba0b5734_faq-icon.svg)
+
+In short the checker goes through the content per sentence, fetches relevant URLs, and uses their content and your article to verify your fact.
+
+Can I check recent information?
+
+![Image 299](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681d6e5783e01416ba0b5734_faq-icon.svg)
+
+Yes. Our fact-checker is internet-connected, allowing us to deliver results based on the latest information.
+
+What sources does the fact-checker use to verify information?
+
+![Image 300](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681d6e5783e01416ba0b5734_faq-icon.svg)
+
+The [Originality.ai](https://originality.ai/) Fact Checker has at least 1 source for every identified fact, each with a url, and now a title and date (if relevant). Plus, you can now generate a quick copy-pasteable citation in the style of your choice (APA, MLA, Chicago Notes and Bibliography, IEEE) for each individual search result source used by the Fact Scanner in its evaluation. Additionally, users can now generate a PDF bibliography of citations with all of the sources from the fact checking scan.
+
+Does the fact-checker store or share the information I input?
+
+![Image 301](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681d6e5783e01416ba0b5734_faq-icon.svg)
+
+We value user privacy and ensure data is handled with utmost security. All information concerning our privacy policy can be found here -[https://originality.ai/privacy-policy](https://originality.ai/privacy-policy)
+
+How is the accuracy of the fact-checker measured?
+
+![Image 302](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681d6e5783e01416ba0b5734_faq-icon.svg)
+
+We conducted an updated 2025 study on our fact checker’s accuracy. To find out how we measure fact checker accuracy, what datasets we used to evaluate the tool, and how Originality.ai compares to GPT-4o and GPT-5[read the full study](https://originality.ai/privacy-policy).
+
+Are there any costs associated with using the fact-checker?
+
+![Image 303](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681d6e5783e01416ba0b5734_faq-icon.svg)
+
+We offer various pricing options to suit different needs. All information concerning our pricing can be found here[https://originality.ai](https://originality.ai/)
+
+Can I submit feedback or corrections to the fact-checker?
+
+![Image 304](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/681d6e5783e01416ba0b5734_faq-icon.svg)
+
+Yes absolutely! We always love to hear ways in which we can improve,[contact our exceptional support team](https://originality.ai/contact-us)to provide feedback.
+
+[![Image 305: Originality | AI detector](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/63fe210426be5cd811593680_whitelogo-2x.webp)](https://originality.ai/automated-fact-checker#)
+
+AI & Plagiarism Detector for Serious Content Publishers
+
+[Trustpilot](https://www.trustpilot.com/review/originality.ai)
+
+Originality.ai
+
+64 Hurontario St
+
+Collingwood, Ontario
+
+L9Y 2L6
+
+![Image 306](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68774b8ae218043445f457e3_VISA.svg)![Image 307](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/687749c6116d10cd7e93d90f_Mastercard.svg)![Image 308](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/687749c4d0e43d4d405b5dd4_American%20Express.svg)![Image 309](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/687749c4c1ffc90fe02918cc_apple-pay.webp)![Image 310](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68774d01705418d266a240a6_Google%20Pay%20icon.svg)![Image 311](https://cdn.prod.website-files.com/63ee996e404f6475c7b177b3/68774c43163cd559639c74a9_Link%20logo.svg)
+
+[](https://twitter.com/aioriginality)[](https://www.linkedin.com/company/originality-ai)[](https://www.tiktok.com/@originality.ai)[](https://www.youtube.com/channel/UCv2aM3LvdQDL5uVH8qdhtxw)[](https://www.facebook.com/groups/5519865934778966/)
+
+[Download our Chrome Extension](https://chromewebstore.google.com/detail/ai-detector-and-human-wri/kdngfaamkbbkdbemejnlkmjfpmndjdmb)[Download our WordPress Plugin](https://wordpress.org/plugins/originality-ai/)
+
+##### Tools
+
+[AI Checker](https://originality.ai/)[Fact Checker](https://originality.ai/automated-fact-checker)[Plagiarism Detection](https://originality.ai/plagiarism-checker)[Readability Checker](https://originality.ai/readability-checker)[Grammar Checker](https://originality.ai/grammar-checker)[Site Scan](https://originality.ai/site-scan)[Content Optimizer](https://originality.ai/content-optimizer)[Free AI Tools](https://originality.ai/free-tools)
+
+##### KNOWLEDGE BASE
+
+[API Documentation](https://docs.originality.ai/)[Detection Score Meaning](https://originality.ai/blog/score-meaning)[Detection Score Accuracy](https://originality.ai/blog/ai-accuracy)[Does AI Detection Work?](https://originality.ai/blog/how-does-ai-content-detection-work)[Does Google Detect AI?](https://originality.ai/can-google-detect-penalize-ai-content)[AI in Google SERP](https://originality.ai/ai-content-in-google-search-results)[Managing False Positives](https://originality.ai/blog/ai-content-detector-false-positives)[Fact-Checking Accuracy](https://originality.ai/blog/ai-fact-checking-accuracy)[Content Optimization Accuracy Study](https://originality.ai/blog/predictive-seo-content-optimization-accuracy)[Originality.ai Patent](https://originality.ai/blog/originality-ai-patent)[Support](https://help.originality.ai/en/)[System Status](https://status.originality.ai/)
+
+##### Company
+
+[Press](https://originality.ai/press)[Testimonials](https://originality.ai/testimonials)[Blog](https://originality.ai/blog)[Case Studies](https://originality.ai/categories/case-studies)[AI Studies](https://originality.ai/categories/ai-studies)[Privacy Policy](https://originality.ai/privacy-policy)[Terms and Conditions](https://originality.ai/terms-and-conditions)[Refund Policy](https://originality.ai/refund-policy)[Affiliates](https://originality.ai/affiliates)[Contact](https://originality.ai/contact-us)[About Us](https://originality.ai/about)
+© 0000[Originality.ai](https://originality.ai/)

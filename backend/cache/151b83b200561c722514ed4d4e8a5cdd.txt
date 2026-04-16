@@ -1,0 +1,428 @@
+Title: Market Sizing
+
+URL Source: https://www.wallstreetprep.com/knowledge/market-sizing/
+
+Published Time: 2022-07-05T15:47:20-04:00
+
+Markdown Content:
+# Market Sizing | Formula + Calculator
+![Image 4: background](blob:http://localhost/2ae4cf0a8557682a62e562fa2b78188e)
+
+**Welcome to Wall Street Prep!** Use code  at checkout for 15% off. 
+
+**WSP Certificates with  Columbia & Wharton  Certificates  Now Open! Now Open:**
+
+[AI in Finance](https://wallstreetprep.business.columbia.edu/ai-certification/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=bannerAnnouncement)•[Private Equity](https://wallstreetprep.wharton.upenn.edu/pe-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=bannerAnnouncement)•[FP&A](https://wallstreetprep.wharton.upenn.edu/financial-planning-and-analysis-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=bannerAnnouncement)•
+
+[Real Estate](https://wallstreetprep.wharton.upenn.edu/real-estate-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=bannerAnnouncement)•[Restructuring](https://wallstreetprep.wharton.upenn.edu/restructuring-distressed-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=bannerAnnouncement)•[Value Investing](https://wallstreetprep.wharton.upenn.edu/applied-value-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=bannerAnnouncement)
+
+[](https://gv142.infusionsoft.com/app/manageCart/showManageOrder)
+
+*   [![Image 5: Wall street prep logo](https://media.wallstreetprep.com/wspimage/wsp-logo-reverse.svg)](https://www.wallstreetprep.com/)
+*   [Self-Study](https://www.wallstreetprep.com/programs/)**Financial Modeling Packages**[Premium Package _Most Popular_](https://www.wallstreetprep.com/self-study-programs/premium-package/)[Basic Package](https://www.wallstreetprep.com/self-study-programs/basic-package/) **Industry-Specific Modeling**[Project Finance Modeling](https://www.wallstreetprep.com/self-study-programs/the-ultimate-project-finance-modeling-package/)[Bank & FIG Modeling](https://www.wallstreetprep.com/self-study-programs/bank-and-fig-modeling/)[Oil & Gas Modeling](https://www.wallstreetprep.com/self-study-programs/oil-and-gas-modeling/)[The Impact of Tax Reform on Financial Modeling](https://www.wallstreetprep.com/self-study-programs/the-impact-of-tcja-on-financial-models/)[Biotech Sum of the Parts Valuation](https://www.wallstreetprep.com/self-study-programs/biotech-sotp-valuation/) **Restructuring**[Corporate Restructuring](https://www.wallstreetprep.com/self-study-programs/corporate-restructuring/)[The 13-Week Cash Flow Model](https://www.wallstreetprep.com/self-study-programs/13-week-cash-flow-model/) **Private Equity & VC**[Private Equity Masterclass](https://www.wallstreetprep.com/self-study-programs/private-equity-masterclass/)[Venture Capital Masterclass](https://www.wallstreetprep.com/self-study-programs/venture-capital-masterclass/)[Private Equity Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/pe-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Equity Research**[Sell-Side Equity Research (ERC©)](https://www.wallstreetprep.com/self-study-programs/sell-side-equity-research-certification/)[Buy-Side Financial Modeling](https://www.wallstreetprep.com/self-study-programs/buy-side-financial-modeling/)[Applied Value Investing Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/applied-value-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Productivity & Data Analysis**[Excel Crash Course](https://www.wallstreetprep.com/self-study-programs/excel-crash-course/)[PowerPoint Crash Course](https://www.wallstreetprep.com/self-study-programs/powerpoint-crashcourse/)[Ultimate Excel VBA Course](https://www.wallstreetprep.com/self-study-programs/the-ultimate-excel-vba-course/) **Real Estate**[Real Estate Financial Modeling](https://www.wallstreetprep.com/self-study-programs/real-estate-financial-modeling/)[REIT Modeling](https://www.wallstreetprep.com/self-study-programs/real-estate-modeling/)[Real Estate Investing Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/real-estate-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **AI for Business & Finance**[AI Certificate (w/ Columbia Business School Exec Ed)](https://wallstreetprep.business.columbia.edu/ai-certification/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Accounting, Finance & Credit**[Accounting Crash Course](https://www.wallstreetprep.com/self-study-programs/accounting-crash-course/)[Advanced Accounting](https://www.wallstreetprep.com/self-study-programs/advanced-accounting/)[Crash Course in Bonds](https://www.wallstreetprep.com/self-study-programs/crash-course-in-bonds/)[Analyzing Financial Reports](https://www.wallstreetprep.com/self-study-programs/analyzing-financial-reports/)[Interpreting Non-GAAP Reports](https://www.wallstreetprep.com/self-study-programs/interpreting-non-gaap-reports/) **FP&A**[FP&A Modeling](https://www.wallstreetprep.com/self-study-programs/financial-planning-and-analysis-modeling-certification/)[FP&A Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/financial-planning-and-analysis-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Markets • Sales & Trading**[Fixed Income Markets (FIMC©)](https://www.wallstreetprep.com/self-study-programs/fixed-income-markets-certification-program/)[Equities Markets (EMC©)](https://www.wallstreetprep.com/self-study-programs/equities-markets-certification-program/)[ESG Investing](https://www.wallstreetprep.com/self-study-programs/esg-investing-green-bonds-and-social-bonds/) **Investment Banking Interview**[Networking & Behavioral Interview](https://www.wallstreetprep.com/self-study-programs/the-blue-book/)[1000 IB Interview Questions](https://www.wallstreetprep.com/self-study-programs/the-red-book/) **Professional Skills**[Investment Banking "Soft Skills"](https://www.wallstreetprep.com/self-study-programs/investment-banking-soft-skills/)  **Financial Modeling Packages**[Premium Package _Most Popular_](https://www.wallstreetprep.com/self-study-programs/premium-package/)[Basic Package](https://www.wallstreetprep.com/self-study-programs/basic-package/) **Industry-Specific Modeling**[Project Finance Modeling](https://www.wallstreetprep.com/self-study-programs/the-ultimate-project-finance-modeling-package/)[Bank & FIG Modeling](https://www.wallstreetprep.com/self-study-programs/bank-and-fig-modeling/)[Oil & Gas Modeling](https://www.wallstreetprep.com/self-study-programs/oil-and-gas-modeling/)[The Impact of Tax Reform on Financial Modeling](https://www.wallstreetprep.com/self-study-programs/the-impact-of-tcja-on-financial-models/)[Biotech Sum of the Parts Valuation](https://www.wallstreetprep.com/self-study-programs/biotech-sotp-valuation/) **Productivity & Data Analysis**[Excel Crash Course](https://www.wallstreetprep.com/self-study-programs/excel-crash-course/)[PowerPoint Crash Course](https://www.wallstreetprep.com/self-study-programs/powerpoint-crashcourse/)[Ultimate Excel VBA Course](https://www.wallstreetprep.com/self-study-programs/the-ultimate-excel-vba-course/) **Restructuring**[Corporate Restructuring](https://www.wallstreetprep.com/self-study-programs/corporate-restructuring/)[The 13-Week Cash Flow Model](https://www.wallstreetprep.com/self-study-programs/13-week-cash-flow-model/) **Private Equity & VC**[Private Equity Masterclass](https://www.wallstreetprep.com/self-study-programs/private-equity-masterclass/)[Venture Capital Masterclass](https://www.wallstreetprep.com/self-study-programs/venture-capital-masterclass/)[Private Equity Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/pe-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Equity Research**[Sell-Side Equity Research (ERC©)](https://www.wallstreetprep.com/self-study-programs/sell-side-equity-research-certification/)[Buy-Side Financial Modeling](https://www.wallstreetprep.com/self-study-programs/buy-side-financial-modeling/)[Value Investing Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/applied-value-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Markets • Sales & Trading**[Fixed Income Markets (FIMC©)](https://www.wallstreetprep.com/self-study-programs/fixed-income-markets-certification-program/)[Equities Markets (EMC©)](https://www.wallstreetprep.com/self-study-programs/equities-markets-certification-program/)[ESG Investing](https://www.wallstreetprep.com/self-study-programs/esg-investing-green-bonds-and-social-bonds/) **IB Interview & Soft Skills**[Networking & Behavioral Interview](https://www.wallstreetprep.com/self-study-programs/the-blue-book/)[1000 IB Interview Questions](https://www.wallstreetprep.com/self-study-programs/the-red-book/)[Investment Banking "Soft Skills"](https://www.wallstreetprep.com/self-study-programs/investment-banking-soft-skills/) **Real Estate**[Real Estate Financial Modeling](https://www.wallstreetprep.com/self-study-programs/real-estate-financial-modeling/)[REIT Modeling](https://www.wallstreetprep.com/self-study-programs/real-estate-modeling/)[Real Estate Investing Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/real-estate-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **FP&A**[FP&A Modeling](https://www.wallstreetprep.com/self-study-programs/financial-planning-and-analysis-modeling-certification/)[FP&A Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/financial-planning-and-analysis-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **AI for Business & Finance**[AI for Finance Certificate (w/ Columbia Business School Exec Ed)](https://wallstreetprep.business.columbia.edu/ai-certification/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Accounting, Finance & Credit**[Accounting Crash Course](https://www.wallstreetprep.com/self-study-programs/accounting-crash-course/)[Advanced Accounting](https://www.wallstreetprep.com/self-study-programs/advanced-accounting/)[Crash Course in Bonds](https://www.wallstreetprep.com/self-study-programs/crash-course-in-bonds/)[Analyzing Financial Reports](https://www.wallstreetprep.com/self-study-programs/analyzing-financial-reports/)[Interpreting Non-GAAP Reports](https://www.wallstreetprep.com/self-study-programs/interpreting-non-gaap-reports/)  [View All Courses](https://www.wallstreetprep.com/programs/)  
+*   [Boot Camps](https://www.wallstreetprep.com/public-courses/)
+*   [Private Coaching](https://www.wallstreetprep.com/coaching/)
+*   [Corporate](https://www.wallstreetprep.com/corporate/)
+*   [University](https://www.wallstreetprep.com/on-campus-training/)
+*   [Free Content](https://www.wallstreetprep.com/free-resources/)
+
+*     
+*   [](https://gv142.infusionsoft.com/app/manageCart/showManageOrder)
+*   [Login](https://www.wallstreetprep.com/member-login/)
+
+Technical Skills
+
+*   [Accounting & Finance](https://www.wallstreetprep.com/topics/accounting/)
+*   [Excel](https://www.wallstreetprep.com/topics/excel/)
+*   [Financial Modeling, M&A, LBO & Valuation](https://www.wallstreetprep.com/topics/financial-modeling/)
+
+Careers & Industries
+
+*   [Investment Banking](https://www.wallstreetprep.com/topics/investment-banking/)
+*   [Private Equity](https://www.wallstreetprep.com/topics/private-equity/)
+*   [Valuation](https://www.wallstreetprep.com/topics/valuation/)
+*   [Venture Capital](https://www.wallstreetprep.com/topics/venture-capital/)
+*   [Interview Prep](https://www.wallstreetprep.com/topics/interview-prep/)
+
+[View all Free Content](https://www.wallstreetprep.com/free-resources/)
+
+Most-Viewed Content
+
+[The Ultimate Guide to Modeling Best Practices](https://www.wallstreetprep.com/knowledge/financial-modeling/)[The 100+ Excel Shortcuts You Need to Know, for Windows and Mac](https://www.wallstreetprep.com/knowledge/excel-shortcuts/)[Common Finance Interview Questions (and Answers)](https://www.wallstreetprep.com/knowledge/finance-interview-questions-and-answers/)[Investment Banking Analyst Salary Guide](https://www.wallstreetprep.com/knowledge/investment-banking-analyst-salary-guide/)[Investment Banking Career Paths](https://www.wallstreetprep.com/knowledge/investment-banking-careers/)[What is Investment Banking? An Industry Overview](https://www.wallstreetprep.com/knowledge/investment-banking/)
+
+[![Image 6: Wall street prep logo](https://media.wallstreetprep.com/wspimage/wsp-logo-full.svg)](https://www.wallstreetprep.com/)
+*   [Login](https://www.wallstreetprep.com/member-login/)
+*    Self-Study Courses 
+    *   [All Self-Study Programs](https://www.wallstreetprep.com/programs/)
+    *    Financial Modeling Packages 
+        *   [Premium Package](https://www.wallstreetprep.com/self-study-programs/premium-package/)
+        *   [Basic Package](https://www.wallstreetprep.com/self-study-programs/basic-package/)
+
+    *    Private Equity & VC 
+        *   [Private Equity Masterclass](https://www.wallstreetprep.com/self-study-programs/private-equity-masterclass/)
+        *   [Venture Capital Masterclass](https://www.wallstreetprep.com/self-study-programs/venture-capital-masterclass/)
+        *   [Private Equity Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/pe-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav)
+
+    *    Equity Research 
+        *   [Sell-Side Equity Research (ERC©)](https://www.wallstreetprep.com/self-study-programs/sell-side-equity-research-certification/)
+        *   [Buy-Side Financial Modeling](https://www.wallstreetprep.com/self-study-programs/buy-side-financial-modeling/)
+        *   [Applied Value Investing Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/applied-value-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav)
+
+    *    Real Estate 
+        *   [Real Estate Financial Modeling](https://www.wallstreetprep.com/self-study-programs/real-estate-financial-modeling/)
+        *   [REIT Modeling](https://www.wallstreetprep.com/self-study-programs/real-estate-modeling/)
+        *   [Real Estate Investing Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/real-estate-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav)
+
+    *    FP&A 
+        *   [FP&A Modeling](https://www.wallstreetprep.com/self-study-programs/financial-planning-and-analysis-modeling-certification/)
+        *   [FP&A Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/financial-planning-and-analysis-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav)
+
+    *    AI for Business & Finance 
+        *   [AI for Finance Certificate (w/ Columbia Business School Exec Ed)](https://wallstreetprep.business.columbia.edu/ai-certification/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav)
+
+    *    Industry-Specific Modeling 
+        *   [FP&A Modeling (CFPAM™)](https://www.wallstreetprep.com/self-study-programs/financial-planning-and-analysis-modeling-certification/)
+        *   [Project Finance Modeling](https://www.wallstreetprep.com/self-study-programs/the-ultimate-project-finance-modeling-package/)
+        *   [Bank & FIG Modeling](https://www.wallstreetprep.com/self-study-programs/bank-and-fig-modeling/)
+        *   [Oil & Gas Modeling](https://www.wallstreetprep.com/self-study-programs/oil-and-gas-modeling/)
+        *   [Biotech Sum of the Parts Valuation](https://www.wallstreetprep.com/self-study-programs/biotech-sotp-valuation/)
+        *   [The Impact of Tax Reform on Financial Modeling](https://www.wallstreetprep.com/self-study-programs/the-impact-of-tcja-on-financial-models/)
+
+    *    Restructuring 
+        *   [Corporate Restructuring](https://www.wallstreetprep.com/self-study-programs/corporate-restructuring/)
+        *   [The 13-Week Cash Flow Model](https://www.wallstreetprep.com/self-study-programs/13-week-cash-flow-model/)
+
+    *    Accounting, Finance & Credit 
+        *   [Accounting Crash Course](https://www.wallstreetprep.com/self-study-programs/accounting-crash-course/)
+        *   [Advanced Accounting](https://www.wallstreetprep.com/self-study-programs/advanced-accounting/)
+        *   [Crash Course in Bonds](https://www.wallstreetprep.com/self-study-programs/crash-course-in-bonds/)
+        *   [Analyzing Financial Reports](https://www.wallstreetprep.com/self-study-programs/analyzing-financial-reports/)
+        *   [Interpreting Non-GAAP Reports](https://www.wallstreetprep.com/self-study-programs/interpreting-non-gaap-reports/)
+
+    *    Markets • Sales & Trading 
+        *   [Fixed Income Markets (FIMC©)](https://www.wallstreetprep.com/self-study-programs/fixed-income-markets-certification-program/)
+        *   [Equities Markets Certification (EMC©)](https://www.wallstreetprep.com/self-study-programs/equities-markets-certification-program/)
+        *   [ESG Investing](https://www.wallstreetprep.com/self-study-programs/esg-investing-green-bonds-and-social-bonds/)
+
+    *    Productivity & Data Analysis 
+        *   [Excel Crash Course](https://www.wallstreetprep.com/self-study-programs/excel-crash-course/)
+        *   [PowerPoint Crash Course](https://www.wallstreetprep.com/self-study-programs/powerpoint-crashcourse/)
+        *   [Ultimate Excel VBA Course](https://www.wallstreetprep.com/self-study-programs/the-ultimate-excel-vba-course/)
+
+    *    IB Interview Prep & Soft Skills 
+        *   [Networking & Behavioral Interview](https://www.wallstreetprep.com/self-study-programs/the-blue-book/)
+        *   [1000 Investment Banking Interview Questions](https://www.wallstreetprep.com/self-study-programs/the-red-book/)
+        *   [Investment Banking "Soft Skills"](https://www.wallstreetprep.com/self-study-programs/investment-banking-soft-skills/)
+
+*   [Virtual Boot Camps](https://www.wallstreetprep.com/public-courses/)
+*   [Private Coaching](https://www.wallstreetprep.com/coaching/)
+*   [Corporate Training](https://www.wallstreetprep.com/corporate/)
+*   [University Training](https://www.wallstreetprep.com/on-campus-training/)
+*   [Free Content](https://www.wallstreetprep.com/free-resources/)
+*   [Support/Contact Us](https://www.wallstreetprep.com/support/)
+*   [About Wall Street Prep](https://www.wallstreetprep.com/about/)
+
+*   [Resources](https://www.wallstreetprep.com/free-resources/)
+*   [Venture Capital](https://www.wallstreetprep.com/topics/venture-capital/)
+*    Market Sizing 
+
+# Market Sizing
+
+Step-by-Step Guide to Understanding Market Sizing (TAM Analysis)
+
+Updated Sep. 17, 2024 
+
+5m Read Time
+
+ Part of the Guide On... 
+
+ Forecasting  Part of the Guide On: 
+
+ Forecasting 
+
+ Financial Forecasting Core Concepts 
+
+[Bottom Up Forecasting](https://www.wallstreetprep.com/knowledge/bottom-up-forecasting/)[Top Down Forecasting](https://www.wallstreetprep.com/knowledge/top-down-forecasting/)
+
+ Bottom Up Forecast (Unit Economics) 
+
+[Average Revenue Per User (ARPU)](https://www.wallstreetprep.com/knowledge/arpu-average-revenue-per-user/)[Average Selling Price (ASP)](https://www.wallstreetprep.com/knowledge/average-selling-price-asp/)[Repeat Purchase Rate](https://www.wallstreetprep.com/knowledge/repeat-purchase-rate/)[Cash Flow Drivers](https://www.wallstreetprep.com/knowledge/cash-flow-drivers/)[Markup Price](https://www.wallstreetprep.com/knowledge/markup/)[Markup Percentage](https://www.wallstreetprep.com/knowledge/markup-percentage/)[Utilization Rate](https://www.wallstreetprep.com/knowledge/utilization-rate/)[Full Time Equivalent (FTE)](https://www.wallstreetprep.com/knowledge/fte-full-time-equivalent/)[Same-Store Sales](https://www.wallstreetprep.com/knowledge/same-store-sales/)[Total Payment Volume (TPV)](https://www.wallstreetprep.com/knowledge/total-payment-volume-tpv/)
+
+ Top Down Forecast (TAM Sizing) 
+
+[Total Addressable Market (TAM)](https://www.wallstreetprep.com/knowledge/total-addressable-market-tam/)Market Sizing[Take Rate](https://www.wallstreetprep.com/knowledge/take-rate/)[Market Penetration](https://www.wallstreetprep.com/knowledge/market-penetration-rate/)[Market Share](https://www.wallstreetprep.com/knowledge/market-share/)
+
+Table of Contents
+
+1.   [What is Market Sizing?](https://www.wallstreetprep.com/knowledge/market-sizing/#h2_1)
+2.   [How to Perform Market Sizing](https://www.wallstreetprep.com/knowledge/market-sizing/#h2_2)
+3.   [TAM vs. SAM vs. SOM: What is the Difference?](https://www.wallstreetprep.com/knowledge/market-sizing/#h2_3)
+4.   [Market Sizing Formula](https://www.wallstreetprep.com/knowledge/market-sizing/#h2_4)
+5.   [Market Sizing Calculator](https://www.wallstreetprep.com/knowledge/market-sizing/#h2_5)
+6.   [1. SaaS Market Sizing Calculation Example](https://www.wallstreetprep.com/knowledge/market-sizing/#h2_6)
+7.   [2. Top-Down Market Sizing Build](https://www.wallstreetprep.com/knowledge/market-sizing/#h2_7)
+8.   [3. TAM Market Sizing Analysis](https://www.wallstreetprep.com/knowledge/market-sizing/#h2_8)
+
+## What is Market Sizing?
+
+**Market Sizing** is a top-down forecasting method for estimating a product’s total addressable market (TAM) and revenue opportunity.
+
+The process of estimating the market size requires informed assumptions leveraging internal company data, industry reports, and customer analysis among various data sets to quantify the revenue opportunity that pertains to a particular market (or sub-market).
+
+![Image 7: Market Sizing](https://media.wallstreetprep.com/uploads/2022/07/12094805/Market-Sizing-Formula-960x382.jpg)
+
+## How to Perform Market Sizing
+
+The total addressable market ([TAM](https://www.wallstreetprep.com/knowledge/total-addressable-market-tam/)) represents the entire [revenue](https://www.wallstreetprep.com/knowledge/net-revenue/) opportunity present within a particular market, which is a function of customer demand and the [pricing](https://www.wallstreetprep.com/knowledge/pricing-power/) of a given product or service.
+
+Upon establishing the revenue opportunity from selling a specific product or service, the company can then decide whether to enter a particular market.
+
+In the absence of sufficient customer demand and revenue potential, most companies would be deterred from entering a given market.
+
+While all market sizing exercises are “ballpark” estimate figures, the process of taking a high-level view of the market landscape and segmenting customers into unique profiles can still be very insightful.
+
+Note that the size of a market can be estimated via the bottom-up approach as well. However, the top-down approach tends to be more common because of the ease of arriving at an approximate market size.
+
+In particular, the top-down build is most applicable for early-stage to growth-stage companies, where the unit economics (or operating drivers) are not yet reliable enough for a bottom-up build to be applied.
+
+The quality of a bottom-up build to size a market is contingent on the underlying assumptions that drive the [pro forma](https://www.wallstreetprep.com/knowledge/pro-forma-financial-statements/) forecast (i.e. “garbage in, garbage out”).
+
+Therefore, the bottom-up method of market sizing is more appropriate for established, mature companies, whereas the top-down method can be used for companies across the entire lifecycle — from early-stage startups to late-stage, mature companies.
+
+## TAM vs. SAM vs. SOM: What is the Difference?
+
+The [total addressable market (TAM)](https://www.wallstreetprep.com/knowledge/total-addressable-market-tam/) can be further broken down into 1) the serviceable addressable market (SAM) and 2) the serviceable obtainable market (SOM).
+
+*   **Total Addressable Market (TAM) ➝** The TAM is an all-inclusive, “birds-eye” view of the entire market (and representative of the total revenue potential).
+*   **Serviceable Available Market (SAM) ➝** The SAM refers to the proportion of customers counted in a company’s TAM that actually need its products or services.
+*   **Serviceable Obtainable Market (SOM) ➝** The SOM is the company’s current market share that accounts for the proportion of its SAM that can realistically be captured across the forecast period alongside the [growth](https://www.wallstreetprep.com/knowledge/growth-rate/) of the overall market. The implicit assumption here is that the company can retain its current market share percentage in the foreseeable future.
+
+Therefore, the sequence of steps illustrates how we’ll start with the broadest potential revenue value (TAM) and subsequently reduce the potential revenue figure based on the company and customer profile before applying more granular market assumptions to arrive at the SOM.
+
+Based on the market size data points, we can estimate the number of potential customers that could be acquired. Furthermore, the [market value](https://www.wallstreetprep.com/knowledge/market-value/) of a company is, in part, a function of the total number of existing and potential customers.
+
+Why? The market value per share—or stock price of a company—is a forward-looking measure, so companies with more upside potential tend to fetch higher valuations in the public equities market (and the same applies to the private market).
+
+Continue Reading Below
+
+### The Wharton Online
+
+ and Wall Street Prep Private Equity Certificate Program
+
+Level up your career with the world's most recognized private [equity](https://www.wallstreetprep.com/knowledge/equity-value/) investing program. Enrollment is open for the upcoming cohort.
+
+[Enroll Today](https://wallstreetprep.wharton.upenn.edu/pe-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=articleVideoAd)
+
+## Market Sizing Formula
+
+In order to calculate the total addressable market (TAM), the total number of potential customers is multiplied by a pricing metric.
+
+For instance, the pricing metric could be the [average order value (AOV)](https://www.wallstreetprep.com/knowledge/average-order-value-aov/), [annual contract value (ACV)](https://www.wallstreetprep.com/knowledge/annual-contract-value-acv/), [average selling price (ASP)](https://www.wallstreetprep.com/knowledge/average-selling-price-asp/), or other similar metrics.
+
+Further, the pricing terms are typically tier-based, so it is recommended to segment the customers by type, e.g. small and mid-sized enterprises (SMEs) vs. large enterprises.
+
+In the SaaS industry, one formula for calculating market size is to multiply the total number of customers by the average contract value ([ACV](https://www.wallstreetprep.com/knowledge/annual-contract-value-acv/)).
+
+**Total Addressable Market (TAM) =**Total Number of Customers**×**[Annual Contract Value (ACV)](https://www.wallstreetprep.com/knowledge/annual-contract-value-acv/)
+
+Where:
+
+*   Total Number of Customers ➝ Estimated Number of Customers (Potential + Existing Customers)
+*   Annual Contract Value (ACV) ➝ Normalized Total Contract Value (TCV) ÷ Contract Term (Length)
+
+## Market Sizing Calculator
+
+We’ll now move to a modeling exercise, which you can access by filling out the form below.
+
+First Name* 
+
+Last Name* 
+
+Email* 
+
+WSP_last_form_interest 
+
+WSP_last_form_completed_action 
+
+WSP_last_form_completed_page_name 
+
+WSP_last_form_completed_page_url 
+
+WSP_last_form_completed_datetime 
+
+WSP_last_form_completed_file_url 
+
+WSP_last_form_completed_file_name 
+
+wsp_last_form_ft_utm_campaign 
+
+wsp_last_form_ft_utm_content 
+
+wsp_last_form_ft_utm_medium 
+
+wsp_last_form_ft_utm_source 
+
+wsp_last_form_lt_utm_content 
+
+wsp_last_form_lt_utm_campaign 
+
+wsp_last_form_lt_utm_medium 
+
+wsp_last_form_lt_utm_source 
+
+## 1. SaaS Market Sizing Calculation Example
+
+Suppose a B2B SaaS company is performing a market sizing analysis to determine its revenue potential in the near future.
+
+Currently, the company serves two types of customers, which are segmented by size.
+
+Total Addressable Customers
+
+*   Small and Mid-Sized Enterprise (SME) = 2,500 Customers
+*   Large Enterprise = 200 Customers
+
+For the next five years, we’ll assume that the [growth rate](https://www.wallstreetprep.com/knowledge/growth-rate/) for SME customers will be 5% and the growth rate for large enterprises will be 2%.
+
+From 2021 to 2026, the total number of addressable customers has increased from 2,700 to 3,412.
+
+Regarding the pricing, the annual contract value (ACV) of SMEs is $50k, whereas the ACV of large enterprises is $400k per year.
+
+Annual Contract Value (ACV)
+
+*   Small and Mid-Sized Enterprise (SME) = $50,000
+*   Large Enterprise (SME) = $400,000
+
+[![Image 8: Market Sizing Calculation Example](https://media.wallstreetprep.com/uploads/2022/07/05152748/TAM-Market-Sizing-Model-Calculator.jpg)](https://media.wallstreetprep.com/uploads/2022/07/05152748/TAM-Market-Sizing-Model-Calculator.jpg)
+
+## 2. Top-Down Market Sizing Build
+
+In the next part of our TAM sizing training exercise, we can now calculate the TAM, SAM, and SOM, i.e. a “top-down” revenue build.
+
+For the total TAM market sizing, we’ll multiply the total number of SMEs by the ACV and then repeat the process for large enterprises.
+
+*   SME, Total Addressable Market (TAM) = Number of SME × SME Average Contract Value (ACV)
+*   Large Enterprise, Total Addressable Market (TAM) = Number of Large Enterprise × Large Enterprise Average Contract Value (ACV)
+
+From the TAM, we’ll work our way down to the SAM by making assumptions about what percentage of the TAM is serviceable.
+
+*   % Serviceable SME = 50%
+*   % Serviceable Large Enterprise = 25%
+
+The formula to estimate the TAM for the SAM for the SME and large enterprise market is as follows.
+
+*   SME Serviceable Attainable Market (SAM) = SME TAM × 50%
+*   Large Enterprise Serviceable Attainable Market (SAM) = Large Enterprise TAM × 25%
+
+Using those assumptions, we’ll multiply those percentages by the TAM for the entire forecast.
+
+## 3. TAM Market Sizing Analysis
+
+In our final step, we’ll calculate our SOM by making assumptions about what percentage of the SAM is obtainable.
+
+*   % Obtainable SME = 20%
+*   % Obtainable Large Enterprise = 10%
+
+Given those two assumptions, we’ll input them into our SOM formula.
+
+*   SME, Serviceable Obtainable Market (SOM) = SME SAM × 20%
+*   Large Enterprise, Serviceable Obtainable Market (SOM) = Large Enterprise SAM × 10%
+
+In closing, we can observe how, from our initial period to the end of the five-year forecast, the total serviceable obtainable market (SOM) has expanded from $14.5 million to $20.9 million.
+
+[![Image 9: Market Sizing Calculator](https://media.wallstreetprep.com/uploads/2022/07/05152744/TAM-Market-Sizing-Analysis.jpg)](https://media.wallstreetprep.com/uploads/2022/07/05152744/TAM-Market-Sizing-Analysis.jpg)
+
+Related Posts
+
+[100+ Excel Financial Modeling Shortcuts You Need to Know 5-Min Read → ![Image 10: 100+ Excel Financial Modeling Shortcuts You Need to Know](https://media.wallstreetprep.com/wspimage/excel-shortcut-keyboard.jpg)](https://www.wallstreetprep.com/knowledge/excel-shortcuts/)[The Ultimate Guide to Financial Modeling Best Practices and Conventions 15-Min Read → ![Image 11: Financial Modeling Guide](https://media.wallstreetprep.com/wspimage/modeling-conventions.jpg)](https://www.wallstreetprep.com/knowledge/financial-modeling/)[What is Investment Banking? 15-Min Read → ![Image 12: What is Investment Banking?](https://s3.amazonaws.com/wsp-media-library/uploads/2012/01/19144342/wallst.jpg)](https://www.wallstreetprep.com/knowledge/investment-banking/)[Essential Reading for your Investment Banking Interview 2-Min Read → ![Image 13: Essential Reading for your Investment Banking Interview](https://s3.amazonaws.com/wsp-media-library/uploads/2012/01/Six_Interview_Answers_You_Need_to_Get_Hired_-_Admin_Secret.jpg)](https://www.wallstreetprep.com/knowledge/investment-banking-interview/)
+
+Comments
+
+Please login to comment
+
+0 Comments 
+
+most voted
+
+newest oldest
+
+ Inline Feedbacks 
+
+View all comments
+
+X
+
+Please check your email.
+
+We're sending the requested files to your email now. If you don't receive the email, be sure to check your spam folder before requesting the files again.
+
+[![Image 14: Wharton Online Logo](https://media.wallstreetprep.com/wspimage/logo_wh_online_rev_400.png) Wharton Online & Wall Street Prep Value Investing Certificate Enrollment is Open for the Upcoming Cohort Learn More](https://wallstreetprep.wharton.upenn.edu/buy-side-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=articleTileAd)
+
+The Wall Street Prep Quicklesson Series
+
+### 7 Free Financial Modeling Lessons
+
+Get instant access to video lessons taught by experienced investment bankers. Learn financial statement modeling, DCF, M&A, LBO, Comps and Excel shortcuts.
+
+![Image 15: The Wall Street Prep Quicklesson Series](https://media.wallstreetprep.com/wspimage/lifting.png)
+
+First Name* 
+
+Last Name* 
+
+Email* 
+
+WSP_last_form_interest 
+
+WSP_last_form_completed_action 
+
+WSP_last_form_completed_page_name 
+
+WSP_last_form_completed_page_url 
+
+WSP_last_form_completed_file_url 
+
+WSP_last_form_completed_file_name 
+
+wsp_last_form_ft_utm_campaign 
+
+wsp_last_form_ft_utm_content 
+
+wsp_last_form_ft_utm_medium 
+
+wsp_last_form_ft_utm_source 
+
+wsp_last_form_lt_utm_content 
+
+wsp_last_form_lt_utm_campaign 
+
+wsp_last_form_lt_utm_medium 
+
+wsp_last_form_lt_utm_source 
+
+[](https://www.linkedin.com/company/wall-street-prep/)[](https://www.instagram.com/wallstreetprep)[](https://www.youtube.com/wallstreetprep)
+
+Questions? Call us at [617-314-7685](tel:617-314-7685)
+
+*   [Self-Study](https://www.wallstreetprep.com/programs/)
+*   [Boot Camps](https://www.wallstreetprep.com/public-courses/)
+*   [Coaching](https://www.wallstreetprep.com/coaching/)
+*   [Corporate](https://www.wallstreetprep.com/corporate/)
+*   [University](https://www.wallstreetprep.com/on-campus-training/)
+*   [Free Content](https://www.wallstreetprep.com/free-resources/)
+*   [Support](https://www.wallstreetprep.com/knowledge/market-sizing/# "Open Support Chat Bot")
+*   [About Us](https://www.wallstreetprep.com/about/)
+*   [Pressroom](https://www.wallstreetprep.com/pressroom/)
+*   [Careers](https://www.wallstreetprep.com/careers/)
+*   [Legal](https://www.wallstreetprep.com/legal-compliance/)
+
+© 2026 Wall Street Prep, Inc. All Rights Reserved
+
+Insert
+
+You are going to send email to 
+
+Send
+
+Move Comment
+
+Move

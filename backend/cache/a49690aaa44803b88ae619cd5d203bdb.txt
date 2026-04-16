@@ -1,0 +1,74 @@
+Title: Waste less, sell more - how one startup is using AI to transform food retail
+
+URL Source: https://www.weforum.org/stories/2021/06/wasteless-ai-retail-food-waste/
+
+Markdown Content:
+*   We each throw out 74kg (163 lbs) of food waste per person, per year.
+*   UN Sustainable Development Goals aim for 50% less food waste by 2030.
+*   AI software is shown to reduce supermarket food waste by a third.
+*   Tech startup Wasteless is using AI to cut down on food waste.
+*   Wasteless is a member of The Circulars Accelerator Cohort 2021 on UpLink.
+
+Admit it. We’ve all thrown good food away. It looked perfect in the supermarket. The ripe fruit or vegetables, the prime meat, the nutritious dairy products. But when past its peak - maybe it was close to the “best-before” date, into the garbage it goes.
+
+We throw out 74kg (163 lbs) of food annually per man, woman and child on the planet, while two billion of the world’s people suffer from hunger or undernourishment. In total 1.3 billion tonnes, or a third of all the world’s food produced, is wasted every year. With the challenge of ending global hunger in mind, the UN incorporated a target of [halving global food waste by 2030](http://www.fao.org/sustainable-development-goals/indicators/1231/en/) into the Sustainable Development Goals.
+
+##### Have you read?
+
+*   ##### [What are food crises and how many people are affected by them?](https://www.weforum.org/stories/2021/05/global-food-crises-report-conflict-2021/)
+
+*   ##### [A Better Future for Food – Public Forum of the UN Food Systems Summit](https://www.weforum.org/stories/2021/05/food-systems-summit-lever-of-change-second-innovation-public-forum/)
+
+*   ##### [What can consumers do to help solve the climate change crisis?](https://www.weforum.org/stories/2021/02/consumers-help-solve-climate-change/)
+
+**The foods we throw away**
+
+[![Image 1: a chart showing that 76% of surplus food comes from perishable items](https://assets.weforum.org/editor/kwMCsarbpt-MnPlvI_xIkdOcLAdm8dK1SDpnhUeOtbs.png)](https://refed.com/food-waste/the-challenge/?sort=economic-value-per-ton)
+
+Fresh and perishable products make up a large proportion of wasted food.  Image: ReFed
+
+The chart above shows the types of food most commonly wasted in the United States. Research by the non-profit Re-Fed shows 34% of fresh produce that goes in the supply chain is never eaten. Dairy products and pre-prepared meals are also high on the list of foodstuffs that go to waste.
+
+**From farm to...bin**
+
+But as the infographic below shows, food waste is an issue that goes far beyond wasteful consumers. There are many causes of waste across the food value chain from agriculture to transportation, and the shops where we buy our groceries.
+
+[![Image 2: a diagram showing how to prevent food waste](https://assets.weforum.org/editor/_UshrLLQ7zaENUu5-k-Oy6jiPO2zHQ5XIrA0Jd859fM.jpg)](http://www.fao.org/resources/infographics/infographics-details/en/c/414196/)
+
+Preventing food waste is key to feeding a growing global population.  Image: UN Food and Agriculture Organization
+
+**Reducing retail food waste**
+
+Consumers the world over are familiar with discounted pricing on food nearing the end of its shelf-life. But figuring out the best pricing strategy, known in the trade as “markdown optimization”, is tricky.
+
+The idea is simple. “It doesn’t make sense to go to the supermarket and then to pay the same price for a cheese that expires in two days or in seven days” says co-founder Oded Omer.
+
+He argues that customers can be incentivized by reducing prices the closer a product gets to its “best-before” date.
+
+The company says its technology, which is easily integrated into supermarkets’ existing IT systems, offers a win-win. A Spanish retailer ran a pilot with Wasteless which reported a nearly third less (32.7%) overall waste. Wasteless says its machine learning algorithms are developing all the time and are on track to hit an 80% reduction in food waste. That of course means higher revenues.
+
+The company, founded in 2016, is headquartered in Israel and the Netherlands, and has been supported by the [World Economic Forum’s UpLink](https://www.weforum.org/uplink) crowdsourcing platform. This gives innovators and entrepreneurs whose ideas contribute to meeting the UN Sustainable Development Goals the opportunity to join forces with a trusted community of leading organisations, experts, investors and changemakers to deliver impact at scale.
+
+Wasteless is one of the start-ups selected for[The Circulars Accelerator Cohort 2021](https://uplink.weforum.org/uplink/s/uplink-issue/a002o00000vOnfaAAC/the-circulars), an Accenture initiative run in partnership with Anglo American, Ecolab and Schneider Electric, in collaboration with the UpLink platform.
+
+There are currently 17 companies in The Circulars Accelerator 2021 Cohort. The six-month remote programme includes expert circular economy workshops, coaching modules, mentoring, networking opportunities, investor engagement and accelerator team support.
+
+**Measuring the impact of food waste**
+
+While the Sustainable Development Goal of reducing food waste by 50% is clearly desirable, the challenge of how we measure food waste and compare progress across the world remains. The [UN Environment Programme’s Food Waste Index 2021](https://www.unep.org/resources/report/unep-food-waste-index-report-2021) points to a shortage of “accurate, traceable and comparable measurement”.
+
+One measurement to consider is the impact of food waste on the planet. Much of the food we waste ends up in landfill sites which significantly contribute to greenhouse gas emissions. In the United States for instance, rotting food waste accounts for nearly a quarter of methane emissions.
+
+But the climate change impact of food waste begins long before we throw produce in the bin. Growing and producing food uses energy, water and other resources and has a negative impact on biodiversity. When food goes to waste, all those resources are wasted too. As the UNEP report puts it: “all of the environmental impacts of food production without any of the benefits of people being fed”.
+
+[![Image 3: a graph showing wasted commodities and their respective carbon footprint. ](https://assets.weforum.org/editor/7AdYJaxA79z3eI1OC_PW7fdK6XPgnARo7TpGa5XtePA.PNG)](http://www.fao.org/3/bb144e/bb144e.pdf)
+
+Wasted commodities and their respective carbon footprint.  Image: FAO
+
+The chart above shows how different food commodities contribute to the overall level of wastage, and the subsequent impact on climate change. As UNEP’s head Inger Andersen says, “if food loss and waste were a country, it would be the third biggest source of greenhouse gas emissions.”
+
+_UpLink, the World Economic Forum’s early-stage innovation initiative, is enabling and accelerating the purpose-driven entrepreneurs that are essential for a net-zero, nature-positive, and equitable future. To find out more and join the UpLink community, [click here](https://uplink.weforum.org/uplink/s/?utm\_medium=Blog&utm\_source=WEF%20Platform&utm\_campaign=General&utm\_content=Forum\_Stor&utm\_term=UpLink)._
+
+Accept our marketing cookies to access this content.
+
+These cookies are currently disabled in your browser.

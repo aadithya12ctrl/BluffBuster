@@ -1,0 +1,164 @@
+Title: YouTube Monetization Checker (estimated revenue, stats and more)
+
+URL Source: https://isthischannelmonetized.com/tools/youtube-monetization-checker/
+
+Published Time: 2024-10-17T15:48:53+02:00
+
+Markdown Content:
+Get the estimated revenue based on the RPM of different categories (you can find the detail in our [YouTube CPM and RPM guide](https://isthischannelmonetized.com/data/youtube-cpm/)).
+
+In addition, this tool uses the YouTube Data API v3 to gather data about a channel, video or Short.
+
+## What Data Does The YouTube Monetization Checker Show?
+
+### Channel Data
+
+*   **Total views**: the number of views of all videos and Shorts combined (currently set to public), since the inception of the channel
+*   **Number of videos**: the number of public videos and Shorts, at the time of the analysis
+*   **Number of subscribers**: the current number of subscribers, not counting users who unsubscribed from the channel
+*   **Made for kids**: if the channel is set as a channel for kids globally (not for individual videos)
+*   **ID**: the ID of the channel (starting with “UC”)
+*   **Country**: the 2-letter country code of the channel
+*   **Creation date**: When the channel was created (which might be different from when the first video of the channel was published)
+
+### Video / Short Data
+
+*   **Published date**: the date on which the video was first made public
+*   **Type**: if the video is a regular video or a Short
+*   **Duration**: the exact duration, down to the second
+*   **Definition**: HD or SD
+*   **Views**: total number of views since the
+*   **Likes**: total number of likes, not accounting for dislikes (which YouTube doesn’t show anymore)
+*   **Comments**: total number of comments, excluding hidden and deleted comments
+*   **Made for kids**: if the video is set to “made for kids” by the creator or channel default settings
+*   **Privacy status**: public or unlisted (member-only videos are listed as public)
+*   **Upload status**: processing or processed
+*   **Categories**: a list of categories as taken from Wikipedia
+*   **Tags**: a list of tags added by the creator, this could be empty
+
+## How To Check If A Youtube Channel Is Monetized
+
+### New Method
+
+On November 17, 2023, YouTube removed the “is_monetization_enabled” tag in the HTML of monetized channels.
+
+**Starting November 17, 2023, to check if a YouTube channel is monetized, go to the channel’s home page and check:**
+
+*   **If it has a “Join” button** for people to become members, the channel is monetized. In fact, to have this feature, the channel has to be accepted in the YouTube Partner Program.
+*   **If it has a large number of monetized videos** (not Shorts!), the channel is monetized.
+
+Beware that channels of any size can decide NOT to join the YouTube Partner Program. A famous example is YouTuber Casey Neistat who didn’t monetize his YouTube channel until after he had 100 million views.
+
+So having more than 1,000 subscribers and ads on a particular video does not always mean the channel is monetized… but it most probably is.
+
+Read more important info regarding how to determine if a channel is monetized [in our disclaimer](https://isthischannelmonetized.com/disclaimer/).
+
+### Old Method
+
+![Image 1: ⚠️](https://s.w.org/images/core/emoji/16.0.1/svg/26a0.svg) This method worked before November 17, 2023.
+
+**To check if a YouTube channel is monetized, go to the channel’s home page, view the page’s source code, and search for the string “is_monetization_enabled”. If the value is true, the channel is monetized, else it’s not.**
+
+You’ll also get the number of public views the channel gathered since it was created, and its creation date.
+
+There are two reasons why you need to view the source code and check the string “is_monetization_enabled” to know if a YouTube channel is monetized:
+
+*   some channels may have videos that are not monetized while the channel itself is monetized
+*   and some channels may have videos that are monetized while the channel itself is not monetized
+
+Read on to learn why that sometimes happens.
+
+One thing is for sure: if a YouTube channel has less than 1,000 subscribers, it’s most probably not monetized.
+
+**That’s because having 1,000 subscribers is a requirement to be able to apply for the YouTube Partner Program.**
+
+The only case in which a channel with less than 1,000 subscribers can be monetized is if it’s a YouTube channel met the requirements to be part of the YouTube Partner Program, then lost some subscribers (and is now below 1,000 subscribers).
+
+That’s a pretty rare case.
+
+If the subscriber count stays below 1,000 for a long time, the channel will most probably lose its monetization status.
+
+## [](https://isthischannelmonetized.com/tools/youtube-monetization-checker/)How To Check If A Youtube Video Is Monetized
+
+**To check if a video is monetized, go to the video’s page, view the page’s source code, and search for the string “yt_ad”. If the string is present and set to true, the video is monetized, else it’s not.**
+
+Now, seeing ads on a video or seeing the “yt_ad” string in the page source code doesn’t mean that the video is monetized by the channel’s owner – **it could be monetized by YouTube itself or by a third-party.**
+
+In fact, since November 2020, YouTube started placing ads on some non-monetized videos or channels.
+
+This might be the case for two reasons:
+
+*   certain videos contain content to which the channel ownel doesn’t own all necessary rights, and the rights holder may have chosen to place ads on it
+*   YouTube may also place ads on videos in channels not in the YouTube Partner Program
+
+If that happens, the channel owner will not receive any revenue from the ads. That revenue is either perceived by the rights holder or by YouTube itself.
+
+## How To Check If A Youtube Short Is Monetized
+
+Unlike standard videos, there is no straightforward code in the HTML of the page that can reveal the monetization status of a YouTube Short.
+
+However, you can still make an educated guess based on certain criteria:
+
+1.   **YouTube Partner Program**: First and foremost, check if the channel posting the Short is a part of the YouTube Partner Program. Without membership in this program, a creator cannot monetize their content on YouTube, including Shorts.
+2.   **Content Nature**: If the channel is part of the YouTube Partner Program and the content of the Short is family-friendly and adheres to YouTube’s monetization policies, it’s more likely to be monetized. YouTube typically restricts monetization on content that is not considered advertiser-friendly.
+3.   **Revenue Per Mille (RPM)**: Be aware that the RPM for YouTube Shorts is generally quite low, often around $0.05. This means even if the Short is monetized, the revenue generated per thousand views may not be substantial.
+
+You can still use the Monetization Checker Tool above to gather information about a Short. Just copy and paste the URL of the YouTube Short into the form, and you’ll get the view count and an estimation of revenue generated (if the Short is monetized).
+
+Keep in mind that this tool is not foolproof and there is no guarantee of accuracy since YouTube does not publicly disclose monetization status for Shorts.
+
+## Frequently Asked Questions
+
+### How to tell if a YouTube channel will be eligible for monetization?
+
+As stated in [this help article](https://support.google.com/youtube/answer/72851?hl=en), to be accepted in the YouTube Partner Program (YPP), you’ll need (among other requirements):
+
+*   Subs and watch time requirement 
+    *   1,000 subscribers with 4,000 valid public watch hours in the last 12 months,**or**
+    *   1,000 subscribers with 10 million valid public Shorts views in the last 90 days
+
+*   Live in a [country where the YouTube Partner Program is available](https://isthischannelmonetized.com/data/youtube-monetized-countries/)
+*   Have no active[Community Guidelines strikes](https://support.google.com/youtube/answer/2802032)on your channel.
+
+**From the “outside”, it’s not possible to know if a channel meets all the requirements to be accepted in the YouTube Partner Program in the future.**
+
+### How can I check if my YouTube channel’s content will be rejected for monetization?
+
+Low quality, spammy or non-family friendly content will most probably not count towards the watch time, and might be even hurt your application review process.
+
+This could be the case with [AI-generated videos](https://isthischannelmonetized.com/guides/monetize-ai-generated-videos/), so use AI with caution.
+
+So channels with only repetitive or automated content will most probably not be accepted in the YPP.
+
+### How can I find out when a YouTube channel was first monetized?
+
+There is unfortunately no way to know when a channel was first monetized after the fact.
+
+If you really want to know, you’ll have to check a channel monetization status regularly, and see when it switches to being monetized.
+
+### Is there a way to check a channel / video’s estimated RPM on YouTube?
+
+No, there is not way to know the RPM (Revenue Per Mille or revenue per thousand views)of a particular video or channel on YouTube.
+
+Here are some useful estimates though:
+
+*   Typical Short: $0.05 RPM
+*   Entertainment video: $1.00 RPM
+*   Regular video: $3.50 RPM
+*   Digital marketing / finance: up to $20.00 RPM
+
+### How can I use keywords to improve my YouTube channel’s monetization chances?
+
+In and of themselves, keywords don’t help with your channel success or being accepted in the YouTube Partner Program.
+
+**Your best best is to create interesting, engaging video from trending topics with click-worthy titles.**
+
+But do not use true clickbait! Always deliver on your promise. YouTube knows exactly if a video is clickbaity – so when it finds one, it will simply not recommend it anymore.
+
+### Why are there ads on a video from a channel that is not monetized?
+
+As stated in [this YouTube help article](https://support.google.com/youtube/answer/2475463?hl=en): “**Ads may appear on your uploaded videos even if you haven’t monetized the videos yourself.”**
+
+So while the channel owner is not making money from that video (yet), YouTube is.
+
+Important note: there is not way for the channel owner to disable ads on that video, until they reach the YouTube Partner Program requirements and are accepted in the YouTube Partner Program.

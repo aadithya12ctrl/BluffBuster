@@ -1,0 +1,832 @@
+Title: Ocado's AI: Reducing food waste across grocery supply chains
+
+URL Source: https://www.ocadogroup.com/newsroom/stories/ai-keeping-food-waste-low
+
+Published Time: 2025-01-12T00:00:00+00:00
+
+Markdown Content:
+# Ocado's AI: Reducing food waste across grocery supply chains
+
+[](https://www.ocadogroup.com/newsroom/stories/ai-keeping-food-waste-low#)
+
+[![Image 4: Ocado Logo -Home](https://cdn.prod.website-files.com/68ad853bcabe51c8d74aba2d/68ad853bcabe51c8d74abba1_ocado-logo-black.svg)](https://www.ocadogroup.com/)
+
+[](https://www.ocadogroup.com/menu-1-main-navigation-menu/about-us)
+
+About us
+
+Our mission is to change the way the world shops for good.
+
+![Image 5](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d562855d228d2dbfb98463_68bad9a92dd17e8e9628d9ed_FY24%2520intro%2520image%25201.png)
+
+About us
+
+[About us](https://www.ocadogroup.com/about-us)
+
+Our mission is to change the way the world shops for good.
+
+Our mission is to change the way the world shops for good.
+
+About us
+
+Our mission is to change the way the world shops for good.
+
+![Image 6](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d562855d228d2dbfb98463_68bad9a92dd17e8e9628d9ed_FY24%2520intro%2520image%25201.png)
+
+[About us](https://www.ocadogroup.com/about-us)
+
+Our mission is to change the way the world shops for good.
+
+[Our OSP partners](https://www.ocadogroup.com/about-us/osp-partners)
+
+[Our board and leadership](https://www.ocadogroup.com/about-us/our-board-and-leadership)
+
+[Our locations](https://www.ocadogroup.com/about-us/our-locations)
+
+[Our technology](https://www.ocadogroup.com/about-us/our-technology)
+
+[](https://www.ocadogroup.com/menu-1-main-navigation-menu/our-solutions)
+
+Our solutions
+
+Discover how we are reimagining the future of online grocery and beyond.
+
+![Image 7](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d562853fb040525aa11130_68d3d852adf22b5f5bc3857d_our-solutions-nav%2520copy.webp)
+
+Our solutions
+
+[Our solutions](https://www.ocadogroup.com/our-solutions)
+
+Discover how we are reimagining the future of online grocery and beyond.
+
+Discover how we are reimagining the future of online grocery and beyond.
+
+Our solutions
+
+Discover how we are reimagining the future of online grocery and beyond.
+
+![Image 8](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d562853fb040525aa11130_68d3d852adf22b5f5bc3857d_our-solutions-nav%2520copy.webp)
+
+[Our solutions](https://www.ocadogroup.com/our-solutions)
+
+Discover how we are reimagining the future of online grocery and beyond.
+
+[](https://www.ocadogroup.com/menu-categories/online-grocery)
+
+Online grocery
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/online-grocery)[The Ocado Smart Platform](https://www.ocadogroup.com/our-solutions/online-grocery)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/ecommerce-bs8e9)[Ecommerce](https://www.ocadogroup.com/our-solutions/online-grocery/ecommerce)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/supply-chain)[Supply Chain](https://www.ocadogroup.com/our-solutions/online-grocery/supply-chain)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/fulfilment)[Fulfilment](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/last-mile)[Last Mile](https://www.ocadogroup.com/our-solutions/online-grocery/last-mile)
+
+[](https://www.ocadogroup.com/menu-categories/fulfilment)
+
+Fulfilment
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/customer-fulfilment-centres-cfcs)[Customer Fulfilment Centres (CFCs)](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/customer-fulfilment-centres)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/in-store-fulfilment)[In-Store Fulfilment](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/in-store-fulfilment)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/store-based-automation)[Store Based Automation](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/store-based-automation)
+
+[](https://www.ocadogroup.com/menu-categories/non-grocery-finqg)
+
+Non-grocery
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/non-grocery-logistics-and-fulfilment-solutions)[Non-grocery, logistics and fulfilment solutions](https://www.ocadogroup.com/our-solutions/non-grocery)
+
+[](https://www.ocadogroup.com/menu-1-main-navigation-menu/sustainability)
+
+Sustainability
+
+Explore how we're changing the way the world shops, for good
+
+![Image 9](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d562850d1f606bb457dbf0_68badf7debb566075dd14b2c_FY24%2520intro%2520image%25203.png)
+
+Sustainability
+
+[Sustainability](https://www.ocadogroup.com/sustainability)
+
+Explore how we're changing the way the world shops, for good
+
+Explore how we're changing the way the world shops, for good.
+
+Sustainability
+
+Explore how we're changing the way the world shops, for good
+
+![Image 10](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d562850d1f606bb457dbf0_68badf7debb566075dd14b2c_FY24%2520intro%2520image%25203.png)
+
+[Sustainability](https://www.ocadogroup.com/sustainability)
+
+Explore how we're changing the way the world shops, for good.
+
+[Climate](https://www.ocadogroup.com/sustainability/climate)
+
+[Community](https://www.ocadogroup.com/sustainability/community)
+
+[Circularity](https://www.ocadogroup.com/sustainability/circularity)
+
+[Conduct](https://www.ocadogroup.com/sustainability/conduct)
+
+[](https://www.ocadogroup.com/menu-1-main-navigation-menu/newsroom-vuvua)
+
+Newsroom
+
+![Image 11](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d56285d48078061970c20a_68badf98b2eced1c86783aea_FY24%2520intro%2520image%25204.png)
+
+Newsroom
+
+[Newsroom](https://www.ocadogroup.com/newsroom)
+
+Explore our newsroom to discover the latest partner announcements, technological innovations and
+
+business updates.
+
+Newsroom
+
+![Image 12](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d56285d48078061970c20a_68badf98b2eced1c86783aea_FY24%2520intro%2520image%25204.png)
+
+[Newsroom](https://www.ocadogroup.com/newsroom)
+
+Explore our newsroom to discover the latest partner announcements, technological innovations and
+
+business updates.
+
+[News](https://www.ocadogroup.com/newsroom/news)
+
+[Stories](https://www.ocadogroup.com/newsroom/stories)
+
+[Media kit](https://www.ocadogroup.com/newsroom/media-kit)
+
+[Social channels](https://www.ocadogroup.com/newsroom/social-channels)
+
+[](https://www.ocadogroup.com/menu-1-main-navigation-menu/investors)
+
+Investors
+
+![Image 13](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d56285b598c54a4e99d9a4_68c2bab83ee4a7acccb807ad_investors.webp)
+
+Investors
+
+[Investors](https://www.ocadogroup.com/investors)
+
+Ocado is a global tech business redefining e-commerce, fulfilment and logistics in grocery and beyond.
+
+Investors
+
+![Image 14](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d56285b598c54a4e99d9a4_68c2bab83ee4a7acccb807ad_investors.webp)
+
+[Investors](https://www.ocadogroup.com/investors)
+
+Ocado is a global tech business redefining e-commerce, fulfilment and logistics in grocery and beyond.
+
+[](https://www.ocadogroup.com/menu-categories/investor-hub)
+
+Investors
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/investment-case)[Investment case](https://www.ocadogroup.com/investors/investment-case)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/kpis)[KPIs](https://www.ocadogroup.com/investors/kpis)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/analyst-consensus)[Analyst consensus](https://www.ocadogroup.com/investors/analyst-consensus)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/investor-questions)[Investor questions](https://www.ocadogroup.com/investors/investor-questions)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/regulatory-news)[Regulatory news](https://www.ocadogroup.com/investors/regulatory-news)
+
+[](https://www.ocadogroup.com/menu-categories/reports-and-results)
+
+Reports and results
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/results-and-presentations)[Results and presentations](https://www.ocadogroup.com/investors/results-and-presentations)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/2025-annual-report)[2025 Annual Report](https://www.ocadogroup.com/investors/results-and-presentations/2025-annual-report)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/full-year-results-2024)[Full Year Results 2024](https://www.ocadogroup.com/investors/results-and-presentations/full-year-results-2024)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/half-year-results-2025)[Half Year Results 2025](https://www.ocadogroup.com/investors/results-and-presentations/half-year-results-2025)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/ocado-group-full-year-results-2025)[Full Year Results 2025](https://www.ocadogroup.com/investors/results-and-presentations/ocado-group-full-year-results-2025)
+
+[](https://www.ocadogroup.com/menu-categories/shareholder-centre)
+
+Shareholder centre
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/shareholder-information)[Shareholder information](https://www.ocadogroup.com/investors/shareholder-centre/shareholder-information)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/share-price-centre)[Share price centre](https://www.ocadogroup.com/investors/shareholder-centre/share-price-centre)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/equity-debt-issuances)[Equity and debt issuances](https://www.ocadogroup.com/investors/equity-and-debt-issuances)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/financial-calendar)[Financial calendar](https://www.ocadogroup.com/investors/shareholder-centre/financial-calendar)
+
+[](https://www.ocadogroup.com/menu-categories/corporate-governance-lt0w3)
+
+Corporate governance
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/corporate-governance)[Corporate governance](https://www.ocadogroup.com/investors/corporate-governance/corporate-governance)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/policies-and-disclosures)[Policies and disclosures](https://www.ocadogroup.com/investors/corporate-governance/policies-and-disclosures)
+
+[Careers](https://careers.ocadogroup.com/)
+
+![Image 15](https://cdn.prod.website-files.com/68ad853bcabe51c8d74aba2d/68ad853bcabe51c8d74abbd9_search-icon.svg)
+
+[![Image 16: Ocado Logo -Home](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef19/68d50e481cb32800af1cb074_ocado.svg)](https://www.ocadogroup.com/newsroom/stories/ai-keeping-food-waste-low#)[Close Modal× ‍](https://www.ocadogroup.com/newsroom/stories/ai-keeping-food-waste-low#)
+
+![Image 17](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef19/68d50e481cb32800af1cb073_Vector.svg)
+
+Search on ocadogroup.com
+
+Quick links
+
+[News](https://www.ocadogroup.com/newsroom/news)
+
+[Contact](https://www.ocadogroup.com/contact)
+
+[Terms and conditions](https://www.ocadogroup.com/about-us/terms-of-use)
+
+[![Image 18: Ocado Logo -Home](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef19/68d50e481cb32800af1cb074_ocado.svg)](https://www.ocadogroup.com/newsroom/stories/ai-keeping-food-waste-low#)
+
+[](https://www.ocadogroup.com/menu-1-main-navigation-menu/about-us)
+
+About us
+
+Our mission is to change the way the world shops for good.
+
+Our mission is to change the way the world shops for good.
+
+![Image 19](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d562855d228d2dbfb98463_68bad9a92dd17e8e9628d9ed_FY24%2520intro%2520image%25201.png)
+
+About us
+
+Our mission is to change the way the world shops for good.
+
+[About us](https://www.ocadogroup.com/about-us)
+
+About us
+
+![Image 20](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d562855d228d2dbfb98463_68bad9a92dd17e8e9628d9ed_FY24%2520intro%2520image%25201.png)
+
+Our mission is to change the way the world shops for good.
+
+[About us](https://www.ocadogroup.com/about-us)
+
+[Our OSP partners](https://www.ocadogroup.com/about-us/osp-partners)
+
+[Our board and leadership](https://www.ocadogroup.com/about-us/our-board-and-leadership)
+
+[Our locations](https://www.ocadogroup.com/about-us/our-locations)
+
+[Our technology](https://www.ocadogroup.com/about-us/our-technology)
+
+[](https://www.ocadogroup.com/menu-1-main-navigation-menu/our-solutions)
+
+Our solutions
+
+Discover how we are reimagining the future of online grocery and beyond.
+
+Discover how we are reimagining the future of online grocery and beyond.
+
+![Image 21](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d562853fb040525aa11130_68d3d852adf22b5f5bc3857d_our-solutions-nav%2520copy.webp)
+
+Our solutions
+
+Discover how we are reimagining the future of online grocery and beyond.
+
+[Our solutions](https://www.ocadogroup.com/our-solutions)
+
+Our solutions
+
+![Image 22](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d562853fb040525aa11130_68d3d852adf22b5f5bc3857d_our-solutions-nav%2520copy.webp)
+
+Discover how we are reimagining the future of online grocery and beyond.
+
+[Our solutions](https://www.ocadogroup.com/our-solutions)
+
+[](https://www.ocadogroup.com/menu-categories/online-grocery)
+
+Online grocery
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/online-grocery)[The Ocado Smart Platform](https://www.ocadogroup.com/our-solutions/online-grocery)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/ecommerce-bs8e9)[Ecommerce](https://www.ocadogroup.com/our-solutions/online-grocery/ecommerce)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/supply-chain)[Supply Chain](https://www.ocadogroup.com/our-solutions/online-grocery/supply-chain)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/fulfilment)[Fulfilment](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/last-mile)[Last Mile](https://www.ocadogroup.com/our-solutions/online-grocery/last-mile)
+
+[](https://www.ocadogroup.com/menu-categories/fulfilment)
+
+Fulfilment
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/customer-fulfilment-centres-cfcs)[Customer Fulfilment Centres (CFCs)](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/customer-fulfilment-centres)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/in-store-fulfilment)[In-Store Fulfilment](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/in-store-fulfilment)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/store-based-automation)[Store Based Automation](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/store-based-automation)
+
+[](https://www.ocadogroup.com/menu-categories/non-grocery-finqg)
+
+Non-grocery
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/non-grocery-logistics-and-fulfilment-solutions)[Non-grocery, logistics and fulfilment solutions](https://www.ocadogroup.com/our-solutions/non-grocery)
+
+[](https://www.ocadogroup.com/menu-1-main-navigation-menu/sustainability)
+
+Sustainability
+
+Explore how we're changing the way the world shops, for good
+
+Explore how we're changing the way the world shops, for good.
+
+![Image 23](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d562850d1f606bb457dbf0_68badf7debb566075dd14b2c_FY24%2520intro%2520image%25203.png)
+
+Sustainability
+
+Explore how we're changing the way the world shops, for good
+
+[Sustainability](https://www.ocadogroup.com/sustainability)
+
+Sustainability
+
+![Image 24](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d562850d1f606bb457dbf0_68badf7debb566075dd14b2c_FY24%2520intro%2520image%25203.png)
+
+Explore how we're changing the way the world shops, for good
+
+[Sustainability](https://www.ocadogroup.com/sustainability)
+
+[Climate](https://www.ocadogroup.com/sustainability/climate)
+
+[Community](https://www.ocadogroup.com/sustainability/community)
+
+[Circularity](https://www.ocadogroup.com/sustainability/circularity)
+
+[Conduct](https://www.ocadogroup.com/sustainability/conduct)
+
+[](https://www.ocadogroup.com/menu-1-main-navigation-menu/newsroom-vuvua)
+
+Newsroom
+
+Explore our newsroom to discover the latest partner announcements, technological innovations and
+
+business updates.
+
+![Image 25](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d56285d48078061970c20a_68badf98b2eced1c86783aea_FY24%2520intro%2520image%25204.png)
+
+Newsroom
+
+[Newsroom](https://www.ocadogroup.com/newsroom)
+
+Newsroom
+
+![Image 26](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d56285d48078061970c20a_68badf98b2eced1c86783aea_FY24%2520intro%2520image%25204.png)
+
+[Newsroom](https://www.ocadogroup.com/newsroom)
+
+[News](https://www.ocadogroup.com/newsroom/news)
+
+[Stories](https://www.ocadogroup.com/newsroom/stories)
+
+[Media kit](https://www.ocadogroup.com/newsroom/media-kit)
+
+[Social channels](https://www.ocadogroup.com/newsroom/social-channels)
+
+[](https://www.ocadogroup.com/menu-1-main-navigation-menu/investors)
+
+Investors
+
+Ocado is a global tech business redefining e-commerce, fulfilment and logistics in grocery and beyond.
+
+![Image 27](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d56285b598c54a4e99d9a4_68c2bab83ee4a7acccb807ad_investors.webp)
+
+Investors
+
+[Investors](https://www.ocadogroup.com/investors)
+
+Investors
+
+![Image 28](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/68d56285b598c54a4e99d9a4_68c2bab83ee4a7acccb807ad_investors.webp)
+
+[Investors](https://www.ocadogroup.com/investors)
+
+[](https://www.ocadogroup.com/menu-categories/investor-hub)
+
+Investors
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/investment-case)[Investment case](https://www.ocadogroup.com/investors/investment-case)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/kpis)[KPIs](https://www.ocadogroup.com/investors/kpis)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/analyst-consensus)[Analyst consensus](https://www.ocadogroup.com/investors/analyst-consensus)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/investor-questions)[Investor questions](https://www.ocadogroup.com/investors/investor-questions)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/regulatory-news)[Regulatory news](https://www.ocadogroup.com/investors/regulatory-news)
+
+[](https://www.ocadogroup.com/menu-categories/reports-and-results)
+
+Reports and results
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/results-and-presentations)[Results and presentations](https://www.ocadogroup.com/investors/results-and-presentations)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/2025-annual-report)[2025 Annual Report](https://www.ocadogroup.com/investors/results-and-presentations/2025-annual-report)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/full-year-results-2024)[Full Year Results 2024](https://www.ocadogroup.com/investors/results-and-presentations/full-year-results-2024)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/half-year-results-2025)[Half Year Results 2025](https://www.ocadogroup.com/investors/results-and-presentations/half-year-results-2025)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/ocado-group-full-year-results-2025)[Full Year Results 2025](https://www.ocadogroup.com/investors/results-and-presentations/ocado-group-full-year-results-2025)
+
+[](https://www.ocadogroup.com/menu-categories/shareholder-centre)
+
+Shareholder centre
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/shareholder-information)[Shareholder information](https://www.ocadogroup.com/investors/shareholder-centre/shareholder-information)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/share-price-centre)[Share price centre](https://www.ocadogroup.com/investors/shareholder-centre/share-price-centre)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/equity-debt-issuances)[Equity and debt issuances](https://www.ocadogroup.com/investors/equity-and-debt-issuances)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/financial-calendar)[Financial calendar](https://www.ocadogroup.com/investors/shareholder-centre/financial-calendar)
+
+[](https://www.ocadogroup.com/menu-categories/corporate-governance-lt0w3)
+
+Corporate governance
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/corporate-governance)[Corporate governance](https://www.ocadogroup.com/investors/corporate-governance/corporate-governance)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/policies-and-disclosures)[Policies and disclosures](https://www.ocadogroup.com/investors/corporate-governance/policies-and-disclosures)
+
+[Careers](https://careers.ocadogroup.com/)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/community)[Community](https://www.ocadogroup.com/sustainability/community)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/circularity)[Circularity](https://www.ocadogroup.com/sustainability/circularity)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/climate)[Climate](https://www.ocadogroup.com/sustainability/climate)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/conduct)[Conduct](https://www.ocadogroup.com/sustainability/conduct)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/media-kit)[Media kit](https://www.ocadogroup.com/newsroom/media-kit)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/news)[News](https://www.ocadogroup.com/newsroom/news)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/non-grocery-logistics-and-fulfilment-solutions)[Non-grocery, logistics and fulfilment solutions](https://www.ocadogroup.com/our-solutions/non-grocery)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/our-technology)[Our technology](https://www.ocadogroup.com/about-us/our-technology)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/our-locations)[Our locations](https://www.ocadogroup.com/about-us/our-locations)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/social-channels)[Social channels](https://www.ocadogroup.com/newsroom/social-channels)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/stories)[Stories](https://www.ocadogroup.com/newsroom/stories)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/corporate-governance)[Corporate governance](https://www.ocadogroup.com/investors/corporate-governance/corporate-governance)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/investment-case)[Investment case](https://www.ocadogroup.com/investors/investment-case)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/our-board-and-leadership)[Our board and leadership](https://www.ocadogroup.com/about-us/our-board-and-leadership)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/results-and-presentations)[Results and presentations](https://www.ocadogroup.com/investors/results-and-presentations)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/online-grocery)[The Ocado Smart Platform](https://www.ocadogroup.com/our-solutions/online-grocery)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/shareholder-information)[Shareholder information](https://www.ocadogroup.com/investors/shareholder-centre/shareholder-information)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/customer-fulfilment-centres-cfcs)[Customer Fulfilment Centres (CFCs)](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/customer-fulfilment-centres)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/ecommerce-bs8e9)[Ecommerce](https://www.ocadogroup.com/our-solutions/online-grocery/ecommerce)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/2024-annual-report)[2024 Annual Report](https://www.ocadogroup.com/investors/results-and-presentations/financial-year-2024-annual-report)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/our-partners-and-clients)[Our OSP partners](https://www.ocadogroup.com/about-us/osp-partners)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/kpis)[KPIs](https://www.ocadogroup.com/investors/kpis)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/policies-and-disclosures)[Policies and disclosures](https://www.ocadogroup.com/investors/corporate-governance/policies-and-disclosures)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/share-price-centre)[Share price centre](https://www.ocadogroup.com/investors/shareholder-centre/share-price-centre)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/in-store-fulfilment)[In-Store Fulfilment](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/in-store-fulfilment)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/2025-annual-report)[2025 Annual Report](https://www.ocadogroup.com/investors/results-and-presentations/2025-annual-report)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/analyst-consensus)[Analyst consensus](https://www.ocadogroup.com/investors/analyst-consensus)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/full-year-results-2024)[Full Year Results 2024](https://www.ocadogroup.com/investors/results-and-presentations/full-year-results-2024)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/equity-debt-issuances)[Equity and debt issuances](https://www.ocadogroup.com/investors/equity-and-debt-issuances)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/supply-chain)[Supply Chain](https://www.ocadogroup.com/our-solutions/online-grocery/supply-chain)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/store-based-automation)[Store Based Automation](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/store-based-automation)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/financial-calendar)[Financial calendar](https://www.ocadogroup.com/investors/shareholder-centre/financial-calendar)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/fulfilment)[Fulfilment](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/half-year-results-2025)[Half Year Results 2025](https://www.ocadogroup.com/investors/results-and-presentations/half-year-results-2025)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/investor-questions)[Investor questions](https://www.ocadogroup.com/investors/investor-questions)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/ocado-group-full-year-results-2025)[Full Year Results 2025](https://www.ocadogroup.com/investors/results-and-presentations/ocado-group-full-year-results-2025)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/last-mile)[Last Mile](https://www.ocadogroup.com/our-solutions/online-grocery/last-mile)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/regulatory-news)[Regulatory news](https://www.ocadogroup.com/investors/regulatory-news)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/community)[Community](https://www.ocadogroup.com/sustainability/community)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/circularity)[Circularity](https://www.ocadogroup.com/sustainability/circularity)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/climate)[Climate](https://www.ocadogroup.com/sustainability/climate)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/conduct)[Conduct](https://www.ocadogroup.com/sustainability/conduct)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/media-kit)[Media kit](https://www.ocadogroup.com/newsroom/media-kit)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/news)[News](https://www.ocadogroup.com/newsroom/news)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/non-grocery-logistics-and-fulfilment-solutions)[Non-grocery, logistics and fulfilment solutions](https://www.ocadogroup.com/our-solutions/non-grocery)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/our-technology)[Our technology](https://www.ocadogroup.com/about-us/our-technology)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/our-locations)[Our locations](https://www.ocadogroup.com/about-us/our-locations)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/social-channels)[Social channels](https://www.ocadogroup.com/newsroom/social-channels)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/stories)[Stories](https://www.ocadogroup.com/newsroom/stories)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/corporate-governance)[Corporate governance](https://www.ocadogroup.com/investors/corporate-governance/corporate-governance)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/investment-case)[Investment case](https://www.ocadogroup.com/investors/investment-case)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/our-board-and-leadership)[Our board and leadership](https://www.ocadogroup.com/about-us/our-board-and-leadership)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/results-and-presentations)[Results and presentations](https://www.ocadogroup.com/investors/results-and-presentations)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/online-grocery)[The Ocado Smart Platform](https://www.ocadogroup.com/our-solutions/online-grocery)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/shareholder-information)[Shareholder information](https://www.ocadogroup.com/investors/shareholder-centre/shareholder-information)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/customer-fulfilment-centres-cfcs)[Customer Fulfilment Centres (CFCs)](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/customer-fulfilment-centres)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/ecommerce-bs8e9)[Ecommerce](https://www.ocadogroup.com/our-solutions/online-grocery/ecommerce)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/2024-annual-report)[2024 Annual Report](https://www.ocadogroup.com/investors/results-and-presentations/financial-year-2024-annual-report)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/our-partners-and-clients)[Our OSP partners](https://www.ocadogroup.com/about-us/osp-partners)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/kpis)[KPIs](https://www.ocadogroup.com/investors/kpis)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/policies-and-disclosures)[Policies and disclosures](https://www.ocadogroup.com/investors/corporate-governance/policies-and-disclosures)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/share-price-centre)[Share price centre](https://www.ocadogroup.com/investors/shareholder-centre/share-price-centre)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/in-store-fulfilment)[In-Store Fulfilment](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/in-store-fulfilment)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/2025-annual-report)[2025 Annual Report](https://www.ocadogroup.com/investors/results-and-presentations/2025-annual-report)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/analyst-consensus)[Analyst consensus](https://www.ocadogroup.com/investors/analyst-consensus)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/full-year-results-2024)[Full Year Results 2024](https://www.ocadogroup.com/investors/results-and-presentations/full-year-results-2024)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/equity-debt-issuances)[Equity and debt issuances](https://www.ocadogroup.com/investors/equity-and-debt-issuances)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/supply-chain)[Supply Chain](https://www.ocadogroup.com/our-solutions/online-grocery/supply-chain)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/store-based-automation)[Store Based Automation](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/store-based-automation)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/financial-calendar)[Financial calendar](https://www.ocadogroup.com/investors/shareholder-centre/financial-calendar)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/fulfilment)[Fulfilment](https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/half-year-results-2025)[Half Year Results 2025](https://www.ocadogroup.com/investors/results-and-presentations/half-year-results-2025)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/investor-questions)[Investor questions](https://www.ocadogroup.com/investors/investor-questions)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/ocado-group-full-year-results-2025)[Full Year Results 2025](https://www.ocadogroup.com/investors/results-and-presentations/ocado-group-full-year-results-2025)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/last-mile)[Last Mile](https://www.ocadogroup.com/our-solutions/online-grocery/last-mile)
+
+[](https://www.ocadogroup.com/menu-navigation-level-2nd-page/regulatory-news)[Regulatory news](https://www.ocadogroup.com/investors/regulatory-news)
+
+[](https://www.ocadogroup.com/menu-categories/investor-hub)
+
+Investors
+
+[](https://www.ocadogroup.com/menu-categories/online-grocery)
+
+Online grocery
+
+[](https://www.ocadogroup.com/menu-categories/reports-and-results)
+
+Reports and results
+
+[](https://www.ocadogroup.com/menu-categories/fulfilment)
+
+Fulfilment
+
+[](https://www.ocadogroup.com/menu-categories/non-grocery-finqg)
+
+Non-grocery
+
+[](https://www.ocadogroup.com/menu-categories/shareholder-centre)
+
+Shareholder centre
+
+[](https://www.ocadogroup.com/menu-categories/corporate-governance-lt0w3)
+
+Corporate governance
+
+[Home](https://www.ocadogroup.com/newsroom/stories/ai-keeping-food-waste-low#)>[Newsroom](https://www.ocadogroup.com/newsroom)>[Stories](https://www.ocadogroup.com/newsroom/stories)>
+
+Exploring the role Ocado's AI plays in keeping food waste low across grocery supply chains
+
+[Back to Newsroom](https://www.ocadogroup.com/newsroom/stories)
+
+[Text Link](https://www.ocadogroup.com/newsroom/stories/ai-keeping-food-waste-low#)
+
+Business
+
+# Exploring the role Ocado's AI plays in keeping food waste low across grocery supply chains
+
+January 12, 2025
+
+3 min read
+
+Share this article
+
+[](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.ocadogroup.com%2Fnewsroom%2Fstories%2Fai-keeping-food-waste-low)[](https://twitter.com/intent/post/?url=https%3A%2F%2Fwww.ocadogroup.com%2Fnewsroom%2Fstories%2Fai-keeping-food-waste-low&text=Ocado%27s%20AI%3A%20Reducing%20food%20waste%20across%20grocery%20supply%20chains)[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ocadogroup.com%2Fnewsroom%2Fstories%2Fai-keeping-food-waste-low)[](https://www.ocadogroup.com/newsroom/stories/ai-keeping-food-waste-low#)[](https://www.ocadogroup.com/newsroom/stories/ai-keeping-food-waste-low#)
+
+Ask any retail or logistic operator what the biggest complexity in their operation is, and you’ll find that supply chain challenges come up time and time again. In no industry is this more apparent than online grocery, where retailers must navigate a sea of changing factors, from fluctuating demand to freshness, accuracy, and customers’ ever-growing need for product availability and wider choice.
+
+Ocado’s pioneering technologies are changing this reality – bringing unforeseen levels of visibility into global grocery supply chains to help retailers maximise their customer proposition and efficiency, while keeping waste low.
+
+Through our integrated technology platform, we’re helping grocers keep track of inventory, save costs, and make the most out of every opportunity.
+
+## **Why is supply chain complexity such a challenge for online grocers?**
+
+Traditional food supply chains are ripe with inefficiencies due to overly complicated processes and far too many third-party providers plugged into different processes with complicated integrations.
+
+In this environment, retailers may face a number of trade-offs. Do they prioritise low food waste above decisions on merchandising or product range, for example? Or how do they weigh up early profits over long-term benefits?
+
+At a basic level, this trade-off looks like:
+
+1.   **A retailer not ordering enough stock**- The customer doesn’t receive what they ordered and satisfaction levels decrease.
+2.   **A retailer ordering too much stock** - Customers may be happier but profitability is lower and waste is higher.
+
+When it comes to striking a balance, preferences vary. One retailer may prioritise availability and fulfilment accuracy for customers, while another may want to drive down waste. The challenge is finding the sweet spot.
+
+## **How is Ocado solving supply chain challenges while keeping food waste low?**
+
+Ocado’s technology empowers global grocery retailers to take ownership of their supply chains. Through the embedded intelligence of the [Ocado Smart Platform](https://www.ocadogroup.com/solutions/online-grocery) (OSP) – our configurable end-to-end ecommerce, fulfilment and logistics solution – retailers are leveraging data to drive stronger economics.
+
+Our smart fulfilment systems can accurately detect the risk of purge from any site on any given day, at any given time. This is only possible because of the fully integrated software applications and AI powering OSP.**‍**
+
+![Image 29: osp intelligence integrating ecommerce, fulfilment and supply chain solutions](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/6784e5b1fbb67b70aa6293ef_6784e5ab97e189425deef96a_Supply%2520chain.avif)
+
+Let’s take bananas as an example. OSP’s intelligence can account for:
+
+*   **Stock -**How many bananas have already been assigned to customers? How many are still in stock, and how many are due to come in?
+*   **Quality**- What is the shelf-life of these bananas?
+*   **Demand -**What is the anticipated demand for bananas?
+
+With this information, we can accurately forecast sales and purge using machine learning modelling to hit the sweet spot between product availability and customer demand.
+
+**_Lowering waste through smart inventory management_**
+
+In many traditional online fulfilment operations, customers search for products before picking a slot. On OSP, the slot is the first step. Customers choose their delivery time, day and location before they’ve even had a chance to browse any product.
+
+This change is crucial to achieving order accuracy. Our advanced inventory management can make real-time predictions on the types of products to show customers on the webshop because it knows what products are currently available, what orders are due to be coming in from suppliers, how long products will stay fresh, and what can be ordered in time to make the delivery. This enhanced visibility helps to keep waste low.
+
+![Image 30: Customer selecting products from the Ocado website on a tablet](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/6784e5b1fbb67b70aa6293ec_6784e580bb2a164865b86d0e_ecommerce.avif)
+
+**_Enhanced planning and forecasting through one connected system_**
+
+Today’s retailers operate multiple warehouses and webshops simultaneously with vast product ranges. To help with inventory planning and warehouse management, long-term and short-term product forecasts are required. Making these forecasts adaptable is the first priority, to allow retailers to respond quickly to changes in shopper behaviour.
+
+Traditional forecasting models couldn’t handle the scale and speed necessary that we required, so we built sophisticated deep-learning forecasts to suit the unique demands of online grocery.
+
+On OSP, huge amounts of forecasts are generated every day to predict what customers will be buying. These models are trained on years of grocery data and they learn over time, understanding patterns to help you make the most of your inventory. The integration between our webshop and our supply chain results in the strongest possible forecasts, as the models leverage ecommerce inputs including in-basket sales, past sales and multiple promotional types. Our deep learning models are up to 40% more accurate than traditional retail forecasting systems.
+
+![Image 31: Lady looking at graphs on a laptop screen](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/6785208c57a435743a7e9516_6785208844ab83c0f47eaa3e_AI%2520video%2520clip%2520-%2520body%2520image%2520922x662px.png)
+
+In addition to helping with inventory management, these deep learning models feed into replenishment strategies. They automate replenishment decisions, taking this task out of the retailer’s hands and generating purchase orders automatically based on their forecasts. The AI recommends the optimal amount of stock to order to deliver on high availability and low waste.
+
+**_Managing supply and demand to boost your bottom line_**
+
+A smarter forecasting system leads to a healthier sales margin, as the more stock sold, the fewer items wasted.
+
+OSP helps to promote the sale of products close to expiry. The intelligence of our platform understands when a product is close to expiry and launches a flash sale on the partner’s webshop to entice customers to try the product – driving profitability and reducing waste in turn.
+
+## **How we’re evolving our technology for bigger and better results**
+
+Our demand forecasting models are continuously learning and improving to help retailer partners tackle food waste with greater certainty.
+
+We are working on making these forecasts even more accurate, developing additional features and inputs to include in the algorithm to strengthen its predictions.
+
+## Related content
+
+![Image 32](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/671653547c524460a1e69b36_AI%20image.avif)
+
+How we use AI
+
+[Watch video](https://www.youtube.com/watch?v=hnDtW32Ctgk)
+
+![Image 33](https://cdn.prod.website-files.com/667974bf1bf45146cf81ef1f/66c3b284f3f3d09ef50ce7ba_f3728d2c30f20d717a553587f15a79c6058e1145.webp)
+
+Our Sustainability Story
+
+[Explore our sustainability story](https://ocadogroup.com/sustainability/sustainability/)
+
+[](https://www.ocadogroup.com/newsroom/stories/ai-keeping-food-waste-low#)
+
+Follow our social channels
+
+[LinkedIn](https://www.linkedin.com/company/ocadogroup/?utm_source=linkedin&utm_medium=ocadogroup&utm_campaign=footer&utm_term=webpage)[Facebook](https://www.facebook.com/OcadoGroup?utm_source=facebook&utm_medium=ocadogroup&utm_campaign=footer&utm_term=webpage)[X](https://x.com/OcadoGroup?utm_source=twitter&utm_medium=ocadogroup&utm_campaign=footer&utm_term=webpage)[YouTube](https://www.youtube.com/c/ocadogroup)[All social channels](https://www.ocadogroup.com/newsroom/social-channels)
+
+Sign up for email alerts
+
+Enter your email address to receive the latest updates from Ocado Group
+
+[Sign Up](https://www.ocadogroup.com/email-alerts)
+
+Contact us
+
+We’re always happy to hear from you.
+
+[Get in touch](https://www.ocadogroup.com/contact-us)
+
+Shop with Ocado.com
+
+In the UK, you can shop for groceries online with Ocado.com
+
+[Shop now](https://www.ocado.com/webshop/startWebshop.do)
+
+© Copyright 2026 Ocado Group plc. All rights reserved.
+
+[Terms and conditions](https://www.ocadogroup.com/about-us/terms-of-use)[Privacy policy](https://www.ocadogroup.com/about-us/privacy-policy)[Cookie Policy](https://www.ocadogroup.com/about-us/cookie-settings)[Cookies Settings](https://www.ocadogroup.com/newsroom/stories/ai-keeping-food-waste-low#)[Accessibility](https://www.ocadogroup.com/about-us/accessibility)[Contact us](https://www.ocadogroup.com/contact-us)[Modern Slavery Statement](https://www.ocadogroup.com/investors/corporate-governance/policies-and-disclosures)
+
+We use cookies to make our site work, to analyse our traffic and display customised ads on this and other sites. We also use third-party cookies from [our analytics and targeting partners](https://www.ocadogroup.com/cookie-list/). By clicking Accept Cookies you consent to this. You can also manage your preferences further by clicking on the "Cookies Settings" button below. For more information about how we use cookies and the data, we and our partners collect via cookies see our [Cookie Policy](https://www.ocadogroup.com/cookie-policy/). You can withdraw your consent at any time. When you withdraw consent for cookies, please make sure that you refresh the page or browse to a different page on our website, to ensure that the cookies are removed from your browser.
+
+Accept Cookies Reject Cookies
+
+Cookies Settings
+
+## Privacy Preference Center
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. When you withdraw consent for cookies, please make sure that you refresh the page or browse to a different page on our website, to ensure that the cookies are removed from your browser. 
+
+[More information](https://www.ocadogroup.com/cookie-policy/)
+
+Allow All
+### Manage Consent Preferences
+
+#### Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+#### Analytics / Performance Cookies
+
+- [x] Analytics / Performance Cookies 
+
+These cookies help us understand how you use our portal and improve or optimise the experience we provide. This can be anything like which pages you go to most often, and if you get error messages from web pages. They allow us to measure how visitors interact with the portal (for example which part of the websites are clicked on and the length of time between clicks). We use third-party web analytics software on our portal ([Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) and [Mouseflow](https://mouseflow.com/gdpr/)). **Please note: since the release of Google Analytics 4, Google Analytics does not log or store IP addresses.** You can read more about user data collection by Google Analytics 4 [here](https://support.google.com/analytics/answer/12017362?hl=en).
+
+#### Targeting Cookies
+
+- [x] Targeting Cookies 
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+### Back
+
+Clear
+
+- [x] checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+Reject All Confirm My Choices
+
+[![Image 34: Powered by Onetrust](https://cdn-ukwest.onetrust.com/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)

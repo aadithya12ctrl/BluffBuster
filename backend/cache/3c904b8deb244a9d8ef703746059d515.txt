@@ -1,0 +1,338 @@
+Title: Starfish Space raises $110M to scale up its satellite servicing missions
+
+URL Source: https://www.geekwire.com/2026/starfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions/
+
+Published Time: 2026-04-07T13:00:00+00:00
+
+Markdown Content:
+# Starfish Space raises $110M to boost satellite servicing missions – GeekWire
+
+We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience, personalize advertisements, and analyze website traffic. For these reasons, we may share your site usage data with our social media, advertising, and analytics partners. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy. You can change your cookie settings at any time by clicking “Preferences.” 
+
+Preferences Decline Accept
+
+Toggle search box
+
+[![Image 8: GeekWire Logo](https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-nav-logo.png)](https://www.geekwire.com/)
+
+##### Menu
+
+*   [Home](https://www.geekwire.com/)
+*   [News](https://www.geekwire.com/2026/starfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions/#)
+    *   [Amazon](https://www.geekwire.com/amazon/)
+    *   [Artificial Intelligence sponsored by the University of Washington](https://www.geekwire.com/ai/)
+    *   [Civic sponsored by Microsoft](https://www.geekwire.com/civic/)
+    *   [Geek Life](https://www.geekwire.com/geeklife/)
+    *   [Health/Life Sciences](https://www.geekwire.com/health/)
+    *   [Microsoft](https://www.geekwire.com/microsoft/)
+    *   [Podcasts](https://www.geekwire.com/podcast/)
+    *   [Space](https://www.geekwire.com/space/)
+    *   [Startups](https://www.geekwire.com/startups/)
+    *   [Sustainability sponsored by Amazon Sustainability](https://www.geekwire.com/sustainability/)
+    *   [Tech Moves](https://www.geekwire.com/tech-moves/)
+    *   [Agents of Transformation presented by Accenture](https://www.geekwire.com/special-coverage/agents-of-transformation/)
+    *   [Bot or Not](https://www.geekwire.com/bot-or-not/)
+    *   [GeekWire on the Road: Spokane](https://www.geekwire.com/special-coverage/geekwire-on-the-road-spokane/)
+    *   [Microsoft at 50 presented by Accenture](https://www.geekwire.com/special-coverage/microsoft-at-50/)
+    *   [Tech Vets presented by Northern Trust](https://www.geekwire.com/special-coverage/tech-vets/)
+
+*   [GeekWork](https://www.geekwire.com/2026/starfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions/#)
+    *   [GeekWork Recruiting](https://www.geekwire.com/geekwork/)
+    *   [Job Board](https://www.geekwire.com/jobs/)
+
+*   [Events](https://www.geekwire.com/2026/starfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions/#)
+    *   [Community Calendar](https://www.geekwire.com/calendar/)
+    *   [GeekWire Events](https://www.geekwire.com/events-2/)
+
+*   [Lists](https://www.geekwire.com/2026/starfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions/#)
+    *   [Amazon Office Buildings](https://www.geekwire.com/amazon-office-buildings/)
+    *   [GeekWire 200](https://www.geekwire.com/geekwire-200/)
+    *   [GeekWire Startup List presented by ALLtech](https://www.geekwire.com/startup-list/)
+    *   [GeekWire Startup Resources](https://www.geekwire.com/startup-resources/)
+    *   [GeekWire Startup Spaces](https://www.geekwire.com/startup-spaces/)
+    *   [Layoff Tracker](https://www.geekwire.com/layoff-tracker-2022/)
+    *   [M&As and IPOs](https://www.geekwire.com/recent-deals/)
+    *   [Northwest Women VC & Angel Investor List](https://www.geekwire.com/2022/the-women-writing-checks-a-list-of-female-venture-capitalists-in-the-pacific-northwest/)
+    *   [Recent Fundings](https://www.geekwire.com/fundings/)
+    *   [Seattle Engineering Outposts](https://www.geekwire.com/engineering-centers/)
+    *   [Venture Capital Directory](https://www.geekwire.com/venture-capital/)
+
+*   [Members](https://www.geekwire.com/2026/starfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions/#)
+    *   [Health Benefits](https://www.geekwire.com/health-benefits/)
+    *   [Memberships](https://www.geekwire.com/memberships/)
+
+*   [Studios](https://www.geekwire.com/2026/starfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions/#)
+    *   [GeekWire Studios: Let Us Tell Your Story](https://www.geekwire.com/geekwire-studios/)
+    *   [Acumatica Summit 2026](https://www.geekwire.com/acumatica-summit-2026/)
+    *   [BMC Control Freaks Unite presented by BMC](https://www.geekwire.com/bmc-control-freaks-unite-2025/)
+    *   [AI Predictions Series 2026 presented by Unify Consulting](https://www.geekwire.com/unify-ai-predictions-2026/)
+    *   [Guide to re:Invent 2025 sponsored by AWS](https://www.geekwire.com/guide-to-reinvent/)
+    *   [Remitly Reimagine 2025 sponsored by Remitly](https://www.geekwire.com/remitly-reimagine/)
+    *   [Does Compute presented by Carnegie Mellon University](https://www.geekwire.com/does-compute/)
+    *   [AWS Marketplace Seller Conference 2025 sponsored by AWS](https://www.geekwire.com/aws-marketplace-2025/)
+    *   [ShopTalk 2025 powered by Amazon Ads](https://www.geekwire.com/amazon-ads/)
+    *   [Nebius at NVIDIA GTC 2025 sponsored by Nebius](https://www.geekwire.com/nebius/)
+    *   [Innovate State](https://www.geekwire.com/innovate-state/)
+    *   [Money Hacks presented by BECU](https://www.geekwire.com/becu/)
+    *   [AWS Summit: New York Partner Spotlights sponsored by AWS](https://www.geekwire.com/aws-summit-new-york-partner-spotlights/)
+
+*   [About](https://www.geekwire.com/2026/starfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions/#)
+    *   [About GeekWire](https://www.geekwire.com/about-geekwire/)
+    *   [Advertise](https://www.geekwire.com/advertise/)
+    *   [Contact Us](https://www.geekwire.com/contact-us/)
+    *   [Email Newsletters](https://www.geekwire.com/newsletters/)
+    *   [Reprints & Permissions](http://geekwirereprints.magreprints.com/)
+
+*   [Podcast](https://www.geekwire.com/podcast/)
+*   [LinkedIn](https://www.linkedin.com/company/geekwire/)
+*   [Newsletter](https://www.geekwire.com/newsletters/)
+*   [News Tips](https://www.geekwire.com/tips/)
+
+Toggle search box
+
+Search for: Search
+
+[What happens here matters everywhere.](https://www.geekwire.com/about-geekwire/)
+
+*   [Podcast](https://www.geekwire.com/podcast/)
+*   [LinkedIn](https://www.linkedin.com/company/geekwire/)
+*   [Newsletter](https://www.geekwire.com/newsletters/)
+*   [News Tips](https://www.geekwire.com/tips/)
+
+*   [Amazon](https://www.geekwire.com/amazon/)
+*   [Microsoft](https://www.geekwire.com/microsoft/)
+*   [Startups](https://www.geekwire.com/startups/)
+*   [AI](https://www.geekwire.com/ai/)
+*   [Science](https://www.geekwire.com/science/)
+*   [Tech Moves](https://www.geekwire.com/tech-moves/)
+*   [Sustainability](https://www.geekwire.com/sustainability/)
+*   [Civic](https://www.geekwire.com/civic/)
+*   [Geek Life](https://www.geekwire.com/geeklife/)
+
+# Starfish Space raises $110M to scale up its satellite servicing missions
+
+**by [Alan Boyle](https://www.geekwire.com/author/alanboyle/ "Posts by Alan Boyle")** on Apr 7, 2026 at 6:00 am April 7, 2026 at 6:27 am
+
+Share 
+*   [Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F)
+*   [X (Twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F&via=GeekWire&text=Starfish%20Space%20raises%20%24110M%20to%20scale%20up%20its%20satellite%20servicing%20missions&related=b0yle%3AAuthor)
+*   [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F&title=Starfish%20Space%20raises%20%24110M%20to%20scale%20up%20its%20satellite%20servicing%20missions&summary=Fresh%20funding%20will%20boost%20Seattle-area%20company%20as%20it%20gets%20set%20for%20its%20first%20operational%20space%20mission.%20%3Ca%20href%3D%22https%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F%22%3ERead%20More%3C%2Fa%3E&source=GeekWire)
+*   [Email](mailto:?subject=Starfish%20Space%20raises%20%24110M%20to%20scale%20up%20its%20satellite%20servicing%20missions&body=Article%20from%20GeekWire:%0D%0A%0D%0AStarfish%20Space%20raises%20%24110M%20to%20scale%20up%20its%20satellite%20servicing%20missions%0D%0A%0D%0Ahttps%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F%0D%0A)
+
+![Image 9: Illustration: Starfish Space Otter space vehicle in orbit with Earth's full disk in background](https://cdn.geekwire.com/wp-content/uploads/2026/04/260406-starfish-1260x709.jpg)
+
+An artist’s conception shows Starfish Space’s Otter satellite servicing vehicle in geostationary Earth orbit. (Starfish Space Illustration)
+
+Tukwila, Wash.-based [Starfish Space](https://www.starfishspace.com/) says it has raised about $110 million in a funding round that will help the company execute its first satellite servicing missions and scale up operations for more business.
+
+The Series B round was led by Point72 Ventures. Activate Capital and Shield Capital were co-leaders of the round. Additional major participants included Industrious Ventures and NightDragon. The round also drew support from several existing Starfish investors (NFX, Munich Re Ventures, Toyota Ventures and PSL Ventures) as well as new investors (Nomi Capital, Gaingels and Overlap Holdings).
+
+The new capital adds to previous funding rounds announced in [2021](https://www.geekwire.com/2021/founded-blue-origin-veterans-starfish-space-raises-7m-satellite-servicing-tug/), [2023](https://www.geekwire.com/2023/starfish-space-14m-otter/) and [2024](https://www.geekwire.com/2024/starfish-space-29m-otter-orbital-servicing/), and pushes Starfish’s total investment past the $150 million mark.
+
+Starfish Space was [founded in 2019](https://www.geekwire.com/2020/relativity-reach-stoke-starfish-blue-origin-veterans-spark-space-startups/) by engineers Austin Link and Trevor Bennett, two veterans of Jeff Bezos’ Blue Origin space venture. The company has developed a space vehicle called Otter, which is designed to rendezvous and dock with other objects in orbit — either to maneuver them into a different orbit or guide them to safe disposal.
+
+The company demonstrated its technologies during a software test in 2025, [code-named Remora](https://www.geekwire.com/2025/starfish-impulse-space-remora-rendezvous/), and during [two orbital test missions](https://www.geekwire.com/2025/spacex-starfish-space-otter-satellite-docking-test/) involving scaled-down Otter Pup prototypes.
+
+Starfish already has several Otter missions under contract, including:
+
+*   A [$37.5 million contract from the U.S. Space Force](https://www.geekwire.com/2024/space-force-and-starfish-space-lay-out-their-roadmap-for-satellite-docking-mission/) for a satellite docking demonstration, plus a [$54.5 million contract](https://www.geekwire.com/2026/starfish-space-54-5m-space-force/) for a follow-up mission.
+*   A [$52.5 million Space Development Agency contract](https://www.geekwire.com/2026/starfish-space-satellite-disposal-space-development-agency/) for disposal of military satellites.
+*   A [$15 million NASA contract](https://www.geekwire.com/2024/starfish-space-15m-nasa-sspicy-satellite-inspection/) to inspect defunct satellites.
+*   A [commercial contract with SES](https://www.geekwire.com/2024/starfish-space-contract-intelsat-satellite-servicing/) to provide satellite life extension services.
+
+“Closing this round reflects the real momentum we are seeing across both our technology and our customer base,” [Link said in a news release](https://www.starfishspace.com/press-release/starfish-space-raises-over-100-million-series-b/). “We have Otter missions under contract, successful demos, and our first operational mission launching this year. We’re ready to help organizations get the most out of their on-orbit infrastructure.”
+
+Starfish said it will use proceeds from the investment round to execute contracted Otter missions, scale the Otter business line to meet customer demand and grow the company’s team, which currently has more than 90 employees.
+
+“From our perspective, Starfish has made steady progress toward practical on‑orbit servicing,” said Chris Morales, partner at Point72 Ventures. “We believe their early traction with defense and commercial customers and successful autonomous missions show these capabilities are becoming increasingly relevant to space operations and national security.”
+
+[![Image 10](https://cdn.geekwire.com/wp-content/uploads/2015/10/alan-boyle-150x150.jpg)](https://www.geekwire.com/author/alanboyle/)
+
+_**Alan Boyle** is an award-winning science writer and GeekWire contributor. Formerly of NBCNews.com, he is the author of ["The Case for Pluto: How a Little Planet Made a Big Difference."](http://thecaseforpluto.com/) Follow him via [CosmicLog.com](http://cosmiclog.com/), on [Bluesky](https://bsky.app/profile/b0yle.bsky.social),on [Facebook](https://www.facebook.com/alan.boyle), on [LinkedIn](https://www.linkedin.com/in/alan-boyle-97a874/), on [Mastodon](https://mastodon.social/@alanboyle), on [MeWe](https://mewe.com/alanboyle.82/posts) and on [Threads](https://www.threads.net/@alanb0yle)._
+
+Share 
+*   [Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F)
+*   [X (Twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F&via=GeekWire&text=Starfish%20Space%20raises%20%24110M%20to%20scale%20up%20its%20satellite%20servicing%20missions&related=b0yle%3AAuthor)
+*   [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F&title=Starfish%20Space%20raises%20%24110M%20to%20scale%20up%20its%20satellite%20servicing%20missions&summary=Fresh%20funding%20will%20boost%20Seattle-area%20company%20as%20it%20gets%20set%20for%20its%20first%20operational%20space%20mission.%20%3Ca%20href%3D%22https%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F%22%3ERead%20More%3C%2Fa%3E&source=GeekWire)
+*   [Email](mailto:?subject=Starfish%20Space%20raises%20%24110M%20to%20scale%20up%20its%20satellite%20servicing%20missions&body=Article%20from%20GeekWire:%0D%0A%0D%0AStarfish%20Space%20raises%20%24110M%20to%20scale%20up%20its%20satellite%20servicing%20missions%0D%0A%0D%0Ahttps%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F%0D%0A)
+
+*   [###### Previous Story ‘Moon joy!’ Artemis 2’s crew sets a distance record, documents lunar far side and heads back toward Earth](https://www.geekwire.com/2026/moon-joy-artemis-2-distance-record/)
+*   [###### Next Story Seattle startup Glacis brings longtime Microsoft leader aboard to target AI’s biggest blind spot](https://www.geekwire.com/2026/seattle-startup-glacis-brings-longtime-microsoft-leader-aboard-to-target-ais-biggest-blind-spot/)
+
+ Filed Under: [Tech](https://www.geekwire.com/technology/)
+
+### Latest Stories
+
+*   [Can AI revive democracy? Former Amazon product manager builds tool to spark civic engagement](https://www.geekwire.com/2026/can-ai-revive-democracy-former-amazon-product-manager-builds-tool-to-spark-civic-engagement/)
+*   [There’s a tech week for that: Seattle’s ever-growing calendar of events for AI, space, oceans, energy and more](https://www.geekwire.com/2026/theres-a-tech-week-for-that-seattles-ever-growing-calendar-of-events-for-ai-space-oceans-energy-and-more/)
+*   [OpenAI sees ‘staggering’ demand for Amazon offering, says Microsoft partnership held it back](https://www.geekwire.com/2026/openai-sees-staggering-demand-for-amazon-offering-says-microsoft-partnership-held-it-back/)
+*   [Week in Review: Most popular stories on GeekWire for the week of April 5, 2026](https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-04-05/)
+*   [Riding the rails — over a floating bridge: GeekWire Podcast takes the train across the lake to Microsoft](https://www.geekwire.com/2026/riding-the-rails-over-a-floating-bridge-geekwire-podcast-takes-the-train-across-the-lake-to-microsoft/)
+*   [Artemis 2 crew makes triumphant splashdown at the end of humanity’s first trip around the moon since 1972](https://www.geekwire.com/2026/artemis-2-splashdown-moon/)
+*   [Cry til you laugh: Chris Pirillo vibe codes his job-search frustrations into brutally honest apps](https://www.geekwire.com/2026/cry-til-you-laugh-chris-pirillo-vibe-codes-his-job-search-frustrations-into-brutally-honest-apps/)
+*   [Mary Jo Foley: Microsoft Windows’ new lease on life — why now?](https://www.geekwire.com/2026/mary-jo-foley-microsoft-windows-new-lease-on-life-why-now/)
+*   [Tech Moves: Syndio names 7 execs; avante and Tanium add to C-suite; Amazon leaders depart](https://www.geekwire.com/2026/tech-moves-syndio-names-7-execs-avante-and-tanium-add-to-c-suite-amazon-leaders-depart/)
+*   [Non-compete ban stirs optimism and uncertainty in Washington state — here’s what it means for tech](https://www.geekwire.com/2026/non-compete-ban-stirs-optimism-and-uncertainty-in-washington-state-heres-what-it-means-for-tech/)
+
+[Read All Stories](https://www.geekwire.com/all/)
+
+### GeekWire Newsletters
+
+Subscribe to GeekWire's free newsletters to catch every headline
+
+Email address Subscribe
+
+- [x] **GeekWire Daily** - Top headlines daily  
+
+- [x] **GeekWire Weekly** - Most-read stories of the week, delivered Sunday  
+
+- [x] **Breaking News Alerts** - Important news as it happens  
+
+- [x] **GeekWire Startups** - News, analysis, insights from the Pacific Northwest startup ecosystem, delivered Friday  
+
+- [x] **GeekWire Mid-week Update** — Most-read stories so far this week, delivered Wednesday  
+
+- [x] **GeekWire Partner Content** — Special offers and sponsored content from GeekWire partners  
+
+### Send Us a Tip
+
+Have a scoop that you'd like GeekWire to cover? Let us know.
+
+[Send Us a Tip](https://www.geekwire.com/tips/)
+
+### [See More](https://www.geekwire.com/events/)GeekWire Events
+
+[![Image 11: 2026 GeekWire Awards](https://cdn.geekwire.com/wp-content/uploads/2026/01/300x50-1.png)](https://www.geekwire.com/events/2026-geekwire-awards/)
+
+### Related Stories
+
+[![Image 12: Illustration: Otter spacecraft in orbit](https://cdn.geekwire.com/wp-content/uploads/2024/11/241113-otter-300x202.jpg)](https://www.geekwire.com/2024/starfish-space-29m-otter-orbital-servicing/)
+**[Starfish Space raises $29M to bankroll development of orbital servicing vehicles](https://www.geekwire.com/2024/starfish-space-29m-otter-orbital-servicing/)**
+
+[![Image 13: Illustration: Otter spacecraft in geosynchronous orbit with Earth in background](https://cdn.geekwire.com/wp-content/uploads/2026/02/260207-starfish2-300x179.jpg)](https://www.geekwire.com/2026/starfish-space-54-5m-space-force/)
+**[Starfish Space wins $54.5M Space Force contract for another satellite servicing vehicle](https://www.geekwire.com/2026/starfish-space-54-5m-space-force/)**
+
+[![Image 14: Illustration: Otter spacecraft near another satellite in Earth orbit](https://cdn.geekwire.com/wp-content/uploads/2026/01/260121-otter-300x169.png)](https://www.geekwire.com/2026/starfish-space-satellite-disposal-space-development-agency/)
+**[Starfish Space wins $52.5M contract to provide satellite disposal service for Space Development Agency](https://www.geekwire.com/2026/starfish-space-satellite-disposal-space-development-agency/)**
+
+[![Image 15: Illustration: Starfish Otter Pup 2 and target satellite in orbit](https://cdn.geekwire.com/wp-content/uploads/2025/05/250520-OtterApproach-300x169.jpg)](https://www.geekwire.com/2025/otter-pup-2-starfish-space-satellite/)
+**[Otter Pup rides again: Starfish Space gears up for its second satellite docking attempt](https://www.geekwire.com/2025/otter-pup-2-starfish-space-satellite/)**
+
+*   [###### Previous Story ‘Moon joy!’ Artemis 2’s crew sets a distance record, documents lunar far side and heads back toward Earth](https://www.geekwire.com/2026/moon-joy-artemis-2-distance-record/)
+*   [###### Next Story Seattle startup Glacis brings longtime Microsoft leader aboard to target AI’s biggest blind spot](https://www.geekwire.com/2026/seattle-startup-glacis-brings-longtime-microsoft-leader-aboard-to-target-ais-biggest-blind-spot/)
+
+### Most Popular on GeekWire
+
+*   [![Image 16](https://cdn.geekwire.com/wp-content/uploads/2026/04/HB-1155-4-300x200.jpg)](https://www.geekwire.com/2026/non-compete-ban-stirs-optimism-and-uncertainty-in-washington-state-heres-what-it-means-for-tech/)
+**[Non-compete ban stirs optimism and uncertainty in Washington state — here’s what it means for tech](https://www.geekwire.com/2026/non-compete-ban-stirs-optimism-and-uncertainty-in-washington-state-heres-what-it-means-for-tech/)**
+
+*   [![Image 17](https://cdn.geekwire.com/wp-content/uploads/2026/04/20260403_ship_canal_08-1-300x196.jpeg)](https://www.geekwire.com/2026/defense-giant-anduril-is-quietly-building-autonomous-warships-on-seattles-historic-ship-canal/)
+**[Defense giant Anduril is quietly building autonomous warships on Seattle’s historic ship canal](https://www.geekwire.com/2026/defense-giant-anduril-is-quietly-building-autonomous-warships-on-seattles-historic-ship-canal/)**
+
+*   [![Image 18](https://cdn.geekwire.com/wp-content/uploads/2026/04/Eric-Boyd-300x300.jpg)](https://www.geekwire.com/2026/tech-moves-microsoft-leader-jumps-to-anthropic-tagboard-gets-new-ceo-expedia-names-tech-vp/)
+**[Tech Moves: Microsoft leader jumps to Anthropic; Tagboard gets new CEO; Expedia names tech VP](https://www.geekwire.com/2026/tech-moves-microsoft-leader-jumps-to-anthropic-tagboard-gets-new-ceo-expedia-names-tech-vp/)**
+
+*   [![Image 19](https://cdn.geekwire.com/wp-content/uploads/2026/04/Steve-Gustavson-Headshot-300x200.jpg)](https://www.geekwire.com/2026/microsoft-365-copilot-and-the-end-of-the-single-model-era-in-enterprise-ai/)
+**[Microsoft 365 Copilot and the end of the single-model era in enterprise AI](https://www.geekwire.com/2026/microsoft-365-copilot-and-the-end-of-the-single-model-era-in-enterprise-ai/)**
+
+### Job Listings on GeekWork
+
+[![Image 20](https://cdn.geekwire.com/wp-content/uploads/sites/2/2023/03/INRIX_Logo-300x157.jpg)](https://www.geekwire.com/jobs/job/inrix-bellevue-wa-2-sales-operation-coordinator/)
+
+**[Sales Operation Coordinator](https://www.geekwire.com/jobs/job/inrix-bellevue-wa-2-sales-operation-coordinator/)**
+
+INRIX
+
+[![Image 21](https://cdn.geekwire.com/wp-content/uploads/sites/2/2023/03/INRIX_Logo-300x157.jpg)](https://www.geekwire.com/jobs/job/inrix-remote-2-customer-success-manager-public-sector/)
+
+**[Customer Success Manager–Public Sector](https://www.geekwire.com/jobs/job/inrix-remote-2-customer-success-manager-public-sector/)**
+
+INRIX
+
+Find more jobs on [GeekWork](https://www.geekwire.com/jobs/). Employers, [post a job here](https://www.geekwire.com/jobs/pricing/).
+
+[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F&via=GeekWire&text=Starfish%20Space%20raises%20%24110M%20to%20scale%20up%20its%20satellite%20servicing%20missions&related=b0yle%3AAuthor)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F&title=Starfish%20Space%20raises%20%24110M%20to%20scale%20up%20its%20satellite%20servicing%20missions&summary=Fresh%20funding%20will%20boost%20Seattle-area%20company%20as%20it%20gets%20set%20for%20its%20first%20operational%20space%20mission.%20%3Ca%20href%3D%22https%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F%22%3ERead%20More%3C%2Fa%3E&source=GeekWire)[](mailto:?subject=Starfish%20Space%20raises%20%24110M%20to%20scale%20up%20its%20satellite%20servicing%20missions&body=Article%20from%20GeekWire:%0D%0A%0D%0AStarfish%20Space%20raises%20%24110M%20to%20scale%20up%20its%20satellite%20servicing%20missions%0D%0A%0D%0Ahttps%3A%2F%2Fwww.geekwire.com%2F2026%2Fstarfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions%2F%0D%0A)
+
+### A Word From Our Sponsors
+
+[![Image 22](https://cdn.geekwire.com/wp-content/uploads/2026/04/advertorial-hero-225x225_HERO_India_Mumbai_RNCF_MangroveRestoration_Trinca_0515_225x225-200x200.jpg)](https://www.geekwire.com/sponsor-post/unwavering-innovation-for-a-water-secure-future/)
+
+**Unwavering innovation for a water-secure future**[Read More](https://www.geekwire.com/sponsor-post/unwavering-innovation-for-a-water-secure-future/)
+
+[![Image 23](https://cdn.geekwire.com/wp-content/uploads/2026/04/thumbnail-1-200x200.png)](https://www.geekwire.com/sponsor-post/breaking-down-health-insurance-myths-for-growing-tech-companies/)
+
+**Breaking Down Health Insurance Myths for Growing Tech Companies**[Read More](https://www.geekwire.com/sponsor-post/breaking-down-health-insurance-myths-for-growing-tech-companies/)
+
+[![Image 24](https://cdn.geekwire.com/wp-content/uploads/2026/03/Sponsored_Post_225x225-1-200x200.jpg)](https://www.surveymonkey.com/r/BJQ2PM9)
+
+**It’s time to vote for the GeekWire Awards finalists! Help us select the best in Pacific Northwest tech**[Cast your ballot!](https://www.surveymonkey.com/r/BJQ2PM9)
+
+[![Image 25](https://cdn.geekwire.com/wp-content/uploads/2026/03/fremont1_225x225-200x200.jpg)](https://www.geekwire.com/sponsor-post/voices-of-fremont-perspectives-from-the-center-of-it-all/)
+
+**Voices of Fremont: Perspectives from the Center of it All**[Read More](https://www.geekwire.com/sponsor-post/voices-of-fremont-perspectives-from-the-center-of-it-all/)
+
+[![Image 26](https://cdn.geekwire.com/wp-content/uploads/2026/03/HCLtech-250x250-1-200x200.png)](https://www.geekwire.com/sponsor-post/from-experiments-to-enterprise-impact-how-ai-is-reshaping-the-cloud-era/)
+
+**From experiments to enterprise impact: How AI is reshaping the cloud era**[Read More](https://www.geekwire.com/sponsor-post/from-experiments-to-enterprise-impact-how-ai-is-reshaping-the-cloud-era/)
+
+### About
+
+*   [About GeekWire](https://www.geekwire.com/about-geekwire/)
+*   [Contact Us](https://www.geekwire.com/contact-us/)
+*   [Partner With Us](https://www.geekwire.com/advertise/)
+*   [Become a GeekWire Member](https://www.geekwire.com/memberships/)
+*   [Send Us a Tip](https://www.geekwire.com/tips/)
+*   [Join Our Startup List](https://www.geekwire.com/submit-startup/)
+*   [Reprints and Permissions](http://geekwirereprints.magreprints.com/)
+
+### Follow
+
+*   [Facebook](https://www.facebook.com/geekwire)
+*   [X](https://twitter.com/intent/user?screen_name=geekwire)
+*   [LinkedIn](https://www.linkedin.com/company/geekwire)
+*   [Instagram](https://www.instagram.com/geekwire/)
+*   [RSS Feed](https://www.geekwire.com/rss-feeds/)
+*   [Podcast](https://www.geekwire.com/podcast/)
+*   [YouTube](https://www.youtube.com/subscription_center?add_user=GeekWire)
+*   [Bluesky](https://bsky.app/profile/geekwire.com)
+
+### GeekWire Newsletters
+
+Catch every headline in your inbox
+
+Email address Subscribe
+
+- [x] **GeekWire Daily** - Top headlines daily  
+
+- [x] **GeekWire Weekly** - Most-read stories of the week, delivered Sunday  
+
+- [x] **Breaking News Alerts** - Important news as it happens  
+
+- [x] **GeekWire Startups** - News, analysis, insights from the Pacific Northwest startup ecosystem, delivered Friday  
+
+- [x] **GeekWire Mid-week Update** — Most-read stories so far this week, delivered Wednesday  
+
+- [x] **GeekWire Partner Content** — Special offers and sponsored content from GeekWire partners  
+
+### Read GeekWire
+
+*   [Apple News](https://apple.news/T-EsjXXc_SUaixm4bcBSpAw)
+*   [Google News](https://news.google.com/publications/CAAqBwgKMK-x2wowterLAQ?ceid=US:en&oc=3)
+
+### Legal
+
+*   [Privacy Policy](https://www.geekwire.com/privacy/)
+*   [Terms of Use](https://www.geekwire.com/termsofuse/)
+*   [Sponsored Content Policy](https://www.geekwire.com/underwritten-sponsored-content-geekwire/)
+
+[Return to Top of Page](https://www.geekwire.com/2026/starfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions/#)
+
+© 2011-2026 GeekWire, LLC
+
+[Do Not Sell or Share My Personal information](https://app.termly.io/notify/3ca9df1b-1ba6-4bf1-8358-d78f85069975)
+
+[Limit the Use Of My Sensitive Personal Information](https://app.termly.io/notify/3ca9df1b-1ba6-4bf1-8358-d78f85069975)
+
+[Consent Preferences](https://www.geekwire.com/2026/starfish-space-raises-more-than-100m-to-scale-up-its-satellite-servicing-missions/#)
+
+![Image 27](https://pixel.wp.com/g.gif?v=ext&blog=20980079&post=922592&tz=-7&srv=www.geekwire.com&j=1%3A15.6&host=www.geekwire.com&ref=&fcp=0&rand=0.5500572431284708)

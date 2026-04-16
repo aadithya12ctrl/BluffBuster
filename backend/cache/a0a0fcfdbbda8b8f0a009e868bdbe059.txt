@@ -1,0 +1,90 @@
+Title: Year Over Year (YOY) Analysis: A Simple Guide
+
+URL Source: https://propertymetrics.com/blog/year-over-year-yoy/
+
+Published Time: 2022-02-14T20:37:26+00:00
+
+Markdown Content:
+Year over Year (YoY) analysis is a powerful tool for financial analysis that provides a direct comparison of performance between two periods of time. In this article, we will explore what YoY analysis is, how it is calculated, and why it is useful. We will also look at the advantages and disadvantages of YoY analysis and how to calculate YoY growth in Excel. Whether you are a financial analyst, investor, or business owner, understanding YoY analysis can help you spot trends and make informed decisions.
+
+## What is Year Over Year (YOY)?
+
+YoY stands for Year over Year and is a type of financial analysis used to compare results from a period of time in one year to the same period of time in the prior year.
+
+YoY analysis is widely used in finance and [economic analysis](https://www.federalreservehistory.org/essays/great-inflation) and is helpful for quickly understanding growth trends from year to year.
+
+## YoY Formula
+
+The YoY formula is defined as the current year’s value divided by the previous year’s value minus 1:
+
+![Image 1: YoY](https://propertymetrics.com/wp-content/uploads/2022/12/image-57.png)
+
+For example, suppose [net operating income](https://propertymetrics.com/blog/net-operating-income/) for a property was 120,000 last year. And the year previous year net operating income was 105,000. In this case, the YoY growth was 120,000 / 105,000 -1, or 14.3%
+
+An alternative YoY formula takes the current value minus the previous value and then divides that result by the previous value:
+
+![Image 2: YoY Formula](https://propertymetrics.com/wp-content/uploads/2022/12/image-56.png)
+
+Using the same example, we could calculate the YoY growth by taking our 120,000 net operating income and subtracting the previous year’s NOI of 105,000, then dividing the result by 105,000. In this case, that would be (120,000 – 105,000) / 105,000, which gives us the same year-over-year growth of 14.3%.
+
+The YoY formula can also be used to calculate the dollar amount of growth or the current or previous values. For example, if the average rent in a particular geographic area is currently 1,100 and YoY growth was reported as 10%, then last year the average rent was 1,100 / (1 + 10%), or 1,000.
+
+## How to Calculate Year over Year (YoY) Growth
+
+Let’s take a closer look at how to calculate year-over-year growth over several years to identify trends. Suppose we have the following [real estate proforma](https://propertymetrics.com/blog/real-estate-proforma/):
+
+![Image 3: How to Calculate Year over Year (YoY) Growth](https://propertymetrics.com/wp-content/uploads/2022/02/how-to-calculate-year-over-year-yoy-growth.png)
+
+The YoY growth calculation is shown for the cash flow before tax (CFBT) line item at the bottom. From year 1 to year 2 the YoY calculation is 5.9%, which means that the cash flow before tax increased by 5.9% year over year.
+
+From year 2 to year 3 YoY, growth is 3.0%. In year 4 YoY growth is 4.4% and in year 5 YoY growth is 4.9%.
+
+The year-over-year growth rate could be calculated for any of the other line items as well. This will show you how each line item is growing from year to year, which is helpful for spotting trends. For example, by calculating the year-over-year growth for operating expenses and also for potential gross income, you would quickly discover that one is growing faster than the other.
+
+![Image 4: year-over-year-calculation](https://propertymetrics.com/wp-content/uploads/2022/02/year-over-year-calculation.png)
+
+## How to Calculate YoY Growth in Excel
+
+Calculating year-over-year growth in Excel is straightforward. Suppose we have the historical revenue for a small tenant, and we want to calculate the YoY growth in Excel:
+
+![Image 5: How to calculate year over year (YoY) growth in Excel](https://propertymetrics.com/wp-content/uploads/2022/02/how-to-calculate-yoy-in-excel.png)
+
+Once you have the values you would like to use to calculate year-over-year growth, then all you need to do is apply one of the two YoY growth formulas discussed above. Note that we do skip the first year because there is no prior year to compare to in our data set.
+
+![Image 6: YoY Growth Formula in Excel](https://propertymetrics.com/wp-content/uploads/2022/02/yoy-growth-formula-in-excel.png)
+
+## YOY Meaning
+
+What does YoY mean? Year over Year (YoY) tells you the percentage increase or decrease from one year to the next. In general, the higher the year-over-year growth the better. However, there could be other factors that are more important to consider.
+
+For example, suppose you are evaluating the interim financial statements for a tenant and notice declining year-over-year growth. At the same time, you know that the tenant just won a large multi-year contract with the IRS that will provide stable revenue over the next 10 years.
+
+In this case, there is another driver of financial performance that could be more important for tenant [credit analysis](https://propertymetrics.com/blog/credit-analysis/)than revenue or net income growth from year to year. Lower revenue growth in exchange for a more durable income stream might be more desirable in a tenant.
+
+## Why YoY is Useful
+
+The year-over-year calculation is useful because it gives you a direct apple to apple’s comparison with the same period from the prior year. This is especially helpful when a business has seasonality or cyclicality.
+
+For instance, suppose you are evaluating the historical operating statements for a hotel property and notice a large decline month over month from March to April last year. This could at first be concerning, but when compared to March in the prior year, you might discover that income actually increased year over year.
+
+One reason this might happen is because there could be a large local event each year in March such as a golf tournament. This event may draw a crowd in March each year that increases demand for hotel rooms. In this case, a monthly comparison to April after the event is over wouldn’t make as much sense as a year-over-year analysis.
+
+With YoY analysis, you can compare the results from March in the current year to March in the prior year to see how much income is increasing or decreasing in the same period of time the golf tournament occurs each year. This YoY analysis removes the monthly or quarterly volatility in your analysis.
+
+## YoY Analysis Pros and Cons
+
+Year over Year (YoY) analysis is a useful tool for financial analysis, but it is important to understand both its advantages and limitations. The advantages of using YoY analysis to evaluate financial performance include, the ease of calculation, the ability to make an apples to apples comparison, and the potential to spot trends. However, it is also important to consider the limitations of YoY analysis, such as its inability to account for all relevant factors.
+
+### YoY Advantages:
+
+*   Easy to calculate
+*   Gives you an apples to apples comparison with the same period of time in the prior year
+*   Makes it easier to spot trends
+
+### YoY Disadvantages:
+
+*   Doesn’t account for all relevant factors, such as stability that comes at the expense of growth
+
+## Conclusion
+
+In this article, we discussed Year over Year (YoY) analysis. Year-over-year analysis is used to compare the results in one period, such as a month, with the same period in the previous year. Year over year analysis is useful because it eliminates any cyclicality or seasonality that occurs during the year.

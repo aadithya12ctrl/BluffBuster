@@ -1,0 +1,275 @@
+Title: Cost Per Night Calculator - Calculator Academy
+
+URL Source: https://calculator.academy/cost-per-night-calculator/
+
+Published Time: Mon, 13 Apr 2026 07:39:49 GMT
+
+Markdown Content:
+# Cost Per Night Calculator - Calculator Academy
+[Skip to content](https://calculator.academy/cost-per-night-calculator/#content "Skip to content")
+
+[Calculator Academy](https://calculator.academy/)
+
+Menu
+
+*   [Automotive](https://calculator.academy/automotive-calculators/)
+*   [Biology](https://calculator.academy/biology-calculators/)
+*   [Business Finance](https://calculator.academy/business-finance-calculators/)
+*   [Chemistry](https://calculator.academy/chemistry-calculators/)
+*   [Construction](https://calculator.academy/construction-calculators/)
+*   [Everyday Life and Education](https://calculator.academy/everyday-life-and-education-calculators/)
+*   [Food](https://calculator.academy/food-calculators/)
+*   [Health](https://calculator.academy/health-calculators/)
+*   [Math and Numbers](https://calculator.academy/math-and-numbers-calculators/)
+*   [Miscellaneous](https://calculator.academy/miscellaneous-calculators/)
+*   [Personal Finance](https://calculator.academy/personal-finance-calculators/)
+*   [Physics](https://calculator.academy/physics-calculators/)
+*   [Sports and Fitness](https://calculator.academy/sports-and-fitness-calculators/)
+*   [Statistics](https://calculator.academy/statistics-calculators/)
+*   [Unit Conversions](https://calculator.academy/unit-converters/)
+
+[](https://calculator.academy/cost-per-night-calculator/#)
+
+[Calculator Academy](https://calculator.academy/)
+
+Menu
+
+*   [Automotive](https://calculator.academy/automotive-calculators/)
+*   [Biology](https://calculator.academy/biology-calculators/)
+*   [Business Finance](https://calculator.academy/business-finance-calculators/)
+*   [Chemistry](https://calculator.academy/chemistry-calculators/)
+*   [Construction](https://calculator.academy/construction-calculators/)
+*   [Everyday Life and Education](https://calculator.academy/everyday-life-and-education-calculators/)
+*   [Food](https://calculator.academy/food-calculators/)
+*   [Health](https://calculator.academy/health-calculators/)
+*   [Math and Numbers](https://calculator.academy/math-and-numbers-calculators/)
+*   [Miscellaneous](https://calculator.academy/miscellaneous-calculators/)
+*   [Personal Finance](https://calculator.academy/personal-finance-calculators/)
+*   [Physics](https://calculator.academy/physics-calculators/)
+*   [Sports and Fitness](https://calculator.academy/sports-and-fitness-calculators/)
+*   [Statistics](https://calculator.academy/statistics-calculators/)
+*   [Unit Conversions](https://calculator.academy/unit-converters/)
+
+[](https://calculator.academy/cost-per-night-calculator/#)
+
+# Cost Per Night Calculator
+
+Published By: [Calculator Academy](https://calculator.academy/author/calculatoracademy/)
+
+Last Updated: March 25, 2026
+
+Reviewed By: **Scott Hickam**(MBA, Finance)
+
+![Image 3: Headshot of Scott Hickam](https://calculator.academy/wp-content/uploads/2025/08/c1KYLMxZzWYxn2mgn_45OK6y48Jxyz6yS90r7eKXtR4pteTZNITmupL5z3UDmzmkAT-1.jpg)
+**Scott Hickam** has a Masters in Business Administration and 8 Years of Experience in the financial sector. He’s our go-to reviewer for all things finance. [Full Bio](https://calculator.academy/author/scott-hickam/)
+
+Enter the total length of stay, in nights, and the total cost of the stay into the calculator to determine the cost per night. This calculator can also determine the total cost or number of nights given the other variables are known.
+
+## Cost per Night Calculator
+
+Total price to nightly cost
+
+Nightly rate plus fees
+
+Enter your total stay cost to see the true price per night and per guest.
+
+Total trip price ($) Number of nights Number of guests (optional) 
+
+Total trip cost:
+
+Average cost per night:
+
+Cost per person per night:
+
+Start from a nightly rate, add cleaning, taxes, and fees to see the real nightly price.
+
+Nightly rate before fees ($) Number of nights Cleaning fee per stay ($) Other flat fees per stay ($) Taxes and percentage-based fees (%) Number of guests (optional) 
+
+Total trip cost:
+
+Average cost per night (all-in):
+
+Cost per person per night:
+
+Calculate Reset
+
+Share
+
+Download PDF
+
+Print
+
+Copy Result
+
+👍Helpful
+
+👎Not helpful
+
+### Related Calculators
+
+*   [Cost Per Occupied Room Calculator](https://calculator.academy/cost-per-occupied-room-calculator/)
+*   [Occupancy Rate Index Calculator](https://calculator.academy/occupancy-rate-index-calculator/)
+*   [ADR (Average Daily Rate) Calculator](https://calculator.academy/cost-per-night-calculator/)
+*   [Cost Per Day Calculator](https://calculator.academy/cost-per-day-calculator/)
+*   [Occupancy Load Factor Calculator](https://calculator.academy/occupancy-load-factor-calculator/)
+*   [Hotel Cost Calculator](https://calculator.academy/cost-per-night-calculator/)
+
+next
+
+stay
+
+CC
+
+Settings Off Arabic Chinese English French German Hindi Portuguese Spanish
+
+Font Color white Font Opacity 100%Font Size 100%Font Family Arial Text Shadow none Background Color black Background Opacity 50%Window Color black Window Opacity 0%
+
+White Black Red Green Blue Yellow Magenta Cyan
+
+100%75%50%25%
+
+200%175%150%125%100%75%50%
+
+Arial Georgia Garamond Courier New Tahoma Times New Roman Trebuchet MS Verdana
+
+None Raised Depressed Uniform Drop Shadow
+
+White Black Red Green Blue Yellow Magenta Cyan
+
+100%75%50%25%0%
+
+White Black Red Green Blue Yellow Magenta Cyan
+
+100%75%50%25%0%
+
+## Cost Per Night Formula
+
+The following equation is used to calculate the Cost Per Night.
+
+C P N=T C/N CPN = TC / N CPN=TC/N
+
+*   Where CPN is the cost per night ($/night)
+*   TC is the total cost ($)
+*   N is the number of nights staying at the location
+
+To calculate the cost per night, add together the total cost of the trip plus taxes, then divide by the length of stay in nights.
+
+## What is a Cost Per Night?
+
+Definition:
+
+Cost per night is a way to define the average cost of staying at a hotel, or other location like an Airbnb, for one night. Typically the longer you stay at a place, the better the rate per night.
+
+## How to Calculate Cost Per Night?
+
+Example Problem:
+
+The following example outlines the steps and information needed to calculate the Cost Per Night.
+
+First, determine the length of the stay. For this example, a couple is taking a vacation on a 7-night trip to the tropics.
+
+Next, determine the total cost per night. Adding together the entire trip cost comes out to $10,000.00.
+
+Finally, calculate the cost per night using the formula above:
+
+CPN = TC / #N
+
+CPN = $10,000.00 / 7
+
+CPN = $1,428.5 /night
+
+![Image 4: cost per night calculator ](blob:http://localhost/4c7a204dfc958f7dd18d3251d15be427)
+
+*   [Privacy Policy](https://calculator.academy/privacy-policy/)
+*   [About US](https://calculator.academy/about-us/)
+*   [Contact Us](https://calculator.academy/contact-us/)
+*   [Disclaimer](https://calculator.academy/disclaimer/)
+
+### Browse Calculator Categories
+
+[Automotive Calculators](https://calculator.academy/automotive-calculators/)
+
+[Biology Calculators](https://calculator.academy/biology-calculators/)
+
+[Business Finance](https://calculator.academy/business-finance-calculators/)
+
+[Chemistry Calculators](https://calculator.academy/chemistry-calculators/)
+
+[Construction Calculators](https://calculator.academy/construction-calculators/)
+
+[Everyday Life & Education](https://calculator.academy/everyday-life-and-education-calculators/)
+
+[Food Calculators](https://calculator.academy/food-calculators/)
+
+[Health Calculators](https://calculator.academy/health-calculators/)
+
+[Math & Numbers](https://calculator.academy/math-and-numbers-calculators/)
+
+[Miscellaneous](https://calculator.academy/miscellaneous-calculators/)
+
+[Personal Finance](https://calculator.academy/personal-finance-calculators/)
+
+[Physics Calculators](https://calculator.academy/physics-calculators/)
+
+[Sports & Fitness](https://calculator.academy/sports-and-fitness-calculators/)
+
+[Statistics Calculators](https://calculator.academy/statistics-calculators/)
+
+[Unit Converters](https://calculator.academy/unit-converters/)
+
+ Calculator Academy© - All Rights Reserved 2026 
+
+Search 
+
+*   [Automotive](https://calculator.academy/automotive-calculators/)
+*   [Biology](https://calculator.academy/biology-calculators/)
+*   [Business Finance](https://calculator.academy/business-finance-calculators/)
+*   [Chemistry](https://calculator.academy/chemistry-calculators/)
+*   [Construction](https://calculator.academy/construction-calculators/)
+*   [Everyday Life and Education](https://calculator.academy/everyday-life-and-education-calculators/)
+*   [Food](https://calculator.academy/food-calculators/)
+*   [Health](https://calculator.academy/health-calculators/)
+*   [Math and Numbers](https://calculator.academy/math-and-numbers-calculators/)
+*   [Miscellaneous](https://calculator.academy/miscellaneous-calculators/)
+*   [Personal Finance](https://calculator.academy/personal-finance-calculators/)
+*   [Physics](https://calculator.academy/physics-calculators/)
+*   [Sports and Fitness](https://calculator.academy/sports-and-fitness-calculators/)
+*   [Statistics](https://calculator.academy/statistics-calculators/)
+*   [Unit Conversions](https://calculator.academy/unit-converters/)
+
+Close
+
+![Image 6](https://pixel.wp.com/g.gif?v=ext&blog=149216837&post=44587&tz=0&srv=calculator.academy&hp=atomic&ac=2&amp=0&j=1%3A15.7&host=calculator.academy&ref=&fcp=0&rand=0.18337322546373558)![Image 7](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
+
+✕
+## Do not sell or share my personal information.
+
+You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the "Reenable Personalization" link.
+
+This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.
+
+For more information please visit this site's Privacy Policy.
+
+CANCEL
+
+CONTINUE
+
+## Your Use of Our Content
+
+✕
+
+The content we make available on this website [and through our other channels] (the “Service”) was created, developed, compiled, prepared, revised, selected, and/or arranged by us, using our own methods and judgment, and through the expenditure of substantial time and effort. This Service and the content we make available are proprietary, and are protected by these Terms of Service (which is a contract between us and you), copyright laws, and other intellectual property laws and treaties. This Service is also protected as a collective work or compilation under U.S. copyright and other laws and treaties. We provide it for your personal, non-commercial use only.
+
+You may not use, and may not authorize any third party to use, this Service or any content we make available on this Service in any manner that (i) is a source of or substitute for the Service or the content; (ii) affects our ability to earn money in connection with the Service or the content; or (iii) competes with the Service we provide. These restrictions apply to any robot, spider, scraper, web crawler, or other automated means or any similar manual process, or any software used to access the Service. You further agree not to violate the restrictions in any robot exclusion headers of this Service, if any, or bypass or circumvent other measures employed to prevent or limit access to the Service by automated means.
+
+Information from your device can be used to personalize your ad experience. 
+
+[Do not sell or share my personal information.](https://calculator.academy/)
+
+[Terms of Content Use](https://calculator.academy/)
+
+A Raptive Partner Site
+
+[![Image 8: Close](https://socialcanvas-cdn.kargo.com/img/close-btn-desktop.svg)](https://calculator.academy/cost-per-night-calculator/#)
+
+[15](https://calculator.academy/cost-per-night-calculator/#)

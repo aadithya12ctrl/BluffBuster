@@ -1,0 +1,238 @@
+Title: Channel Partner Commission Structure: A Full Guide To Fair RevShare Compensation By Scaleo
+
+URL Source: https://www.scaleo.io/blog/channel-partner-commission-structure-a-full-guide-to-fair-revshare-compensation/
+
+Published Time: 2026-03-10T09:11:35+00:00
+
+Markdown Content:
+Channel partner programs are one of the fastest ways to add distribution without adding headcount. But the engine lives or dies on how you pay partners. Commission design determines who joins, how hard they sell, and whether your unit economics hold up. Below is a 2026-ready, operator-grade playbook to build a fair, scalable, and compliant partner commission structure—complete with examples, tables, and practical guardrails you can implement today.
+
+[![Image 1: partner marketing software for igaming industry](https://www.scaleo.io/blog/wp-content/uploads/2023/01/scaleo-partner-marketing-software-developed-fori-igaming-industry-scaled.jpg)](https://www.scaleo.io/igaming)
+### **What is a channel partner commission structure?**
+
+A channel partner commission structure is the operating model behind how referral partners, resellers, agencies, and alliance partners get paid. In practice, that means more than a percentage. It includes the commission basis, attribution rules, renewal ownership, clawback windows, payment cadence, and the reporting view partners use to validate earnings. If those elements are vague, the program looks generous on paper and chaotic in production.
+
+## Channel Partner Commission Structure: A Practical Blueprint
+
+Use the table below as a working template. It’s intentionally modular so you can map it to reseller, referral, agency, and technology alliance motions without rewriting your entire plan.
+
+| **Tier** | **Partner Type** | **Base Commission** | **Requirements** | **Pay Cadence** | **Stackable Incentives** |
+| --- | --- | --- | --- | --- | --- |
+| **Level 1** | Registered / Entry | 5–10% of eligible revenue | No minimums; agree to T&Cs | Monthly | Marketing toolkits, basic co-branded assets |
+| **Level 2** | Certified | 10–15% | $10k/quarter closed-won + basic certification | Monthly | Priority support, solution training |
+| **Level 3** | Silver | 15–20% | $25k/quarter + advanced cert; deal registration use | Bi-monthly | Lead sharing, sandbox access, beta features |
+| **Level 4** | Gold | 20–25% | $50k/quarter + QBRs; pipeline hygiene SLAs | Bi-monthly | Dedicated CAM, MDF (co-op) funds |
+| **Level 5** | Platinum | 25–30% | $100k/quarter + joint GTM plan; NPS > 50 | Quarterly | Renewal [rev share](https://www.scaleo.io/blog/how-to-work-with-the-revshare-model-in-igaming-business-full-guide/ "How To Work With The RevShare Model in the iGaming Business? Full Guide"), category exclusives, executive briefings |
+| **Recurring** | All eligible tiers | Up to 10% on renewals/upsells | Partner retains “Partner of Record” status | Monthly/quarterly | Protects partner LTV; reduces churn risk |
+| **[Performance](https://www.scaleo.io/blog/performance-marketing-software/ "Top 15 Performance Marketing Software + Full Buyer’s Guide")** | Top performers | +2–5% kicker | Beat quarterly targets, high data quality | Quarterly | SPIFs, accelerators |
+| **Referral** | All partners | $100–$500 CPL/SQL | Meets BANT/ICP & converts to pipeline | On conversion | One-time bounty; non-exclusive |
+| **Milestones** | All tiers | Custom | $1M lifetime, strategic logos, new region | On achievement | PR co-announcements, joint case studies |
+| **Training** | New partners | +1–2% | Complete enablement tracks; pass exams | Post-completion | Badging, marketplace listing boost |
+
+**Tip:** Publish this table inside your Partner Guide. Link every cell to your policy source of truth (deal reg rules, MDF policy, eligibility, and clawback terms). If it isn’t documented, it doesn’t exist.
+
+## Design Inputs: What to Lock Before You Launch
+
+| Design Input | Why it Matters | Operator Guidance (2026) |
+| --- | --- | --- |
+| **Commission payout structure** | Controls [CAC](https://www.scaleo.io/blog/10-ways-to-lower-your-casinos-customer-acquisition-cost-cac-in-affiliate-marketing/ "10 Ways to Lower Your Casino’s Customer Acquisition Cost (CAC) in Affiliate Marketing") and partner motivation | Blend flat [CPA](https://www.scaleo.io/blog/cpa-affiliate-tracking-software-how-to-choose-the-best-cpa-software/ "CPA Affiliate Tracking Software – How To Choose The Best One?") for referrals with % of _eligible revenue_ for resellers; cap accelerators |
+| **Comp**(net vs. gross) | Prevents overpaying on discounts & credits | Pay on **net collected** after refunds, credits, taxes, and non-commissionable fees |
+| **Attribution model** | Reduces channel conflict | Use deal registration + time-bound attribution (e.g., 120 days) with change-of-influence process |
+| **Renewal ownership** | Protects partner LTV | Use deal registration + time-bound attribution (e.g., 120 days) with the change-of-influence process |
+| **Clawbacks** | Deters low-quality deals | Claw back commissions on churn/refund within 60–90 days; automate via billing events |
+| **Payment terms** | Cash-flow impact | Net-30 after invoice payment clears; threshold payouts (e.g., $100) to reduce micro-payments |
+| **Territory & exclusivity** | Prevents channel cannibalization | Offer **performance-based exclusivity** tied to quarterly floors; review semi-annually |
+
+* * *
+
+Teams often treat revenue share and commission as interchangeable.
+
+They are not.
+
+A standard commission is usually a one-time payout tied to a signed deal, qualified lead, or closed-won opportunity. Revenue share is recurring and depends on what the customer keeps paying over time.
+
+In enterprise SaaS, rev share makes sense only when partner influence continues after the initial sale through onboarding, adoption, expansion, or renewal support. Otherwise, you are paying long-tail economics for short-term involvement.
+
+## Commission Models You Can Mix & Match
+
+There is no single “best” model—only what fits your sales motion, cash cycle, and partner roles. Here’s a quick operator’s guide:
+
+| Model | How it Works | Use When | Watch Outs |
+| --- | --- | --- | --- |
+| Flat-rate (**CPA**) | Fixed payout per qualified action/sale | High-volume referrals; PLG trials | Overpay risk on low ACV; add quality gates |
+| **% of Sales** | Rate times eligible revenue | Resellers/VARs; bundles; enterprise | Define “eligible” clearly; exclude pass-through fees |
+| **Tiered** | Higher rates at higher volume | To drive scale mid-quarter | Avoid breakage; show real-time progress |
+| **Recurring** | Ongoing share of renewals | SaaS subscriptions; services attach | Require adoption milestones for renewal share |
+| **[RevShare](https://www.scaleo.io/blog/understanding-the-basics-of-revenue-sharing-rev-share-for-an-igaming-affiliate-programs/ "Revenue Sharing (RevShare) for iGaming Affiliate Programs – Full Guide")** | Partner share of revenue (or margin) | Marketplaces, co-selling, media | Complex to audit; automate via finance data |
+| **Hybrid** | CPA + % + bonuses | Multi-role partners (referral + delivery) | Keep the policy one page; reduce exceptions |
+| **CPL/CPQ** | Per lead/opportunity qualified | Top-of-funnel partner marketers | Standardize MQL/SQL/SAO definitions |
+
+## 10 Types of Channel Partnerships in the iGaming Market
+
+“Channel partner” covers a wide spectrum in iGaming, and each type carries different reach, risk, and compliance load. You don’t need all ten; you need the right three to five per market, with clear attribution rules and payout logic that matches value creation—not vanity clicks.
+
+We’ve grouped the core partnership types we see driving scalable results in 2026, with plain-English guidance on where they shine and where they bite.
+
+**1. Content Affiliates (Guides, Comparisons, Local Portals)**
+
+Evergreen pages, intent-matched queries, steady assisted conversions. Protect first-touch for 21–30 days or paid brand will cannibalize them.
+
+**2. Streamers & Creators (Twitch/YouTube/Kick)**
+
+High trust, spiky volume. Price on hybrid (small CPA + RevShare kicker) with clawbacks for bonus abuse. Pre-approve assets; one slip can trigger painful reviews.
+
+**3. Odds & Stats Utilities**
+
+Live odds, calculators, widgets; sticky engagement. Integrate deep links + postbacks for event-level insight.
+
+**4. Tipster Communities & Forums**
+
+Niche but persuasive. Moderate for responsible gaming; reward verified FTD + quality thresholds (churn and ARPPU).
+
+**5. Bonus/Aggregator Websites**
+
+Mass reach, mixed quality. Tight fraud filters, staged payouts (KYC → FTD → [NGR](https://www.scaleo.io/blog/how-to-analyze-improve-ggr-and-ngr-top-casino-kpis-explained/#How_to_Calculate_Net_Gaming_Revenue_NGR "How To Analyze & Improve GGR and NGR + Top Casino KPIs Explained")). Without this rigor, finance will scream.
+
+**6. Media Publishers (Direct Buys/Programmatic Deals)**
+
+Premium inventory, predictable delivery. Works best with geo-specific editorial and event-led bursts (derbies, playoffs).
+
+**7. Mobile App Distribution & ASA Partners**
+
+Great for app markets; SKAN/SDK mapping matters. Expect stricter store policies—prep compliance text and screenshots per locale.
+
+**8. Payment & Fintech Partners**
+
+Co-marketing on preferred methods boosts conversion at deposit step. Track payment-method lift; don’t overcredit the last click.
+
+**9. Data/Tool Integrations ([API](https://www.scaleo.io/blog/how-to-troubleshoot-a-failed-api-integration-between-affiliate-software-and-igaming-platform/ "How to Troubleshoot a Failed API Integration Between Affiliate Software and iGaming Platform?"), SSO, Marketplace)**
+
+Deep product hooks (e.g., single-sign-on into betslips). Lower volume but elite retention. Contracts must define attribution events precisely.
+
+**10. Regional Influencers & Local Ambassadors**
+
+Micro-reach, macro-trust. Ideal for new markets or language niches. Supply sub-brand assets to avoid generic “casino spam” vibes.
+
+Have you considered the downstream impact of onboarding multiple partner types without channel precedence? Set the order. Publish it. Stick to it. Otherwise, disputes will eat your Fridays.
+
+| ![Image 2: 🧭](https://s.w.org/images/core/emoji/17.0.2/svg/1f9ed.svg)**Type** | ![Image 3: 📣](https://s.w.org/images/core/emoji/17.0.2/svg/1f4e3.svg)**Top-of-Funnel Reach** | ![Image 4: 🧪](https://s.w.org/images/core/emoji/17.0.2/svg/1f9ea.svg)**Signal Quality** | ![Image 5: 🔐](https://s.w.org/images/core/emoji/17.0.2/svg/1f510.svg)**Compliance Complexity** | ![Image 6: 💸](https://s.w.org/images/core/emoji/17.0.2/svg/1f4b8.svg)**Best Payout Model** | ![Image 7: 🧨](https://s.w.org/images/core/emoji/17.0.2/svg/1f9e8.svg)**Risk Flags** |
+| --- | --- | --- | --- | --- | --- |
+| ![Image 8: 📝](https://s.w.org/images/core/emoji/17.0.2/svg/1f4dd.svg) Content Affiliates | ![Image 9: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 10: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 11: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 12: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) RevShare/Hybrid | ![Image 13: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) Brand cannibalization |
+| ![Image 14: 🎥](https://s.w.org/images/core/emoji/17.0.2/svg/1f3a5.svg) Streamers/Creators | ![Image 15: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 16: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 17: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) | ![Image 18: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) Hybrid + clawbacks | ![Image 19: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) Spike volatility |
+| ![Image 20: 📊](https://s.w.org/images/core/emoji/17.0.2/svg/1f4ca.svg) Odds/Stats Tools | ![Image 21: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) | ![Image 22: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 23: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 24: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) RevShare | ![Image 25: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) Dev overhead |
+| ![Image 26: 💬](https://s.w.org/images/core/emoji/17.0.2/svg/1f4ac.svg) Forums/Tipsters | ![Image 27: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) | ![Image 28: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) | ![Image 29: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) | ![Image 30: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) CPA→RevShare | ![Image 31: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) RG scrutiny |
+| ![Image 32: 🎁](https://s.w.org/images/core/emoji/17.0.2/svg/1f381.svg) Bonus Aggregators | ![Image 33: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 34: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) | ![Image 35: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) | ![Image 36: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) Staged CPA | ![Image 37: ❌](https://s.w.org/images/core/emoji/17.0.2/svg/274c.svg) Incentive abuse risk |
+| ![Image 38: 📰](https://s.w.org/images/core/emoji/17.0.2/svg/1f4f0.svg) Media Publishers | ![Image 39: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 40: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 41: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 42: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) Flat + CPA | ![Image 43: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) Higher CPMs |
+| ![Image 44: 📱](https://s.w.org/images/core/emoji/17.0.2/svg/1f4f1.svg) App/ASA Partners | ![Image 45: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 46: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) | ![Image 47: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 48: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) CPA (SKAN-aware) | ![Image 49: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) Signal gaps |
+| ![Image 50: 💳](https://s.w.org/images/core/emoji/17.0.2/svg/1f4b3.svg) Payment Partners | ![Image 51: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) | ![Image 52: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 53: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 54: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) RevShare kicker | ![Image 55: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) Overcrediting last click |
+| ![Image 56: 🔌](https://s.w.org/images/core/emoji/17.0.2/svg/1f50c.svg) Data/Tool Integrations | ![Image 57: ❌](https://s.w.org/images/core/emoji/17.0.2/svg/274c.svg) | ![Image 58: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 59: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 60: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) RevShare | ![Image 61: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) Long setup |
+| ![Image 62: 🌍](https://s.w.org/images/core/emoji/17.0.2/svg/1f30d.svg) Local Ambassadors | ![Image 63: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) | ![Image 64: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 65: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) | ![Image 66: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) Hybrid | ![Image 67: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) Scale limits |
+
+![Image 68: ✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) = strong, ![Image 69: ⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) = situational, ![Image 70: ❌](https://s.w.org/images/core/emoji/17.0.2/svg/274c.svg) = weak
+
+Practical plays that make these partnerships compound:
+
+*   Set channel precedence (content first-touch protected; brand search can’t override within 21–30 days).
+*   Use staged payouts keyed to verified milestones (KYC, FTD within X days, NGR post-bonus).
+*   Standardize evidence: UTMs, click IDs, session logs—so dispute SLAs close in hours, not days.
+*   Ship two creative systems per market—evergreen and event-led—pre-cleared by compliance to keep go-to-market fast.
+
+We recommend maintaining a living scorecard per partner type: LTV/CAC by geo, fraud rate at deposit, and time-to-first-profit. When those three trend in the right direction and your partners know exactly how they earn this week, channel partnerships stop being fragile and start being a flywheel.
+
+## Sample Policy Language (Copy & Adapt)
+
+**Eligible Revenue:** Subscription fees and professional services _collected_ by Company, less taxes, credits, refunds, chargebacks, third-party pass-through costs, implementation waivers, and one-time discounts exceeding 20% unless pre-approved.
+
+**Attribution & Deal Registration:** Commissionable when (1) partner submits a unique opportunity, (2) Company approves within 5 business days, (3) opportunity closes within 120 days (or extended with active proof of progress).
+
+**Renewals:** Renewal share paid if partner conducts documented QBRs, maintains adoption score ≥ target, and participates in renewal cycle ≥ 45 days pre-term.
+
+**Clawbacks:** If a customer churns, refunds, or is delinquent within 90 days of activation, related commissions are debited on the next statement.
+
+**Enterprise SaaS renewal commissions**: In enterprise SaaS, renewal commission rates should not be treated as an automatic entitlement.
+
+Renewal share only makes sense when the partner still creates measurable value: executive sponsorship, QBR participation, adoption support, expansion discovery, or regional account coverage. The lazy version of partner compensation pays renewals forever. The adult version ties renewal economics to documented influence.
+
+**What belongs in a channel partner agreement?** A usable channel partner agreement should define the commissionable event, what counts as eligible revenue, how deal registration works, who owns renewals, when clawbacks apply, and how disputes are resolved.
+
+It should also state whether implementation fees, discounts, credits, taxes, refunds, and partner-funded promotions are commissionable.
+
+Most channel conflict starts where the agreement becomes fuzzy, not where the relationship becomes difficult.
+
+| KPI | Definition | Healthy Range |
+| --- | --- | --- |
+| **Partner-sourced ARR** | New ARR directly attributable to partners | 20–40% of total new ARR (mature programs) |
+| **Win rate** (partner vs. direct) | Closed-won / opportunities | Partners should be within ±10% of direct |
+| **Time to close** (days) | Avg. sales cycle on partner deals | Equal or faster than direct for mid-market |
+| **Attach & expansion rate** | Upsell/cross-sell within 12 months | ≥ 20% for SaaS with services |
+| **Net revenue retention** (NRR) | Renewal + expansion – contraction | ≥ 100–110% for partner-managed cohorts |
+
+**Operator Tip:** Publish a quarterly _Partner Earnings Statement_ that shows commissionable revenue, adjustments, clawbacks, and future eligibility in one view. Transparency kills [disputes](https://www.scaleo.io/blog/10-strategies-for-resolving-affiliate-payout-disputes/ "10 Strategies for Resolving Affiliate Payout Disputes").
+
+## Training, Enablement & MDF: Make Partners Sell Better, Faster
+
+Compensation without enablement is a wish. Bake enablement into your commission plan and fund it with MDF (market development funds) tied to measurable outcomes.
+
+| Enablement Track | Outcome | Incentive Hook |
+| --- | --- | --- |
+| Product & ICP mastery | Higher win rates, tighter targeting | +1–2% commission bump post-cert |
+| Pipeline hygiene & CRM usage | Forecast accuracy; fewer disputes | MDF unlocked only with compliant records |
+| Implementation & success playbooks | Lower churn; upsell readiness | Eligibility for renewal share |
+| Co-marketing execution | Lead gen at lower CPL | MDF reimbursement on proof of performance |
+
+## Governance: Legal, Compliance & Risk Controls
+
+Strong programs are boringly compliant. Protect the business (and your partners) with clear guardrails:
+
+*   **Documentation:** Public Partner Guide, commission policy, MDF rules, change-log. Signed addenda for any exceptions.
+*   **Payments & taxes:** Collect W-9/W-8, verify banking, reconcile to invoices actually _paid_; remit on Net-30/45.
+*   **Anti-kickback / anti-corruption:** No quid-pro-quo on public sector deals; gift/entertainment limits; audit rights in the partner agreement.
+*   **Data protection:** Process only necessary partner data; honor regional privacy laws; restrict PII in commission statements.
+
+## Implementation: Rolling Out Without Chaos
+
+1.   **Dry-run simulation:** Run last two quarters through the new rules. Adjust rates/eligibility if CAC explodes.
+2.   **Change management:** 30-day notice, partner webinars, and a red-lined policy diff. No surprises.
+3.   **Systems first:** Configure CRM, billing, and partner platform before announcing—otherwise disputes will swamp your team.
+4.   **Quarterly review:** Publish a scorecard, collect feedback, tune tiers/targets—not every month, every quarter.
+
+## Evaluating & Optimizing (Without Moving the Goalposts)
+
+Revisit economics and behavior, not headlines. If partners chase discounts instead of value, tighten “eligible revenue.” If CAC via channel beats direct, consider richer accelerators. Always test with shadow payouts before you change the live plan.
+
+## Conclusion: Pay for Value, Prove the Math, Publish the Rules
+
+A resilient channel commission plan aligns incentives, protects margins, and scales without manual firefighting. Set the rules, automate the math, and keep partners informed. Do that consistently, and your program becomes a predictable revenue line—not a quarterly debate.
+
+**Looking to create the perfect affiliate or partner program?****[Scaleo](https://www.scaleo.io/igaming)**helps you model multiple commission types (CPA, RevShare, tiered, and hybrid), automate eligibility and clawbacks, and surface real-time earnings to every partner. Book a demo or start a trial and pressure-test your plan with live data.
+
+[![Image 71: affiliate marketing software design for iGaming Industry](https://www.scaleo.io/blog/wp-content/uploads/2023/01/scaleo-affiliate-software-for-igaming-industry-scaled.jpg)](https://www.scaleo.io/igaming)
+### Key Takeaways
+
+*   Define eligibility, attribution, and clawbacks before rates—policy beats percentages.
+*   Pay on **net collected revenue** to protect CAC/LTV.
+*   Use tiered + recurring models to reward scale and retention behavior.
+*   Publish transparent statements to reduce disputes and speed payouts.
+*   Review quarterly; change semi-annually; document everything.
+
+Ready to operationalize all of this? **[Try Scaleo free](https://www.scaleo.io/)** for 14 days and see how clean partner economics feel when the math, the policy, and the payouts live in one place.
+
+## Channel Commission FAQs (2026)
+
+### What is a channel partner commission structure?
+
+A documented framework that defines how, when, and on what basis partners are paid (rates, eligibility, attribution windows, clawbacks, and pay terms).
+
+### Which payout model should I use?
+
+Use CPA for referrals, % of net collected for resellers, tiered accelerators for scale, and renewal share when partners deliver measurable customer value (adoption, QBRs).
+
+### How do I avoid channel conflict?
+
+Deal registration + time-boxed attribution + transparent escalation rules. Reserve territory exclusivity for partners who consistently hit performance floors.
+
+### How often should I change commissions?
+
+Quarterly review; semi-annual adjustments. Publish changes with 30-day notice and keep a version history.
+
+5–10% is common for SaaS when partners actively manage success & renewals. Pay on net collected; enforce clawbacks on early churn.

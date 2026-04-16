@@ -1,0 +1,58 @@
+Title: Hotel Nights Calculator - PureTables.com
+
+URL Source: https://puretables.com/hotel-nights-calculator
+
+Markdown Content:
+Calculate the number of hotel nights and estimate the total cost of the stay based on the entered arrival date, departure date, and optionally, the price per night.
+
+Discover more
+
+calculator
+
+Calculator
+
+Calculators
+
+**Arrival Date:**
+
+**Departure Date:**
+
+**Price per 1 night:**
+
+$
+
+Add 1 day (for example, in the case of an evening departure, after the start of the next hotel night).
+
+Result:
+
+**Number of hotel nights:**
+
+**Estimated total cost of the stay:**
+
+$
+
+## How to use this calculator?
+
+1.   Input your arrival date.
+2.   Input your departure date.
+3.   If desired, input the price for 1 night for the estimated total cost of the stay.
+4.   Tick the "Add 1 day" box if you anticipate late check-out, and the hotel counts it as an additional night.
+
+## How do hotels calculate nights?
+
+Hotel nights usually represent the nights you spend in a hotel.
+
+If you plan to leave the hotel after the check-out time on a given day, even if you won't spend that night there, you should include this night in your calculation (use the "Add 1 day" option in the calculator).
+
+For example, if you check in at 11 AM on Monday:
+
+*   Check out before 11 AM on Tuesday, and many hotels would count it as one night.
+*   Check out at 6 PM on Tuesday (after the check-out time) or 8 PM on Wednesday, and it would be considered two nights.
+
+Be aware of specific check-in and check-out times some hotels enforce. It's crucial to understand their policies, how they calculate nights, and any potential charges for early check-ins or late check-outs.
+
+* * *
+
+## See Also:
+
+*   [Days Calculator](https://puretables.com/days-calculator)

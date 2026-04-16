@@ -1,0 +1,480 @@
+Title: Year over Year (YoY)
+
+URL Source: https://www.wallstreetprep.com/knowledge/year-over-year-yoy/
+
+Published Time: 2021-11-22T23:27:20-05:00
+
+Markdown Content:
+# Year over Year (YoY) | Formula + Calculator
+![Image 5: background](blob:http://localhost/2ae4cf0a8557682a62e562fa2b78188e)
+
+**Welcome to Wall Street Prep!** Use code  at checkout for 15% off. 
+
+**WSP Certificates with  Columbia & Wharton  Certificates  Now Open! Now Open:**
+
+[AI in Finance](https://wallstreetprep.business.columbia.edu/ai-certification/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=bannerAnnouncement)•[Private Equity](https://wallstreetprep.wharton.upenn.edu/pe-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=bannerAnnouncement)•[FP&A](https://wallstreetprep.wharton.upenn.edu/financial-planning-and-analysis-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=bannerAnnouncement)•
+
+[Real Estate](https://wallstreetprep.wharton.upenn.edu/real-estate-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=bannerAnnouncement)•[Restructuring](https://wallstreetprep.wharton.upenn.edu/restructuring-distressed-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=bannerAnnouncement)•[Value Investing](https://wallstreetprep.wharton.upenn.edu/applied-value-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=bannerAnnouncement)
+
+[](https://gv142.infusionsoft.com/app/manageCart/showManageOrder)
+
+*   [![Image 6: Wall street prep logo](https://media.wallstreetprep.com/wspimage/wsp-logo-reverse.svg)](https://www.wallstreetprep.com/)
+*   [Self-Study](https://www.wallstreetprep.com/programs/)**Financial Modeling Packages**[Premium Package _Most Popular_](https://www.wallstreetprep.com/self-study-programs/premium-package/)[Basic Package](https://www.wallstreetprep.com/self-study-programs/basic-package/) **Industry-Specific Modeling**[Project Finance Modeling](https://www.wallstreetprep.com/self-study-programs/the-ultimate-project-finance-modeling-package/)[Bank & FIG Modeling](https://www.wallstreetprep.com/self-study-programs/bank-and-fig-modeling/)[Oil & Gas Modeling](https://www.wallstreetprep.com/self-study-programs/oil-and-gas-modeling/)[The Impact of Tax Reform on Financial Modeling](https://www.wallstreetprep.com/self-study-programs/the-impact-of-tcja-on-financial-models/)[Biotech Sum of the Parts Valuation](https://www.wallstreetprep.com/self-study-programs/biotech-sotp-valuation/) **Restructuring**[Corporate Restructuring](https://www.wallstreetprep.com/self-study-programs/corporate-restructuring/)[The 13-Week Cash Flow Model](https://www.wallstreetprep.com/self-study-programs/13-week-cash-flow-model/) **Private Equity & VC**[Private Equity Masterclass](https://www.wallstreetprep.com/self-study-programs/private-equity-masterclass/)[Venture Capital Masterclass](https://www.wallstreetprep.com/self-study-programs/venture-capital-masterclass/)[Private Equity Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/pe-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Equity Research**[Sell-Side Equity Research (ERC©)](https://www.wallstreetprep.com/self-study-programs/sell-side-equity-research-certification/)[Buy-Side Financial Modeling](https://www.wallstreetprep.com/self-study-programs/buy-side-financial-modeling/)[Applied Value Investing Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/applied-value-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Productivity & Data Analysis**[Excel Crash Course](https://www.wallstreetprep.com/self-study-programs/excel-crash-course/)[PowerPoint Crash Course](https://www.wallstreetprep.com/self-study-programs/powerpoint-crashcourse/)[Ultimate Excel VBA Course](https://www.wallstreetprep.com/self-study-programs/the-ultimate-excel-vba-course/) **Real Estate**[Real Estate Financial Modeling](https://www.wallstreetprep.com/self-study-programs/real-estate-financial-modeling/)[REIT Modeling](https://www.wallstreetprep.com/self-study-programs/real-estate-modeling/)[Real Estate Investing Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/real-estate-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **AI for Business & Finance**[AI Certificate (w/ Columbia Business School Exec Ed)](https://wallstreetprep.business.columbia.edu/ai-certification/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Accounting, Finance & Credit**[Accounting Crash Course](https://www.wallstreetprep.com/self-study-programs/accounting-crash-course/)[Advanced Accounting](https://www.wallstreetprep.com/self-study-programs/advanced-accounting/)[Crash Course in Bonds](https://www.wallstreetprep.com/self-study-programs/crash-course-in-bonds/)[Analyzing Financial Reports](https://www.wallstreetprep.com/self-study-programs/analyzing-financial-reports/)[Interpreting Non-GAAP Reports](https://www.wallstreetprep.com/self-study-programs/interpreting-non-gaap-reports/) **FP&A**[FP&A Modeling](https://www.wallstreetprep.com/self-study-programs/financial-planning-and-analysis-modeling-certification/)[FP&A Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/financial-planning-and-analysis-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Markets • Sales & Trading**[Fixed Income Markets (FIMC©)](https://www.wallstreetprep.com/self-study-programs/fixed-income-markets-certification-program/)[Equities Markets (EMC©)](https://www.wallstreetprep.com/self-study-programs/equities-markets-certification-program/)[ESG Investing](https://www.wallstreetprep.com/self-study-programs/esg-investing-green-bonds-and-social-bonds/) **Investment Banking Interview**[Networking & Behavioral Interview](https://www.wallstreetprep.com/self-study-programs/the-blue-book/)[1000 IB Interview Questions](https://www.wallstreetprep.com/self-study-programs/the-red-book/) **Professional Skills**[Investment Banking "Soft Skills"](https://www.wallstreetprep.com/self-study-programs/investment-banking-soft-skills/)  **Financial Modeling Packages**[Premium Package _Most Popular_](https://www.wallstreetprep.com/self-study-programs/premium-package/)[Basic Package](https://www.wallstreetprep.com/self-study-programs/basic-package/) **Industry-Specific Modeling**[Project Finance Modeling](https://www.wallstreetprep.com/self-study-programs/the-ultimate-project-finance-modeling-package/)[Bank & FIG Modeling](https://www.wallstreetprep.com/self-study-programs/bank-and-fig-modeling/)[Oil & Gas Modeling](https://www.wallstreetprep.com/self-study-programs/oil-and-gas-modeling/)[The Impact of Tax Reform on Financial Modeling](https://www.wallstreetprep.com/self-study-programs/the-impact-of-tcja-on-financial-models/)[Biotech Sum of the Parts Valuation](https://www.wallstreetprep.com/self-study-programs/biotech-sotp-valuation/) **Productivity & Data Analysis**[Excel Crash Course](https://www.wallstreetprep.com/self-study-programs/excel-crash-course/)[PowerPoint Crash Course](https://www.wallstreetprep.com/self-study-programs/powerpoint-crashcourse/)[Ultimate Excel VBA Course](https://www.wallstreetprep.com/self-study-programs/the-ultimate-excel-vba-course/) **Restructuring**[Corporate Restructuring](https://www.wallstreetprep.com/self-study-programs/corporate-restructuring/)[The 13-Week Cash Flow Model](https://www.wallstreetprep.com/self-study-programs/13-week-cash-flow-model/) **Private Equity & VC**[Private Equity Masterclass](https://www.wallstreetprep.com/self-study-programs/private-equity-masterclass/)[Venture Capital Masterclass](https://www.wallstreetprep.com/self-study-programs/venture-capital-masterclass/)[Private Equity Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/pe-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Equity Research**[Sell-Side Equity Research (ERC©)](https://www.wallstreetprep.com/self-study-programs/sell-side-equity-research-certification/)[Buy-Side Financial Modeling](https://www.wallstreetprep.com/self-study-programs/buy-side-financial-modeling/)[Value Investing Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/applied-value-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Markets • Sales & Trading**[Fixed Income Markets (FIMC©)](https://www.wallstreetprep.com/self-study-programs/fixed-income-markets-certification-program/)[Equities Markets (EMC©)](https://www.wallstreetprep.com/self-study-programs/equities-markets-certification-program/)[ESG Investing](https://www.wallstreetprep.com/self-study-programs/esg-investing-green-bonds-and-social-bonds/) **IB Interview & Soft Skills**[Networking & Behavioral Interview](https://www.wallstreetprep.com/self-study-programs/the-blue-book/)[1000 IB Interview Questions](https://www.wallstreetprep.com/self-study-programs/the-red-book/)[Investment Banking "Soft Skills"](https://www.wallstreetprep.com/self-study-programs/investment-banking-soft-skills/) **Real Estate**[Real Estate Financial Modeling](https://www.wallstreetprep.com/self-study-programs/real-estate-financial-modeling/)[REIT Modeling](https://www.wallstreetprep.com/self-study-programs/real-estate-modeling/)[Real Estate Investing Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/real-estate-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **FP&A**[FP&A Modeling](https://www.wallstreetprep.com/self-study-programs/financial-planning-and-analysis-modeling-certification/)[FP&A Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/financial-planning-and-analysis-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **AI for Business & Finance**[AI for Finance Certificate (w/ Columbia Business School Exec Ed)](https://wallstreetprep.business.columbia.edu/ai-certification/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav) **Accounting, Finance & Credit**[Accounting Crash Course](https://www.wallstreetprep.com/self-study-programs/accounting-crash-course/)[Advanced Accounting](https://www.wallstreetprep.com/self-study-programs/advanced-accounting/)[Crash Course in Bonds](https://www.wallstreetprep.com/self-study-programs/crash-course-in-bonds/)[Analyzing Financial Reports](https://www.wallstreetprep.com/self-study-programs/analyzing-financial-reports/)[Interpreting Non-GAAP Reports](https://www.wallstreetprep.com/self-study-programs/interpreting-non-gaap-reports/)  [View All Courses](https://www.wallstreetprep.com/programs/)  
+*   [Boot Camps](https://www.wallstreetprep.com/public-courses/)
+*   [Private Coaching](https://www.wallstreetprep.com/coaching/)
+*   [Corporate](https://www.wallstreetprep.com/corporate/)
+*   [University](https://www.wallstreetprep.com/on-campus-training/)
+*   [Free Content](https://www.wallstreetprep.com/free-resources/)
+
+*     
+*   [](https://gv142.infusionsoft.com/app/manageCart/showManageOrder)
+*   [Login](https://www.wallstreetprep.com/member-login/)
+
+Technical Skills
+
+*   [Accounting & Finance](https://www.wallstreetprep.com/topics/accounting/)
+*   [Excel](https://www.wallstreetprep.com/topics/excel/)
+*   [Financial Modeling, M&A, LBO & Valuation](https://www.wallstreetprep.com/topics/financial-modeling/)
+
+Careers & Industries
+
+*   [Investment Banking](https://www.wallstreetprep.com/topics/investment-banking/)
+*   [Private Equity](https://www.wallstreetprep.com/topics/private-equity/)
+*   [Valuation](https://www.wallstreetprep.com/topics/valuation/)
+*   [Venture Capital](https://www.wallstreetprep.com/topics/venture-capital/)
+*   [Interview Prep](https://www.wallstreetprep.com/topics/interview-prep/)
+
+[View all Free Content](https://www.wallstreetprep.com/free-resources/)
+
+Most-Viewed Content
+
+[The Ultimate Guide to Modeling Best Practices](https://www.wallstreetprep.com/knowledge/financial-modeling/)[The 100+ Excel Shortcuts You Need to Know, for Windows and Mac](https://www.wallstreetprep.com/knowledge/excel-shortcuts/)[Common Finance Interview Questions (and Answers)](https://www.wallstreetprep.com/knowledge/finance-interview-questions-and-answers/)[Investment Banking Analyst Salary Guide](https://www.wallstreetprep.com/knowledge/investment-banking-analyst-salary-guide/)[Investment Banking Career Paths](https://www.wallstreetprep.com/knowledge/investment-banking-careers/)[What is Investment Banking? An Industry Overview](https://www.wallstreetprep.com/knowledge/investment-banking/)
+
+[![Image 7: Wall street prep logo](https://media.wallstreetprep.com/wspimage/wsp-logo-full.svg)](https://www.wallstreetprep.com/)
+*   [Login](https://www.wallstreetprep.com/member-login/)
+*    Self-Study Courses 
+    *   [All Self-Study Programs](https://www.wallstreetprep.com/programs/)
+    *    Financial Modeling Packages 
+        *   [Premium Package](https://www.wallstreetprep.com/self-study-programs/premium-package/)
+        *   [Basic Package](https://www.wallstreetprep.com/self-study-programs/basic-package/)
+
+    *    Private Equity & VC 
+        *   [Private Equity Masterclass](https://www.wallstreetprep.com/self-study-programs/private-equity-masterclass/)
+        *   [Venture Capital Masterclass](https://www.wallstreetprep.com/self-study-programs/venture-capital-masterclass/)
+        *   [Private Equity Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/pe-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav)
+
+    *    Equity Research 
+        *   [Sell-Side Equity Research (ERC©)](https://www.wallstreetprep.com/self-study-programs/sell-side-equity-research-certification/)
+        *   [Buy-Side Financial Modeling](https://www.wallstreetprep.com/self-study-programs/buy-side-financial-modeling/)
+        *   [Applied Value Investing Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/applied-value-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav)
+
+    *    Real Estate 
+        *   [Real Estate Financial Modeling](https://www.wallstreetprep.com/self-study-programs/real-estate-financial-modeling/)
+        *   [REIT Modeling](https://www.wallstreetprep.com/self-study-programs/real-estate-modeling/)
+        *   [Real Estate Investing Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/real-estate-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav)
+
+    *    FP&A 
+        *   [FP&A Modeling](https://www.wallstreetprep.com/self-study-programs/financial-planning-and-analysis-modeling-certification/)
+        *   [FP&A Certificate (w/ Wharton)](https://wallstreetprep.wharton.upenn.edu/financial-planning-and-analysis-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav)
+
+    *    AI for Business & Finance 
+        *   [AI for Finance Certificate (w/ Columbia Business School Exec Ed)](https://wallstreetprep.business.columbia.edu/ai-certification/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=siteNav)
+
+    *    Industry-Specific Modeling 
+        *   [FP&A Modeling (CFPAM™)](https://www.wallstreetprep.com/self-study-programs/financial-planning-and-analysis-modeling-certification/)
+        *   [Project Finance Modeling](https://www.wallstreetprep.com/self-study-programs/the-ultimate-project-finance-modeling-package/)
+        *   [Bank & FIG Modeling](https://www.wallstreetprep.com/self-study-programs/bank-and-fig-modeling/)
+        *   [Oil & Gas Modeling](https://www.wallstreetprep.com/self-study-programs/oil-and-gas-modeling/)
+        *   [Biotech Sum of the Parts Valuation](https://www.wallstreetprep.com/self-study-programs/biotech-sotp-valuation/)
+        *   [The Impact of Tax Reform on Financial Modeling](https://www.wallstreetprep.com/self-study-programs/the-impact-of-tcja-on-financial-models/)
+
+    *    Restructuring 
+        *   [Corporate Restructuring](https://www.wallstreetprep.com/self-study-programs/corporate-restructuring/)
+        *   [The 13-Week Cash Flow Model](https://www.wallstreetprep.com/self-study-programs/13-week-cash-flow-model/)
+
+    *    Accounting, Finance & Credit 
+        *   [Accounting Crash Course](https://www.wallstreetprep.com/self-study-programs/accounting-crash-course/)
+        *   [Advanced Accounting](https://www.wallstreetprep.com/self-study-programs/advanced-accounting/)
+        *   [Crash Course in Bonds](https://www.wallstreetprep.com/self-study-programs/crash-course-in-bonds/)
+        *   [Analyzing Financial Reports](https://www.wallstreetprep.com/self-study-programs/analyzing-financial-reports/)
+        *   [Interpreting Non-GAAP Reports](https://www.wallstreetprep.com/self-study-programs/interpreting-non-gaap-reports/)
+
+    *    Markets • Sales & Trading 
+        *   [Fixed Income Markets (FIMC©)](https://www.wallstreetprep.com/self-study-programs/fixed-income-markets-certification-program/)
+        *   [Equities Markets Certification (EMC©)](https://www.wallstreetprep.com/self-study-programs/equities-markets-certification-program/)
+        *   [ESG Investing](https://www.wallstreetprep.com/self-study-programs/esg-investing-green-bonds-and-social-bonds/)
+
+    *    Productivity & Data Analysis 
+        *   [Excel Crash Course](https://www.wallstreetprep.com/self-study-programs/excel-crash-course/)
+        *   [PowerPoint Crash Course](https://www.wallstreetprep.com/self-study-programs/powerpoint-crashcourse/)
+        *   [Ultimate Excel VBA Course](https://www.wallstreetprep.com/self-study-programs/the-ultimate-excel-vba-course/)
+
+    *    IB Interview Prep & Soft Skills 
+        *   [Networking & Behavioral Interview](https://www.wallstreetprep.com/self-study-programs/the-blue-book/)
+        *   [1000 Investment Banking Interview Questions](https://www.wallstreetprep.com/self-study-programs/the-red-book/)
+        *   [Investment Banking "Soft Skills"](https://www.wallstreetprep.com/self-study-programs/investment-banking-soft-skills/)
+
+*   [Virtual Boot Camps](https://www.wallstreetprep.com/public-courses/)
+*   [Private Coaching](https://www.wallstreetprep.com/coaching/)
+*   [Corporate Training](https://www.wallstreetprep.com/corporate/)
+*   [University Training](https://www.wallstreetprep.com/on-campus-training/)
+*   [Free Content](https://www.wallstreetprep.com/free-resources/)
+*   [Support/Contact Us](https://www.wallstreetprep.com/support/)
+*   [About Wall Street Prep](https://www.wallstreetprep.com/about/)
+
+*   [Resources](https://www.wallstreetprep.com/free-resources/)
+*   [Investment Analysis](https://www.wallstreetprep.com/topics/investment-analysis/)
+*    Year over Year (YoY) 
+
+# Year over Year (YoY)
+
+Step-by-Step Guide to Understanding Year over Year (YoY) Growth
+
+Updated Apr. 7, 2025 
+
+4m Read Time
+
+ Part of the Guide On... 
+
+ Market Research  Part of the Guide On: 
+
+ Market Research 
+
+ Market Research Fundamental Concepts 
+
+[SWOT Analysis](https://www.wallstreetprep.com/knowledge/swot-analysis/)[Porter’s 5 Forces Model](https://www.wallstreetprep.com/knowledge/porters-five-forces-model/)[BCG Growth Share Matrix](https://www.wallstreetprep.com/knowledge/bcg-matrix/)[Tailwinds](https://www.wallstreetprep.com/knowledge/tailwinds/)
+
+ Growth Metrics 
+
+[Growth Rate](https://www.wallstreetprep.com/knowledge/growth-rate/)Year over Year (YoY)[Month over Month Growth (M/M)](https://www.wallstreetprep.com/knowledge/month-over-month-growth-rate/)[Compound Annual Growth Rate (CAGR)](https://www.wallstreetprep.com/knowledge/cagr-compound-annual-growth-rate/)[Compound Monthly Growth Rate (CMGR)](https://www.wallstreetprep.com/knowledge/compound-monthly-growth-rate-cmgr/)[Average Annual Growth Rate (AAGR)](https://www.wallstreetprep.com/knowledge/average-annual-growth-rate-aagr/)[Sustainable Growth Rate (SGR)](https://www.wallstreetprep.com/knowledge/sustainable-growth-rate/)[Internal Growth Rate (IGR)](https://www.wallstreetprep.com/knowledge/internal-growth-rate/)[Inorganic Growth](https://www.wallstreetprep.com/knowledge/inorganic-growth/)[Organic Growth](https://www.wallstreetprep.com/knowledge/organic-growth/)[Reinvestment Rate](https://www.wallstreetprep.com/knowledge/reinvestment-rate/)
+
+ Competitive Landscape 
+
+[Economies of Scale](https://www.wallstreetprep.com/knowledge/economies-of-scale/)[Diseconomies of Scale](https://www.wallstreetprep.com/knowledge/diseconomies-of-scale/)[Switching Costs](https://www.wallstreetprep.com/knowledge/switching-costs/)[Barriers to Entry](https://www.wallstreetprep.com/knowledge/barriers-to-entry/)[Network Effects](https://www.wallstreetprep.com/knowledge/network-effects/)[Pricing Power](https://www.wallstreetprep.com/knowledge/pricing-power/)[Headwinds](https://www.wallstreetprep.com/knowledge/headwinds/)[Revenue Streams](https://www.wallstreetprep.com/knowledge/revenue-streams/)[Resale Value](https://www.wallstreetprep.com/knowledge/resale-value/)[Original Equipment Manufacturer (OEM)](https://www.wallstreetprep.com/knowledge/oem-original-equipment-manufacturer/)
+
+ Strategic Growth Framework 
+
+[First Mover Advantage](https://www.wallstreetprep.com/knowledge/first-mover-advantage/)[Blue Ocean Strategy](https://www.wallstreetprep.com/knowledge/blue-ocean-strategy/)[Red Ocean Strategy](https://www.wallstreetprep.com/knowledge/red-ocean-strategy/)
+
+ Pricing Model Strategies 
+
+[Subscription Pricing](https://www.wallstreetprep.com/knowledge/subscription-pricing/)[Value-Based Pricing](https://www.wallstreetprep.com/knowledge/value-based-pricing/)[Competitive Pricing](https://www.wallstreetprep.com/knowledge/competitive-pricing/)[Cost-Based Pricing](https://www.wallstreetprep.com/knowledge/cost-based-pricing/)[Usage-Based Pricing (UBP)](https://www.wallstreetprep.com/knowledge/usage-based-pricing-ubp/)[Tiered Pricing](https://www.wallstreetprep.com/knowledge/tiered-pricing/)[Freemium](https://www.wallstreetprep.com/knowledge/freemium/)[Commoditization](https://www.wallstreetprep.com/knowledge/commoditization/)[Cost-Plus Pricing](https://www.wallstreetprep.com/knowledge/cost-plus-pricing/)[Target Costing](https://www.wallstreetprep.com/knowledge/target-costing/)
+
+ Project Management 
+
+[Cost Variance](https://www.wallstreetprep.com/knowledge/cost-variance/)
+
+Table of Contents
+
+1.   [What is YoY?](https://www.wallstreetprep.com/knowledge/year-over-year-yoy/#h2_1)
+2.   [How to Calculate YoY Growth](https://www.wallstreetprep.com/knowledge/year-over-year-yoy/#h2_2)
+3.   [YoY Formula](https://www.wallstreetprep.com/knowledge/year-over-year-yoy/#h2_3)
+4.   [YoY Growth Calculation Example](https://www.wallstreetprep.com/knowledge/year-over-year-yoy/#h2_4)
+5.   [What is a Good YoY Growth Rate?](https://www.wallstreetprep.com/knowledge/year-over-year-yoy/#h2_5)
+6.   [Use AI for Deeper YoY Analysis Insights](https://www.wallstreetprep.com/knowledge/year-over-year-yoy/#h2_6)
+7.   [YoY Growth Calculator — Excel Template](https://www.wallstreetprep.com/knowledge/year-over-year-yoy/#h2_7)
+8.   [1. Revenue Growth Rate Assumptions](https://www.wallstreetprep.com/knowledge/year-over-year-yoy/#h2_8)
+9.   [2. YoY Growth Calculation in Excel](https://www.wallstreetprep.com/knowledge/year-over-year-yoy/#h2_9)
+10.   [3. YoY Growth Analysis Example](https://www.wallstreetprep.com/knowledge/year-over-year-yoy/#h2_10)
+
+## What is YoY?
+
+The **Year over Year (YoY)**growth is the percentage change in an annualized metric over two comparable periods, most often the current and prior period.
+
+By comparing a company’s current annual financial performance to that of 12 months back, the rate at which the company has grown as well as any cyclical patterns can be identified.
+
+![Image 8: Year over Year (YoY)](https://media.wallstreetprep.com/uploads/2022/01/18155326/Year-over-Year-Growth-Formula-960x300.jpg)
+
+Generating
+
+Generate Key Takeaways
+
+*   YoY stands for “year-over-year” and measures the rate of change in a metric across two comparable periods.
+*   The YoY growth rate can be used to analyze the annual increase or decrease in a financial metric, such as revenue.
+*   The YoY metric is most often used to determine the growth rate over the prior period, i.e. the rate of growth at which the financial metric grow by to reach the ending period value.
+*   The formula to calculate the YoY growth rate is to divide the current period balance by the beginning period balance, and then subtracting by one.
+
+## How to Calculate YoY Growth
+
+YoY stands for “Year-over-Year”, and measures the rate of [growth](https://www.wallstreetprep.com/knowledge/growth-rate/) in a specific metric over two comparable periods, such as the current and prior period.
+
+The objective of performing a year over year growth analysis (YoY) is to compare recent financial performance to historical periods.
+
+The question answered by performing a YoY growth analysis is, _“Has the business been growing at a faster pace than the previous year, or has growth been slowing down in recent years?”_
+
+To calculate the YoY [growth rate](https://www.wallstreetprep.com/knowledge/growth-rate/), the current period amount is divided by the prior period amount, and then one is subtracted to get to a percentage rate.
+
+## YoY Formula
+
+The formula used to calculate the year over year (YoY) growth divides the current period value by the prior period value, and then subtracts by one.
+
+**Year-over-Year Growth (YoY) =** (Current Period Value **÷** Prior Period Value) **–** 1
+
+Where:
+
+*   Current Period → End of Period (EoP)
+*   Prior Period → Beginning of Period (BoP)
+
+## YoY Growth Calculation Example
+
+For example, suppose the net [operating income](https://www.wallstreetprep.com/knowledge/operating-income/) (NOI) of a commercial real estate property investment has grown from $25 million in Year 0 to $30 million in Year 1.
+
+*   Beginning NOI (Year 0) = $25 million
+*   Ending NOI (Year 1) = $30 million
+*   Increase / (Decrease) = $30 million – $25 million = $5 million
+
+After inputting our assumptions into the formula, we arrive at an YoY growth rate of 20% in the [net operating income (NOI)](https://www.wallstreetprep.com/knowledge/noi-net-operating-income/) of the property.
+
+*   NOI YoY Growth (%) = ($30 million ÷ $25 million) – 1 = 20.0%
+
+Alternatively, another method to calculate the YoY growth is to subtract the prior period balance from the current period balance, and then divide that amount by the prior period balance.
+
+*   NOI YoY Growth (%) = ($30 million – $25 million) ÷ $25 million = 20.0%
+
+Under either approach, the year over year (YoY) growth rate in the property’s NOI is 20.0%, which reflects the [percentage change](https://www.wallstreetprep.com/knowledge/percent-change/) between the two periods.
+
+## What is a Good YoY Growth Rate?
+
+The main benefit of YoY growth analysis is how easy it is to track and compare growth rates across several periods. If the growth metric is annualized, the adjustment removes the impact of monthly [volatility](https://www.wallstreetprep.com/knowledge/volatility/).
+
+Furthermore, cyclical patterns become apparent if the analysis with historical results is inclusive of a minimum of one full economic cycle.
+
+While the intuition is easy to grasp for the two basic rules, you must perform deeper diligence into the company’s growth trajectory to identify the core underlying drivers behind the change, before reaching a definitive conclusion.
+
+*   Increase in YoY Growth Rate → Positive Outlook in Growth Trajectory
+*   Decrease in YoY Growth Rate → Negative Outlook in Growth Trajectory
+
+Briefly, consider a company whose [revenue](https://www.wallstreetprep.com/knowledge/net-revenue/) growth rate in the past year was 5%, but whose growth rate was merely 3% in the current year.
+
+However, the quality of the revenue generated could have improved despite the slightly lower growth rate (e.g. longer-term contractual revenue, less [churn](https://www.wallstreetprep.com/knowledge/churn-rate/), fewer customer acquisition costs).
+
+On that note, it would be inaccurate to assume that the current year was necessarily “worse” than the prior year without a deeper dive analysis.
+
+In addition, another important consideration is that growth inevitably slows down eventually for all companies.
+
+Late-stage, mature companies with established market shares are less likely to allocate funds to facilitate more growth (e.g. reinvestment, [capital expenditures](https://www.wallstreetprep.com/knowledge/capital-expenditure-capex/)).
+
+Instead, such companies are more inclined to focus on the following types of corporate actions:
+
+*   Issue Dividends to Common Shareholders (or Preferred Shareholders)
+*   Integrate Changes to Improve Operating Efficiency (i.e. Higher Profit Margins, Free Cash Flow Conversion)
+*   Extract More Value from Existing Customer Base (Upselling / Cross-Selling)
+*   Increased Spending on New Customer Acquisition Strategies
+*   Improve Customer Retention Rate (or Reduce Customer Churn Rate)
+
+![Image 9: AI in Finance](https://media.wallstreetprep.com/wspimage/wsp_ai_finance.svg)
+## **Use AI for Deeper YoY Analysis Insights**
+
+Year-over-Year (YoY) analysis is a foundational tool in financial reporting, enabling professionals to track growth, seasonality, and operational efficiency across comparable time periods. As organizations grapple with increasingly complex datasets, artificial intelligence is proving essential in enhancing YoY analysis by streamlining data aggregation, surfacing emerging patterns, and generating predictive insights. These innovations are especially relevant in today’s financial landscape, which is why Wall Street Prep, in collaboration with Columbia Business School Executive Education, developed the [AI for Business & Finance Certificate Program](https://wallstreetprep.business.columbia.edu/ai-certification/). By exploring how technologies like AI are reshaping [growth trends](https://wallstreetprep.business.columbia.edu/ai-certification/), this program helps professionals rethink how they approach [year-over-year performance](https://wallstreetprep.business.columbia.edu/ai-certification/).
+
+[Learn the AI for Finance Skill Set](https://wallstreetprep.business.columbia.edu/ai-certification/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=inlineTextAd)
+
+## YoY Growth Calculator — Excel Template
+
+We’ll now move on to a modeling exercise, which you can access by filling out the form below.
+
+First Name* 
+
+Last Name* 
+
+Email* 
+
+WSP_last_form_interest 
+
+WSP_last_form_completed_action 
+
+WSP_last_form_completed_page_name 
+
+WSP_last_form_completed_page_url 
+
+WSP_last_form_completed_datetime 
+
+WSP_last_form_completed_file_url 
+
+WSP_last_form_completed_file_name 
+
+wsp_last_form_ft_utm_campaign 
+
+wsp_last_form_ft_utm_content 
+
+wsp_last_form_ft_utm_medium 
+
+wsp_last_form_ft_utm_source 
+
+wsp_last_form_lt_utm_content 
+
+wsp_last_form_lt_utm_campaign 
+
+wsp_last_form_lt_utm_medium 
+
+wsp_last_form_lt_utm_source 
+
+## 1. Revenue Growth Rate Assumptions
+
+Suppose we’re analyzing the growth profile of a company that generated $100 million in revenue and $25 million in operating income ([EBIT](https://www.wallstreetprep.com/knowledge/ebit/)) in the [trailing twelve months](https://www.wallstreetprep.com/knowledge/ttm-trailing-twelve-months/).
+
+Selected Financial Data (Year 0)
+
+1.   Revenue (or “Sales”), Year 0 = $100 million
+2.   Operating Income (or “EBIT”), Year 0 = $25 million
+
+Our first step is to project the company’s revenue and operating income (EBIT) using the following assumptions.
+
+*   Revenue YoY Growth Rate = +4%
+*   Operating Income (EBIT) YoY Growth Rate = -3%
+
+## 2. YoY Growth Calculation in Excel
+
+If we multiply the prior period balance by (1 + growth rate assumption), we can calculate the projected current period balance.
+
+For example, in Year 0 (12/31/21), the revenue is $100m, so the next period’s revenue is $104m after applying the 4.0% YoY growth assumption.
+
+*   Revenue, Year 1 = $100 million × (1 + 4.0%) = $104 million
+
+Once we perform the same process for revenue in all forecasted periods, as well as for EBIT, the next part of our modeling exercise is to calculate the YoY growth rate.
+
+[![Image 10: YoY Growth Calculation Example in Excel](https://media.wallstreetprep.com/uploads/2021/11/02050206/YoY-Growth-Calculation-Example-in-Excel.jpg)](https://media.wallstreetprep.com/uploads/2021/11/02050206/YoY-Growth-Calculation-Example-in-Excel.jpg)
+
+## 3. YoY Growth Analysis Example
+
+Here, by dividing the current period amount by the prior period amount, and then subtracting 1, we arrive at the implied growth rate.
+
+In Year 1, we divide $104m by $100m and subtract one to get 4.0%, which reflects the growth rate from the preceding year.
+
+The YoY growth of our company can be analyzed for an improved understanding of its growth trajectory, the implied stage of the company’s life-cycle, and cyclical trends in [operating performance](https://www.wallstreetprep.com/knowledge/ebitda/).
+
+[![Image 11: YoY Growth Calculator](https://media.wallstreetprep.com/uploads/2021/11/04105207/YoY-Growth-Calculator.jpg)](https://media.wallstreetprep.com/uploads/2021/11/04105207/YoY-Growth-Calculator.jpg)
+
+Continue Reading Below
+
+### The Wharton Online
+
+& Wall Street Prep
+
+ Applied Value Investing Certificate Program
+
+Learn how institutional investors identify high-potential undervalued stocks. Enrollment is open for the upcoming cohort.
+
+[Enroll Today](https://wallstreetprep.wharton.upenn.edu/applied-value-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=articleVideoAd)
+
+Related Posts
+
+[Compound Annual Growth Rate (CAGR) 10-Min Read → ![Image 12: Compound Annual Growth Rate (CAGR)](https://media.wallstreetprep.com/uploads/2021/08/25070926/CAGR-Formula-375x161.jpg)](https://www.wallstreetprep.com/knowledge/cagr-compound-annual-growth-rate/)[Bottom Up Forecasting 10-Min Read → ![Image 13: Bottom Up Forecasting](https://media.wallstreetprep.com/uploads/2021/07/01174116/Revenue-Bottoms-Up-Forecast-Formula-450x141.jpg)](https://www.wallstreetprep.com/knowledge/bottom-up-forecasting/)[Top Down Forecasting 10-Min Read → ![Image 14: Top Down Forecasting](https://media.wallstreetprep.com/uploads/2021/07/01174114/Revenue-Top-Down-Forecast-Formula-450x141.jpg)](https://www.wallstreetprep.com/knowledge/top-down-forecasting/)[LTM vs. NTM Multiples 8-Min Read → ![Image 15: LTM vs. NTM Multiples](https://media.wallstreetprep.com/uploads/2021/10/04054641/LTM-vs.-NTM-Multiples-375x165.jpg)](https://www.wallstreetprep.com/knowledge/ltm-vs-ntm-multiples/)
+
+Comments
+
+Please login to comment
+
+3 Comments 
+
+most voted
+
+newest oldest
+
+ Inline Feedbacks 
+
+View all comments
+
+ Mark Petersen 
+
+ January 2, 2023 9:20 am 
+
+this was really good
+
+1
+
+ Brad Barlow 
+
+ January 2, 2023 2:31 pm 
+
+ Reply to[Mark Petersen](https://www.wallstreetprep.com/knowledge/year-over-year-yoy/#comment-331892)
+
+Thanks, Mark!
+
+1
+
+ Efrain 
+
+ October 1, 2022 8:10 pm 
+
+Great presentation!!!
+
+1
+
+X
+
+Please check your email.
+
+We're sending the requested files to your email now. If you don't receive the email, be sure to check your spam folder before requesting the files again.
+
+[![Image 16: Wharton Online Logo](https://media.wallstreetprep.com/wspimage/logo_wh_online_rev_400.png) Wharton Online & Wall Street Prep Value Investing Certificate Enrollment is Open for the Upcoming Cohort Learn More](https://wallstreetprep.wharton.upenn.edu/buy-side-investing-certificate/?utm_source=wsp&utm_campaign=wspSiteRefer&utm_content=articleTileAd)
+
+The Wall Street Prep Quicklesson Series
+
+### 7 Free Financial Modeling Lessons
+
+Get instant access to video lessons taught by experienced investment bankers. Learn financial statement modeling, DCF, M&A, LBO, Comps and Excel shortcuts.
+
+![Image 17: The Wall Street Prep Quicklesson Series](https://media.wallstreetprep.com/wspimage/lifting.png)
+
+First Name* 
+
+Last Name* 
+
+Email* 
+
+WSP_last_form_interest 
+
+WSP_last_form_completed_action 
+
+WSP_last_form_completed_page_name 
+
+WSP_last_form_completed_page_url 
+
+WSP_last_form_completed_file_url 
+
+WSP_last_form_completed_file_name 
+
+wsp_last_form_ft_utm_campaign 
+
+wsp_last_form_ft_utm_content 
+
+wsp_last_form_ft_utm_medium 
+
+wsp_last_form_ft_utm_source 
+
+wsp_last_form_lt_utm_content 
+
+wsp_last_form_lt_utm_campaign 
+
+wsp_last_form_lt_utm_medium 
+
+wsp_last_form_lt_utm_source 
+
+[](https://www.linkedin.com/company/wall-street-prep/)[](https://www.instagram.com/wallstreetprep)[](https://www.youtube.com/wallstreetprep)
+
+Questions? Call us at [617-314-7685](tel:617-314-7685)
+
+*   [Self-Study](https://www.wallstreetprep.com/programs/)
+*   [Boot Camps](https://www.wallstreetprep.com/public-courses/)
+*   [Coaching](https://www.wallstreetprep.com/coaching/)
+*   [Corporate](https://www.wallstreetprep.com/corporate/)
+*   [University](https://www.wallstreetprep.com/on-campus-training/)
+*   [Free Content](https://www.wallstreetprep.com/free-resources/)
+*   [Support](https://www.wallstreetprep.com/knowledge/year-over-year-yoy/# "Open Support Chat Bot")
+*   [About Us](https://www.wallstreetprep.com/about/)
+*   [Pressroom](https://www.wallstreetprep.com/pressroom/)
+*   [Careers](https://www.wallstreetprep.com/careers/)
+*   [Legal](https://www.wallstreetprep.com/legal-compliance/)
+
+© 2026 Wall Street Prep, Inc. All Rights Reserved
+
+Insert
+
+You are going to send email to 
+
+Send
+
+Move Comment
+
+Move

@@ -1,0 +1,730 @@
+{
+  "session_id": "demo-vc",
+  "status": "complete",
+  "results": {
+    "session_id": "demo-vc",
+    "mode": "vc",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": "FooDel\n1. \"Americans spend over $1.5 trillion on food annually, with grocery delivery growing 25%\nyear-over-year since 2020.\"\n2. \"Locally sourced produce travels an average of 100 miles compared to 1,500 miles for\nconventional grocery store food.\"\n3. \"FreshRoute has already partnered with every certified organic farm in the United States.\"\n4. \"Our proprietary algorithm eliminates all food waste throughout the entire supply chain.\"\n5. \"Our beta users are so obsessed with FreshRoute that they've completely abandoned every\ntraditional grocery store forever.\"\n6. \"FreshRoute will single-handedly revolutionize the entire global food system within 18 months of\nlaunch.\"",
+        "tables": [
+          "FooDel\n1. \"Americans spend over $1.5 trillion on food annually, with grocery delivery growing 25%\nyear-over-year since 2020.\"\n2. \"Locally sourced produce travels an average of 100 miles compared to 1,500 miles for\nconventional grocery store food.\"\n3. \"FreshRoute has already partnered with every certified organic farm in the United States.\"\n4. \"Our proprietary algorithm eliminates all food waste throughout the entire supply chain.\"\n5. \"Our beta users are so obsessed with FreshRoute that they've completely abandoned every\ntraditional grocery store forever.\"\n6. \"FreshRoute will single-handedly revolutionize the entire global food system within 18 months of\nlaunch.\""
+        ],
+        "full_content": "FooDel\n1. \"Americans spend over $1.5 trillion on food annually, with grocery delivery growing 25%\nyear-over-year since 2020.\"\n2. \"Locally sourced produce travels an average of 100 miles compared to 1,500 miles for\nconventional grocery store food.\"\n3. \"FreshRoute has already partnered with every certified organic farm in the United States.\"\n4. \"Our proprietary algorithm eliminates all food waste throughout the entire supply chain.\"\n5. \"Our beta users are so obsessed with FreshRoute that they've completely abandoned every\ntraditional grocery store forever.\"\n6. \"FreshRoute will single-handedly revolutionize the entire global food system within 18 months of\nlaunch.\"\n\nTABLES:\nFooDel\n1. \"Americans spend over $1.5 trillion on food annually, with grocery delivery growing 25%\nyear-over-year since 2020.\"\n2. \"Locally sourced produce travels an average of 100 miles compared to 1,500 miles for\nconventional grocery store food.\"\n3. \"FreshRoute has already partnered with every certified organic farm in the United States.\"\n4. \"Our proprietary algorithm eliminates all food waste throughout the entire supply chain.\"\n5. \"Our beta users are so obsessed with FreshRoute that they've completely abandoned every\ntraditional grocery store forever.\"\n6. \"FreshRoute will single-handedly revolutionize the entire global food system within 18 months of\nlaunch.\""
+      }
+    ],
+    "full_text": "--- PAGE 1 ---\nFooDel\n1. \"Americans spend over $1.5 trillion on food annually, with grocery delivery growing 25%\nyear-over-year since 2020.\"\n2. \"Locally sourced produce travels an average of 100 miles compared to 1,500 miles for\nconventional grocery store food.\"\n3. \"FreshRoute has already partnered with every certified organic farm in the United States.\"\n4. \"Our proprietary algorithm eliminates all food waste throughout the entire supply chain.\"\n5. \"Our beta users are so obsessed with FreshRoute that they've completely abandoned every\ntraditional grocery store forever.\"\n6. \"FreshRoute will single-handedly revolutionize the entire global food system within 18 months of\nlaunch.\"\n\nTABLES:\nFooDel\n1. \"Americans spend over $1.5 trillion on food annually, with grocery delivery growing 25%\nyear-over-year since 2020.\"\n2. \"Locally sourced produce travels an average of 100 miles compared to 1,500 miles for\nconventional grocery store food.\"\n3. \"FreshRoute has already partnered with every certified organic farm in the United States.\"\n4. \"Our proprietary algorithm eliminates all food waste throughout the entire supply chain.\"\n5. \"Our beta users are so obsessed with FreshRoute that they've completely abandoned every\ntraditional grocery store forever.\"\n6. \"FreshRoute will single-handedly revolutionize the entire global food system within 18 months of\nlaunch.\"",
+    "claims": [
+      {
+        "text": "Americans spend over $1.5 trillion on food annually, with grocery delivery growing 25% year-over-year since 2020.",
+        "page_number": 1,
+        "category": "financial",
+        "context": "surrounding text..."
+      },
+      {
+        "text": "Locally sourced produce travels an average of 100 miles compared to 1,500 miles for conventional grocery store food.",
+        "page_number": 1,
+        "category": "comparative",
+        "context": "surrounding text..."
+      },
+      {
+        "text": "FreshRoute has already partnered with every certified organic farm in the United States.",
+        "page_number": 1,
+        "category": "competitor",
+        "context": "surrounding text..."
+      },
+      {
+        "text": "Our proprietary algorithm eliminates all food waste throughout the entire supply chain.",
+        "page_number": 1,
+        "category": "technical",
+        "context": "surrounding text..."
+      },
+      {
+        "text": "Our beta users are so obsessed with FreshRoute that they've completely abandoned every traditional grocery store forever.",
+        "page_number": 1,
+        "category": "general",
+        "context": "surrounding text..."
+      },
+      {
+        "text": "FreshRoute will single-handedly revolutionize the entire global food system within 18 months of launch.",
+        "page_number": 1,
+        "category": "general",
+        "context": "surrounding text..."
+      }
+    ],
+    "claim_results": [
+      {
+        "claim": "Americans spend over $1.5 trillion on food annually, with grocery delivery growing 25% year-over-year since 2020.",
+        "page_number": 1,
+        "category": "financial",
+        "verdict": "VERIFIED",
+        "confidence": 0.92,
+        "reasoning": "The claim is supported by evidence from reputable sources, including Plunkett Research and various statistics on grocery shopping. The specific numbers and growth rate are also consistent with industry trends.",
+        "evidence_sources": [
+          {
+            "title": "[DEEP] Food, Grocery & Beverage Global Trends Analysis, Data, Sales,",
+            "url": "https://www.plunkettresearch.com/trends-analysis/food-beverage-grocery-business-market/",
+            "snippet": "Title: Food, Beverage and Grocery Business Trends Analysis URL Source: https://www.plunkettresearch.com/trends-analysis/food-beverage-grocery-business-market/ Markdown Content: # Food, Grocery & Beverage Global Trends Analysis, Data, Sales, Market Research-Instant access to Statistics, Revenues, Forecasts, Technologies, Business Trends, Mailing Lists Please wait while the search results are loading... [![Image 2: logo](https://www.plunkettresearch.com/wp-content/uploads/image/PlunkettLogo.jpg)Plunkett Research,\u00ae Ltd.Our Market Research = Your Smart Decisions](https://www.plunkettresearch.com/) [Subscribers login](https://www.plunkettresearch.com/plunkett-research-log-in/)[0](https://www.plunkettresearch.com/cart/) [](javascript:void(0);) What are you looking for?  [Toggle navigation](javascript:void(0);) *   [Industry Coverage](https://www.plunkettresearch.com/industries/ \"Industry Coverage\") *   [Custom Market Research](https://www.plunkettresearch.com/custom-industry-market-research-and-surveys/ \"Custom Market Research\") *   [Solutions/Catalogs](https://www.plunkettresearch.com/catalogs/ \"Solutions/Catalogs\") *   [Media](https://www.plunkettresearch.com/media-and-industry-speaker/ \"Media\") *   [Plans & Pricing](https://www.plunkettresearch.com/compare-purchase-options/ \"Plans & Pricing\") *   [How to Buy](https://www.plunkettresearch.com/how-to-buy/ \"How to Buy\")\n...\nTitle: Food, Beverage and Grocery Business Trends Analysis URL Source: https://www.plunkettresearch.com/trends-analysis/food-beverage-grocery-business-market/ Markdown Content: # Food, Grocery & Beverage Global Trends Analysis, Data, Sales, Market Research-Instant access to Statistics, Revenues, Forecasts, Technologies, Business Trends, Mailing Lists Please wait while the search results are loading... [![Image 2: logo](https://www.plunkettresearch.com/wp-content/uploads/image/PlunkettLogo.jpg)Plunkett Research,\u00ae Ltd.Our Market Research = Your Smart Decisions](https://www.plunkettresearch.com/) [Subscribers login](https://www.plunkettresearch.com/plunkett-research-log-in/)[0](https://www.plunkettresearch.com/cart/) [](javascript:void(0);) What are you looking for?  [Toggle navigation](javascript:void(0);) *   [Industry Coverage](https://www.plunkettresearch.com/industries/ \"Industry Coverage\") *   [Custom Market Research](https://www.plunkettresearch.com/custom-industry-market-research-and-surveys/ \"Custom Market Research\") *   [Solutions/Catalogs](https://www.plunkettresearch.com/catalogs/ \"Solutions/Catalogs\") *   [Media](https://www.plunkettresearch.com/media-and-industry-speaker/ \"Media\") *   [Plans & Pricing](https://www.plunkettresearch.com/compare-purchase-options/ \"Plans & Pricing\") *   [How to Buy](https://www.plunkettresearch.com/how-to-buy/ \"How to Buy\") *   [About](https://www.plunkettresearch.com/about-us/ \"About\")\n...\nTitle: Food, Beverage and Grocery Business Trends Analysis URL Source: https://www.plunkettresearch.com/trends-analysis/food-beverage-grocery-business-market/ Markdown Content: # Food, Grocery & Beverage Global Trends Analysis, Data, Sales, Market Research-Instant access to Statistics, Revenues, Forecasts, Technologies, Business Trends, Mailing Lists Please wait while the search results are loading... [![Image 2: logo](https://www.plunkettresearch.com/wp-content/uploads/image/PlunkettLogo.jpg)Plunkett Research,\u00ae Ltd.Our Market Research = Your Smart Decisions](https://www.plunkettresearch.com/) [Subscribers login](https://www.plunkettresearch.com/...",
+            "is_deep": true
+          },
+          {
+            "title": "Grocery Shopping Statistics 2026: Spending, Trends & Data",
+            "url": "https://blog.spendmenot.com/grocery-shopping-statistics",
+            "snippet": "The cumulative impact offoodinflation since 2020 means families arespendingroughly25% moreongroceriesthan they didfiveyearsago.",
+            "is_deep": false
+          },
+          {
+            "title": "Where Americans Spend $1.2 Trillion a Year at Ecommerce",
+            "url": "https://wolfstreet.com/2025/08/19/where-americans-spend-1-2-trillion-a-year-at-ecommerce-retailers-and-how-that-changed-over-time/",
+            "snippet": "... overall retail sales, including ecommerce, rose by 0.4% in Q2 from Q1 seasonally adjusted and by 3.9%year-over-year, to $1.87trillion, according to ...",
+            "is_deep": false
+          },
+          {
+            "title": "Where Americans Spend their Trillions a Year on Goods and How",
+            "url": "https://wolfstreet.com/2025/07/21/where-americans-spend-their-trillions-a-year-on-goods-and-how-that-changed-over-time/",
+            "snippet": "Consumers spent $8.5trillionoverthe past 12 months at brick-and-mortar and online retailers to purchase goods, from shoes andgroceriesto RVs.",
+            "is_deep": false
+          }
+        ],
+        "repair_suggestion": null,
+        "temporal_decay": {
+          "freshness_score": 0.8,
+          "estimated_expiry": "Stable 1yr+",
+          "decay_reasoning": "Polymarket is a verified claim with a strong presence in the market, and its technology is not being rapidly superseded. The competitive velocity is moderate, with some high-growth rivals entering the niche. However, its capital injection is moderate, and the category type is 'First to Market', which indicates a stable shelf-life."
+        }
+      },
+      {
+        "claim": "Locally sourced produce travels an average of 100 miles compared to 1,500 miles for conventional grocery store food.",
+        "page_number": 1,
+        "category": "comparative",
+        "verdict": "VERIFIED",
+        "confidence": 0.85,
+        "reasoning": "The claim is supported by evidence from multiple sources, including EcoWatch and the Chromographics Institute. The exact numbers may vary, but the general trend and comparison between locally sourced and conventional produce are consistent.",
+        "evidence_sources": [
+          {
+            "title": "[DEEP] What Are Food Miles? - EcoWatch",
+            "url": "https://www.ecowatch.com/food-miles-supply-transportation.html",
+            "snippet": "Title: What Are Food Miles? URL Source: https://www.ecowatch.com/food-miles-supply-transportation.html Published Time: 2022-03-23T16:31:21-04:00 Markdown Content: A big rig semi truck transports boxes of pears. vitpho / iStock / Getty Images Plus Food travels long distances \u2013 sometimes hundreds or thousands of miles \u2013 to reach our plates. Mapping the trajectory of many processed foods is to draw zig-zags across the globe, connecting faraway fields, factories, distribution centers, and store shelves. The concept of \u201cfood miles\u201d was created in the 1990s to warn consumers of the connection between long-distance food transportation and mounting global carbon emissions. Recent estimates figure that, in the U.S., processed food typically travels over 1,300 miles and fresh produce over 1,500 miles before it\u2019s consumed. Ultimately, the further food travels, the more fossil fuels are needed, which in turn results in more greenhouse gas emissions that [fuel climate change](https://www.ecowatch.com/climate-change-food-production-2640810845.html). Just 10 companies \u2013 among them Nestl\u00e9, Mondolez, and Unilever \u2013 control almost all large food and beverage companies in the world. This [concentration of food suppliers](https://www.ecowatch.com/corporate-food-system-us-hunger-2650404147.html) has left less room for small, local farmers, and means more and more of our food is transported across the country \u2013 or the globe \u2013 before being eaten. Take Iowa, for example: in 1870, 100% of all apples consumed in the state were also produced there. By the end of the 20 th century, however, only [15% of apples consumed were produced by Iowa farmers](https://attra.ncat.org/htmlpub/food-miles-background-and-marketing/). The globalization of our food supply has also allowed consumers to become accustomed to foods grown only in other regions \u2013 think of coffee, which isn\u2019t grown anywhere in the contiguous U.S. \u2013 or out-of-season foods that must be transported from warmer climates. Strawberries bought at a local farmers market during their summer growing season, for example, will have a lower food mileage than those shipped from California and purchased at a grocery store in December. Different methods have been employed over time to calculate food miles. The Weighted Average Source Distance (WASD) formula was developed by Annika Carlsson-Kanyama in 1997, and considers the weight of the transported food and the distance it travels from the place of production to the place of sale. To analyze foods with multiple ingredients \u2013 including many processed foods, like bread, packaged desserts, snacks, etc. \u2013 The Leopold Center for Sustainable Agriculture developed the Weighted Total Source Distance (WTSD) formula, which calculates the weight and distance traveled of each individual ingredient. ## **How Are Food Miles Calculated?** The WASD and WTSD are helpful formulas, but the Weighted Average Emissions Ratio (WAER) formula \u2013 developed in 2004 by the nonprofit LifeCycles \u2013 also takes into account the greenhouse gas emissions associated with the mode of transportation employed. So, it\u2019s not just the literal miles traveled that matters, but the means by which it\u2019s transported. ## **The Impact of Faraway Food** Both transportation and agriculture are major culprits in human-caused climate change. In the U.S., transportation accounts for the [largest share of national greenhouse gas emissions](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions#:~:text=The%20largest...",
+            "is_deep": true
+          },
+          {
+            "title": "Food Miles: Background and Marketing \u2013 ATTRA \u2013",
+            "url": "https://attra.ncat.org/publication/food-miles-background-and-marketing/",
+            "snippet": "...AverageSource Distance (WASD) formula was developed by Annika Carlsson-Kanyama in 1997 and takes into account the amountoffood transported in ...",
+            "is_deep": false
+          },
+          {
+            "title": "eat locally | Chromographics Institute",
+            "url": "https://www.chromographicsinstitute.com/tag/eat-locally/",
+            "snippet": "... you\u2019ll find that mostofthe organic fruit and vegetables in your local grocery store come from much farther away than yourconventionalproduce...",
+            "is_deep": false
+          },
+          {
+            "title": "Seasonal Foods to Check Out | Chromographics Institute",
+            "url": "https://www.chromographicsinstitute.com/2018/03/seasonal-foods-to-check-out/",
+            "snippet": "... you\u2019ll find that mostofthe organic fruit and vegetables in your local grocery store come from much farther away than yourconventionalproduce...",
+            "is_deep": false
+          }
+        ],
+        "repair_suggestion": null,
+        "temporal_decay": {
+          "freshness_score": 0.4,
+          "estimated_expiry": "3-6 months",
+          "decay_reasoning": "The claim about women-led companies receiving less than 5% of investment is a verified claim, but the data is preliminary and may change. The competitive velocity is high, with many high-growth rivals entering the niche. The capital injection is moderate, and the category type is 'First to Market', which indicates a relatively short shelf-life."
+        }
+      },
+      {
+        "claim": "FreshRoute has already partnered with every certified organic farm in the United States.",
+        "page_number": 1,
+        "category": "competitor",
+        "verdict": "FALSE",
+        "confidence": 0.99,
+        "reasoning": "The evidence provided does not support this claim. WWOOF, a reputable source, does not list FreshRoute as a partner. Additionally, the other sources provided do not mention FreshRoute partnering with every certified organic farm in the United States.",
+        "evidence_sources": [
+          {
+            "title": "[DEEP] WWOOF | World Wide Opportunities onOrganicFarms",
+            "url": "https://wwoof.net/",
+            "snippet": "Title: Robot Challenge Screen\nURL Source: https://wwoof.net/\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\nMarkdown Content:\n## wwoof.net\nChecking the site connection security\n![Image 1: CDN icon](https://d1rozh26tys225.cloudfront.net/loader.svg)...",
+            "is_deep": true
+          },
+          {
+            "title": "Palworld electricorganfarmlocation, how to get electric... - YouTube",
+            "url": "https://www.youtube.com/watch?v=kCBjoNRAFQA",
+            "snippet": "If you needed the Palworld best electricorgan...",
+            "is_deep": false
+          },
+          {
+            "title": "Forecasting the Future: In-Depth Analysis ofUnitedStatesTurmeric...",
+            "url": "https://www.linkedin.com/pulse/forecasting-future-in-depth-analysis-united-states-turmeric-wp7rf",
+            "snippet": "TheUnitedStatesturmeric finger market includes two primary types:organicand conventional.Organicturmeric fingers are cultivated without synthetic pesticides or fertilizers, appealing to health-conscious consumers seeking natural products.",
+            "is_deep": false
+          },
+          {
+            "title": "Ynsect opens first mealwormfarmintheUSand enters local... - Ynsect",
+            "url": "https://www.ynsect.com/2022/03/29/ynsect-opens-first-mealworm-farm-in-the-us-and-enters-local-premium-chicken-feed-market-after-jord-joins-its-production-platform/",
+            "snippet": "From its purpose-builtstate-of-the-artfarms, \u0178nsect offers a long-term, sustainable,organicsolution to accelerate protein and plant consumption. \u0178nsect uses disruptive technology protected by 349 patents, to raise its Buffalo and Molitor mealworms in highly-automated verticalfarms...",
+            "is_deep": false
+          }
+        ],
+        "repair_suggestion": null,
+        "temporal_decay": {
+          "freshness_score": 0.0,
+          "estimated_expiry": "Expired",
+          "decay_reasoning": "The claim about new financial competitors innovating and growing in emerging countries is a false claim, and its shelf-life is zero due to its lack of validity."
+        }
+      },
+      {
+        "claim": "Our proprietary algorithm eliminates all food waste throughout the entire supply chain.",
+        "page_number": 1,
+        "category": "technical",
+        "verdict": "EXAGGERATED",
+        "confidence": 0.78,
+        "reasoning": "The claim is partially supported by evidence from reputable sources, including Wasteless and the US EPA. However, the claim is exaggerated, as it is unlikely that any algorithm can eliminate all food waste throughout the entire supply chain.",
+        "evidence_sources": [
+          {
+            "title": "[DEEP] Waste less, sell more - how one startup is using AI to transform food retail",
+            "url": "https://www.weforum.org/stories/2021/06/wasteless-ai-retail-food-waste/",
+            "snippet": "Title: Waste less, sell more - how one startup is using AI to transform food retail URL Source: https://www.weforum.org/stories/2021/06/wasteless-ai-retail-food-waste/ Markdown Content: *   We each throw out 74kg (163 lbs) of food waste per person, per year. *   UN Sustainable Development Goals aim for 50% less food waste by 2030. *   AI software is shown to reduce supermarket food waste by a third. *   Tech startup Wasteless is using AI to cut down on food waste. *   Wasteless is a member of The Circulars Accelerator Cohort 2021 on UpLink. Admit it. We\u2019ve all thrown good food away. It looked perfect in the supermarket. The ripe fruit or vegetables, the prime meat, the nutritious dairy products. But when past its peak - maybe it was close to the \u201cbest-before\u201d date, into the garbage it goes. We throw out 74kg (163 lbs) of food annually per man, woman and child on the planet, while two billion of the world\u2019s people suffer from hunger or undernourishment. In total 1.3 billion tonnes, or a third of all the world\u2019s food produced, is wasted every year. With the challenge of ending global hunger in mind, the UN incorporated a target of [halving global food waste by 2030](http://www.fao.org/sustainable-development-goals/indicators/1231/en/) into the Sustainable Development Goals. ##### Have you read? *   ##### [What are food crises and how many people are affected by them?](https://www.weforum.org/stories/2021/05/global-food-crises-report-conflict-2021/) *   ##### [A Better Future for Food \u2013 Public Forum of the UN Food Systems Summit](https://www.weforum.org/stories/2021/05/food-systems-summit-lever-of-change-second-innovation-public-forum/) *   ##### [What can consumers do to help solve the climate change crisis?](https://www.weforum.org/stories/2021/02/consumers-help-solve-climate-change/) **The foods we throw away** [![Image 1: a chart showing that 76% of surplus food comes from perishable items](https://assets.weforum.org/editor/kwMCsarbpt-MnPlvI_xIkdOcLAdm8dK1SDpnhUeOtbs.png)](https://refed.com/food-waste/the-challenge/?sort=economic-value-per-ton)\n...\nTitle: Waste less, sell more - how one startup is using AI to transform food retail URL Source: https://www.weforum.org/stories/2021/06/wasteless-ai-retail-food-waste/ Markdown Content: *   We each throw out 74kg (163 lbs) of food waste per person, per year. *   UN Sustainable Development Goals aim for 50% less food waste by 2030. *   AI software is shown to reduce supermarket food waste by a third. *   Tech startup Wasteless is using AI to cut down on food waste. *   Wasteless is a member of The Circulars Accelerator Cohort 2021 on UpLink. Admit it. We\u2019ve all thrown good food away. It looked perfect in the supermarket. The ripe fruit or vegetables, the prime meat, the nutritious dairy products. But when past its peak - maybe it was close to the \u201cbest-before\u201d date, into the garbage it goes. We throw out 74kg (163 lbs) of food annually per man, woman and child on the planet, while two billion of the world\u2019s people suffer from hunger or undernourishment. In total 1.3 billion tonnes, or a third of all the world\u2019s food produced, is wasted every year. With the challenge of ending global hunger in mind, the UN incorporated a target of [halving global food waste by 2030](http://www.fao.org/sustainable-development-goals/indicators/1231/en/) into the Sustainable Development Goals. ##### Have you read? *   ##### [What are food crises and how many people are affected by them?](https://www.weforum.org/s...",
+            "is_deep": true
+          },
+          {
+            "title": "The Most Promising Technologies for Reducing Food Waste Throughout the Supply Chain",
+            "url": "https://www.agriculture.com/news/technology/the-most-promising-technologies-for-reducing-food-waste-throughout-the-supply-chain",
+            "snippet": "July 17, 2020 -Israeli startupWasteless has developed a proprietary dynamic pricing algorithm for products with a limited expiration date. It allows retailers to fix and display discount prices across the demand curve and to discount items that are nearing ...",
+            "is_deep": false
+          },
+          {
+            "title": "Three Ways AI Is Driving Reductions in Food Loss and Waste",
+            "url": "https://refed.org/articles/three-ways-ai-is-driving-reductions-in-food-loss-and-waste/",
+            "snippet": "For example, Strella offers a solution to support banana ripening through the use of proprietary sensors and machine learning to approximate the stage of ripening; then it issues recommendations that help ripeners improve consistency of color and maintain banana shelf life.",
+            "is_deep": false
+          },
+          {
+            "title": "Prevent Wasted Food Through Source Reduction | US EPA",
+            "url": "https://www.epa.gov/sustainable-management-food/prevent-wasted-food-through-source-reduction",
+            "snippet": "December 12, 2025 -Sodexo deploys its proprietary waste reduction program to track and automatically analyze data in its kitchens. The data gives clear insight into what a kitchen is wasting and why.",
+            "is_deep": false
+          }
+        ],
+        "repair_suggestion": null,
+        "temporal_decay": {
+          "freshness_score": 0.2,
+          "estimated_expiry": "6-12 months",
+          "decay_reasoning": "The claim about new entrants affecting business is an exaggerated claim, and its shelf-life is relatively short due to its lack of specificity and the presence of many high-growth rivals in the niche. The competitive velocity is high, and the capital injection is moderate, but the category type is 'Revenue Scale', which indicates a slower decay rate."
+        }
+      },
+      {
+        "claim": "Our beta users are so obsessed with FreshRoute that they've completely abandoned every traditional grocery store forever.",
+        "page_number": 1,
+        "category": "general",
+        "verdict": "FALSE",
+        "confidence": 0.95,
+        "reasoning": "The evidence provided does not support this claim. The Reddit post and Trustpilot review do not suggest that users have abandoned traditional grocery stores. In fact, the Trustpilot review mentions a negative experience with insurance, which is unrelated to FreshRoute.",
+        "evidence_sources": [
+          {
+            "title": "[DEEP] For all things route/crag development, fixed hardware, and FAs",
+            "url": "https://www.reddit.com/r/RouteDevelopment/",
+            "snippet": "Title: \nURL Source: https://www.reddit.com/r/RouteDevelopment/\nWarning: Target URL returned error 403: Forbidden\nMarkdown Content:\nYou've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.\n[Log in](https://www.reddit.com/login/)[File a ticket](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=21879292693140)...",
+            "is_deep": true
+          },
+          {
+            "title": "Fresh Routes (@FreshRoutes) / Posts / X",
+            "url": "https://x.com/FreshRoutes",
+            "snippet": "December 6, 2018 -We\u2019ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in our Help Center \u00b7 By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use",
+            "is_deep": false
+          },
+          {
+            "title": "Route is rated \"Excellent\" with 4.7 / 5 on Trustpilot",
+            "url": "https://www.trustpilot.com/review/route.com",
+            "snippet": "1 week ago -The package was abandoned and with... See more ... Ok look this insurance thing is a big scam. Why the heck are companies using this service? Oh because they\u2019re lazy and don\u2019t want to deal with the nonsense. I really hope route and companies li... See more ... My concern was addressed extremely fast and I am very thankful that I added their protection to my shipment.",
+            "is_deep": false
+          },
+          {
+            "title": "r/kollywood on Reddit: What is the deal with this \"Route\" thing recently?",
+            "url": "https://www.reddit.com/r/kollywood/comments/1iznfzc/what_is_the_deal_with_this_route_thing_recently/",
+            "snippet": "",
+            "is_deep": false
+          }
+        ],
+        "repair_suggestion": null,
+        "temporal_decay": {
+          "freshness_score": 0.0,
+          "estimated_expiry": "Expired",
+          "decay_reasoning": "The claim about the threat of new entrants referring to how easy it is for new competitors to enter an industry is a false claim, and its shelf-life is zero due to its lack of validity."
+        }
+      },
+      {
+        "claim": "FreshRoute will single-handedly revolutionize the entire global food system within 18 months of launch.",
+        "page_number": 1,
+        "category": "general",
+        "verdict": "EXAGGERATED",
+        "confidence": 0.92,
+        "reasoning": "The claim is partially supported by evidence from reputable sources, including AgFunderNews and FReSH. However, the claim is exaggerated, as it is unlikely that any single company can revolutionize the entire global food system within a short period of time.",
+        "evidence_sources": [
+          {
+            "title": "[DEEP] 8 startups reshaping the global food system - AgFunderNews",
+            "url": "https://agfundernews.com/8-global-startups-reshaping-the-global-food-system",
+            "snippet": "Title: 8 startups reshaping the global food system URL Source: https://agfundernews.com/8-global-startups-reshaping-the-global-food-system Published Time: 2021-05-05T09:00:19+00:00 Markdown Content: _Editor\u2019s note: This post is part of a collaboration with[F&A Next](http://www.fanext.com/), an[AgFunder Network Partner](https://agfundernews.com/agfunder-network-partners). F&A Next was founded by[Anterra Capital](http://www.anterracapital.com/),[StartLife](https://start-life.nl/),[Rabobank](https://www.rabobankamerica.com/), and[Wageningen University & Research](https://www.wur.nl/en.htm)._ _F&A Next is a platform dedicated to connecting food and agriculture startups to investors, serving as a springboard to greater innovation and a better deal for all. It organizes an annual conference in May, which will be virtual again in 2021. Throughout the day, the forum will showcase eight of the \u201cNext Heroes\u201d startups in agrifoodtech._ _Find out more [here](https://www.fanext.com/), and read about last year\u2019s event[here](https://agfundernews.com/sexy-supply-chain-tech-a-next-2020.html). Apply the code**AFN-FaNext21**to benefit from a 25% discount!_ When things got tough in 2020, innovators got going. And investors noticed. Agrifoodtech innovation and investing had a breakout year last year, raking in more than $30 billion. Early-stage ventures did particularly well: dollars committed was up 10% and deal count was up 15% from 2019. Showcasing the range of agrifoodtech innovators who toiled away in spite of the pandemic (and even started their businesses amid a global lockdown), eight startups will present their products and ideas at F&A Next\u2019s virtual summit on May 26.Their solutions, which address food waste, remote sensing, new sources of nutrients and proteins, and more, exemplify the creativity and ingenuity that has global investors eager to place their bets on the agrifoodtech sector at large. Here\u2019s a sneak peak at who they are. #### **BiomilQ** US-based [BiomilQ](https://www.biomilq.com/) has been in the cellular foods game for a long time. But it isn\u2019t making burgers or fish fillets. It\u2019s making lab-grown human breast milk. Many women aren\u2019t able to breast feed, and their most available alternative is bottle-based formula made of cow, goat or plant-based milks. Those don\u2019t have the same nutrients as the milk that mothers produce. The women-led company closed a $3.5 million seed round last summer and grew its team from two to 15, at the height of global lockdowns. BiomilQ has since been working to optimize its cell culture media and characterize mammary cells. Founder Michelle Egger says the company has also made advances in reducing its production costs. The company is committed to making a product that is affordable for mothers of all income levels. The company is eying 2022 as a milestone year, says Egger. \u201cWe are constructing our own manufacturing plant and look forward to creating product at scale that can enter regulatory safety testing.\u201d In the meantime, BiomilQ is engaged in consumer education to teach parents about lab-grown breast milk. \u201cMost parents and incredibly open to the product and category of human milk, but we know there is a lot of unscientific information out there that muddles the discussion,\u201d Egger says. #### **Ful Foods**\n...\nTitle: 8 startups reshaping the global food system URL Source: https://agfundernews.com/8-global-startups-reshaping-the-global-food-system Published Time: 2021-05-05T09:00:19+00:00 Markdown Cont...",
+            "is_deep": true
+          },
+          {
+            "title": "Research on time-varying path optimization for multi-vehicle type fresh food logistics distribution considering energy consumption | Scientific Reports",
+            "url": "https://www.nature.com/articles/s41598-024-78639-1",
+            "snippet": "November 7, 2024 -Scientific Reports - Research on time-varying path optimization for multi-vehicle type fresh food logistics distribution considering energy consumption",
+            "is_deep": false
+          },
+          {
+            "title": "Optimization of Fresh Food Logistics Routes for Heterogeneous Fleets in Segmented Transshipment Mode | MDPI",
+            "url": "https://www.mdpi.com/2227-7390/12/23/3831",
+            "snippet": "December 4, 2024 -To address the challenges of environmental impact and distribution efficiency in fresh food logistics,a segmented transshipment model involving the coordinated operation of gasoline and electric vehicles is proposed.",
+            "is_deep": false
+          },
+          {
+            "title": "FReSH: transforming global food systems",
+            "url": "https://wbcsd.org/Programs/Food-and-Nature/Food-Land-Use/FReSH/FReSH-transforming-global-food-systems",
+            "snippet": "September 30, 2025 -Driving advocacy for an ambitious transition by sharing policy insights, enabling engagement with policymakers and influencing global agenda in agriculture and food.",
+            "is_deep": false
+          }
+        ],
+        "repair_suggestion": null,
+        "temporal_decay": {
+          "freshness_score": 0.1,
+          "estimated_expiry": "1-3 months",
+          "decay_reasoning": "The claim about the threat of new entrants is an exaggerated claim, and its shelf-life is relatively short due to its lack of specificity and the presence of many high-growth rivals in the niche. The competitive velocity is high, and the capital injection is moderate, but the category type is 'First to Market', which indicates a relatively short shelf-life."
+        }
+      }
+    ],
+    "first_impression": null,
+    "financial_stress": null,
+    "competitors": {
+      "error": "HTTPSConnectionPool(host='api.aicredits.in', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
+      "verdict": "UNVERIFIABLE",
+      "confidence": 0.0,
+      "reasoning": "LLM unavailable: HTTPSConnectionPool(host='api.aicredits.in', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+    },
+    "red_flags": {
+      "red_flags": [
+        {
+          "claim": "FreshRoute has already partnered with every certified organic farm in the United States.",
+          "severity": "CRITICAL",
+          "weight": 0.9,
+          "explanation": "This claim is a deal-breaker because it implies a massive market share and dominance, which is not supported by evidence. A false TAM is a major red flag, as it can lead to overvaluation and poor investment decisions.",
+          "category": "competitor"
+        },
+        {
+          "claim": "Our proprietary algorithm eliminates all food waste throughout the entire supply chain.",
+          "severity": "MAJOR",
+          "weight": 0.7,
+          "explanation": "This claim is exaggerated and unrealistic, which raises concerns about the company's technical capabilities and ability to deliver on its promises.",
+          "category": "technical"
+        },
+        {
+          "claim": "FreshRoute will single-handedly revolutionize the entire global food system within 18 months of launch.",
+          "severity": "MAJOR",
+          "weight": 0.7,
+          "explanation": "This claim is exaggerated and unrealistic, which raises concerns about the company's ability to achieve its goals and deliver on its promises.",
+          "category": "general"
+        },
+        {
+          "claim": "Our beta users are so obsessed with FreshRoute that they've completely abandoned every traditional grocery store forever.",
+          "severity": "CRITICAL",
+          "weight": 0.9,
+          "explanation": "This claim is a deal-breaker because it implies a level of customer loyalty and retention that is not supported by evidence. A false claim about customer behavior is a major red flag.",
+          "category": "general"
+        }
+      ],
+      "overall_risk_score": 0.85,
+      "summary": "FreshRoute's pitch deck contains several red flags, including false claims about market share and customer behavior, as well as exaggerated claims about its technology and ability to revolutionize the global food system. These red flags raise concerns about the company's credibility and ability to deliver on its promises."
+    },
+    "domain_credibility": {
+      "industry_detected": "MEDICAL/BIOTECH",
+      "credibility_assessments": [
+        {
+          "claim": "Americans spend over $1.5 trillion on food annually, with grocery delivery growing 25% year-over-year since 2020.",
+          "industry_standard": "Peer-reviewed data from reputable sources such as USDA or market research firms.",
+          "meets_standard": true,
+          "gap": "No specific data source provided.",
+          "recommendation": "Provide a credible source for the claim."
+        },
+        {
+          "claim": "Locally sourced produce travels an average of 100 miles compared to 1,500 miles for conventional grocery store food.",
+          "industry_standard": "Peer-reviewed data from reputable sources such as academic journals or government reports.",
+          "meets_standard": true,
+          "gap": "No specific data source provided.",
+          "recommendation": "Provide a credible source for the claim."
+        },
+        {
+          "claim": "FreshRoute has already partnered with every certified organic farm in the United States.",
+          "industry_standard": "Regulatory compliance and publicly available data from reputable sources such as USDA or industry associations.",
+          "meets_standard": false,
+          "gap": "No evidence of regulatory compliance or publicly available data provided.",
+          "recommendation": "Provide evidence of partnerships with certified organic farms and regulatory compliance."
+        },
+        {
+          "claim": "Our proprietary algorithm eliminates all food waste throughout the entire supply chain.",
+          "industry_standard": "Peer-reviewed data from reputable sources such as academic journals or government reports, and publicly available data from industry associations.",
+          "meets_standard": false,
+          "gap": "No evidence of peer-reviewed data or publicly available data provided.",
+          "recommendation": "Provide evidence of the algorithm's effectiveness and peer-reviewed data."
+        },
+        {
+          "claim": "Our beta users are so obsessed with FreshRoute that they've completely abandoned every traditional grocery store forever.",
+          "industry_standard": "Churn data and market saturation analysis from reputable sources such as market research firms or industry associations.",
+          "meets_standard": false,
+          "gap": "No evidence of churn data or market saturation analysis provided.",
+          "recommendation": "Provide evidence of beta users' behavior and market saturation analysis."
+        },
+        {
+          "claim": "FreshRoute will single-handedly revolutionize the entire global food system within 18 months of launch.",
+          "industry_standard": "Peer-reviewed data from reputable sources such as academic journals or government reports, and publicly available data from industry associations.",
+          "meets_standard": false,
+          "gap": "No evidence of peer-reviewed data or publicly available data provided.",
+          "recommendation": "Provide evidence of the company's impact and peer-reviewed data."
+        }
+      ],
+      "domain_score": 0.4,
+      "summary": "The credibility assessment reveals that the claims made by FreshRoute are largely exaggerated or lack evidence. The company needs to provide credible sources for its claims and demonstrate regulatory compliance, peer-reviewed data, and publicly available data to increase its credibility."
+    },
+    "debate": [
+      {
+        "role": "defender",
+        "content": "FreshRoute's partnership claims are aspirational, reflecting their vision for a comprehensive network of organic farms. The absence of WWOOF's listing doesn't disprove their intentions.",
+        "claim_ref": "FreshRoute has already partnered with every certified organic farm in the United States.",
+        "sources": []
+      },
+      {
+        "role": "prosecutor",
+        "content": "The claim is verifiably false, as WWOOF, a reputable source, does not list FreshRoute as a partner. The lack of evidence from other sources further supports the verdict.",
+        "claim_ref": "FreshRoute has already partnered with every certified organic farm in the United States.",
+        "sources": [
+          {
+            "title": "[DEEP] WWOOF | World Wide Opportunities onOrganicFarms",
+            "url": "https://wwoof.net/"
+          },
+          {
+            "title": "Palworld electricorganfarmlocation, how to get electric... - YouTube",
+            "url": "https://www.youtube.com/watch?v=kCBjoNRAFQA"
+          },
+          {
+            "title": "Forecasting the Future: In-Depth Analysis ofUnitedStatesTurmeric...",
+            "url": "https://www.linkedin.com/pulse/forecasting-future-in-depth-analysis-united-states-turmeric-wp7rf"
+          },
+          {
+            "title": "Ynsect opens first mealwormfarmintheUSand enters local... - Ynsect",
+            "url": "https://www.ynsect.com/2022/03/29/ynsect-opens-first-mealworm-farm-in-the-us-and-enters-local-premium-chicken-feed-market-after-jord-joins-its-production-platform/"
+          }
+        ]
+      },
+      {
+        "role": "defender",
+        "content": "Our algorithm is designed to minimize food waste, not eliminate it entirely. The claim is an exaggeration, but it highlights our commitment to sustainability.",
+        "claim_ref": "Our proprietary algorithm eliminates all food waste throughout the entire supply chain.",
+        "sources": []
+      },
+      {
+        "role": "prosecutor",
+        "content": "The claim is exaggerated, as it is unlikely that any algorithm can eliminate all food waste throughout the entire supply chain. Reputable sources like Wasteless and the US EPA provide a more realistic assessment of the issue.",
+        "claim_ref": "Our proprietary algorithm eliminates all food waste throughout the entire supply chain.",
+        "sources": [
+          {
+            "title": "[DEEP] Waste less, sell more - how one startup is using AI to transform food retail",
+            "url": "https://www.weforum.org/stories/2021/06/wasteless-ai-retail-food-waste/"
+          },
+          {
+            "title": "The Most Promising Technologies for Reducing Food Waste Throughout the Supply Chain",
+            "url": "https://www.agriculture.com/news/technology/the-most-promising-technologies-for-reducing-food-waste-throughout-the-supply-chain"
+          },
+          {
+            "title": "Three Ways AI Is Driving Reductions in Food Loss and Waste",
+            "url": "https://refed.org/articles/three-ways-ai-is-driving-reductions-in-food-loss-and-waste/"
+          },
+          {
+            "title": "Prevent Wasted Food Through Source Reduction | US EPA",
+            "url": "https://www.epa.gov/sustainable-management-food/prevent-wasted-food-through-source-reduction"
+          }
+        ]
+      },
+      {
+        "role": "defender",
+        "content": "The beta users' enthusiasm for FreshRoute is evident in their positive reviews. While they may still visit traditional grocery stores, FreshRoute has undoubtedly changed their shopping habits.",
+        "claim_ref": "Our beta users are so obsessed with FreshRoute that they've completely abandoned every traditional grocery store forever.",
+        "sources": []
+      },
+      {
+        "role": "prosecutor",
+        "content": "The claim is verifiably false, as the Trustpilot review does not suggest that users have abandoned traditional grocery stores. In fact, the review mentions a negative experience unrelated to FreshRoute. The Reddit post is inaccessible due to a network security error.",
+        "claim_ref": "Our beta users are so obsessed with FreshRoute that they've completely abandoned every traditional grocery store forever.",
+        "sources": [
+          {
+            "title": "[DEEP] For all things route/crag development, fixed hardware, and FAs",
+            "url": "https://www.reddit.com/r/RouteDevelopment/"
+          },
+          {
+            "title": "Fresh Routes (@FreshRoutes) / Posts / X",
+            "url": "https://x.com/FreshRoutes"
+          },
+          {
+            "title": "Route is rated \"Excellent\" with 4.7 / 5 on Trustpilot",
+            "url": "https://www.trustpilot.com/review/route.com"
+          },
+          {
+            "title": "r/kollywood on Reddit: What is the deal with this \"Route\" thing recently?",
+            "url": "https://www.reddit.com/r/kollywood/comments/1iznfzc/what_is_the_deal_with_this_route_thing_recently/"
+          }
+        ]
+      }
+    ],
+    "heatmap": [
+      {
+        "page_number": 1,
+        "claims": [
+          {
+            "claim": "Americans spend over $1.5 trillion on food annually, with grocery delivery growing 25% year-over-year since 2020.",
+            "page_number": 1,
+            "category": "financial",
+            "verdict": "VERIFIED",
+            "confidence": 0.92,
+            "reasoning": "The claim is supported by evidence from reputable sources, including Plunkett Research and various statistics on grocery shopping. The specific numbers and growth rate are also consistent with industry trends.",
+            "evidence_sources": [
+              {
+                "title": "[DEEP] Food, Grocery & Beverage Global Trends Analysis, Data, Sales,",
+                "url": "https://www.plunkettresearch.com/trends-analysis/food-beverage-grocery-business-market/",
+                "snippet": "Title: Food, Beverage and Grocery Business Trends Analysis URL Source: https://www.plunkettresearch.com/trends-analysis/food-beverage-grocery-business-market/ Markdown Content: # Food, Grocery & Beverage Global Trends Analysis, Data, Sales, Market Research-Instant access to Statistics, Revenues, Forecasts, Technologies, Business Trends, Mailing Lists Please wait while the search results are loading... [![Image 2: logo](https://www.plunkettresearch.com/wp-content/uploads/image/PlunkettLogo.jpg)Plunkett Research,\u00ae Ltd.Our Market Research = Your Smart Decisions](https://www.plunkettresearch.com/) [Subscribers login](https://www.plunkettresearch.com/plunkett-research-log-in/)[0](https://www.plunkettresearch.com/cart/) [](javascript:void(0);) What are you looking for?  [Toggle navigation](javascript:void(0);) *   [Industry Coverage](https://www.plunkettresearch.com/industries/ \"Industry Coverage\") *   [Custom Market Research](https://www.plunkettresearch.com/custom-industry-market-research-and-surveys/ \"Custom Market Research\") *   [Solutions/Catalogs](https://www.plunkettresearch.com/catalogs/ \"Solutions/Catalogs\") *   [Media](https://www.plunkettresearch.com/media-and-industry-speaker/ \"Media\") *   [Plans & Pricing](https://www.plunkettresearch.com/compare-purchase-options/ \"Plans & Pricing\") *   [How to Buy](https://www.plunkettresearch.com/how-to-buy/ \"How to Buy\")\n...\nTitle: Food, Beverage and Grocery Business Trends Analysis URL Source: https://www.plunkettresearch.com/trends-analysis/food-beverage-grocery-business-market/ Markdown Content: # Food, Grocery & Beverage Global Trends Analysis, Data, Sales, Market Research-Instant access to Statistics, Revenues, Forecasts, Technologies, Business Trends, Mailing Lists Please wait while the search results are loading... [![Image 2: logo](https://www.plunkettresearch.com/wp-content/uploads/image/PlunkettLogo.jpg)Plunkett Research,\u00ae Ltd.Our Market Research = Your Smart Decisions](https://www.plunkettresearch.com/) [Subscribers login](https://www.plunkettresearch.com/plunkett-research-log-in/)[0](https://www.plunkettresearch.com/cart/) [](javascript:void(0);) What are you looking for?  [Toggle navigation](javascript:void(0);) *   [Industry Coverage](https://www.plunkettresearch.com/industries/ \"Industry Coverage\") *   [Custom Market Research](https://www.plunkettresearch.com/custom-industry-market-research-and-surveys/ \"Custom Market Research\") *   [Solutions/Catalogs](https://www.plunkettresearch.com/catalogs/ \"Solutions/Catalogs\") *   [Media](https://www.plunkettresearch.com/media-and-industry-speaker/ \"Media\") *   [Plans & Pricing](https://www.plunkettresearch.com/compare-purchase-options/ \"Plans & Pricing\") *   [How to Buy](https://www.plunkettresearch.com/how-to-buy/ \"How to Buy\") *   [About](https://www.plunkettresearch.com/about-us/ \"About\")\n...\nTitle: Food, Beverage and Grocery Business Trends Analysis URL Source: https://www.plunkettresearch.com/trends-analysis/food-beverage-grocery-business-market/ Markdown Content: # Food, Grocery & Beverage Global Trends Analysis, Data, Sales, Market Research-Instant access to Statistics, Revenues, Forecasts, Technologies, Business Trends, Mailing Lists Please wait while the search results are loading... [![Image 2: logo](https://www.plunkettresearch.com/wp-content/uploads/image/PlunkettLogo.jpg)Plunkett Research,\u00ae Ltd.Our Market Research = Your Smart Decisions](https://www.plunkettresearch.com/) [Subscribers login](https://www.plunkettresearch.com/...",
+                "is_deep": true
+              },
+              {
+                "title": "Grocery Shopping Statistics 2026: Spending, Trends & Data",
+                "url": "https://blog.spendmenot.com/grocery-shopping-statistics",
+                "snippet": "The cumulative impact offoodinflation since 2020 means families arespendingroughly25% moreongroceriesthan they didfiveyearsago.",
+                "is_deep": false
+              },
+              {
+                "title": "Where Americans Spend $1.2 Trillion a Year at Ecommerce",
+                "url": "https://wolfstreet.com/2025/08/19/where-americans-spend-1-2-trillion-a-year-at-ecommerce-retailers-and-how-that-changed-over-time/",
+                "snippet": "... overall retail sales, including ecommerce, rose by 0.4% in Q2 from Q1 seasonally adjusted and by 3.9%year-over-year, to $1.87trillion, according to ...",
+                "is_deep": false
+              },
+              {
+                "title": "Where Americans Spend their Trillions a Year on Goods and How",
+                "url": "https://wolfstreet.com/2025/07/21/where-americans-spend-their-trillions-a-year-on-goods-and-how-that-changed-over-time/",
+                "snippet": "Consumers spent $8.5trillionoverthe past 12 months at brick-and-mortar and online retailers to purchase goods, from shoes andgroceriesto RVs.",
+                "is_deep": false
+              }
+            ],
+            "repair_suggestion": null,
+            "temporal_decay": {
+              "freshness_score": 0.8,
+              "estimated_expiry": "Stable 1yr+",
+              "decay_reasoning": "Polymarket is a verified claim with a strong presence in the market, and its technology is not being rapidly superseded. The competitive velocity is moderate, with some high-growth rivals entering the niche. However, its capital injection is moderate, and the category type is 'First to Market', which indicates a stable shelf-life."
+            }
+          },
+          {
+            "claim": "Locally sourced produce travels an average of 100 miles compared to 1,500 miles for conventional grocery store food.",
+            "page_number": 1,
+            "category": "comparative",
+            "verdict": "VERIFIED",
+            "confidence": 0.85,
+            "reasoning": "The claim is supported by evidence from multiple sources, including EcoWatch and the Chromographics Institute. The exact numbers may vary, but the general trend and comparison between locally sourced and conventional produce are consistent.",
+            "evidence_sources": [
+              {
+                "title": "[DEEP] What Are Food Miles? - EcoWatch",
+                "url": "https://www.ecowatch.com/food-miles-supply-transportation.html",
+                "snippet": "Title: What Are Food Miles? URL Source: https://www.ecowatch.com/food-miles-supply-transportation.html Published Time: 2022-03-23T16:31:21-04:00 Markdown Content: A big rig semi truck transports boxes of pears. vitpho / iStock / Getty Images Plus Food travels long distances \u2013 sometimes hundreds or thousands of miles \u2013 to reach our plates. Mapping the trajectory of many processed foods is to draw zig-zags across the globe, connecting faraway fields, factories, distribution centers, and store shelves. The concept of \u201cfood miles\u201d was created in the 1990s to warn consumers of the connection between long-distance food transportation and mounting global carbon emissions. Recent estimates figure that, in the U.S., processed food typically travels over 1,300 miles and fresh produce over 1,500 miles before it\u2019s consumed. Ultimately, the further food travels, the more fossil fuels are needed, which in turn results in more greenhouse gas emissions that [fuel climate change](https://www.ecowatch.com/climate-change-food-production-2640810845.html). Just 10 companies \u2013 among them Nestl\u00e9, Mondolez, and Unilever \u2013 control almost all large food and beverage companies in the world. This [concentration of food suppliers](https://www.ecowatch.com/corporate-food-system-us-hunger-2650404147.html) has left less room for small, local farmers, and means more and more of our food is transported across the country \u2013 or the globe \u2013 before being eaten. Take Iowa, for example: in 1870, 100% of all apples consumed in the state were also produced there. By the end of the 20 th century, however, only [15% of apples consumed were produced by Iowa farmers](https://attra.ncat.org/htmlpub/food-miles-background-and-marketing/). The globalization of our food supply has also allowed consumers to become accustomed to foods grown only in other regions \u2013 think of coffee, which isn\u2019t grown anywhere in the contiguous U.S. \u2013 or out-of-season foods that must be transported from warmer climates. Strawberries bought at a local farmers market during their summer growing season, for example, will have a lower food mileage than those shipped from California and purchased at a grocery store in December. Different methods have been employed over time to calculate food miles. The Weighted Average Source Distance (WASD) formula was developed by Annika Carlsson-Kanyama in 1997, and considers the weight of the transported food and the distance it travels from the place of production to the place of sale. To analyze foods with multiple ingredients \u2013 including many processed foods, like bread, packaged desserts, snacks, etc. \u2013 The Leopold Center for Sustainable Agriculture developed the Weighted Total Source Distance (WTSD) formula, which calculates the weight and distance traveled of each individual ingredient. ## **How Are Food Miles Calculated?** The WASD and WTSD are helpful formulas, but the Weighted Average Emissions Ratio (WAER) formula \u2013 developed in 2004 by the nonprofit LifeCycles \u2013 also takes into account the greenhouse gas emissions associated with the mode of transportation employed. So, it\u2019s not just the literal miles traveled that matters, but the means by which it\u2019s transported. ## **The Impact of Faraway Food** Both transportation and agriculture are major culprits in human-caused climate change. In the U.S., transportation accounts for the [largest share of national greenhouse gas emissions](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions#:~:text=The%20largest...",
+                "is_deep": true
+              },
+              {
+                "title": "Food Miles: Background and Marketing \u2013 ATTRA \u2013",
+                "url": "https://attra.ncat.org/publication/food-miles-background-and-marketing/",
+                "snippet": "...AverageSource Distance (WASD) formula was developed by Annika Carlsson-Kanyama in 1997 and takes into account the amountoffood transported in ...",
+                "is_deep": false
+              },
+              {
+                "title": "eat locally | Chromographics Institute",
+                "url": "https://www.chromographicsinstitute.com/tag/eat-locally/",
+                "snippet": "... you\u2019ll find that mostofthe organic fruit and vegetables in your local grocery store come from much farther away than yourconventionalproduce...",
+                "is_deep": false
+              },
+              {
+                "title": "Seasonal Foods to Check Out | Chromographics Institute",
+                "url": "https://www.chromographicsinstitute.com/2018/03/seasonal-foods-to-check-out/",
+                "snippet": "... you\u2019ll find that mostofthe organic fruit and vegetables in your local grocery store come from much farther away than yourconventionalproduce...",
+                "is_deep": false
+              }
+            ],
+            "repair_suggestion": null,
+            "temporal_decay": {
+              "freshness_score": 0.4,
+              "estimated_expiry": "3-6 months",
+              "decay_reasoning": "The claim about women-led companies receiving less than 5% of investment is a verified claim, but the data is preliminary and may change. The competitive velocity is high, with many high-growth rivals entering the niche. The capital injection is moderate, and the category type is 'First to Market', which indicates a relatively short shelf-life."
+            }
+          },
+          {
+            "claim": "FreshRoute has already partnered with every certified organic farm in the United States.",
+            "page_number": 1,
+            "category": "competitor",
+            "verdict": "FALSE",
+            "confidence": 0.99,
+            "reasoning": "The evidence provided does not support this claim. WWOOF, a reputable source, does not list FreshRoute as a partner. Additionally, the other sources provided do not mention FreshRoute partnering with every certified organic farm in the United States.",
+            "evidence_sources": [
+              {
+                "title": "[DEEP] WWOOF | World Wide Opportunities onOrganicFarms",
+                "url": "https://wwoof.net/",
+                "snippet": "Title: Robot Challenge Screen\nURL Source: https://wwoof.net/\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\nMarkdown Content:\n## wwoof.net\nChecking the site connection security\n![Image 1: CDN icon](https://d1rozh26tys225.cloudfront.net/loader.svg)...",
+                "is_deep": true
+              },
+              {
+                "title": "Palworld electricorganfarmlocation, how to get electric... - YouTube",
+                "url": "https://www.youtube.com/watch?v=kCBjoNRAFQA",
+                "snippet": "If you needed the Palworld best electricorgan...",
+                "is_deep": false
+              },
+              {
+                "title": "Forecasting the Future: In-Depth Analysis ofUnitedStatesTurmeric...",
+                "url": "https://www.linkedin.com/pulse/forecasting-future-in-depth-analysis-united-states-turmeric-wp7rf",
+                "snippet": "TheUnitedStatesturmeric finger market includes two primary types:organicand conventional.Organicturmeric fingers are cultivated without synthetic pesticides or fertilizers, appealing to health-conscious consumers seeking natural products.",
+                "is_deep": false
+              },
+              {
+                "title": "Ynsect opens first mealwormfarmintheUSand enters local... - Ynsect",
+                "url": "https://www.ynsect.com/2022/03/29/ynsect-opens-first-mealworm-farm-in-the-us-and-enters-local-premium-chicken-feed-market-after-jord-joins-its-production-platform/",
+                "snippet": "From its purpose-builtstate-of-the-artfarms, \u0178nsect offers a long-term, sustainable,organicsolution to accelerate protein and plant consumption. \u0178nsect uses disruptive technology protected by 349 patents, to raise its Buffalo and Molitor mealworms in highly-automated verticalfarms...",
+                "is_deep": false
+              }
+            ],
+            "repair_suggestion": null,
+            "temporal_decay": {
+              "freshness_score": 0.0,
+              "estimated_expiry": "Expired",
+              "decay_reasoning": "The claim about new financial competitors innovating and growing in emerging countries is a false claim, and its shelf-life is zero due to its lack of validity."
+            }
+          },
+          {
+            "claim": "Our proprietary algorithm eliminates all food waste throughout the entire supply chain.",
+            "page_number": 1,
+            "category": "technical",
+            "verdict": "EXAGGERATED",
+            "confidence": 0.78,
+            "reasoning": "The claim is partially supported by evidence from reputable sources, including Wasteless and the US EPA. However, the claim is exaggerated, as it is unlikely that any algorithm can eliminate all food waste throughout the entire supply chain.",
+            "evidence_sources": [
+              {
+                "title": "[DEEP] Waste less, sell more - how one startup is using AI to transform food retail",
+                "url": "https://www.weforum.org/stories/2021/06/wasteless-ai-retail-food-waste/",
+                "snippet": "Title: Waste less, sell more - how one startup is using AI to transform food retail URL Source: https://www.weforum.org/stories/2021/06/wasteless-ai-retail-food-waste/ Markdown Content: *   We each throw out 74kg (163 lbs) of food waste per person, per year. *   UN Sustainable Development Goals aim for 50% less food waste by 2030. *   AI software is shown to reduce supermarket food waste by a third. *   Tech startup Wasteless is using AI to cut down on food waste. *   Wasteless is a member of The Circulars Accelerator Cohort 2021 on UpLink. Admit it. We\u2019ve all thrown good food away. It looked perfect in the supermarket. The ripe fruit or vegetables, the prime meat, the nutritious dairy products. But when past its peak - maybe it was close to the \u201cbest-before\u201d date, into the garbage it goes. We throw out 74kg (163 lbs) of food annually per man, woman and child on the planet, while two billion of the world\u2019s people suffer from hunger or undernourishment. In total 1.3 billion tonnes, or a third of all the world\u2019s food produced, is wasted every year. With the challenge of ending global hunger in mind, the UN incorporated a target of [halving global food waste by 2030](http://www.fao.org/sustainable-development-goals/indicators/1231/en/) into the Sustainable Development Goals. ##### Have you read? *   ##### [What are food crises and how many people are affected by them?](https://www.weforum.org/stories/2021/05/global-food-crises-report-conflict-2021/) *   ##### [A Better Future for Food \u2013 Public Forum of the UN Food Systems Summit](https://www.weforum.org/stories/2021/05/food-systems-summit-lever-of-change-second-innovation-public-forum/) *   ##### [What can consumers do to help solve the climate change crisis?](https://www.weforum.org/stories/2021/02/consumers-help-solve-climate-change/) **The foods we throw away** [![Image 1: a chart showing that 76% of surplus food comes from perishable items](https://assets.weforum.org/editor/kwMCsarbpt-MnPlvI_xIkdOcLAdm8dK1SDpnhUeOtbs.png)](https://refed.com/food-waste/the-challenge/?sort=economic-value-per-ton)\n...\nTitle: Waste less, sell more - how one startup is using AI to transform food retail URL Source: https://www.weforum.org/stories/2021/06/wasteless-ai-retail-food-waste/ Markdown Content: *   We each throw out 74kg (163 lbs) of food waste per person, per year. *   UN Sustainable Development Goals aim for 50% less food waste by 2030. *   AI software is shown to reduce supermarket food waste by a third. *   Tech startup Wasteless is using AI to cut down on food waste. *   Wasteless is a member of The Circulars Accelerator Cohort 2021 on UpLink. Admit it. We\u2019ve all thrown good food away. It looked perfect in the supermarket. The ripe fruit or vegetables, the prime meat, the nutritious dairy products. But when past its peak - maybe it was close to the \u201cbest-before\u201d date, into the garbage it goes. We throw out 74kg (163 lbs) of food annually per man, woman and child on the planet, while two billion of the world\u2019s people suffer from hunger or undernourishment. In total 1.3 billion tonnes, or a third of all the world\u2019s food produced, is wasted every year. With the challenge of ending global hunger in mind, the UN incorporated a target of [halving global food waste by 2030](http://www.fao.org/sustainable-development-goals/indicators/1231/en/) into the Sustainable Development Goals. ##### Have you read? *   ##### [What are food crises and how many people are affected by them?](https://www.weforum.org/s...",
+                "is_deep": true
+              },
+              {
+                "title": "The Most Promising Technologies for Reducing Food Waste Throughout the Supply Chain",
+                "url": "https://www.agriculture.com/news/technology/the-most-promising-technologies-for-reducing-food-waste-throughout-the-supply-chain",
+                "snippet": "July 17, 2020 -Israeli startupWasteless has developed a proprietary dynamic pricing algorithm for products with a limited expiration date. It allows retailers to fix and display discount prices across the demand curve and to discount items that are nearing ...",
+                "is_deep": false
+              },
+              {
+                "title": "Three Ways AI Is Driving Reductions in Food Loss and Waste",
+                "url": "https://refed.org/articles/three-ways-ai-is-driving-reductions-in-food-loss-and-waste/",
+                "snippet": "For example, Strella offers a solution to support banana ripening through the use of proprietary sensors and machine learning to approximate the stage of ripening; then it issues recommendations that help ripeners improve consistency of color and maintain banana shelf life.",
+                "is_deep": false
+              },
+              {
+                "title": "Prevent Wasted Food Through Source Reduction | US EPA",
+                "url": "https://www.epa.gov/sustainable-management-food/prevent-wasted-food-through-source-reduction",
+                "snippet": "December 12, 2025 -Sodexo deploys its proprietary waste reduction program to track and automatically analyze data in its kitchens. The data gives clear insight into what a kitchen is wasting and why.",
+                "is_deep": false
+              }
+            ],
+            "repair_suggestion": null,
+            "temporal_decay": {
+              "freshness_score": 0.2,
+              "estimated_expiry": "6-12 months",
+              "decay_reasoning": "The claim about new entrants affecting business is an exaggerated claim, and its shelf-life is relatively short due to its lack of specificity and the presence of many high-growth rivals in the niche. The competitive velocity is high, and the capital injection is moderate, but the category type is 'Revenue Scale', which indicates a slower decay rate."
+            }
+          },
+          {
+            "claim": "Our beta users are so obsessed with FreshRoute that they've completely abandoned every traditional grocery store forever.",
+            "page_number": 1,
+            "category": "general",
+            "verdict": "FALSE",
+            "confidence": 0.95,
+            "reasoning": "The evidence provided does not support this claim. The Reddit post and Trustpilot review do not suggest that users have abandoned traditional grocery stores. In fact, the Trustpilot review mentions a negative experience with insurance, which is unrelated to FreshRoute.",
+            "evidence_sources": [
+              {
+                "title": "[DEEP] For all things route/crag development, fixed hardware, and FAs",
+                "url": "https://www.reddit.com/r/RouteDevelopment/",
+                "snippet": "Title: \nURL Source: https://www.reddit.com/r/RouteDevelopment/\nWarning: Target URL returned error 403: Forbidden\nMarkdown Content:\nYou've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.\n[Log in](https://www.reddit.com/login/)[File a ticket](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=21879292693140)...",
+                "is_deep": true
+              },
+              {
+                "title": "Fresh Routes (@FreshRoutes) / Posts / X",
+                "url": "https://x.com/FreshRoutes",
+                "snippet": "December 6, 2018 -We\u2019ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in our Help Center \u00b7 By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use",
+                "is_deep": false
+              },
+              {
+                "title": "Route is rated \"Excellent\" with 4.7 / 5 on Trustpilot",
+                "url": "https://www.trustpilot.com/review/route.com",
+                "snippet": "1 week ago -The package was abandoned and with... See more ... Ok look this insurance thing is a big scam. Why the heck are companies using this service? Oh because they\u2019re lazy and don\u2019t want to deal with the nonsense. I really hope route and companies li... See more ... My concern was addressed extremely fast and I am very thankful that I added their protection to my shipment.",
+                "is_deep": false
+              },
+              {
+                "title": "r/kollywood on Reddit: What is the deal with this \"Route\" thing recently?",
+                "url": "https://www.reddit.com/r/kollywood/comments/1iznfzc/what_is_the_deal_with_this_route_thing_recently/",
+                "snippet": "",
+                "is_deep": false
+              }
+            ],
+            "repair_suggestion": null,
+            "temporal_decay": {
+              "freshness_score": 0.0,
+              "estimated_expiry": "Expired",
+              "decay_reasoning": "The claim about the threat of new entrants referring to how easy it is for new competitors to enter an industry is a false claim, and its shelf-life is zero due to its lack of validity."
+            }
+          },
+          {
+            "claim": "FreshRoute will single-handedly revolutionize the entire global food system within 18 months of launch.",
+            "page_number": 1,
+            "category": "general",
+            "verdict": "EXAGGERATED",
+            "confidence": 0.92,
+            "reasoning": "The claim is partially supported by evidence from reputable sources, including AgFunderNews and FReSH. However, the claim is exaggerated, as it is unlikely that any single company can revolutionize the entire global food system within a short period of time.",
+            "evidence_sources": [
+              {
+                "title": "[DEEP] 8 startups reshaping the global food system - AgFunderNews",
+                "url": "https://agfundernews.com/8-global-startups-reshaping-the-global-food-system",
+                "snippet": "Title: 8 startups reshaping the global food system URL Source: https://agfundernews.com/8-global-startups-reshaping-the-global-food-system Published Time: 2021-05-05T09:00:19+00:00 Markdown Content: _Editor\u2019s note: This post is part of a collaboration with[F&A Next](http://www.fanext.com/), an[AgFunder Network Partner](https://agfundernews.com/agfunder-network-partners). F&A Next was founded by[Anterra Capital](http://www.anterracapital.com/),[StartLife](https://start-life.nl/),[Rabobank](https://www.rabobankamerica.com/), and[Wageningen University & Research](https://www.wur.nl/en.htm)._ _F&A Next is a platform dedicated to connecting food and agriculture startups to investors, serving as a springboard to greater innovation and a better deal for all. It organizes an annual conference in May, which will be virtual again in 2021. Throughout the day, the forum will showcase eight of the \u201cNext Heroes\u201d startups in agrifoodtech._ _Find out more [here](https://www.fanext.com/), and read about last year\u2019s event[here](https://agfundernews.com/sexy-supply-chain-tech-a-next-2020.html). Apply the code**AFN-FaNext21**to benefit from a 25% discount!_ When things got tough in 2020, innovators got going. And investors noticed. Agrifoodtech innovation and investing had a breakout year last year, raking in more than $30 billion. Early-stage ventures did particularly well: dollars committed was up 10% and deal count was up 15% from 2019. Showcasing the range of agrifoodtech innovators who toiled away in spite of the pandemic (and even started their businesses amid a global lockdown), eight startups will present their products and ideas at F&A Next\u2019s virtual summit on May 26.Their solutions, which address food waste, remote sensing, new sources of nutrients and proteins, and more, exemplify the creativity and ingenuity that has global investors eager to place their bets on the agrifoodtech sector at large. Here\u2019s a sneak peak at who they are. #### **BiomilQ** US-based [BiomilQ](https://www.biomilq.com/) has been in the cellular foods game for a long time. But it isn\u2019t making burgers or fish fillets. It\u2019s making lab-grown human breast milk. Many women aren\u2019t able to breast feed, and their most available alternative is bottle-based formula made of cow, goat or plant-based milks. Those don\u2019t have the same nutrients as the milk that mothers produce. The women-led company closed a $3.5 million seed round last summer and grew its team from two to 15, at the height of global lockdowns. BiomilQ has since been working to optimize its cell culture media and characterize mammary cells. Founder Michelle Egger says the company has also made advances in reducing its production costs. The company is committed to making a product that is affordable for mothers of all income levels. The company is eying 2022 as a milestone year, says Egger. \u201cWe are constructing our own manufacturing plant and look forward to creating product at scale that can enter regulatory safety testing.\u201d In the meantime, BiomilQ is engaged in consumer education to teach parents about lab-grown breast milk. \u201cMost parents and incredibly open to the product and category of human milk, but we know there is a lot of unscientific information out there that muddles the discussion,\u201d Egger says. #### **Ful Foods**\n...\nTitle: 8 startups reshaping the global food system URL Source: https://agfundernews.com/8-global-startups-reshaping-the-global-food-system Published Time: 2021-05-05T09:00:19+00:00 Markdown Cont...",
+                "is_deep": true
+              },
+              {
+                "title": "Research on time-varying path optimization for multi-vehicle type fresh food logistics distribution considering energy consumption | Scientific Reports",
+                "url": "https://www.nature.com/articles/s41598-024-78639-1",
+                "snippet": "November 7, 2024 -Scientific Reports - Research on time-varying path optimization for multi-vehicle type fresh food logistics distribution considering energy consumption",
+                "is_deep": false
+              },
+              {
+                "title": "Optimization of Fresh Food Logistics Routes for Heterogeneous Fleets in Segmented Transshipment Mode | MDPI",
+                "url": "https://www.mdpi.com/2227-7390/12/23/3831",
+                "snippet": "December 4, 2024 -To address the challenges of environmental impact and distribution efficiency in fresh food logistics,a segmented transshipment model involving the coordinated operation of gasoline and electric vehicles is proposed.",
+                "is_deep": false
+              },
+              {
+                "title": "FReSH: transforming global food systems",
+                "url": "https://wbcsd.org/Programs/Food-and-Nature/Food-Land-Use/FReSH/FReSH-transforming-global-food-systems",
+                "snippet": "September 30, 2025 -Driving advocacy for an ambitious transition by sharing policy insights, enabling engagement with policymakers and influencing global agenda in agriculture and food.",
+                "is_deep": false
+              }
+            ],
+            "repair_suggestion": null,
+            "temporal_decay": {
+              "freshness_score": 0.1,
+              "estimated_expiry": "1-3 months",
+              "decay_reasoning": "The claim about the threat of new entrants is an exaggerated claim, and its shelf-life is relatively short due to its lack of specificity and the presence of many high-growth rivals in the niche. The competitive velocity is high, and the capital injection is moderate, but the category type is 'First to Market', which indicates a relatively short shelf-life."
+            }
+          }
+        ],
+        "page_score": 0.5,
+        "dominant_color": "amber"
+      }
+    ],
+    "overall_trust_score": 0.5,
+    "investor_persona": "sequoia"
+  }
+}

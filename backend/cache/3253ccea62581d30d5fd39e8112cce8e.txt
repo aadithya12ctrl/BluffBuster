@@ -1,0 +1,244 @@
+Title: TAM Methodology: An Explanation and Example of Total Addressable Market Analysis
+
+URL Source: https://www.toptal.com/management-consultants/market-sizing/total-addressable-market-example
+
+Published Time: 2017-08-31T12:28:00-0400
+
+Markdown Content:
+## Key Highlights
+
+What is TAM?
+*   Total addressable market (TAM) demonstrates the entire revenue opportunity that exists within a market for a product or service.
+*   There are four methods for calculating TAM: top-down approach, bottom-up approach, value theory, and referring to external research.
+*   The top-down approach consists of using macroeconomic factors to define a subset of customers that are unified by characteristics of using a product or service. Data providers such as the OECD, UN, World Bank, and CIA World Factbook are useful resources for determining this.
+*   Bottom-up analysis revolves around determining a local market size and then extrapolating it upwards to a wider population. It is perceived as more accurate as the data collected is primary, but its influence wanes over disparate geographies and cultures.
+*   Value theory is useful for completely new concepts of products/services that will gain users from being a positive trade-off versus incumbent options. It estimates the value-add (tangible and intangible) provided by the new offering and uses that to assume a theoretical revenue opportunity.
+*   Research companies, such as Gartner or IDC, publish reports that often postulate upon sectoral TAMs. This data has been professionally compiled, is credible and is quick to find; however, using it can compromise your ability to understand your market deeper via proprietary research.
+
+What is SAM?
+*   In the absence of monopoly control and/or unlimited financial resources, capturing 100% of a TAM is almost impossible for a business.
+*   Serviceable available market (SAM) carves the TAM up into sub-markets that cater towards different types of users. This can be defined by (but not limited to) differences in quality, price or functionality.
+*   Aside from competitive and financial limitations, other factors that lower a TAM into a SAM are geographic, cultural, regulatory, and product cannibalization considerations.
+
+What is SOM?
+*   Serviceable obtainable market shows how much of the SAM can be realistically captured by a business in the short/mid term.
+*   A combination of the competitive forces of the market and the company's own resources (financial and human), determine how much market share can be reached
+*   Frameworks such as Porter's Five Forces can help to determine the competitive dynamics of a market and provide guidance on the SOM opportunity.
+
+What is WeWork's TAM, SAM, and SOM?
+*   Calculations for the size of the workspace market for desk-based service sector workers within OECD nations and the current WeWork markets suggests a TAM of $1.35 trillion.
+*   Narrowing the TAM down to workers within the "Creative Class"—those with tertiary education, urban living and working in enterprises with less than 250 people—gives a SAM of $168 billion.
+*   Projecting out WeWork's revenue for five years' time gives a estimation of $33.8 billion, which corresponds to 20.9% of its SAM. This corroborates with a total estimated 25% market share held by all coworking businesses, of which WeWork is a leading player.
+*   Relative to its TAM, WeWork's SAM and SOM are 12.4% and 2.6% respectively. The large gap between the TAM, but small gap between SAM and SOM demonstrate that the business is a niche player, but highly effective and desirable within its niche.
+
+## TAM Is a Popular Metric That Is Often Misunderstood
+
+**Total addressable market** (**TAM**, occasionally referred to as **total available market**) is a form of [market sizing](https://www.toptal.com/management-consultants/market-sizing) that enables a business to define the holistic revenue opportunity offered from its product or service. It is an exercise that will shed light towards the level of effort and funding to be put into a new business line, because it provides guidelines about the largesse of its economic potential.
+
+In finance, TAM has become an [important metric](https://a16z.com/2015/09/23/16-more-metrics/) and a more creative process of calculating it has emerged due to the increased speed in which new markets are evolving. The realization of [Moore’s Law](http://www.wired.co.uk/article/wired-explains-moores-law) is shortening technological improvement cycles and adding (exciting) uncertainty about the rapid coalescence of markets. For that, a deep understanding about TAM allows entrepreneurs to be aware of the blurred lines between their markets.
+
+### The Advantages of a Thorough TAM Understanding
+
+The importance of a TAM exercise is primarily to understand the revenue opportunity, but it also offers secondary advantages:
+
+1.   Focuses owners on their future roadmap and product evolution.
+2.   Provides a current waypoint for assessing product market fit.
+3.   Attracts and appeases investors by showing accuracy and conviction.
+4.   Puts competitors within a line of sight early on.
+
+In 2014, a [debate occurred](http://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/) between NYU professor [Aswath Damodaran](http://aswathdamodaran.blogspot.com/) and investor [Bill Gurley](http://abovethecrowd.com/) over a valuation that the former attached to the latter’s investment in Uber. The low valuation that Gurley was questioning resulted from Damodaran calculating a TAM that assumed that Uber was just a taxi/limo service. Gurley’s retort was that Uber was addressing a far bigger field; it was a transportation business:
+
+> In choosing to use the historical size of the taxi and limousine market, Damodaran is making an implicit assumption that the future will look quite like the past
+
+The Uber example shows the ambition that many modern companies have when looking to tackle a market. Initially within the context of people logistics, Uber’s MVP and [initial offering](https://medium.com/@gc/the-beginning-of-uber-7fb17e544851) was within cabs, indeed a small subset of the services transportation market. The subsequent introduction of X, POOL, EATS, and RUSH services has shown its desires to tackle a wider reach of the market, which has validated Gurley’s thesis. Uber’s research and development into self driving cars and long distance hauling shows that it does not intend to stop expanding. Conversely, there are no mooted plans for Uber to get into air travel/freight, so it’s not trying to tackle its entire TAM.
+
+The TAM will show the theoretical total market that could exist for a product assuming unencumbered access to it and unlimited operational resources from the provider. Only within a monopolistic industry, where one player has the resources and scale to serve the entire potential market would this be possible. Broadly speaking, just government services and public utilities receive this bonus.
+
+If it is almost impossible to capture 100% of a TAM, then why is it included in almost every pitch deck? Well, a TAM will spit out a large number, which attracts eyeballs and stimulates conversation. But the devil in this detail will be in the second and third layer analysis of the TAM; the **serviceable available market (SAM)** and the **serviceable obtainable market (SOM)**. The last measure is most important; it shows what is realistically being targeted to be captured by the business. It’s all about finding the tip of the iceberg:
+
+![Image 1: How total addressable market (TAM), serviceable available market (SAM), and serviceable obtainable market (SOM) are all related.](https://assets.toptal.io/images?url=https%3A%2F%2Fuploads.toptal.io%2Fblog%2Fimage%2F125877%2Ftoptal-blog-image-1523523855263-983956a22c714ee582e95af566a149d2.png)
+
+Pitch decks can have the tendency to ignore SAM and SOM and just try to hazard a guess for a TAM, leaving it at that. Through this omission, they often make sweeping and ill-defined generalizations about a customer base, such as “we are targeting millennial smartphone users.” Down the line, a failure to have a true guide of a TAM, SAM, and SOM, with considerations towards customer segmentation and competitive dynamics, can lead to disappointing outcomes and poor product-market fit.
+
+### Working Example
+
+To give some application to the article, I will work through a real example of a TAM, SAM, and SOM for [WeWork](https://www.wework.com/). Not only is it a highly [valuable](https://www.forbes.com/sites/alexkonrad/2017/08/24/wework-confirms-massive-4-4-billion-investment-from-softbank-and-its-vision-fund/#5ec05b2c5b3c) and well-known company, but it is also one that is transcending the traditional perceptions of its market.
+
+_Note: I am excluding the division [WeLive](https://www.wework.com/) (residential living), due to the complexities of clearly explaining two methodologies on a concurrent basis for different offerings._
+
+## How to Calculate TAM
+
+On a high level, we first ask, “What is TAM”? The definition of total addressable market is the annual expected sales within an observed market. The total addressable market calculation is simple:
+
+`average revenue * number of customers for the entire segment of the targeted market`
+
+There are three primary collection methods and one secondary method for calculating TAM:
+
+1.   **Top-down** takes a macro view of assessing factors right at the very top of an economy.
+2.   **Bottom-up** looks at a subset of a localized situation and then extrapolates the results to the wider market opportunity.
+3.   **Value theory** focuses on the positive externalities derived from an offering versus incumbent options.
+4.   The secondary collection method uses verified **third-party research** (also known as **external research**), which I shall explain first.
+
+### 1. External Research
+
+An easy and quick way of finding a TAM is to reference professional data that has already been collected. Private research reports are expensive, but sometimes their headline figures are released into the public domain via press releases. The advantages of using these figures lean towards the pragmatic side; they are quick to obtain and within the laws of the division of labor, they are compiled by a more skilled professional with credibility.
+
+Companies such as [Gartner](http://www.gartner.com/), [Forrester](https://go.forrester.com/), and [IDC](https://www.idc.com/) research and publish industry reports with deep dives on sectors, usually containing statistics such as the revenue opportunity and future potential. A brief search yielded a press release from Gartner stating that the cybersecurity market was worth [$81.6 billion](http://www.gartner.com/newsroom/id/3404817) in 2016.
+
+The disadvantage of this method is that it is a [black box](https://en.wikipedia.org/wiki/Black_box) in terms of how the number was calculated. If an investor asks you to defend the rationale behind the figures, the only defense will be, “Well, it was published by X, so it’s valid.” Making your own TAM will provide you with deeper understanding and more leverage to debate the numbers.
+
+### 2. Top Down Approach
+
+The top down approach takes the ethos that you start at the very top of a macro data set and chip away at the data to find a market subset. You start with a population and then logically apply demographic, geographic and economic assumptions to eliminate irrelevant segments.
+
+The advantage of this method is that accurate and open statistics can be found for macroeconomic data. To name some sources: [UN](http://data.un.org/), [OECD](https://data.oecd.org/), [The World Bank](http://data.worldbank.org/) and [CIA World Factbook](https://www.cia.gov/the-world-factbook/).
+
+For example, if the recommended intake of water is [1.9 liters per day](http://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256) and there are 7.5 billion people in the world. Using an average cost of [$1.22 per gallon](http://www.businessinsider.com/bottled-water-costs-2000x-more-than-tap-2013-7) ($0.32 per liter) and a desired margin of 20%, the TAM for bottled water could theoretically be:
+
+`7.5 billion people * 1.9 liters * $0.32 price per liter * 120% margin * 365 days = $2.01 trillion TAM`
+
+### 3. Bottom Up Approach
+
+This method involves working on a granular level to find waypoints that are extrapolated up to the wider population. It is favored for [being more accurate](https://www.inc.com/jeff-haden/bottom-up-or-top-down-market-analysis-which-should-you-use.html), because its basis is anchored around a proven data point, which can be magnified to uncover the whole TAM population. One can use primary collection methods (such as a survey in a local market), or secondary research (news reports, company filings).
+
+For example. [Tesco](https://www.tesco.com/) has [27.8%](http://www.foxbusiness.com/features/2017/08/22/uk-top-four-grocers-sales-continue-to-rise-despite-losing-market-share.html) share of the UK grocery market. Tesco’s most recent results show that, for the [year ending April 2017](https://www.tescoplc.com/news/2017/preliminary-results-201617/), it had revenue of £35.9 billion (excluding gas and Republic of Ireland sales). Putting these two together extrapolates that in 2017 the UK grocery market has a TAM of £129.1 billion per year ($167.1 billion).
+
+A disadvantage of the bottom-up method is that due to the vast assumptions being made from a figuratively small subset, the TAM can be way off. This is particularly applicable for a global TAM calculation, where factors such as population density, economic prosperity, and consumer preferences vary drastically across nations.
+
+### 4. Value Theory Approach
+
+Top down and bottom up methods usually look at existing paradigms and assume that a new offering will fit into them. Yet, how could one assess the opportunity for, say, flying cars, when flying cars don’t yet exist? For products or services that can evolve a market into a new state and/or provide value-add to different groups of consumers, the value theory may be the best option.
+
+With value theory, one must assess how much a customer would be willing to pay for an improvement/evolution of a product. Such an exercise would have been useful when music streaming subscription services, like Spotify, started to roll out. At that time, consumers would pay a fixed price to buy music, yet the value-add of not owning a song but having access to a large library of them to effectively “borrow” was such that the common pricing we see now of $9.99 per month was deemed value-additive. Attaching that pricing to the number of music listeners would have shown the TAM more appropriately than simply looking at how much was spent at the time on purchased downloads.
+
+### What WeWork’s TAM Would Be
+
+To start, I will define what WeWork is in the broadest sense, within the SAM and SOM sections I will go deeper into its true positioning and service offering. For that, WeWork is in the market of providing work space to service sector workers, on a subscription basis: space as a service (SpaaS), perhaps?
+
+Between the three methodologies, I chose to use a top down method, starting with employment for a select group of countries. The bottom up methodology would be far too sensitive to apply to different geographies. The value theory method could be appropriate for such a transcendent company, but the subjective nature of it could turn what is intended to be a tutorial into an anthropological study into the monetary value of networking.
+
+I will now explain the top down rationale that I will use, step by step:
+
+1.   I defined my geographic universe as the [35 members of the OECD](http://www.oecd.org/about/membersandpartners/list-oecd-member-countries.htm) and five other countries where WeWork currently has operations (Argentina, Brazil, China, Colombia and India).
+2.   Using a combination of OECD and UN data, I worked out the percentage of the labor force working in services. This was then trimmed to desk jobs using US [BLS](https://www.bls.gov/) data for the ratio of relevant subset desk jobs to the entire service sector.
+3.   Using more OECD data, I stratified the workforce by the size of the company that the employees work for, assuming that smaller companies/entrepreneurs would use shared desks at WeWork, but companies of over 10 employees would want more expensive private offices.
+4.   Using quoted prices from a random WeWork office in each US city that it [operates in](https://www.wework.com/locations) (this was 22 cities at the time), I came up with a composite price for a hot/dedicated desk and private office seat of $378 and $610 respectively. I assumed that this is a fair reflection of the average market price for shared workspace, as WeWork is the market leader in the USA.
+5.   I used OECD [PPP](http://www.investopedia.com/updates/purchasing-power-parity-ppp/) indices to adjust the USD price of this service to a fair price for the other nations.
+
+![Image 2: Example of a total addressable market (TAM) calculation](https://assets.toptal.io/images?url=https%3A%2F%2Fuploads.toptal.io%2Fblog%2Fimage%2F125878%2Ftoptal-blog-image-1523523910740-99a3a201a2d1687d1259ced423261d9d.png)
+
+The overall TAM calculated for this set of 40 nations was $1.353 trillion, as an annual revenue opportunity.
+
+## How the Serviceable Addressable Market Is Different from TAM
+
+The SAM splices the TAM into the portion of the market that the company is looking to actually target with its specific product/service. It is the opportunity that exists within its current capabilities and ambitions. Calculating SAM involves segmenting customers more stringently based upon what kind of offering they will deviate towards from their purchasing decisions.
+
+For example, once upon a time, Amazon was just an online book seller. As it has grown in both scale and ambition, it has tackled more and more of the TAM of eCommerce, hence its SAM has risen. Its [acquisition of WholeFoods](https://www.toptal.com/management-consultants/mergers-and-acquisitions/amazon-vs-walmart-acquisition-strategy) also shows that it responds to the blurring of lines between online and brick-and-mortar commerce and delivery.
+
+For a business to have a SAM equal to its TAM is unlikely; it would imply that it has (or wants to have) the reach and functionality to realistically service all potential customers. This mostly is not possible due to:
+
+*   Geography/Culture: Electric cars in emerging markets are a distant dream due to factors such as huge geographic mass limiting recharging bases and, in some cases, subsidized gas prices.
+*   Regulation: The hugely popular [WhatsApp](https://www.toptal.com/developers) is [banned](http://www.businessinsider.com/whatsapp-is-banned-by-the-most-number-of-countries-but-facebook-users-drew-the-most-arrests-2017-1) in some countries.
+*   Cannibalization: Luxury brands cannot dilute their offering with lower priced products.
+*   Finite Resources: Even a benemoth like Uber couldn’t conquer the world on the ground, witnessed by its recent retreat from markets in Russia, China, and Southeast Asia.
+
+One example of a company doing everything it can to increase its SAM is Facebook. Its [Free Basics](https://info.internet.org/en/story/free-basics-from-internet-org/) program has ancillary goals of getting more people (otherwise priced out by internet access/cost) onto Facebook.
+
+### WeWork’s SAM
+
+First, we must define what WeWork currently is, using a quote from its [website](https://www.wework.com/why-wework):
+
+> Workspace, Community, and Services for a Global Network of Creators
+
+![Image 3: Image: Quoted "Workspace, Community, and Services for a Global Network of Creators"](https://assets.toptal.io/images?url=https%3A%2F%2Fuploads.toptal.io%2Fblog%2Fimage%2F124086%2Ftoptal-blog-image-1504105047210.56.41-fc652c0c2abce235d3b920bb818b4d5e.png)
+
+The three nouns at the start are telling, as it positions WeWork beyond just being a space for independent contractors to work. The latter two are reasons demonstrating why WeWork is actually also tackling the office environment for established companies. A look on the [Enterprise](https://www.wework.com/enterprise) section of its site shows a list of blue-chip brands that already have significant real estate assets but use WeWork for specific teams to capitalize upon the “network effects” of community and services.
+
+Within the TAM universe for WeWork, a proportion of the market will never use coworking spaces. Some competitors like [Servcorp](http://www.servcorp.com/en/) specifically target themselves as a more “formal” alternative to WeWork to attract the skeptics. Assessing the product and distribution for WeWork gives some pointers about who it can service:
+
+*   **Product:** Definitely a “millennial,” social-lead, coworking environment, based on its thesis that interactions between disparate workers builds values through shared ideas and networking.
+*   **Distribution:** Global networks of creators, currently based in large, forward-thinking urban areas.
+
+Evidently, the obvious appeal is to entrepreneurs or businesses that value those intangible benefits. The best way to segment this is to define them as the [creative class](https://www.forbes.com/sites/petesaunders1/2017/05/04/the-evolution-of-the-creative-class/#2d25785d12ee). To synthetically create this subset, I would exclude from the TAM data the following:
+
+*   People who live in rural and/or disconnected areas
+
+WeWork is a networked service that uses scale to house multiple businesses together. Outside of cities and connected urban environments, this is ineffective. Office rent is also cheaper outside of large CBDs.
+
+*   Employees working for companies greater than 250 people
+
+I assume that WeWork is really only targeting businesses with < 250 employees. Anything more and the benefits of outsourcing office management become thinner. While large enterprise clients do use WeWork, their use cases are sporadic and idiosyncratic.
+
+*   Those without a degree
+
+For WeWork’s TAM I used the “desk job” segment of the service industry. However, for a SAM, I narrowed that further to just employees with tertiary education.
+
+By limiting the population to just “urban areas,” I am not restricting the SAM solely to large cities. WeWork has [locations](https://www.wework.com/locations) in Haifa and Be’er Sheva in Israel, metropolitan areas with populations lower than 300,000, but with thriving entrepreneurial ecosystems.
+
+![Image 4: Example of a serviceable addressable market (SAM) calculation](https://assets.toptal.io/images?url=https%3A%2F%2Fuploads.toptal.io%2Fblog%2Fimage%2F125879%2Ftoptal-blog-image-1523523944316-9fb0adae3eee9f88e5c0d556586f6067.png)
+
+Using these figures to narrow down the TAM, WeWork currently has a SAM of $168.4 billion, 12% of its TAM.
+
+## Competitive Dynamics Affect Serviceable Obtainable Market
+
+The final level of the analysis is the SOM, the market size that the business is realistically targeting to capture within the short term. By this point, we are appraising the resource factors and the competitive environment of the firm.
+
+To assess resources, one must look at the financial clout of the business and its human resources. What is realistically possible in terms of responsible expansion? From a competitive landscape, this is where tried and tested methods like [Porter’s Five Forces](https://hbr.org/video/3590615226001/the-explainer-porters-five-forces) can provide insight—How tough is it to crack the market?
+
+To come up with a SOM, I recommend either:
+
+1.   Looking through historic performance and projection forecasts to look at where revenue could be in five years’ time. That will give a waypoint to target.
+2.   Handpicking select geographies or markets from the SAM and assigning a targeted market share percentage based on local competitive environments.
+
+If it’s dominated by one player, it’s likely to have monopoloistic tendencies and projections should be facing south of 50%.
+
+3.   Referring to third-party research on the sector to ascertain how market share currently stands. The more distributed, the better in terms of being able to realistically win share from others.
+
+### WeWork’s SOM
+
+The countries in the SAM are all rational choices for WeWork to locate, but to narrow its focus to obtainable and priority markets, I reduced the list. I removed all countries that WeWork was currently not in that had a potential customer base of less than 1 million people. Subsequently, the only country that remained post-cull that was not already served was Spain. 23 countries were eliminated, which dented the SAM figure by $21.8 billion.
+
+Looking at the competitive environment of WeWork, I see four groups of competition that exist to either attract current coworking members or convert workers from other habitats:
+
+1.   Other shared office providers (e.g., [Regus](https://www.regus.com/)) and rival coworking places (e.g., [Impact Hub](http://www.impacthub.net/))
+2.   Private office rental, or remaining in employers’ traditional offices
+3.   Coffee shops, cafes, libraries, and other free “work-friendly” places
+4.   Working from home
+
+Assigning market share between all the players here is incredibly subjective. However, one insight suggests that in 2016 WeWork leased [64%](http://www.us.jll.com/united-states/en-us/research/property/office/coworking-space-the-landlord-perspective) of newly available coworking space in the USA, compared to its peers. A statistic that shows that it is gaining market share aggressively.
+
+Assuming that each segment of the “competition” has 25% of the market, I would apportion that WeWork’s SOM would equal that number too. Why? Because as the leasing stats show, it is vigorously tackling this market already and with any market share that competitors do not cede, it is likely that WeWork will convert new users from the other segments. Therefore, the SOM from the abridged SAM list would be $36.6 billion.
+
+To sense check this, I used WeWork’s own financials to come up with a realistic expectation of where its revenue could be in five years’ time. Piecing together stories, leaks, and disclosures, I saw that over the past three years it had a CAGR of 102% between 2014 and the projected $1 billion of revenue for 2017. Its revenue is doubling every year, and on that logic, a conservative estimate for its revenue in five years’ time would be $33.8 billion. This corroborates (<$3 billion difference) with the SOM that I calculated from the competitive landscape.
+
+![Image 5: Example of a serviceable obtainable market (SOM) calculation](https://assets.toptal.io/images?url=https%3A%2F%2Fuploads.toptal.io%2Fblog%2Fimage%2F125880%2Ftoptal-blog-image-1523523973149-e1696d42d8979013a197a7510cb13f01.png)
+
+Some may say that WeWork’s growth should scale faster, but whether WeWork is a truly scalable business is a debate for another time. With various efforts to employ technology, use leases, and attract higher-paying enterprise clients, the business certainly is trying.
+
+The average of the two SOM points is $35.2 billion, representing 20.9% of the total SAM.
+
+### A TAM Exercise Can Prove or Refute Preconceptions
+
+This analysis makes a pre-money $20 billion [valuation](https://www.forbes.com/sites/stevenbertoni/2017/07/10/wework-hits-20-billion-valuation-in-new-funding-round/#738230f41194) of the business appear both palatable and logical. What is clear though is that WeWork is tackling a huge market and the traction it has received demonstrates that it is doing a strong job and earning market share. Investors have bought into this.
+
+Going into this article, my personal feelings about WeWork were quite muted. It struck me more as an opportunistic play, arbitraging property costs to over-indulged customers, without any clear deployment of scalable technology. Working through its TAM, SAM, and SOM piqued my interest and tangibly highlighted to me the immense opportunity that the business has. **I feel that at $20 billion, WeWork could actually be undervalued**, if its revenue continues to double each year from servicing its vast SAM. With a lease-based business model and [gross margins over 60%](http://blog.compstak.com/wework-whats-the-margin/) in some markets, it could really grow into a machine of free cash flow, which will accelerate growth further.
+
+Considering the head start that the incumbent Regus had; it [proclaims](https://www.regus.com/) “3,000 locations in 120 countries.” WeWork is clearly doing something right. If WeWork hits revenue targets of $1 billion in 2017, it will represent 1/3 of Regus’ [2016 sales](https://finance.yahoo.com/quote/IWG.L/financials?p=IWG.L). But with just 211 locations, WeWork has a far higher take per venue. Under the hood, this suggests ways in which perhaps technology is playing a greater hand, either through better market intelligence or collaboration/social tools that provide utility (and thus, revenue opportunities) from its users.
+
+Under the hood, this suggests ways in which perhaps technology is playing a greater hand in WeWork’s success over brick and mortar enterprises because its playbook is now so refined it offers [consulting services](https://www.toptal.com/management-consultants/market-sizing/total-addressable-market-example#) to other businesses to help them create collaborative workplace environments. Its recent [acquisition](https://www.toptal.com/management-consultants/market-sizing/total-addressable-market-example#) patterns further demonstrated its expansionist moves into all kinds of areas within the construction, work, and social interaction stacks.
+
+## TAM, SAM, and SOM Is a Vital Exercise, If Done Correctly
+
+Total addressable market is often misused. It’s often calculated incorrectly (either too aggressively or conservatively) and then implied to assume a realistic benchmark for budgeted revenue. Often a TAM of around $1 trillion will magically appear with an arbitrary 1% of targeted market share attached and then, _voila_! Revenues of $10 billion will appear overnight. This is why investors can feel both misled and skeptical about the figures that they see.
+
+![Image 6: Proportionate representation between a TAM, SAM, and SOM calculation](https://assets.toptal.io/images?url=https%3A%2F%2Fuploads.toptal.io%2Fblog%2Fimage%2F125881%2Ftoptal-blog-image-1523523993648-c9ca056ddeca51154f5a60146e9a5da2.png)
+
+Working through the total addressable market, serviceable available market and serviceable obtainable market will allow both entrepreneurs and investors to see a truer sense of what the business is trying to do and make far more accurate mental maps about the competitive dynamics. We see with WeWork that its SAM is 12.4% of its TAM and similarly, its SOM is 2.6%. The large difference between the TAM and SAM and then the smaller difference between SAM and SOM demonstrates pertinent aspects of its business:
+
+1.   It’s tackling a huge market with an offering that in the medium term will only appeal to a niche
+
+2.   Within this niche, it has already got legs and is already a major player
+
+If doing this exercise on WeWork had an enlightening effect on me of switching my opinion about the business, imagine the value that this exercise could have on an entrepreneur about to found a business.
+
+## Understanding the basics

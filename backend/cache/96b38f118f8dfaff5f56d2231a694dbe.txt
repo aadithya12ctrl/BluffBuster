@@ -1,0 +1,40 @@
+Title: San Francisco Housing Dashboard | SF Planning
+
+URL Source: https://sfplanning.org/san-francisco-housing-dashboard
+
+Markdown Content:
+The Housing Dashboard offers a comprehensive look at housing production in San Francisco, showcasing completed dwelling units since 2005 and tracking active residential projects in the development pipeline.
+
+Data Views
+The dashboard below features an interactive map of San Francisco with four major data views (buttons) located along the left side of the dashboard. These clickable view buttons are:
+
+*   Pipeline
+*   Completed (Units)
+*   Major Multiphase (Projects)
+*   Authorized (Units) – San Francisco’s primary metric for tracking Regional Housing Needs Allocation progress
+
+When a button is selected, the total for that view is indicated in the upper left corner (under the title Housing Dashboard) with a breakdown of related subtotals shown to the right and along the top of the dashboard (e.g., under review, new construction, complete, etc).
+
+While the Pipeline and Completed data views are mutually exclusive (a unit is either completed or in the pipeline), the Authorized and Major Multiphase views offer alternative ways to explore the same data (projects in these views are also counted in either the Pipeline or Completed Units views, depending on their status).
+
+Data results can also be switched between a Map View or Table View by clicking on either button title, located on the right side of the dashboard along with these additional filters:
+
+*   Analysis Neighborhoods
+*   Supervisor Districts, and
+*   Planning Areas
+
+_Please note: when selecting or switching between views, it may take a few moments for the results to appear._
+
+Zoom Controls
+![Image 1: controls showing zoom in and zoom out plus larger view button](https://sfplanning.org/sites/default/files/documents/admin/data-gis/pwowerbi-dashboard-controls.png)To zoom in or out of the dashboard, use the – (minus) or + (plus) controls located in the lower right corner. To see a larger view of this dashboard, click on the double-sided diagonal arrow, or [view this dashboard in a new window.](https://app.powerbigov.us/view?r=eyJrIjoiNWVjNzUxMDItYzA4Zi00NjdkLWJhYWUtZjI0OGRmNDYzZWJlIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiJ9)
+
+Data Sources
+
+Data sets for the following are available [on DataSF](https://www.sf.gov/departments--city-administrator--datasf "website"):
+
+*   [Housing Production - 2005-present](https://data.sfgov.org/Housing-and-Buildings/Housing-Production-2005-present/xdht-4php/about_data "website")
+
+This dataset includes completed and partially completed building permits that have resulted in the addition or loss of residential units since 2005, through construction of new units, demolition of existing units, or alteration of existing residential structures. This dataset also includes the number of affordable (below market rate) units by their affordability levels.
+*   [San Francisco Development Pipeline](https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Development-Pipeline/6jgi-cpb4/about_data "website")
+
+This dataset tracks construction and entitlement activity based on data from Department of Building Inspection's Permit Tracking System and the Planning Department's Project and Permit Tracking System, which produces a snapshot that shows when a project is filed to construction.

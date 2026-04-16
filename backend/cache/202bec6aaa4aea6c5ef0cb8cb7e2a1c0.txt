@@ -1,0 +1,514 @@
+Title: Commission Revenue Model: Pros, Cons, Examples & Best Practices
+
+URL Source: https://marketplacer.com/glossary/commission-revenue-model/
+
+Published Time: 2025-01-22T21:45:55+11:00
+
+Markdown Content:
+# Commission Revenue Model: Pros, Cons, Examples & Best Practices
+[Skip to content](https://marketplacer.com/glossary/commission-revenue-model/#content)
+
+[![Image 1](https://i0.wp.com/marketplacer.com/wp-content/uploads/2026/01/Marketplacer_logo_reversed.png?fit=300%2C36&ssl=1)](https://marketplacer.com/)
+
+*    Platform  Close Platform Open Platform Core Platform     [Marketplacer Platform](https://marketplacer.com/platform-for-success/)
+
+Leading Multi-Vendor marketplace & dropshipping platform
+
+[Marketplacer Fast Start Program](https://marketplacer.com/fast-start-program/)
+
+Launch your multivendor marketplace in 90 days.
+
+[How it Works](https://marketplacer.com/how-it-works/)
+
+Overview of how the marketplacer platform fits into your business
+
+[Why Adopt a Marketplace Strategy](https://marketplacer.com/why-marketplace-strategy/)
+
+It’s time to explore the possibilities and propel your business forward with the marketplace advantage. Learn about the strategy behind it.   [Connectors & Implementations →](https://marketplacer.com/implementation/)     [Connected](https://marketplacer.com/implementation/connected/)
+
+Keep your existing eCommerce ecosystem and gain the powerful smarts of Marketplacer.
+
+[BigCommerce Marketplace Connector](https://marketplacer.com/implementation/bigcommerce-connector/)
+
+Expand your BigCommerce store with a Marketplace Extension
+
+[commercetools Marketplace Accelerator](https://marketplacer.com/implementation/commercetools/)
+
+Launch and scale your 3rd party product strategy with Commercetools accelerator.
+
+[Salesforce Commerce Marketplace Connector](https://marketplacer.com/implementation/salesforce-commerce-cloud/)
+
+Extend the features of your SFCC store with Marketplacer.
+
+[Shopify Marketplace Connector](https://marketplacer.com/implementation/shopify-connector/)
+
+Launch a multi-vendor storefront with the Shopify-Marketplacer Connector        
+*    Solutions  Close Solutions Open Solutions [By Use Case →](https://marketplacer.com/use-cases/)     [Dropshipping](https://marketplacer.com/use-cases/dropshipping/)
+
+Expand by becoming a multi-vendor dropshipping store with Marketplacer.
+
+[Product Range Extension](https://marketplacer.com/use-cases/range-extension/)
+
+Easily extend product range without additional cost in inventory and development.
+
+[Composable Catalog](https://marketplacer.com/use-cases/composable-catalog/)
+
+Boost your e-commerce business with a composable approach to your catalog and inventory.
+
+[Category Testing](https://marketplacer.com/use-cases/category-testing/)
+
+Introduce and experiment with new products, categories, sellers and verticals, with less risks.   [By Industry →](https://marketplacer.com/industry/)     [Grocery](https://marketplacer.com/industry/grocery/)
+
+Cater to more customers by extending your physical grocery with an online marketplace.
+
+[Retail](https://marketplacer.com/industry/retail/)
+
+Maximize profitability by expanding product range & diversified revenue models.
+
+[Business to Business](https://marketplacer.com/industry/b2b/)
+
+Rapidly scale & increase revenue with a B2B Maketplace Strategy.
+
+[Loyalty](https://marketplacer.com/industry/loyalty/)
+
+Enhance customer loyalty by offering a wider range of redemption options through a marketplace.
+
+[Media](https://marketplacer.com/industry/media/)
+
+Increase subscriptions and grow new revenue streams with a centralized solution.       
+*    Seller Community  Close Seller Community Open Seller Community Join Marketplacer and watch your business grow.  If you are a seller, Marketplacer can help you connect to great retailers and marketplace sales channels around the world.  [Become a Marketplacer Seller](https://marketplacer.com/seller-community/)       
+*    Why Marketplacer  Close Why Marketplacer Open Why Marketplacer Why Marketplacer     [Platform for Success](https://marketplacer.com/platform-for-success/)
+
+We’ve developed a methodology to help our customers leverage our 10+ years of experience, learning and collective expertise to execute their own comprehensive strategies.
+
+[Success Stories](https://marketplacer.com/case-studies/)
+
+We are the marketplace platform behind the success of some of the fastest-growing online businesses. See how our customers create thriving marketplaces, and how you can follow in their footsteps.
+
+[Technology and Security](https://marketplacer.com/security/)
+
+We follow industry best practices and have adopted controls such as SAML SSO, Encryption, Multi-Factor Authentication, and Cloud Security.   Company     [Our Story](https://marketplacer.com/our-story/)
+
+ Learn about how we came to be one of the leading marketplace platforms.
+
+[Our Partners](https://marketplacer.com/partners/)
+
+ Build and strengthen your marketplace platform with a large assortment of solutions from our highly experienced and endorsed partners.
+
+[Careers](https://marketplacer.com/careers/)
+
+ Join the team and help revolutionize the future of e-commerce.       
+*    Resources  Close Resources Open Resources [Resource Hub →](https://marketplacer.com/resource-hub/)     [Blog](https://marketplacer.com/resource-hub/blogs/)
+
+Stay up to date with the latest content about Marketplacer and the commerce world.
+
+[Analyst Reports](https://marketplacer.com/resource-hub/analyst-reports/)
+
+Read the latest data and insights about Marketplacer.
+
+[eBooks & Guides](https://marketplacer.com/resource-hub/ebooks-and-guides/)
+
+Insights on marketplaces and how to utilise the strategy for growth.
+
+[Webinar & Videos](https://marketplacer.com/resource-hub/webinars/)
+
+Watch the experts discuss key topics surrounding commerce.
+
+[Podcasts](https://marketplacer.com/resource-hub/#podcasts)
+
+Listen on demand to top-tier industry discussions and retail community interviews.
+
+[Press Releases](https://marketplacer.com/press/)
+
+Stay up to date with Marketplacer news, announcements & releases.   [Case Studies →](https://marketplacer.com/case-studies/)     [Marketplace Operator Case Studies](https://marketplacer.com/case-studies/operator-case-studies/)
+
+See how our customers create thriving marketplaces, and how you can follow in their footsteps.
+
+[Marketplace Seller Case Studies](https://marketplacer.com/case-studies/seller-case-studies/)
+
+See how our sellers are selling more with Marketplacer, and how you can follow in their footsteps.  External Resources     [API Site](https://api.marketplacer.com/)
+
+Whether you’re an operator, a new seller, or a partner integrating with Marketplacer, our Developer Portal is your go-to resource for API documentation, guiding you at every stage.
+
+[Knowledge Base](https://support.marketplacer.com/)
+
+As a Marketplacer customer, you can access Marketplacer for support via our Knowledge Base.       
+
+*   [Home](https://marketplacer.com/)
+*   [Platform](https://marketplacer.com/glossary/commission-revenue-model/#)
+    *   [Core Platform](https://marketplacer.com/glossary/commission-revenue-model/#)
+        *   [The Marketplacer Platform](https://marketplacer.com/platform-for-success/)
+        *   [Fast Start Program](https://marketplacer.com/fast-start-program/)
+        *   [How it works](https://marketplacer.com/how-it-works/)
+        *   [Why a marketplace strategy](https://marketplacer.com/why-marketplace-strategy/)
+
+    *   [Connectors & Implementation](https://marketplacer.com/glossary/commission-revenue-model/#)
+        *   [Implementation](https://marketplacer.com/implementation/)
+        *   [Connected](https://marketplacer.com/implementation/connected/)
+        *   [Adobe Commerce Cloud](https://marketplacer.com/implementation/adobe-commerce/)
+        *   [BigCommerce](https://marketplacer.com/implementation/bigcommerce-connector/)
+        *   [Salesforce](https://marketplacer.com/implementation/salesforce-commerce-cloud/)
+        *   [Shopify](https://marketplacer.com/implementation/shopify-connector/)
+        *   [Commercetools](https://marketplacer.com/implementation/commercetools/)
+
+*   [Solutions](https://marketplacer.com/glossary/commission-revenue-model/#)
+    *   [Use Cases](https://marketplacer.com/glossary/commission-revenue-model/#)
+        *   [Dropshipping](https://marketplacer.com/use-cases/dropshipping/)
+        *   [Composable Catalog](https://marketplacer.com/use-cases/composable-catalog/)
+        *   [Range Extension](https://marketplacer.com/use-cases/range-extension/)
+        *   [Category Testing](https://marketplacer.com/use-cases/category-testing/)
+
+    *   [Industry](https://marketplacer.com/glossary/commission-revenue-model/#)
+        *   [Grocery](https://marketplacer.com/industry/grocery/)
+        *   [Media](https://marketplacer.com/industry/media/)
+        *   [Retail](https://marketplacer.com/industry/retail/)
+        *   [Loyalty](https://marketplacer.com/industry/loyalty/)
+
+*   [Seller Community](https://marketplacer.com/seller-community/)
+*   [Why Marketplacer](https://marketplacer.com/glossary/commission-revenue-model/#)
+    *   [Our Story](https://marketplacer.com/our-story/)
+    *   [Case Studies](https://marketplacer.com/case-studies/)
+    *   [Our Partners](https://marketplacer.com/partners/)
+    *   [Technology and security](https://marketplacer.com/security/)
+
+*   [Resources](https://marketplacer.com/glossary/commission-revenue-model/#)
+    *   [Resource Hub](https://marketplacer.com/resource-hub/)
+        *   [eBook & Guides](https://marketplacer.com/resource-hub/ebooks-and-guides/)
+        *   [Webinars and Videos](https://marketplacer.com/resource-hub/webinars/)
+        *   [Blogs](https://marketplacer.com/resource-hub/blogs/)
+        *   [Analyst Reports](https://marketplacer.com/resource-hub/analyst-reports/)
+        *   [Podcasts](https://marketplacer.com/resource-hub/#podcasts)
+
+    *   [Case Studies](https://marketplacer.com/glossary/commission-revenue-model/#)
+        *   [Seller Case studies](https://marketplacer.com/case-studies/seller-case-studies/)
+        *   [Operator Case Studies](https://marketplacer.com/case-studies/operator-case-studies/)
+
+[Contact Us](https://marketplacer.com/contact-sales/)
+
+[Request Demo](https://marketplacer.com/contact-sales/)
+
+[Support](https://support.marketplacer.com/hc/en-us)
+
+# Commission Marketplace Revenue Model: Comprehensive Guide
+
+ Published:January 22, 2025 
+
+## What Is the Commission Marketplace Revenue Model?
+
+The commission revenue/pricing model is a popular monetization framework used by product marketplaces. In this model, the [marketplace operator](https://marketplacer.com/glossary/marketplace-operator/) earns a percentage or flat fee from each sale made by the [third-party sellers](https://marketplacer.com/glossary/marketplace-sellers/). This model is widely adopted in multi-vendor e-commerce platforms where operators act as intermediaries, facilitating transactions between independent vendors and customers.
+
+## Pros and Cons of the Commission Revenue Model
+
+### Pros
+
+1.   **Aligned Incentives:** Marketplace operators benefit directly from the success of their sellers, fostering a collaborative ecosystem.
+2.   **Scalability:** As the number of sellers and transactions grows, the operator’s revenue increases without significantly scaling fixed costs.
+3.   **Low Upfront Costs for Sellers:** Sellers can join without paying hefty setup fees, making the model attractive to new or small businesses.
+4.   **Recurring Revenue Stream:** The model creates a predictable revenue flow, improving financial planning for the operator.
+
+### Cons
+
+1.   **Dependency on Volume:** Operators need high transaction volumes to achieve profitability, which can be challenging in the early stages.
+2.   **Seller Pushback:** High commission rates may discourage sellers from participating or lead them to inflate product prices to offset fees.
+3.   **Market Competition:** Other marketplaces with lower commission rates can lure sellers away, requiring operators to balance pricing and profitability.
+4.   **Revenue Fluctuations:** Operators’ earnings depend on seasonal demand, economic trends, and seller activity, making income potentially volatile.
+
+## Implementation and Best Practices
+
+### Implementation Steps
+
+1.   **Define the Commission Structure:**
+    *   Determine whether the commission will be a percentage (e.g., 10% per sale) or a flat fee per transaction.
+    *   Create tiered commission plans for different categories or seller tiers.
+
+2.   **Set Up Transparent Policies:**
+    *   Clearly communicate commission rates, payout timelines, and any additional charges (e.g., listing or payment processing fees).
+
+3.   **Integrate Payment Systems:**
+    *   Use a reliable payment gateway to handle commission deductions and ensure sellers receive their payouts promptly.
+
+4.   **Develop Seller Support Features:**
+    *   Provide dashboards where sellers can track their sales, commissions, and earnings.
+
+5.   **Monitor and Optimize Performance:**
+    *   Regularly evaluate the commission model to ensure it balances profitability with seller satisfaction.
+
+### Best Practices
+
+*   **Start with Competitive Rates:** Offer introductory or promotional rates to attract early sellers.
+*   **Category-Specific Commissions:** Tailor commission rates based on product categories to incentivize high-margin or high-demand products.
+*   **Reward Top Sellers:** Introduce loyalty programs or lower commissions for high-performing vendors.
+*   **Regular Feedback:** Collect feedback from sellers to understand pain points and adapt your policies accordingly.
+*   **Transparency:** Ensure that sellers fully understand how and when commissions are deducted.
+
+## Example: Amazon’s Commission Strategy in Product Marketplaces
+
+Amazon, one of the world’s largest product marketplaces, has mastered the commission-based model. The company charges sellers a referral fee (commission) on each sale, varying by product category. For example, electronics might have a 6% commission, while jewelry could have a 20% fee.
+
+### Key Strategies
+
+1.   **Category-Based Commissions:** Amazon adjusts its commission rates based on the profitability and competition of different categories. High-margin products often have higher commissions, while low-margin goods have reduced fees to attract more sellers.
+2.   **Subscription Tiers:** Sellers can choose between an individual plan (per-item fees) or a professional plan (monthly subscription plus commissions). This flexibility allows sellers to select a structure that suits their sales volume.
+3.   **Added Seller Value:** Amazon invests in services like Fulfillment by Amazon (FBA), offering logistics and storage solutions for an additional fee. These services encourage sellers to stay on the platform despite commission charges.
+
+### Implementation Success
+
+Amazon’s strategy works because it balances seller costs with unparalleled value. Sellers gain access to Amazon’s massive customer base, logistical network, and marketing tools, making the commission fees justifiable. The transparency in commission structures builds trust, while category-specific rates encourage product diversity.
+
+## Suitable Industries for the Commission Model
+
+The commission pricing model thrives in industries with high transaction volumes and diverse product offerings. Some examples include:
+
+1.   **Retail and E-commerce:** Platforms selling physical products, from fashion to electronics, benefit from this model.
+2.   **Luxury Goods:** High-margin industries like jewelry or designer apparel justify higher commission rates.
+3.   **Niche Marketplaces:** Specialty platforms (e.g., handmade crafts or eco-friendly products) attract sellers willing to pay commissions to reach a targeted audience.
+4.   **Second-Hand Marketplaces:** Platforms like eBay and Poshmark charge commissions for used goods, leveraging their broad buyer base.
+
+## Insights for Marketplace Operators: Applying This Model to Multi-Vendor Storefronts
+
+### How Operators Can Implement It
+
+1.   **Start with Flexible Commission Rates:** Offer varying rates based on seller tiers (e.g., new sellers, high-volume sellers) or product categories.
+2.   **Incentivize High Performers:** Provide reduced commissions for sellers achieving specific sales milestones, fostering loyalty.
+3.   **Bundle Services:** Introduce value-added services (e.g., marketing, analytics, logistics) to justify commission fees and build seller dependency.
+4.   **Automate Payments:** Implement automated commission tracking and payouts to reduce friction.
+5.   **Optimize Pricing Strategy:** Avoid overcharging; conduct market research to ensure your rates are competitive but sustainable.
+
+### Enhancing Seller Trust
+
+*   **Offer Transparency:** Provide detailed breakdowns of how commissions are calculated.
+*   **Educate Sellers:** Run webinars or provide guides explaining how they can maximize their earnings despite commission fees.
+*   **Build a Community:** Foster a seller community through forums, events, or networking opportunities, making your platform indispensable.
+
+## Conclusion
+
+The commission marketplace revenue model is a proven approach for product marketplaces, offering scalability and recurring revenue. However, its success hinges on balancing seller costs with platform value. By adopting competitive, flexible, and transparent strategies, marketplace operators can ensure long-term profitability while fostering trust and loyalty among vendors. From retail giants like Amazon to niche multi-vendor storefronts, this model’s adaptability makes it a cornerstone of modern e-commerce platforms.
+
+Thinking of building a marketplace with a commission revenue model? Let Marketplacer guide you with their expertise and tools to set up a scalable, user-focused platform.[Start today!](https://marketplacer.com/contact-sales/)
+
+## Related Terms
+
+*   **Marketplace Revenue Model:** Various strategies platforms use to generate income.
+*   **Subscription Revenue Model:** A fixed recurring fee model for users.
+*   **Freemium Model:** Offering basic features for free while charging for premium features.
+*   **Transaction Fees:** Charges applied for processing payments.
+*   **Value-Based Pricing:** Pricing based on the perceived value to the customer.
+
+## FAQs on the Commission Revenue Model
+
+### How does the commission revenue model benefit marketplaces?
+
+The commission revenue model directly ties revenue to platform activity, encouraging marketplaces to increase transactions and improve user experience. For example, Airbnb thrives by ensuring both guests and hosts have a seamless experience. By providing tools like detailed listings and secure payment methods, Airbnb fosters trust, leading to more bookings and higher revenue.
+
+### What are typical commission rates for marketplaces?
+
+Commission rates can range from 5% to 30%, depending on the industry and platform’s services. For instance, Fiverr charges freelancers 20% of their earnings per completed project, while Uber charges drivers approximately 25% of each fare. The variation allows platforms to balance profitability and competitiveness.
+
+### Are there challenges with this model?
+
+Yes, challenges include setting the right commission rate, balancing seller profitability, and managing disputes over fees. For example, eBay has faced criticism for high seller fees, leading some vendors to explore alternative platforms. Addressing these concerns is crucial to retaining your sellers.
+
+### Can platforms use a hybrid revenue model?
+
+Absolutely. Many platforms combine the commission revenue model with the subscription revenue model or advertising revenue model to diversify income streams. Amazon, for example, charges a referral fee (commission) and offers optional paid plans for sellers, such as Amazon Prime and Fulfilled by Amazon (FBA), creating multiple revenue channels.
+
+### In this Page
+
+*   [What Is the Commission Marketplace Revenue Model?](https://marketplacer.com/glossary/commission-revenue-model/#elementor-toc__heading-anchor-0) 
+*   [Pros and Cons of the Commission Revenue Model](https://marketplacer.com/glossary/commission-revenue-model/#elementor-toc__heading-anchor-1) 
+*   [Implementation and Best Practices](https://marketplacer.com/glossary/commission-revenue-model/#elementor-toc__heading-anchor-2) 
+*   [Example: Amazon’s Commission Strategy in Product Marketplaces](https://marketplacer.com/glossary/commission-revenue-model/#elementor-toc__heading-anchor-3) 
+*   [Suitable Industries for the Commission Model](https://marketplacer.com/glossary/commission-revenue-model/#elementor-toc__heading-anchor-4) 
+*   [Insights for Marketplace Operators: Applying This Model to Multi-Vendor Storefronts](https://marketplacer.com/glossary/commission-revenue-model/#elementor-toc__heading-anchor-5) 
+*   [Conclusion](https://marketplacer.com/glossary/commission-revenue-model/#elementor-toc__heading-anchor-6) 
+*   [Related Terms](https://marketplacer.com/glossary/commission-revenue-model/#elementor-toc__heading-anchor-7) 
+*   [FAQs on the Commission Revenue Model](https://marketplacer.com/glossary/commission-revenue-model/#elementor-toc__heading-anchor-8) 
+*   [Marketplacer Solutions to Expand Your Business](https://marketplacer.com/glossary/commission-revenue-model/#elementor-toc__heading-anchor-9) 
+
+### New Terms
+
+### [Seller Onboarding](https://marketplacer.com/glossary/seller-onboarding-definition/)
+
+### [Marketplace as a Service (MaaS)?](https://marketplacer.com/glossary/marketplace-as-a-service/)
+
+### [Retail Leakage](https://marketplacer.com/glossary/retail-leakage/)
+
+### [Revenue Share Model](https://marketplacer.com/glossary/revenue-share-model/)
+
+### [Marketplace Strategy](https://marketplacer.com/glossary/marketplace-strategy/)
+
+## Marketplacer Solutions to Expand Your Business
+
+![Image 2: Woman selecting product on an online store](blob:http://localhost/2eb6d28d10804f3f282aafcb75630648)
+
+### [Range Extension](https://marketplacer.com/use-cases/range-extension/)
+
+Become a customer-centric shopping destination by offering new products and ranges, without the risk and cost of managing inventory.
+
+[Learn More](https://marketplacer.com/use-cases/range-extension/)
+
+![Image 4: Woman selecting product on an online store](blob:http://localhost/2eb6d28d10804f3f282aafcb75630648)
+
+### [Dropshipping](https://marketplacer.com/use-cases/range-extension/)
+
+Sell products directly to customers without the hassle of managing inventory or a storefront.
+
+[Learn More](https://marketplacer.com/use-cases/dropshipping/)
+
+![Image 6](blob:http://localhost/5f79df6c3b4946584f85779779a1483c)
+
+### [Composable catalog](https://marketplacer.com/use-cases/composable-catalog/)
+
+Boost your eCommerce Business with a composable approach to your catalog and inventory.
+
+[Learn More](https://marketplacer.com/use-cases/composable-catalog/)
+
+![Image 8](blob:http://localhost/5f79df6c3b4946584f85779779a1483c)
+
+### [Category testing](https://marketplacer.com/use-cases/category-testing/)
+
+Quickly introduce and test new product categories without the traditional cost, time and planning burdens.
+
+[Learn More](https://marketplacer.com/use-cases/category-testing/)
+
+## Ready to grow your business?
+
+[Contact Our Sales Team](https://marketplacer.com/contact-sales/)
+
+![Image 10: Animated illustration showing growth strategies in eCommerce by Marketplacer.](blob:http://localhost/8ff2ca4ceb914999fc387c412cbf24cc)
+
+## Join Marketplacer and watch your business grow.
+
+If you are a seller, Marketplacer can help you connect to great retailers and marketplace sales channels around the world.
+
+[Become a Seller](https://community.marketplacer.com/registration)
+
+Platform Connectors
+
+*   [Accelarator Program](https://marketplacer.com/marketplacer-accelerator-program/)
+*   [BigCommerce](https://marketplacer.com/implementation/bigcommerce-connector/)
+*   [commercetools](https://marketplacer.com/implementation/commercetools/)
+*   [Connected via API](https://marketplacer.com/implementation/connected/)
+*   [Salesforce Commerce Cloud](https://marketplacer.com/implementation/salesforce-commerce-cloud/)
+*   [Shopify](https://marketplacer.com/implementation/shopify-connector/)
+
+Add-on Services
+
+*   [Retail Media](https://marketplacer.com/retail-media-add-on/)
+
+Solutions Based on Use Case
+
+*   [Dropshipping](https://marketplacer.com/use-cases/dropshipping/)
+*   [Product Range Extension](https://marketplacer.com/use-cases/range-extension/)
+*   [Composable Catalog](https://marketplacer.com/use-cases/composable-catalog/)
+*   [Category Testing](https://marketplacer.com/use-cases/category-testing/)
+
+Solutions Based on Industry
+
+*   [Grocery Marketplace](https://marketplacer.com/industry/grocery/)
+*   [Retail/B2C Marketplace](https://marketplacer.com/industry/retail/)
+*   [B2B Marketplace](https://marketplacer.com/industry/b2b/)
+*   [Loyalty Marketplace](https://marketplacer.com/industry/loyalty/)
+*   [Media Marketplace](https://marketplacer.com/industry/media/)
+
+Why Marketplacer
+
+*   [How it works](https://marketplacer.com/how-it-works/)
+*   [Implementation](https://marketplacer.com/implementation/)
+*   [Why a marketplace strategy?](https://marketplacer.com/why-marketplace-strategy/)
+*   [Security](https://marketplacer.com/security/)
+
+Company 
+
+*   [Our story](https://marketplacer.com/our-story/)
+*   [Partners](https://marketplacer.com/partners/)
+*   [Careers](https://marketplacer.com/careers/)
+*   [Contact our team](https://marketplacer.com/contact-sales/)
+
+Resources
+
+*   [Blog](https://marketplacer.com/resource-hub/blogs/)
+*   [Case studies](https://marketplacer.com/case-studies/)
+*   [eBooks & guides](https://marketplacer.com/resource-hub/ebooks-and-guides/)
+*   [Analyst reports](https://marketplacer.com/resource-hub/analyst-reports/)
+*   [Videos & webinars](https://marketplacer.com/resource-hub/webinars/)
+*   [Glossary](https://marketplacer.com/glossary/)
+
+Help
+
+*   [Contact Us](https://marketplacer.com/contact-sales/)
+*   [Customer support](https://marketplacer.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.marketplacer.com%2Fhc%2Fen-us&theme=hc&locale=en-us&brand_id=5966388&auth_origin=5966388%2Ctrue%2Ctrue)
+*   [Legal](https://marketplacer.com/legal/)
+*   [Global Privacy Policy](https://marketplacer.com/legal/global-privacy-policy/)
+*   [Sitemap](https://marketplacer.com/sitemap/)
+
+[![Image 12: English flag](https://cdn.weglot.com/flags/square/gb.svg)EN](https://marketplacer.com/glossary/commission-revenue-model/#)
+
+[![Image 13: Español flag](https://cdn.weglot.com/flags/square/es.svg)ES](https://marketplacer.com/es/glossary/commission-revenue-model/)
+
+[![Image 14: Português flag](https://cdn.weglot.com/flags/square/pt.svg)PT](https://marketplacer.com/pt/glossary/commission-revenue-model/)
+
+[![Image 15: Français flag](https://cdn.weglot.com/flags/square/fr.svg)FR](https://marketplacer.com/fr/glossary/commission-revenue-model/)
+
+[![Image 16: Deutsch flag](https://cdn.weglot.com/flags/square/de.svg)DE](https://marketplacer.com/de/glossary/commission-revenue-model/)
+
+![Image 17](https://pixel.wp.com/g.gif?v=ext&blog=237905375&post=260895&tz=11&srv=marketplacer.com&hp=atomic&ac=2&amp=0&j=1%3A15.7&host=marketplacer.com&ref=&fcp=0&rand=0.8697876620899808)
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. [Cookie Policy](https://marketplacer.com/legal/cookie-policy/)
+
+Cookies Settings Reject All Accept All Cookies
+
+![Image 18: Company Logo](https://cdn-au.onetrust.com/logos/408ba6a5-0047-47e1-88ac-e90863d653f7/b9dcfbcc-3ff8-4bbf-bbd4-223e9feb37e8/ef178dbc-98e6-44b3-b56d-446ca679a473/Marketplacer_favicon_black.png)
+
+## Privacy Preference Center
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. 
+
+[More information](https://www.marketplacer.com/legal/cookie-policy/)
+
+Allow All
+### Manage Consent Preferences
+
+#### Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+#### Performance Cookies
+
+- [x] Performance Cookies 
+
+Performance cookies help us learn how you use our websites to help improve their performance and design. These cookies provide us with aggregated statistical information such as number of page visits, page load speeds, how long a user spends on a particular page, and the types of browsers or devices used to access our websites. For example, we may use cookies to understand what pages you browsed before submitting a form on our website. All information these cookies collect is aggregated and therefore anonymous. You may opt out of these cookies through the cookie banner. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. In addition, we also may include tracking pixels, which are small graphic images, in our email messages to determine whether the messages were opened and if the links were clicked. If you do not want to receive tracking pixels in emails we send you, you will need to disable HTML images in your email client, but that may affect your ability to view images in other emails you receive.
+
+#### Functional Cookies
+
+- [x] Functional Cookies 
+
+These cookies are set by us or by third party service providers we use to implement additional functionalities or to enhance features and website performance, however they are not directly related with the service you requested.
+
+#### Targeting Cookies
+
+- [x] Targeting Cookies 
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+### Cookie List
+
+Clear
+
+- [x] checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+Reject All Confirm My Choices
+
+[![Image 19: Powered by Onetrust](https://cdn-au.onetrust.com/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)

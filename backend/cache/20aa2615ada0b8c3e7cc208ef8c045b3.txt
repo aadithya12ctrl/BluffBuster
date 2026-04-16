@@ -1,0 +1,409 @@
+Title: Germany’s energy consumption and power mix in charts
+
+URL Source: https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts
+
+Published Time: Tue, 14 Apr 2026 01:18:57 GMT
+
+Markdown Content:
+# Germany’s energy consumption and power mix in charts | Clean Energy Wire
+
+![Image 1: logo](blob:http://localhost/3511a8bebd8c87aac83f3d689cd1c083)
+
+[](https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2)
+
+*   [Consent](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)
+*   [Details](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)
+*   [[#IABV2SETTINGS#]](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)
+*   [About](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)
+
+This website uses cookies
+
+This website uses cookies. In addition to cookies that are absolutely necessary for the operation of the site, third-party providers such as Google use cookies to display videos. These optional cookies will only be used with your consent. These cookies may also collect personal data, might transfer it to third countries, and combine it with other information that you have provided to them or that they have collected from your use of their services. In this case, your consent to the use of these cookies also serves as the legal basis for the processing of your data.
+
+You can either accept or refuse all optional cookies by clicking on 'Allow all' or 'Deny', or make a selection per category of cookies by clicking on 'Accept selection'. You can withdraw your consent and change your settings at any time. You can find information about this under our [privacy policy](https://www.cleanenergywire.org/privacy-policy "privacy policy") or by clicking 'Show details'.
+
+[#GPC_BANNER_ICON#]
+
+[#GPC_TOAST_TEXT#]
+
+Consent Selection
+
+**Necessary** 
+
+- [x] 
+
+**Preferences** 
+
+- [x] 
+
+**Statistics** 
+
+- [x] 
+
+**Marketing** 
+
+- [x] 
+
+[Show details](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)
+
+Details
+
+*   
+Necessary 7- [x]    Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. 
+
+    *   [Cookiebot 1](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)[Learn more about this provider![Image 2: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.cookiebot.com/goto/privacy-policy/ "Learn more about this provider Cookiebot's privacy policy - opens in a new window")**CookieConsent**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [Twitter Inc.1](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)[Learn more about this provider![Image 3: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://twitter.com/en/privacy "Learn more about this provider Twitter Inc.'s privacy policy - opens in a new window")**__cf_bm**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [cdn.jsdelivr.net 4](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)**cookiebot-consent--marketing**Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **cookiebot-consent--necessary**Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **cookiebot-consent--preferences**Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **cookiebot-consent--statistics**Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. **Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [pollytix.de 1](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)**elementor**Used in context with the website's WordPress theme. The cookie allows the website owner to implement or change the website's content in real-time.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+
+*   
+Preferences 1- [x]    We do not have preference cookies. 
+
+    *   [datawrapper.dwcdn.net 1](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)**#/datawrapper.gif**Counts the total number of views for embedded visualizations.**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+
+*   
+Statistics 4- [x]    We use cookieless tracking, meaning we do not collect your personal data. 
+
+    *   [www.webanalytics.europa.eu www.cleanenergywire.org 4](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)**_pk_id#[x2]**Collects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **_pk_ses#[x2]**Used by Piwik Analytics Platform to track page requests from the visitor during the session.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+
+*   
+Marketing 11- [x]    Marketing cookies are necessary to display third-party content, as they track visitors across websites. 
+
+    *   [Twitter Inc.1](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)[Learn more about this provider![Image 4: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://twitter.com/en/privacy "Learn more about this provider Twitter Inc.'s privacy policy - opens in a new window")**i/jot/embeds**Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [YouTube 10](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)[Learn more about this provider![Image 5: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider YouTube's privacy policy - opens in a new window")**__Secure-ROLLOUT_TOKEN**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **__Secure-YEC**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__Secure-YNID**Pending**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **LAST_RESULT_ENTRY_KEY**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **LogsDatabaseV2:V#||LogsRequestsStore**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **TESTCOOKIESENABLED**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **VISITOR_INFO1_LIVE**Tries to estimate the users' bandwidth on pages with integrated YouTube videos.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **YSC**Registers a unique ID to keep statistics of what videos from YouTube the user has seen.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **yt-icons-last-purged**Necessary for the implementation and functionality of YouTube video-content on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **YtIdbMeta#databases**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+
+*   Unclassified 2 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.  
+
+    *   [European Union 1](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)[Learn more about this provider![Image 6: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://europa.eu/european-union/abouteuropa/privacy-policy_en "Learn more about this provider European Union's privacy policy - opens in a new window")**cck1**Pending**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+    *   [www.cleanenergywire.org 1](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)**spb_block-clew-barrio-popupblock**Pending**Maximum Storage Duration**: 100 days**Type**: HTTP Cookie   
+
+[Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)
+
+[#BULK_CONSENT_TITLE#]
+
+List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]
+
+Cookie declaration last updated on 4/7/26 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot")
+
+[#IABV2_TITLE#]
+
+[#IABV2_BODY_INTRO#]
+
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+
+[#IABV2_BODY_PREFERENCE_INTRO#]
+
+[#IABV2_LABEL_PURPOSES#]
+
+[#IABV2_BODY_PURPOSES_INTRO#]
+
+[#IABV2_BODY_PURPOSES#]
+
+[#IABV2_LABEL_FEATURES#]
+
+[#IABV2_BODY_FEATURES_INTRO#]
+
+[#IABV2_BODY_FEATURES#]
+
+[#IABV2_LABEL_PARTNERS#]
+
+[#IABV2_BODY_PARTNERS_INTRO#]
+
+[#IABV2_BODY_PARTNERS#]
+
+About
+
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+
+Learn more about who we are, how you can contact us and how we process personal data in our [Privacy Policy](https://www.cleanenergywire.org/privacy-policy "Privacy Policy").
+
+Please state your consent ID and date when you contact us regarding your consent.
+
+- [x] 
+
+**Do not sell or share my personal information** 
+
+Deny Allow selection Customize Allow all
+
+[Skip to main content](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#main-content)
+
+[![Image 7: CLEW Logo](https://www.cleanenergywire.org/themes/custom/clew_barrio/images/logo-clew.png)](https://www.cleanenergywire.org/)
+
+[Journalism for the energy transition](https://www.cleanenergywire.org/)
+
+## Main navigation
+
+*   [Reporting](https://www.cleanenergywire.org/reporting)
+    *   [News](https://www.cleanenergywire.org/news)
+    *   [Factsheets](https://www.cleanenergywire.org/factsheets)
+    *   [Deep dives](https://www.cleanenergywire.org/dossiers)
+    *   [Country guides](https://www.cleanenergywire.org/country-guides-and-dispatches)
+
+*   [Training](https://www.cleanenergywire.org/training)
+    *   [Research tours](https://www.cleanenergywire.org/research-tours)
+    *   [Masterclasses](https://www.cleanenergywire.org/masterclasses)
+    *   [All opportunities](https://www.cleanenergywire.org/events-opportunities)
+
+*   [Connecting](https://www.cleanenergywire.org/connecting)
+    *   [CLEW network](https://www.cleanenergywire.org/about-clew-journalism-network)
+    *   [Network map](https://www.cleanenergywire.org/network)
+    *   [From the network](https://www.cleanenergywire.org/clew-blog)
+    *   [Journalism grants](https://www.cleanenergywire.org/clew-cross-border-grants)
+
+*   [Tools](https://www.cleanenergywire.org/tools)
+    *   [Get support](https://www.cleanenergywire.org/get-support)
+    *   [Find an expert](https://www.cleanenergywire.org/experts)
+    *   [EU agenda](https://www.cleanenergywire.org/factsheets/whats-next-europe-timeline-european-climate-and-energy-policy)
+    *   [Germany agenda](https://www.cleanenergywire.org/clew-calendar-energy-climate-policy-events)
+
+## Secondary navigation
+
+*   [About](https://www.cleanenergywire.org/about-clew)
+*   [Newsletter](https://www.cleanenergywire.org/newsletter-subscription)
+*   [Donate](https://www.cleanenergywire.org/support-us)
+*   [Search](https://www.cleanenergywire.org/search)
+
+[](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#main-content)
+
+[Factsheet](https://www.cleanenergywire.org/factsheets)
+
+18 Dec 2024, 12:00
+
+[Julian Wettengel](https://www.cleanenergywire.org/about-us-clew-team)
+
+Germany
+
+# Germany’s energy consumption and power mix in charts
+
+[Electricity market](https://www.cleanenergywire.org/topic/electricity-market)[Fossil fuels](https://www.cleanenergywire.org/topic/fossil-fuels)[Renewables](https://www.cleanenergywire.org/topic/renewables)
+
+A wealth of numbers and statistics describe the energy generation and consumption of nation states. This factsheet provides a range of charts (and data links) about the status of Germany’s energy mix, as well as developments in energy and power production and usage since 1990. [UPDATES graphs to 2025 or latest available data]
+
+**Economic growth**
+
+[![Image 8: Graph shows economic growth in Germany, while emissions and energy consumption fall 1990-2025. Source: CLEW 2025.](https://www.cleanenergywire.org/sites/default/files/Fig0_German%20economic%20growth%2C%20electricity%20and%20energy%20consumption%2C%20GHG%20emissions%201990%20-%202025.png)](https://www.cleanenergywire.org/sites/default/files/Fig0_German%20economic%20growth%2C%20electricity%20and%20energy%20consumption%2C%20GHG%20emissions%201990%20-%202025.png "Graph shows economic growth in Germany, while emissions and energy consumption fall 1990-2025. Source: CLEW 2025.")
+
+Link to source [here](https://www-genesis.destatis.de/datenbank/online/statistic/81000/table/81000-0001/), [here](https://ag-energiebilanzen.de/daten-und-fakten/auswertungstabellen/), [here](https://ag-energiebilanzen.de/wp-content/uploads/Sterz_Abgabe_12-2025.pdf), and [here](https://www.umweltbundesamt.de/themen/klima-energie/treibhausgas-emissionen).
+
+### Electricity production
+
+[![Image 9: Graph shows installed net power generation capacity in Germany 2002-2025. Graph: CLEW 2025.](https://www.cleanenergywire.org/sites/default/files/Fig1_Installed%20net%20electricity%20generation%20capacity%20in%20Germany%202002%202025.png)](https://www.cleanenergywire.org/sites/default/files/Fig1_Installed%20net%20electricity%20generation%20capacity%20in%20Germany%202002%202025.png "Graph shows installed net power generation capacity in Germany 2002-2025. Graph: CLEW 2025.")
+
+[Link to source](https://www.energy-charts.info/charts/installed_power/chart.htm?l=en&c=DE&chartColumnSorting=default).
+
+### Support our work
+
+CLEW's work is informative, nuanced, impactful, and not for profit.
+
+Help keep it this way by donating.
+
+[Make a Donation](https://www.cleanenergywire.org/support-us)
+
+[![Image 10: Graph shows gross power production in Germany 1990-2025, by source. Graph: CLEW 2025.](https://www.cleanenergywire.org/sites/default/files/Fig2_Gross%20electricity%20production%20in%20Germany%201990%202025.png)](https://www.cleanenergywire.org/sites/default/files/Fig2_Gross%20electricity%20production%20in%20Germany%201990%202025.png "Graph shows gross power production in Germany 1990-2025, by source. Graph: CLEW 2025.")
+
+[Link to source](https://ag-energiebilanzen.de/daten-und-fakten/zusatzinformationen/).
+
+[![Image 11: Graph shows gross power production in Germany 1990-2025, by source. Graph: CLEW 2025.](https://www.cleanenergywire.org/sites/default/files/Fig2a_Gross%20electricity%20production%20in%20Germany%201990%202025%20by%20source.png)](https://www.cleanenergywire.org/sites/default/files/Fig2a_Gross%20electricity%20production%20in%20Germany%201990%202025%20by%20source.png "Graph shows gross power production in Germany 1990-2025, by source. Graph: CLEW 2025.")
+
+[Link to source](https://ag-energiebilanzen.de/daten-und-fakten/zusatzinformationen/).
+
+[![Image 12: Graph shows share of energy sources in gross German power production in 2025. Graph: CLEW 2025.](https://www.cleanenergywire.org/sites/default/files/Fig3_Share%20of%20energy%20sources%20in%20gross%20German%20electricity%20production%202025.png)](https://www.cleanenergywire.org/sites/default/files/Fig3_Share%20of%20energy%20sources%20in%20gross%20German%20electricity%20production%202025.png "Graph shows share of energy sources in gross German power production in 2025. Graph: CLEW 2025.")
+
+[Link to source.](https://ag-energiebilanzen.de/daten-und-fakten/zusatzinformationen/)
+
+### **Electricity consumption**
+
+[![Image 13: Graph shows Germany's net power consumption by consumer group 2000-2024. Graph: CLEW 2025.](https://www.cleanenergywire.org/sites/default/files/Fig4_Final%20energy%20consumption%20of%20electricity%2C%20by%20consumer%20group%201990%20-%202024.png)](https://www.cleanenergywire.org/sites/default/files/Fig4_Final%20energy%20consumption%20of%20electricity%2C%20by%20consumer%20group%201990%20-%202024.png "Graph shows Germany's net power consumption by consumer group 2000-2024. Graph: CLEW 2025.")
+
+[Link to source.](https://ag-energiebilanzen.de/daten-und-fakten/auswertungstabellen/)
+
+[![Image 14: Graph shows renewables share in gross power consumption 1990-2025. Graph: CLEW 2025.](https://www.cleanenergywire.org/sites/default/files/Fig5_Renewables%20share%20in%20gross%20electricity%20consumption%20in%20Germany%201990%202025_0.png)](https://www.cleanenergywire.org/sites/default/files/Fig5_Renewables%20share%20in%20gross%20electricity%20consumption%20in%20Germany%201990%202025_0.png "Graph shows renewables share in gross power consumption 1990-2025. Graph: CLEW 2025.")
+
+[Link to source 1.](https://ag-energiebilanzen.de/daten-und-fakten/zusatzinformationen/)
+
+[![Image 15: Graph shows share of electricity from renewable sources in gross electricity consumption in European countries in 2024. Graph: CLEW 2025.](https://www.cleanenergywire.org/sites/default/files/Fig6_Share%20of%20electricity%20from%20renewable%20sources%20in%20gross%20electricity%20consumption%20in%20Europe%202024.png)](https://www.cleanenergywire.org/sites/default/files/Fig6_Share%20of%20electricity%20from%20renewable%20sources%20in%20gross%20electricity%20consumption%20in%20Europe%202024.png "Graph shows share of electricity from renewable sources in gross electricity consumption in European countries in 2024. Graph: CLEW 2025.")
+
+[Link to source.](http://ec.europa.eu/eurostat/product?code=nrg_ind_ren&language=en&mode=view)
+
+### **Germany's electricity import and export**
+
+[![Image 16: Graph shows German power production and consumption and export balance 1990-2025. Graph: CLEW 2025.](https://www.cleanenergywire.org/sites/default/files/Fig7_German%20electricity%20import%20export%201990%202025.png)](https://www.cleanenergywire.org/sites/default/files/Fig7_German%20electricity%20import%20export%201990%202025.png "Graph shows German power production and consumption and export balance 1990-2025. Graph: CLEW 2025.")
+
+[Link to source.](https://ag-energiebilanzen.de/daten-und-fakten/zusatzinformationen/) Further data and graphs on Germany’s power imports and exports are available at the [Energy Charts](https://www.energy-charts.info/index.html?l=en&c=DE) of the Fraunhofer ISE research institute.
+
+### **Primary energy consumption (and gross final energy consumption)**
+
+[![Image 17: Graph shows development of primary energy consumption in Germany 1990 - 2025. Graph: CLEW 2025.](https://www.cleanenergywire.org/sites/default/files/Fig8_Development%20of%20Germany%20primary%20energy%20consumption%201990%202025.png)](https://www.cleanenergywire.org/sites/default/files/Fig8_Development%20of%20Germany%20primary%20energy%20consumption%201990%202025.png "Graph shows development of primary energy consumption in Germany 1990 - 2025. Graph: CLEW 2025.")
+
+Link to source [here](https://ag-energiebilanzen.de/daten-und-fakten/primaerenergieverbrauch/) and [here.](https://ag-energiebilanzen.de/daten-und-fakten/auswertungstabellen/)
+
+[![Image 18: Graph shows German energy sources' share in primary energy consumption 1990 - 2025. Graph: CLEW 2025.](https://www.cleanenergywire.org/sites/default/files/Fig9_German%20energy%20sources%20share%20in%20primary%20energy%20consumption%201990%202025.png)](https://www.cleanenergywire.org/sites/default/files/Fig9_German%20energy%20sources%20share%20in%20primary%20energy%20consumption%201990%202025.png "Graph shows German energy sources' share in primary energy consumption 1990 - 2025. Graph: CLEW 2025.")
+
+Link to source [here](https://ag-energiebilanzen.de/daten-und-fakten/primaerenergieverbrauch/) and [here.](https://ag-energiebilanzen.de/daten-und-fakten/auswertungstabellen/)
+
+[![Image 19: Graph shows German energy sources' share in primary energy consumption 2025. Graph: CLEW 2025.](https://www.cleanenergywire.org/sites/default/files/Fig10_Germany%20energy%20mix%20Energy%20sources%20share%20in%20primary%20energy%20consumption%202025.png)](https://www.cleanenergywire.org/sites/default/files/Fig10_Germany%20energy%20mix%20Energy%20sources%20share%20in%20primary%20energy%20consumption%202025.png "Graph shows German energy sources' share in primary energy consumption 2025. Graph: CLEW 2025.")
+
+Link to source [here](https://ag-energiebilanzen.de/daten-und-fakten/primaerenergieverbrauch/) and [here.](https://ag-energiebilanzen.de/daten-und-fakten/zusatzinformationen/)
+
+[![Image 20: Graph shows final energy consumption in Germany by consumer group 1990-2024. Graph: CLEW 2025. ](https://www.cleanenergywire.org/sites/default/files/Fig11_Final%20energy%20consumption%20by%20consumer%20group%201990%20-%202024.png)](https://www.cleanenergywire.org/sites/default/files/Fig11_Final%20energy%20consumption%20by%20consumer%20group%201990%20-%202024.png "Graph shows final energy consumption in Germany by consumer group 1990-2024. Graph: CLEW 2025. ")
+
+Link to source [here](https://ag-energiebilanzen.de/daten-und-fakten/auswertungstabellen/).
+
+[![Image 21: Graph shows share of renewables in gross final energy consumption in Europe 2024. Graph: eurostat 2025.](https://www.cleanenergywire.org/sites/default/files/eurostat%20energy-consumption-renewable-sources-2024.jpg)](https://www.cleanenergywire.org/sites/default/files/eurostat%20energy-consumption-renewable-sources-2024.jpg "Graph shows share of renewables in gross final energy consumption in Europe 2024. Graph: eurostat 2025.")
+
+[Link to source.](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/DDN-20251218-2)
+
+ All texts created by the Clean Energy Wire are available under a [“Creative Commons Attribution 4.0 International Licence (CC BY 4.0)”](https://creativecommons.org/licenses/by/4.0/). They can be copied, shared and made publicly accessible by users so long as they give appropriate credit, provide a link to the license, and indicate if changes were made. 
+
+## Share:
+
+[Twitter](https://www.cleanenergywire.org/#twitter)[LinkedIn](https://www.cleanenergywire.org/#linkedin)[Bluesky](https://www.cleanenergywire.org/#bluesky)[Email](https://www.cleanenergywire.org/#email)
+
+### Ask CLEW
+
+Researching a story? Drop CLEW a line for background material and contacts.
+
+[Get support](https://www.cleanenergywire.org/get-support)
+
+*   [Reporting](https://www.cleanenergywire.org/reporting) 
+    *   [News](https://www.cleanenergywire.org/news)
+    *   [Factsheets](https://www.cleanenergywire.org/factsheets)
+    *   [Deep dives](https://www.cleanenergywire.org/dossiers)
+    *   [Country guides](https://www.cleanenergywire.org/country-guides-and-dispatches)
+
+*   [Training](https://www.cleanenergywire.org/training) 
+    *   [Research tours](https://www.cleanenergywire.org/research-tours)
+    *   [Masterclasses](https://www.cleanenergywire.org/masterclasses)
+    *   [All opportunities](https://www.cleanenergywire.org/events-opportunities)
+
+*   [Connecting](https://www.cleanenergywire.org/connecting) 
+    *   [CLEW network](https://www.cleanenergywire.org/about-clew-journalism-network)
+    *   [Network map](https://www.cleanenergywire.org/network)
+    *   [From the network](https://www.cleanenergywire.org/clew-blog)
+    *   [Journalism grants](https://www.cleanenergywire.org/clew-cross-border-grants)
+
+*   [Tools](https://www.cleanenergywire.org/tools) 
+    *   [Get support](https://www.cleanenergywire.org/get-support)
+    *   [Find an expert](https://www.cleanenergywire.org/experts)
+    *   [EU agenda](https://www.cleanenergywire.org/factsheets/whats-next-europe-timeline-european-climate-and-energy-policy)
+    *   [Germany agenda](https://www.cleanenergywire.org/clew-calendar-energy-climate-policy-events)
+
+## Secondary navigation
+
+*   [About](https://www.cleanenergywire.org/about-clew)
+*   [Newsletter](https://www.cleanenergywire.org/newsletter-subscription)
+*   [Donate](https://www.cleanenergywire.org/support-us)
+
+## Ask CLEW
+
+We are available to support journalists in their work. CLEW can assist with research, provide background information and help find the right interviewees to speak with on a wide variety of topics.
+
+Clean Energy Wire CLEW
+
+Dresdener Str. 15
+
+10999 Berlin,Germany
+
+**Get in touch**: [Contact form](https://www.cleanenergywire.org/get-support)
+
+Dossiers
+
+ 
+
+Factsheets
+
+ 
+
+[Affordable, sustainable and reliable electricity: How will Europe deliver on its promise?](https://www.cleanenergywire.org/dossiers/carbon-free-electricity-system-europe)
+
+[Electricity market](https://www.cleanenergywire.org/topic/electricity-market)
+
+[The power market and the energy transition](https://www.cleanenergywire.org/dossiers/power-market-and-energy-transition)
+
+[Electricity market](https://www.cleanenergywire.org/topic/electricity-market), [Fossil fuels](https://www.cleanenergywire.org/topic/fossil-fuels)
+
+[All Dossiers](https://www.cleanenergywire.org/dossiers)
+
+[Q&A: Capacity mechanisms in Europe's fossil-free electricity system](https://www.cleanenergywire.org/factsheets/qa-capacity-mechanisms-europe-electricity)
+
+[Electricity market](https://www.cleanenergywire.org/topic/electricity-market)
+
+[Crucial EU electricity market integration collides with member states' worries of uneven benefits](https://www.cleanenergywire.org/factsheets/eu-electricity-market-integration-collides-member-states-uneven-benefits)
+
+[Electricity market](https://www.cleanenergywire.org/topic/electricity-market), [Policy](https://www.cleanenergywire.org/topic/policy), [EU](https://www.cleanenergywire.org/topic/eu)
+
+[Q&A: How will Germany support the expansion of renewables in future?](https://www.cleanenergywire.org/factsheets/qa-how-will-germany-support-expansion-renewables-future)
+
+[Electricity market](https://www.cleanenergywire.org/topic/electricity-market), [Renewables](https://www.cleanenergywire.org/topic/renewables), [Renewable Energy Act | EEG](https://www.cleanenergywire.org/topic/renewable-energy-act-eeg), [Policy](https://www.cleanenergywire.org/topic/policy)
+
+[Q&A – Germany plans to shield industry with electricity tax breaks, subsidies](https://www.cleanenergywire.org/factsheets/qa-germany-weighs-electricity-subsidies-shield-industry)
+
+[Electricity market](https://www.cleanenergywire.org/topic/electricity-market), [Industry](https://www.cleanenergywire.org/topic/industry), [Business & Jobs](https://www.cleanenergywire.org/topic/business-jobs), [Cost & Prices](https://www.cleanenergywire.org/topic/cost-prices)
+
+[Q&A: Making the EU’s electricity market fit for a climate-neutral future](https://www.cleanenergywire.org/factsheets/qa-eu-electricity-market-reform)
+
+[Electricity market](https://www.cleanenergywire.org/topic/electricity-market), [EU](https://www.cleanenergywire.org/topic/eu)
+
+[All Factsheets](https://www.cleanenergywire.org/factsheets)
+
+Journalism for the energy transition
+
+[Up](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#)
+
+Clean Energy Wire CLEW
+
+Dresdener Str. 15
+
+10999 Berlin
+
+[T: +49 30 62858 497](tel:+493062858497)[info@cleanenergywire.org](mailto:info@cleanenergywire.org)
+
+[X (Twitter)](https://x.com/cleanenergywire?lang=en)[LinkedIn](https://www.linkedin.com/company/cleanenergywire)[Bluesky](https://bsky.app/profile/cleanenergywire.bsky.social)
+
+*   [Reporting](https://www.cleanenergywire.org/reporting)
+    *   [News](https://www.cleanenergywire.org/news)
+    *   [Factsheets](https://www.cleanenergywire.org/factsheets)
+    *   [Deep dives](https://www.cleanenergywire.org/dossiers)
+    *   [Country guides](https://www.cleanenergywire.org/country-guides-and-dispatches)
+
+*   [Training](https://www.cleanenergywire.org/training)
+    *   [Research tours](https://www.cleanenergywire.org/research-tours)
+    *   [Masterclasses](https://www.cleanenergywire.org/masterclasses)
+    *   [All opportunities](https://www.cleanenergywire.org/events-opportunities)
+
+*   [Connecting](https://www.cleanenergywire.org/connecting)
+    *   [CLEW network](https://www.cleanenergywire.org/about-clew-journalism-network)
+    *   [Network map](https://www.cleanenergywire.org/network)
+    *   [From the network](https://www.cleanenergywire.org/clew-blog)
+    *   [Journalism grants](https://www.cleanenergywire.org/clew-cross-border-grants)
+
+*   [Tools](https://www.cleanenergywire.org/tools)
+    *   [Get support](https://www.cleanenergywire.org/get-support)
+    *   [Find an expert](https://www.cleanenergywire.org/experts)
+    *   [EU agenda](https://www.cleanenergywire.org/factsheets/whats-next-europe-timeline-european-climate-and-energy-policy)
+    *   [Germany agenda](https://www.cleanenergywire.org/clew-calendar-energy-climate-policy-events)
+
+[Newsletter](https://www.cleanenergywire.org/newsletter-subscription)[About CLEW](https://www.cleanenergywire.org/about-clew)
+
+*   [Imprint](https://www.cleanenergywire.org/imprint)
+*   [Privacy Policy](https://www.cleanenergywire.org/privacy-policy)
+
+© 2026 Clean Energy Wire. All rights reserved.
+
+*   [Get our Newsletter](https://www.cleanenergywire.org/newsletter-subscription)
+*   [Join our Network](https://www.cleanenergywire.org/connecting)
+*   [Find an interviewee](https://www.cleanenergywire.org/experts)
+
+✓
+
+Thanks for sharing!
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts#addtoany "Show all")

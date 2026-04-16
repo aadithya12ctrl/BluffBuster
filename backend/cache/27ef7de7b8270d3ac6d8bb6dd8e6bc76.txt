@@ -1,0 +1,410 @@
+Title: Enhancing Accuracy in Document Scanning and Indexing: Best Practices for Healthcare Information Management
+
+URL Source: https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/
+
+Markdown Content:
+# Enhancing Accuracy in Document Scanning and Indexing: Best Practices for Healthcare Information Management
+
+Agree & Join LinkedIn
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy).
+
+[Skip to main content](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/#main-content)[LinkedIn](https://www.linkedin.com/?trk=article-ssr-frontend-pulse_nav-header-logo)
+*   [Top Content](https://www.linkedin.com/top-content?trk=article-ssr-frontend-pulse_guest_nav_menu_topContent)
+*   [People](https://www.linkedin.com/pub/dir/+/+?trk=article-ssr-frontend-pulse_guest_nav_menu_people)
+*   [Learning](https://www.linkedin.com/learning/search?trk=article-ssr-frontend-pulse_guest_nav_menu_learning)
+*   [Jobs](https://www.linkedin.com/jobs/search?trk=article-ssr-frontend-pulse_guest_nav_menu_jobs)
+*   [Games](https://www.linkedin.com/games?trk=article-ssr-frontend-pulse_guest_nav_menu_games)
+
+[Sign in](https://www.linkedin.com/uas/login?session_redirect=%2Fpulse%2Fenhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre%2F&fromSignIn=true&trk=article-ssr-frontend-pulse_nav-header-signin)[Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fenhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre%2F&trk=article-ssr-frontend-pulse_nav-header-join)[![Image 1: Hemanth K.](https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2)](https://www.linkedin.com/uas/login?session_redirect=%2Fpulse%2Fenhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre%2F&fromSignIn=true&trk=article-ssr-frontend-pulse_nav-header-signin)
+
+![Image 2: Enhancing Accuracy in Document Scanning and Indexing: Best Practices for Healthcare Information Management](https://media.licdn.com/dms/image/v2/D4E12AQGk1KR6aaX48w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1725034777557?e=2147483647&v=beta&t=vz4sFDlgTryhURPfNGzeZ9HyRFVhxMwD-12VPi56_Es)
+
+V H Kakarla - HIM Expert
+
+# Enhancing Accuracy in Document Scanning and Indexing: Best Practices for Healthcare Information Management
+
+*   [Report this article](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fenhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre&trk=article-ssr-frontend-pulse_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=PONCHO_ARTICLE&_f=guest-reporting)
+
+[Hemanth K.](https://www.linkedin.com/in/vhkakarla)![Image 3: Hemanth K.](https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2)
+
+### Hemanth K.
+
+#### UnitedHealth Group•3K followers
+
+ Published Aug 30, 2024 
+
+[+ Follow](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fenhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre%2F&trk=article-ssr-frontend-pulse_publisher-author-card)
+
+In the fast-paced world of healthcare, accuracy in document management is paramount. Errors in scanning and indexing can lead to significant consequences, from misfiled records to delays in patient care. As healthcare professionals, it is our responsibility to ensure that every document is handled with precision, maintaining the integrity of patient records.
+
+Based on my experience in Health Information Management (HIM), I have compiled a list of common errors encountered during the scanning and indexing process, along with practical solutions to prevent them. Implementing these best practices can significantly reduce errors, improve efficiency, and ensure that patient information is accurately recorded and easily retrievable.
+
+Common Errors in Scanning and Indexing
+
+1. Indexed with Wrong Description
+
+- Issue: Incorrect descriptions lead to misidentification and retrieval challenges.
+
+- Prevention: Thoroughly review documents before indexing. Use cross-references or guides to match accurate descriptions.
+
+2. Scanned with Wrong Patient Label
+
+- Issue: Wrong patient labels can result in improper assignment of records.
+
+- Prevention: Double-check patient labels before scanning. Implement a verification process involving a second reviewer.
+
+3. Did Not Append Multiple Same Doc Types for Same CSN, Indexed Individually
+
+- Issue: Indexing similar document types individually clutters the system.
+
+- Prevention: Review batches to identify and append similar document types for the same Clinical Summary Number (CSN).
+
+4. Indexed with Wrong Patient Label
+
+- Issue: Mislabeling leads to records being attributed to the wrong patient.
+
+- Prevention: Cross-check patient labels with the document before indexing.
+
+5. Did Not Index Oldest to Newest
+
+- Issue: Disordered indexing disrupts chronological sequences.
+
+- Prevention: Sort documents by date and utilize automated tools for chronological indexing.
+
+6. Scanned Missing Patient Identifiers
+
+- Issue: Missing identifiers can result in incomplete records.
+
+- Prevention: Verify all patient identifiers before scanning. Use a checklist to ensure all information is present.
+
+7. Pre-Indexed with Wrong Description
+
+- Issue: Incorrect descriptions during pre-indexing lead to misclassification.
+
+- Prevention: Double-check descriptions during pre-indexing to ensure accuracy.
+
+8. Indexed with Wrong Doc Type
+
+- Issue: Misclassification hinders document retrieval.
+
+- Prevention: Confirm the document type matches the content before indexing.
+
+9. Pre-Indexed Procedure Consent with DOS in Description but Not in DOS Field
+
+- Issue: Missing Date of Service (DOS) in the correct field results in incomplete records.
+
+- Prevention: Ensure the DOS is entered correctly in both the description and DOS field.
+
+10. QA'd with Wrong Patient Label
+
+- Issue: Incorrect patient labels passing through QA result in finalized errors.
+
+- Prevention: Conduct thorough QA reviews, ensuring labels match documents.
+
+11. Indexed with Incorrect Date Format
+
+- Issue: Wrong date formats lead to record-keeping errors.
+
+- Prevention: Adhere to standardized date formats and double-check dates before finalizing entries.
+
+## Recommended by LinkedIn
+
+[![Image 4: Improving the health of your patient information white paper launches following NHS consultation](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/) Improving the health of your patient information white… HTN - Health Tech News 1 year ago](https://www.linkedin.com/pulse/improving-health-your-patient-information-white-paper-news-hnsle)
+
+[![Image 5: Information Governance - introducing "Stop & Think" ](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/) Information Governance - introducing "Stop & Think" Russell Jones 9 years ago](https://www.linkedin.com/pulse/information-governance-introducing-stop-think-russell-jones)
+
+[![Image 6: It's time to Rebrand - Cube Datastore](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/) It's time to Rebrand - Cube Datastore Shona Brooksby 4 years ago](https://www.linkedin.com/pulse/its-time-rebrand-cube-datastore-shona-brooksby)
+
+12. Scanned with Two CSNs
+
+- Issue: Multiple CSNs in a document create confusion.
+
+- Prevention: Verify that only one CSN is present before scanning.
+
+13. Scanned with Missing Page, No Missing Page Placeholder
+
+- Issue: Missing pages without placeholders lead to incomplete records.
+
+- Prevention: Use a "Missing Page Placeholder" for any absent pages.
+
+14. Indexed Missing Patient Identifiers
+
+- Issue: Missing identifiers during indexing can cause untraceable records.
+
+- Prevention: Confirm all patient identifiers are included before indexing.
+
+15. Pre-Indexed Anesthesia Consent with DOS in Description but Not in DOS Field
+
+- Issue: Omitting DOS in the correct field leads to inaccurate records.
+
+- Prevention: Ensure DOS is entered correctly in both fields during pre-indexing.
+
+16. Scanned with No CSN or MRN
+
+- Issue: Lack of identifiers makes records untraceable.
+
+- Prevention: Verify the presence of CSN and MRN before scanning.
+
+17. Scanned with Missing Digit in Handwritten CSN
+
+- Issue: Missing digits in handwritten CSNs cause retrieval errors.
+
+- Prevention: Carefully review handwritten CSNs and clarify any unclear digits.
+
+18. Indexed with Wrong Date in the Description
+
+- Issue: Wrong dates lead to inaccurate records.
+
+- Prevention: Cross-reference dates with the document before indexing.
+
+19. QA'd with Wrong Doc Type
+
+- Issue: Incorrect document types passing QA result in retrieval issues.
+
+- Prevention: Include verification of document type in the QA process.
+
+20. Indexed with Wrong CSN
+
+- Issue: Incorrect CSNs lead to misfiled records.
+
+- Prevention: Verify CSNs against the document before indexing.
+
+21. Appended Two CSNs Together
+
+- Issue: Combining documents with different CSNs causes errors.
+
+- Prevention: Ensure documents with different CSNs are indexed separately.
+
+Conclusion
+
+Accuracy in scanning and indexing is critical for maintaining the integrity of patient records. By implementing these best practices, healthcare organizations can reduce errors, improve efficiency, and ensure that vital patient information is accurately recorded and easily accessible. Investing in training, cross-referencing tools, and verification processes will not only enhance the quality of document management but also contribute to better patient outcomes. Let's strive for excellence in our HIM practices by prioritizing accuracy and attention to detail.
+
+#HealthcareInformationManagement #HealthIT #MedicalRecords #DocumentManagement #HealthDataAccuracy #HIM #HealthcareCompliance #DataIntegrity #HealthTech #MedicalCoding #HealthcareQuality #PatientRecords #HealthcareData #HealthInformationSystems #HealthcareAdministration #DocumentIndexing #MedicalDataManagement #ClinicalDocumentation #HealthcareProcesses #HealthDataManagement
+
+[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fenhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre%2F&trk=article-ssr-frontend-pulse_x-social-details_like-toggle_like-cta)
+
+![Image 7: Like](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/)Like
+
+![Image 8: Celebrate](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/)Celebrate
+
+![Image 9: Support](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/)Support
+
+![Image 10: Love](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/)Love
+
+![Image 11: Insightful](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/)Insightful
+
+![Image 12: Funny](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/)Funny
+
+[Comment](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fenhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre%2F&trk=article-ssr-frontend-pulse_comment-cta)
+
+*   Copy
+*   LinkedIn
+*   Facebook
+*   X
+
+ Share 
+
+[![Image 13](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) 5](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fenhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre%2F&trk=article-ssr-frontend-pulse_x-social-details_likes-count_social-actions-reactions)
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fenhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre%2F&trk=article-ssr-frontend-pulse_x-social-details_feed-cta-banner-cta)
+
+## More articles by Hemanth K.
+
+*   [Real-Time Eligibility & Authorization Intelligence](https://www.linkedin.com/pulse/real-time-eligibility-authorization-intelligence-hemanth-kakarla-skpve)![Image 14](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/) Mar 11, 2026 
+### Real-Time Eligibility & Authorization Intelligence
+
+How replacing batch eligibility and manual prior authorization with real-time FHIR API workflows eliminates the single…
+
+![Image 15](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/) 7   1 Comment     
+*   [AI in Healthcare: Hype vs Operational Reality](https://www.linkedin.com/pulse/ai-healthcare-hype-vs-operational-reality-hemanth-kakarla-xttpe)![Image 16](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/) Mar 7, 2026 
+### AI in Healthcare: Hype vs Operational Reality
+
+A practitioner-level analysis of where AI genuinely delivers measurable outcomes in healthcare and where vendor…
+
+![Image 17](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/) 4     
+*   [Revenue Cycle Bottlenecks - Caused by Data Gaps](https://www.linkedin.com/pulse/revenue-cycle-bottlenecks-caused-data-gaps-hemanth-kakarla-cdkce)![Image 18](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/) Mar 6, 2026 
+### Revenue Cycle Bottlenecks - Caused by Data Gaps
+
+Why most RCM failures are not workflow failures, denial failures, or staffing failures they are data architecture…
+
+![Image 19](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/) 6     
+*   [API-First Healthcare Architecture](https://www.linkedin.com/pulse/api-first-healthcare-architecture-hemanth-kakarla-gv5te)![Image 20](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/) Mar 5, 2026 
+### API-First Healthcare Architecture
+
+Why the organizations winning in healthcare interoperability stopped building systems that share data and started…
+
+![Image 21](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/) 6   6 Comments     
+*   [Data Quality vs Data Availability](https://www.linkedin.com/pulse/data-quality-vs-availability-hemanth-kakarla-nqtte)![Image 22](https://media.licdn.com/dms/image/v2/D4E12AQHwdGtRsh09JA/article-cover_image-shrink_720_1280/B4EZy3kDU0GsAI-/0/1772606208578?e=2147483647&v=beta&t=mKXJ71v6Wk4SQmpigmNbkgo_7gauWRYanXbD9kOly5M) Mar 4, 2026 
+### Data Quality vs Data Availability
+
+Why having more healthcare data doesn't mean you have better healthcare data and why that distinction defines whether…
+
+![Image 23](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) 3     
+*   [HL7 v2 vs FHIR: From Interfaces to Income Statements](https://www.linkedin.com/pulse/hl7-v2-vs-fhir-from-interfaces-income-statements-hemanth-kakarla-7ysie)![Image 24](https://media.licdn.com/dms/image/v2/D4E12AQHmd1jyDuHOSA/article-cover_image-shrink_720_1280/B4EZyyeGQuHgAI-/0/1772520769545?e=2147483647&v=beta&t=Lb8o_cVtBcZj_oJyUchKb6Bkj1BaPFp282-YDZ8T4b8) Mar 3, 2026 
+### HL7 v2 vs FHIR: From Interfaces to Income Statements
+
+For years, healthcare ran on HL7 v2 pipes. ADT for movement.
+
+![Image 25](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) 5     
+*   [Why Interoperability Is the New Revenue Cycle Engine](https://www.linkedin.com/pulse/why-interoperability-new-revenue-cycle-engine-hemanth-kakarla-ohhqe)![Image 26](https://media.licdn.com/dms/image/v2/D4E12AQFYQ0-KayuhJw/article-cover_image-shrink_720_1280/B4EZytUr6gGYAI-/0/1772434407991?e=2147483647&v=beta&t=B2-jmfeYnNAuHGn1YfnDKK6plx67i00NXPlwz08C6qI) Mar 2, 2026 
+### Why Interoperability Is the New Revenue Cycle Engine
+
+Healthcare doesn't lose revenue only from denials it loses revenue from disconnected data, fragmented systems, and AI…
+
+![Image 27](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) 12     
+*   [Unlocking Product Opportunities Across the U.S. Healthcare Ecosystem](https://www.linkedin.com/pulse/unlocking-product-opportunities-across-us-healthcare-ecosystem-k-yxvoe)![Image 28](https://media.licdn.com/dms/image/v2/D4E12AQEbVNEQO47U_g/article-cover_image-shrink_720_1280/B4EZinBpyTHEAM-/0/1755148894065?e=2147483647&v=beta&t=ahzJzjvvBWoixzZhTR1n64EZyl8J0u3bxZ6Sc8CJy_o) Aug 14, 2025 
+### Unlocking Product Opportunities Across the U.S. Healthcare Ecosystem
+
+1. Payer (Insurance Companies, PBMs, TPAs) Role: Fund healthcare services, manage claims, control costs, and negotiate…
+
+![Image 29](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671)![Image 30](https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu) 35   4 Comments     
+*   [EDI Claims Processing – Product Manager Notes](https://www.linkedin.com/pulse/edi-claims-processing-product-manager-notes-hemanth-k-wujhe)![Image 31](https://media.licdn.com/dms/image/v2/D4E12AQGWZSJwQhJa3A/article-cover_image-shrink_720_1280/B4EZh4OILVHgAQ-/0/1754363626649?e=2147483647&v=beta&t=ZLvmNUysb4S-Cq1jtYJFLmPzP3MeFvZasOV3cHFXUCg) Aug 5, 2025 
+### EDI Claims Processing – Product Manager Notes
+
+Healthcare EDI Codes – Definitions & Examples 837 – Healthcare Claim · Definition: Used by providers to electronically…
+
+![Image 32](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671)![Image 33](https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu) 32     
+*   [The Future of Revenue Cycle Management in 2025: Trends, Technologies, and Strategic Imperatives](https://www.linkedin.com/pulse/future-revenue-cycle-management-2025-trends-strategic-kakarla-txvxe)![Image 34](https://media.licdn.com/dms/image/v2/D4E12AQEBY7eUK_9e-g/article-cover_image-shrink_600_2000/B4EZbGOyFxHoAg-/0/1747082486542?e=2147483647&v=beta&t=fyZqhjSWlGsNisC2RiW6Xq0mRdSYAvdYSmruJetEE5E) May 12, 2025 
+### The Future of Revenue Cycle Management in 2025: Trends, Technologies, and Strategic Imperatives
+
+The healthcare industry is entering a transformative era in 2025, driven by the convergence of technology, patient…
+
+![Image 35](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671)![Image 36](https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu) 10   1 Comment     
+
+ Show more 
+
+[See all articles](https://www.linkedin.com/in/vhkakarla/recent-activity/articles/)
+
+## Others also viewed
+
+*   [![Image 37](https://media.licdn.com/dms/image/v2/D4D12AQGI2NTh5k9ODQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1682842160929?e=2147483647&v=beta&t=zKH-JmnE4NiOPRCN--QGYXcj62Grfonrg-y5Mb2fKSk) ### The Most Critical Issues in Healthcare management systems (HMS) UTrust for software testing and quality assurance services 2y](https://www.linkedin.com/pulse/most-critical-issues-healthcare-management-systems-hms-utrusteg)
+*   [![Image 38](https://media.licdn.com/dms/image/v2/C5612AQHwb-iDsyIp4Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1589326761757?e=2147483647&v=beta&t=K7SdyHT8tvup5TteyL8riStG3FjueFAx2bLU39qo2-Q) ### Rous County Council Five Year Partnership with iCognition Joe Mammoliti 5y](https://www.linkedin.com/pulse/rous-county-council-five-year-partnership-icognition-joe-mammoliti)
+*   [![Image 39](https://media.licdn.com/dms/image/v2/C4D12AQHvhTBVxatBIg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520152960922?e=2147483647&v=beta&t=Xs3ipmsvPb50V60sLSOP48O_Rn32XTpa-r0WoPhJTLc) ### 6 Records Information Management Hurdles that the Pharmaceutical Industry Must Overcome Jake Lachewitz 9y](https://www.linkedin.com/pulse/6-records-information-management-hurdles-industry-must-jake-lachewitz)
+*   [![Image 40](https://media.licdn.com/dms/image/v2/D5612AQGGZjIpyFFLqg/article-cover_image-shrink_720_1280/B56ZujRkpoKEAI-/0/1767970852150?e=2147483647&v=beta&t=Q2rgVvzN3qmjXWavkEbyjzFp9PUXOLsDLP26Weo1nS4) ### DX Portfolio - Trust in Triage! Gracie B. 3mo](https://www.linkedin.com/pulse/dx-portfolio-trust-triage-gracie-bumbaugh-hppec)
+*   [![Image 41](https://media.licdn.com/dms/image/v2/C5612AQFNx4f-CMPDTQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1537790426815?e=2147483647&v=beta&t=iURllV3INC6fFn5jI36UlSU2IlvQSerGKbj668t26R8) ### New edition of the go-to reference for students and RIM professionals Facet Publishing 7y](https://www.linkedin.com/pulse/new-edition-go-to-reference-students-rim-james-williams)
+*   [![Image 42](https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png) ### Digital Preservation in Trouble - Information Packages – but where is the Information? A proposed root cause analysis. David Giaretta 5mo](https://www.linkedin.com/pulse/digital-preservation-trouble-information-packages-where-giaretta-yofhe)
+*   [![Image 43](https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png) ### The Sir Rupert Hamer Records Management Award Derek Madden 7y](https://www.linkedin.com/pulse/sir-rupert-hamer-records-management-award-derek-madden)
+*   [![Image 44](https://media.licdn.com/dms/image/v2/D4D12AQEjpMxDxF6wPQ/article-cover_image-shrink_600_2000/B4DZmdxAkUH0AQ-/0/1759288501525?e=2147483647&v=beta&t=xszpyzz4KjYLgWp3y0yNuLclnjrd202koWrkHxB9Mo8) ### The Crisis of Records Management: From Shared Drives to EDRMS Solutions Johan Pieterse 6mo](https://www.linkedin.com/pulse/crisis-records-management-from-shared-drives-edrms-johan-pieterse-mt2wf)
+*   [![Image 45](https://media.licdn.com/dms/image/v2/D4D12AQFuTGBG9mz90g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723896473303?e=2147483647&v=beta&t=PcQTVXf8cS1caGXspUYalvOAyOEtQsB7piKTwh2EAJ0) ### Ensuring Data Integrity in Clinical Trials: Best Practices for Computerized Systems and Electronic Data Vishal Nakrani RQAP-GCP, M.Pharm, MBA 1y](https://www.linkedin.com/pulse/ensuring-data-integrity-clinical-trials-best-systems-vishal-nakrani-gxxjf)
+*   [![Image 46](https://media.licdn.com/dms/image/v2/D4D12AQFCcHLE9qK3lw/article-cover_image-shrink_720_1280/B4DZyV6fswIUAI-/0/1772041667964?e=2147483647&v=beta&t=kMw_cjsJzvr2YzRVEdP3sG8BIk0QHREorCZi11d9Y9c) ### Exit Capability: The Missing Resilience Requirement in NHS Digital Procurement Rowland Agidee FACHDM CHCIO CITP 4w](https://www.linkedin.com/pulse/exit-capability-missing-resilience-requirement-nhs-rowland-xlwme)
+
+ Show more  Show less 
+
+## Explore content categories
+
+*   [Career](https://www.linkedin.com/top-content/career/)
+*   [Productivity](https://www.linkedin.com/top-content/productivity/)
+*   [Finance](https://www.linkedin.com/top-content/finance/)
+*   [Soft Skills & Emotional Intelligence](https://www.linkedin.com/top-content/soft-skills-emotional-intelligence/)
+*   [Project Management](https://www.linkedin.com/top-content/project-management/)
+*   [Education](https://www.linkedin.com/top-content/education/)
+*   [Technology](https://www.linkedin.com/top-content/technology/)
+*   [Leadership](https://www.linkedin.com/top-content/leadership/)
+*   [Ecommerce](https://www.linkedin.com/top-content/ecommerce/)
+*   [User Experience](https://www.linkedin.com/top-content/user-experience/)
+*   [Recruitment & HR](https://www.linkedin.com/top-content/recruitment-hr/)
+*   [Customer Experience](https://www.linkedin.com/top-content/customer-experience/)
+*   [Real Estate](https://www.linkedin.com/top-content/real-estate/)
+*   [Marketing](https://www.linkedin.com/top-content/marketing/)
+*   [Sales](https://www.linkedin.com/top-content/sales/)
+*   [Retail & Merchandising](https://www.linkedin.com/top-content/retail-merchandising/)
+*   [Science](https://www.linkedin.com/top-content/science/)
+*   [Supply Chain Management](https://www.linkedin.com/top-content/supply-chain-management/)
+*   [Future Of Work](https://www.linkedin.com/top-content/future-of-work/)
+*   [Consulting](https://www.linkedin.com/top-content/consulting/)
+*   [Writing](https://www.linkedin.com/top-content/writing/)
+*   [Economics](https://www.linkedin.com/top-content/economics/)
+*   [Artificial Intelligence](https://www.linkedin.com/top-content/artificial-intelligence/)
+*   [Employee Experience](https://www.linkedin.com/top-content/employee-experience/)
+*   [Workplace Trends](https://www.linkedin.com/top-content/workplace-trends/)
+*   [Fundraising](https://www.linkedin.com/top-content/fundraising/)
+*   [Networking](https://www.linkedin.com/top-content/networking/)
+*   [Corporate Social Responsibility](https://www.linkedin.com/top-content/corporate-social-responsibility/)
+*   [Negotiation](https://www.linkedin.com/top-content/negotiation/)
+*   [Communication](https://www.linkedin.com/top-content/communication/)
+*   [Engineering](https://www.linkedin.com/top-content/engineering/)
+*   [Hospitality & Tourism](https://www.linkedin.com/top-content/hospitality-tourism/)
+*   [Business Strategy](https://www.linkedin.com/top-content/business-strategy/)
+*   [Change Management](https://www.linkedin.com/top-content/change-management/)
+*   [Organizational Culture](https://www.linkedin.com/top-content/organizational-culture/)
+*   [Design](https://www.linkedin.com/top-content/design/)
+*   [Innovation](https://www.linkedin.com/top-content/innovation/)
+*   [Event Planning](https://www.linkedin.com/top-content/event-planning/)
+*   [Training & Development](https://www.linkedin.com/top-content/training-development/)
+
+ Show more  Show less 
+
+*   LinkedIn© 2026
+*   [About](https://about.linkedin.com/?trk=d_flagship2_pulse_read_footer-about)
+*   [Accessibility](https://www.linkedin.com/accessibility?trk=d_flagship2_pulse_read_footer-accessibility)
+*   [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=d_flagship2_pulse_read_footer-user-agreement)
+*   [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=d_flagship2_pulse_read_footer-privacy-policy)
+*   [Your California Privacy Choices](https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_flagship2_pulse_read_footer-california-privacy-rights-act)
+*   [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=d_flagship2_pulse_read_footer-cookie-policy)
+*   [Copyright Policy](https://www.linkedin.com/legal/copyright-policy?trk=d_flagship2_pulse_read_footer-copyright-policy)
+*   [Brand Policy](https://brand.linkedin.com/policies?trk=d_flagship2_pulse_read_footer-brand-policy)
+*   [Guest Controls](https://www.linkedin.com/psettings/guest-controls?trk=d_flagship2_pulse_read_footer-guest-controls)
+*   [Community Guidelines](https://www.linkedin.com/legal/professional-community-policies?trk=d_flagship2_pulse_read_footer-community-guide)
+*   
+    *    العربية (Arabic) 
+    *    বাংলা (Bangla) 
+    *    Čeština (Czech) 
+    *    Dansk (Danish) 
+    *    Deutsch (German) 
+    *    Ελληνικά (Greek) 
+    *   **English (English)**
+    *    Español (Spanish) 
+    *    فارسی (Persian) 
+    *    Suomi (Finnish) 
+    *    Français (French) 
+    *    हिंदी (Hindi) 
+    *    Magyar (Hungarian) 
+    *    Bahasa Indonesia (Indonesian) 
+    *    Italiano (Italian) 
+    *    עברית (Hebrew) 
+    *    日本語 (Japanese) 
+    *    한국어 (Korean) 
+    *    मराठी (Marathi) 
+    *    Bahasa Malaysia (Malay) 
+    *    Nederlands (Dutch) 
+    *    Norsk (Norwegian) 
+    *    ਪੰਜਾਬੀ (Punjabi) 
+    *    Polski (Polish) 
+    *    Português (Portuguese) 
+    *    Română (Romanian) 
+    *    Русский (Russian) 
+    *    Svenska (Swedish) 
+    *    తెలుగు (Telugu) 
+    *    ภาษาไทย (Thai) 
+    *    Tagalog (Tagalog) 
+    *    Türkçe (Turkish) 
+    *    Українська (Ukrainian) 
+    *    Tiếng Việt (Vietnamese) 
+    *    简体中文 (Chinese (Simplified)) 
+    *    正體中文 (Chinese (Traditional)) 
+
+ Language 
+
+[](https://www.linkedin.com/pulse/enhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre/)
+
+![Image 47](https://static.licdn.com/aero-v1/sc/h/5k9cgtx8rhoyqkcxfoncu1svl)
+## Sign in to view more content
+
+Create your free account or sign in to continue your search
+
+ Email or phone  
+
+ Password  
+
+Show
+
+[Forgot password?](https://www.linkedin.com/uas/request-password-reset?trk=csm-v2_forgot_password) Sign in 
+
+Sign in with Email
+
+or
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fenhancing-accuracy-document-scanning-indexing-best-venkata-kakarla-o2gre%2F&trk=pulse-article_contextual-sign-in-modal_join-link)
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy).

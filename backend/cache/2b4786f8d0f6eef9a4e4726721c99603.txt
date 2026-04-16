@@ -1,0 +1,87 @@
+Title: New Research Reveals Strong Price Competition Between Online and Offline Sales Channels - CCIA
+
+URL Source: https://ccianet.org/news/2022/08/new-research-reveals-strong-price-competition-between-online-and-offline-sales-channels/
+
+Published Time: 2022-08-15T09:24:16-04:00
+
+Markdown Content:
+Washington – A new economic [study](https://www.brattle.com/wp-content/uploads/2022/07/Competitive-Dynamics-of-Online-and-Brick-and-Mortar-Retail-Prices-1.pdf) by the Brattle Group finds strong evidence on the dynamic competitive relationship between online and brick-and-mortar retail sales channels: both channels fiercely compete on price, with offline sales channels often directing price trends.
+
+The Brattle study uses data from NPD to analyze nation-wide online and offline prices and volumes for a set of products as well as hand-collected price data from Premise to analyze online and offline prices from individual retail locations in a major metropolitan area. Analyses of both data sources found that online and brick-and-mortar prices are identical the overwhelming majority of the time; deviations are the exception rather than the rule and tend to be brief. In addition, the study found that both channels experience increases and decreases in dollar sales at the same time and to the same degree. These findings are highly consistent with a very responsive and competitive market that includes both channels.
+
+[Key Takeaways](https://research.ccianet.org/?attachment_id=534):
+
+*   Online and offline prices are identical 95% of the time for the same product, retailer, location, and date
+*   When one channel’s price changes, the other channel typically changes to match it quickly
+*   Online prices rarely deviate away from brick-and-mortar prices, but when they do, they can deviate both upwards and downwards
+*   Online and offline trends in dollar sales volumes closely matched one another, consistent with both sales channels being subject to the same market forces.
+
+The study, commissioned by the Computer and Communications Industry Association (CCIA), suggests that in the context of antitrust, analyses involving dynamic competition and substitutability for retail goods should incorporate information from both online and brick-and-mortar retail sales. Further, regulation affecting online commerce is expected to affect prices in brick-and-mortar stores, and vice versa.
+
+The results are good news for consumers, who benefit from a competitive retail landscape through lower prices and diverse venue options. The following statement can be attributed to CCIA Director of Research and Economics Trevor Wagener:
+
+“The latest retail research shows the intense price competition between online and offline sales channels. Moreover, the research finds nearly contemporaneous price movements in nearly identical magnitudes across channels, which shows that online and offline sales channels are subject to the same competitive forces. Any regulations affecting online retail would affect prices in brick-and-mortar retail as well.”
+
+News
+
+![Image 1](https://ccianet.org/wp-content/uploads/2026/04/Wagener.BASED_.04132026-300x169.png)
+
+April 13, 2026
+
+### New Analysis Warns California’s SB 1074 Would Import Problems Seen in Europe’s DMA
+
+Washington, D.C. — A new analysis warns that California’s SB 1074 (the BASED Act), which is modeled on the European Union’s Digital Markets Act (DMA), could raise costs for businesses and reduce...
+
+*   Press Releases
+
+*   Competition
+
+[Read more](https://ccianet.org/news/2026/04/new-analysis-warns-californias-sb-1074-would-import-problems-seen-in-europes-dma/)
+
+News
+
+![Image 2](https://ccianet.org/wp-content/uploads/2026/04/Stokes.Illinois.04092026-300x169.png)
+
+April 9, 2026
+
+### CCIA Urges Balanced Approach to AI and Privacy Legislation Ahead of Illinois Senate Subcommittee Hearing
+
+Washington – The Computer & Communications Industry Association is raising concerns about a series of artificial intelligence and data privacy bills ahead of today’s hearing before the Illinoi...
+
+*   Press Releases
+
+ Online Safety
+
+[Read more](https://ccianet.org/news/2026/04/ccia-urges-balanced-approach-to-ai-and-privacy-legislation-ahead-of-illinois-senate-subcommittee-hearing/)
+
+News
+
+![Image 3](https://ccianet.org/wp-content/uploads/2026/04/Wagener.BrazilPatents.04092026-300x169.png)
+
+April 9, 2026
+
+### Brazil Courts’ Injunctions Put Innovators Under the Gun in Patent Hold-Ups
+
+Washington – A new report highlights the growing importance of Standard Essential Patents (SEPs) to Brazil’s digital and industrial transformation, while warning that the country’s current legal...
+
+*   Press Releases
+
+*   Patents
+
+[Read more](https://ccianet.org/news/2026/04/brazil-courts-injunctions-put-innovators-under-the-gun-in-patent-hold-ups/)
+
+News
+
+![Image 4](https://ccianet.org/wp-content/uploads/2026/04/Schruers.Anthropic.04082026-300x169.png)
+
+April 8, 2026
+
+### DC Federal Court Denies Motion to Stay Pentagon’s Action Against Anthropic; CCIA Comments on Ruling
+
+Washington - A DC Appeals court has rejected Anthropic’s motion to block the Pentagon from designating the company as a supply chain risk following a dispute over how the Pentagon may use its AI tec...
+
+*   Press Releases
+
+ Innovation Policy
+
+[Read more](https://ccianet.org/news/2026/04/dc-federal-court-denies-motion-to-stay-pentagons-action-against-anthropic-ccia-comments-on-ruling/)

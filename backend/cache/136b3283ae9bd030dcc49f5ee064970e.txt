@@ -1,0 +1,915 @@
+Title: Data analysis
+
+URL Source: https://en.wikipedia.org/wiki/Data_analysis
+
+Published Time: 2005-09-21T00:53:03Z
+
+Markdown Content:
+# Data analysis - Wikipedia
+[Jump to content](https://en.wikipedia.org/wiki/Data_analysis#bodyContent)
+
+- [x] Main menu 
+
+Main menu
+
+move to sidebar hide
+
+ Navigation 
+
+*   [Main page](https://en.wikipedia.org/wiki/Main_Page "Visit the main page [z]")
+*   [Contents](https://en.wikipedia.org/wiki/Wikipedia:Contents "Guides to browsing Wikipedia")
+*   [Current events](https://en.wikipedia.org/wiki/Portal:Current_events "Articles related to current events")
+*   [Random article](https://en.wikipedia.org/wiki/Special:Random "Visit a randomly selected article [x]")
+*   [About Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:About "Learn about Wikipedia and how it works")
+*   [Contact us](https://en.wikipedia.org/wiki/Wikipedia:Contact_us "How to contact Wikipedia")
+
+ Contribute 
+
+*   [Help](https://en.wikipedia.org/wiki/Help:Contents "Guidance on how to use and edit Wikipedia")
+*   [Learn to edit](https://en.wikipedia.org/wiki/Help:Introduction "Learn how to edit Wikipedia")
+*   [Community portal](https://en.wikipedia.org/wiki/Wikipedia:Community_portal "The hub for editors")
+*   [Recent changes](https://en.wikipedia.org/wiki/Special:RecentChanges "A list of recent changes to Wikipedia [r]")
+*   [Upload file](https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard "Add images or other media for use on Wikipedia")
+*   [Special pages](https://en.wikipedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
+
+[![Image 1](https://en.wikipedia.org/static/images/icons/enwiki-25.svg)![Image 2: Wikipedia](https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg)![Image 3: The Free Encyclopedia](https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en-25.svg)](https://en.wikipedia.org/wiki/Main_Page)
+
+[Search](https://en.wikipedia.org/wiki/Special:Search "Search Wikipedia [f]")
+
+Search
+
+- [x] Appearance 
+
+*   [Donate](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en)
+*   [Create account](https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Data+analysis "You are encouraged to create an account and log in; however, it is not mandatory")
+*   [Log in](https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Data+analysis "You're encouraged to log in; however, it's not mandatory. [o]")
+
+- [x] Personal tools 
+
+*   [Donate](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en)
+*   [Create account](https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Data+analysis "You are encouraged to create an account and log in; however, it is not mandatory")
+*   [Log in](https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Data+analysis "You're encouraged to log in; however, it's not mandatory. [o]")
+
+## Contents
+
+move to sidebar hide
+
+*   [(Top)](https://en.wikipedia.org/wiki/Data_analysis#)
+*   [1 Data analysis process](https://en.wikipedia.org/wiki/Data_analysis#Data_analysis_process)Toggle Data analysis process subsection
+    *   [1.1 Data requirements](https://en.wikipedia.org/wiki/Data_analysis#Data_requirements)
+
+    *   [1.2 Data collection](https://en.wikipedia.org/wiki/Data_analysis#Data_collection)
+
+    *   [1.3 Data processing](https://en.wikipedia.org/wiki/Data_analysis#Data_processing)
+
+    *   [1.4 Data cleaning](https://en.wikipedia.org/wiki/Data_analysis#Data_cleaning)
+
+    *   [1.5 Exploratory data analysis](https://en.wikipedia.org/wiki/Data_analysis#Exploratory_data_analysis)
+
+    *   [1.6 Modeling and algorithms](https://en.wikipedia.org/wiki/Data_analysis#Modeling_and_algorithms)
+
+    *   [1.7 Data product](https://en.wikipedia.org/wiki/Data_analysis#Data_product)
+
+    *   [1.8 Communication](https://en.wikipedia.org/wiki/Data_analysis#Communication)
+
+*   [2 Quantitative messages](https://en.wikipedia.org/wiki/Data_analysis#Quantitative_messages)
+
+*   [3 Analyzing quantitative data in finance](https://en.wikipedia.org/wiki/Data_analysis#Analyzing_quantitative_data_in_finance)
+
+*   [4 Analytical activities of data users](https://en.wikipedia.org/wiki/Data_analysis#Analytical_activities_of_data_users)
+
+*   [5 Barriers to effective analysis](https://en.wikipedia.org/wiki/Data_analysis#Barriers_to_effective_analysis)Toggle Barriers to effective analysis subsection
+    *   [5.1 Confusing fact and opinion](https://en.wikipedia.org/wiki/Data_analysis#Confusing_fact_and_opinion)
+
+    *   [5.2 Cognitive biases](https://en.wikipedia.org/wiki/Data_analysis#Cognitive_biases)
+
+    *   [5.3 Innumeracy](https://en.wikipedia.org/wiki/Data_analysis#Innumeracy)
+
+*   [6 Other applications](https://en.wikipedia.org/wiki/Data_analysis#Other_applications)Toggle Other applications subsection
+    *   [6.1 Analytics and business intelligence](https://en.wikipedia.org/wiki/Data_analysis#Analytics_and_business_intelligence)
+
+    *   [6.2 Education](https://en.wikipedia.org/wiki/Data_analysis#Education)
+
+*   [7 Practitioner notes](https://en.wikipedia.org/wiki/Data_analysis#Practitioner_notes)Toggle Practitioner notes subsection
+    *   [7.1 Initial data analysis](https://en.wikipedia.org/wiki/Data_analysis#Initial_data_analysis)
+        *   [7.1.1 Quality of data](https://en.wikipedia.org/wiki/Data_analysis#Quality_of_data)
+
+        *   [7.1.2 Quality of measurements](https://en.wikipedia.org/wiki/Data_analysis#Quality_of_measurements)
+
+        *   [7.1.3 Initial transformations](https://en.wikipedia.org/wiki/Data_analysis#Initial_transformations)
+
+        *   [7.1.4 Did the implementation of the study fulfill the intentions of the research design?](https://en.wikipedia.org/wiki/Data_analysis#Did_the_implementation_of_the_study_fulfill_the_intentions_of_the_research_design?)
+
+        *   [7.1.5 Characteristics of data sample](https://en.wikipedia.org/wiki/Data_analysis#Characteristics_of_data_sample)
+
+        *   [7.1.6 Final stage of the initial data analysis](https://en.wikipedia.org/wiki/Data_analysis#Final_stage_of_the_initial_data_analysis)
+
+        *   [7.1.7 Analysis](https://en.wikipedia.org/wiki/Data_analysis#Analysis)
+
+        *   [7.1.8 Nonlinear analysis](https://en.wikipedia.org/wiki/Data_analysis#Nonlinear_analysis)
+
+    *   [7.2 Main data analysis](https://en.wikipedia.org/wiki/Data_analysis#Main_data_analysis)
+        *   [7.2.1 Exploratory and confirmatory approaches](https://en.wikipedia.org/wiki/Data_analysis#Exploratory_and_confirmatory_approaches)
+
+        *   [7.2.2 Stability of results](https://en.wikipedia.org/wiki/Data_analysis#Stability_of_results)
+
+*   [8 Free software for data analysis](https://en.wikipedia.org/wiki/Data_analysis#Free_software_for_data_analysis)
+
+*   [9 Reproducible analysis](https://en.wikipedia.org/wiki/Data_analysis#Reproducible_analysis)
+
+*   [10 Data analysis contests](https://en.wikipedia.org/wiki/Data_analysis#Data_analysis_contests)
+
+*   [11 See also](https://en.wikipedia.org/wiki/Data_analysis#See_also)
+
+*   [12 References](https://en.wikipedia.org/wiki/Data_analysis#References)Toggle References subsection
+    *   [12.1 Citations](https://en.wikipedia.org/wiki/Data_analysis#Citations)
+
+    *   [12.2 Bibliography](https://en.wikipedia.org/wiki/Data_analysis#Bibliography)
+
+*   [13 Further reading](https://en.wikipedia.org/wiki/Data_analysis#Further_reading)
+
+- [x] Toggle the table of contents 
+
+# Data analysis
+
+- [x] 42 languages 
+
+*   [العربية](https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA "تحليل البيانات – Arabic")
+*   [Azərbaycanca](https://az.wikipedia.org/wiki/Veril%C9%99nl%C9%99rin_analizi "Verilənlərin analizi – Azerbaijani")
+*   [Català](https://ca.wikipedia.org/wiki/An%C3%A0lisi_de_dades "Anàlisi de dades – Catalan")
+*   [کوردی](https://ckb.wikipedia.org/wiki/%D8%B4%DB%8C%DA%A9%D8%A7%D8%B1%DB%8C%DB%8C_%D8%AF%D8%B1%D8%A7%D9%88%DB%95 "شیکاریی دراوە – Central Kurdish")
+*   [Čeština](https://cs.wikipedia.org/wiki/Anal%C3%BDza_dat "Analýza dat – Czech")
+*   [Cymraeg](https://cy.wikipedia.org/wiki/Dadansoddi_data "Dadansoddi data – Welsh")
+*   [Deutsch](https://de.wikipedia.org/wiki/Datenanalyse "Datenanalyse – German")
+*   [Esperanto](https://eo.wikipedia.org/wiki/Datumanalizado "Datumanalizado – Esperanto")
+*   [Español](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_datos "Análisis de datos – Spanish")
+*   [Eesti](https://et.wikipedia.org/wiki/Andmeanal%C3%BC%C3%BCs "Andmeanalüüs – Estonian")
+*   [فارسی](https://fa.wikipedia.org/wiki/%D8%AA%D8%AD%D9%84%DB%8C%D9%84_%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D9%87%D8%A7 "تحلیل داده‌ها – Persian")
+*   [Suomi](https://fi.wikipedia.org/wiki/Data-analyysi "Data-analyysi – Finnish")
+*   [Hausa](https://ha.wikipedia.org/wiki/Data_Analysis "Data Analysis – Hausa")
+*   [Hawaiʻi](https://haw.wikipedia.org/wiki/%CA%BBIkepili_helu "ʻIkepili helu – Hawaiian")
+*   [עברית](https://he.wikipedia.org/wiki/%D7%A0%D7%99%D7%AA%D7%95%D7%97_%D7%9E%D7%99%D7%93%D7%A2 "ניתוח מידע – Hebrew")
+*   [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE_%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%B7%E0%A4%A3 "डेटा विश्लेषण – Hindi")
+*   [Magyar](https://hu.wikipedia.org/wiki/Adatelemz%C3%A9s "Adatelemzés – Hungarian")
+*   [Bahasa Indonesia](https://id.wikipedia.org/wiki/Analisis_data "Analisis data – Indonesian")
+*   [Ido](https://io.wikipedia.org/wiki/Analizo_di_datumi "Analizo di datumi – Ido")
+*   [Italiano](https://it.wikipedia.org/wiki/Analisi_dei_dati "Analisi dei dati – Italian")
+*   [日本語](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90 "データ解析 – Japanese")
+*   [ಕನ್ನಡ](https://kn.wikipedia.org/wiki/%E0%B2%AE%E0%B2%BE%E0%B2%B9%E0%B2%BF%E0%B2%A4%E0%B2%BF_%E0%B2%B5%E0%B2%BF%E0%B2%B6%E0%B3%8D%E0%B2%B2%E0%B3%87%E0%B2%B7%E0%B2%A3%E0%B3%86 "ಮಾಹಿತಿ ವಿಶ್ಲೇಷಣೆ – Kannada")
+*   [한국어](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D "데이터 분석 – Korean")
+*   [Монгол](https://mn.wikipedia.org/wiki/%D0%94%D0%B0%D1%82%D0%B0_%D1%88%D0%B8%D0%BD%D0%B6%D0%B8%D0%BB%D0%B3%D1%8D%D1%8D "Дата шинжилгээ – Mongolian")
+*   [Bahasa Melayu](https://ms.wikipedia.org/wiki/Analisis_data "Analisis data – Malay")
+*   [ਪੰਜਾਬੀ](https://pa.wikipedia.org/wiki/%E0%A8%A1%E0%A8%BE%E0%A8%9F%E0%A8%BE_%E0%A8%B5%E0%A8%BF%E0%A8%B8%E0%A8%BC%E0%A8%B2%E0%A9%87%E0%A8%B8%E0%A8%BC%E0%A8%A3 "ਡਾਟਾ ਵਿਸ਼ਲੇਸ਼ਣ – Punjabi")
+*   [Polski](https://pl.wikipedia.org/wiki/Analiza_danych "Analiza danych – Polish")
+*   [پنجابی](https://pnb.wikipedia.org/wiki/%DA%88%DB%8C%D9%B9%D8%A7_%D8%A7%D9%86%DB%8C%D9%84%DB%8C%D8%B3%D8%B2 "ڈیٹا انیلیسز – Western Punjabi")
+*   [Português](https://pt.wikipedia.org/wiki/An%C3%A1lise_de_dados "Análise de dados – Portuguese")
+*   [Română](https://ro.wikipedia.org/wiki/Analiza_datelor "Analiza datelor – Romanian")
+*   [Русский](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85 "Анализ данных – Russian")
+*   [සිංහල](https://si.wikipedia.org/wiki/%E0%B6%AF%E0%B6%AD%E0%B7%8A%E0%B6%AD_%E0%B7%80%E0%B7%92%E0%B7%81%E0%B7%8A%E0%B6%BD%E0%B7%9A%E0%B7%82%E0%B6%AB%E0%B6%BA "දත්ත විශ්ලේෂණය – Sinhala")
+*   [Српски / srpski](https://sr.wikipedia.org/wiki/Analiza_podataka "Analiza podataka – Serbian")
+*   [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%B0%E0%AE%B5%E0%AF%81_%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81 "தரவு பகுப்பாய்வு – Tamil")
+*   [ไทย](https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5 "การวิเคราะห์ข้อมูล – Thai")
+*   [Türkçe](https://tr.wikipedia.org/wiki/Veri_analizi "Veri analizi – Turkish")
+*   [Українська](https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D1%96%D0%B7_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85 "Аналіз даних – Ukrainian")
+*   [Tiếng Việt](https://vi.wikipedia.org/wiki/Ph%C3%A2n_t%C3%ADch_d%E1%BB%AF_li%E1%BB%87u "Phân tích dữ liệu – Vietnamese")
+*   [მარგალური](https://xmf.wikipedia.org/wiki/%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%90%E1%83%A9%E1%83%94%E1%83%9B%E1%83%94%E1%83%A4%E1%83%98%E1%83%A8_%E1%83%90%E1%83%9C%E1%83%90%E1%83%9A%E1%83%98%E1%83%96%E1%83%98 "მუნაჩემეფიშ ანალიზი – Mingrelian")
+*   [粵語](https://zh-yue.wikipedia.org/wiki/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90 "數據分析 – Cantonese")
+*   [中文](https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90 "数据分析 – Chinese")
+*   [IsiZulu](https://zu.wikipedia.org/wiki/Ukuhlaziya_Imininingo "Ukuhlaziya Imininingo – Zulu")
+
+[Edit links](https://www.wikidata.org/wiki/Special:EntityPage/Q1988917#sitelinks-wikipedia "Edit interlanguage links")
+
+*   [Article](https://en.wikipedia.org/wiki/Data_analysis "View the content page [c]")
+*   [Talk](https://en.wikipedia.org/wiki/Talk:Data_analysis "Discuss improvements to the content page [t]")
+
+- [x] English 
+
+*   [Read](https://en.wikipedia.org/wiki/Data_analysis)
+*   [Edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit "Edit this page [e]")
+*   [View history](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=history "Past revisions of this page [h]")
+
+- [x] Tools 
+
+Tools
+
+move to sidebar hide
+
+ Actions 
+
+*   [Read](https://en.wikipedia.org/wiki/Data_analysis)
+*   [Edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit "Edit this page [e]")
+*   [View history](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=history)
+
+ General 
+
+*   [What links here](https://en.wikipedia.org/wiki/Special:WhatLinksHere/Data_analysis "List of all English Wikipedia pages containing links to this page [j]")
+*   [Related changes](https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Data_analysis "Recent changes in pages linked from this page [k]")
+*   [Upload file](https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard "Upload files [u]")
+*   [Permanent link](https://en.wikipedia.org/w/index.php?title=Data_analysis&oldid=1347185105 "Permanent link to this revision of this page")
+*   [Page information](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=info "More information about this page")
+*   [Cite this page](https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Data_analysis&id=1347185105&wpFormIdentifier=titleform "Information on how to cite this page")
+*   [Get shortened URL](https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FData_analysis)
+
+ Print/export 
+
+*   [Download as PDF](https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Data_analysis&action=show-download-screen "Download this page as a PDF file")
+*   [Printable version](https://en.wikipedia.org/w/index.php?title=Data_analysis&printable=yes "Printable version of this page [p]")
+
+ In other projects 
+
+*   [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Data_analysis)
+*   [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q1988917 "Structured data on this page hosted by Wikidata [g]")
+
+Appearance
+
+move to sidebar hide
+
+From Wikipedia, the free encyclopedia
+
+**Data analysis** is the process of inspecting, [cleansing](https://en.wikipedia.org/wiki/Data_cleansing "Data cleansing"), [transforming](https://en.wikipedia.org/wiki/Data_transformation "Data transformation"), and [modeling](https://en.wikipedia.org/wiki/Data_modeling "Data modeling")[data](https://en.wikipedia.org/wiki/Data "Data") with the goal of discovering useful information, informing conclusions, and supporting [decision-making](https://en.wikipedia.org/wiki/Decision-making "Decision-making").[[1]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Auerbach_Publications-1) Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, and is used in different business, science, and social science domains.[[2]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-2) In today's business world, data analysis plays an important role in making decisions more scientific and helping businesses operate more effectively.[[3]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-3) It is widely used in fields such as business analytics, healthcare, and artificial intelligence to extract meaningful insights from data.
+
+[Data mining](https://en.wikipedia.org/wiki/Data_mining "Data mining") is a particular data analysis technique that focuses on statistical modeling and knowledge discovery for predictive rather than purely descriptive purposes, while [business intelligence](https://en.wikipedia.org/wiki/Business_intelligence "Business intelligence") covers data analysis that relies heavily on aggregation, focusing mainly on business information. In statistical applications, data analysis can be divided into [descriptive statistics](https://en.wikipedia.org/wiki/Descriptive_statistics "Descriptive statistics"), [exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis "Exploratory data analysis") (EDA), and [confirmatory data analysis](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing "Statistical hypothesis testing") (CDA).[[4]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-4) EDA focuses on discovering new features in the data, while CDA focuses on confirming or falsifying existing [hypotheses](https://en.wikipedia.org/wiki/Hypotheses "Hypotheses").[[5]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-5)[Predictive analytics](https://en.wikipedia.org/wiki/Predictive_analytics "Predictive analytics") focuses on the application of statistical models for predictive forecasting or classification, while [text analytics](https://en.wikipedia.org/wiki/Text_analytics "Text analytics") applies statistical, linguistic, and structural techniques to extract and classify information from textual sources, a variety of [unstructured data](https://en.wikipedia.org/wiki/Unstructured_data "Unstructured data"). All of the above are varieties of data analysis.[[6]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-6)
+
+## Data analysis process
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=1 "Edit section: Data analysis process")]
+
+[![Image 4](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Data_visualization_process_v1.png/500px-Data_visualization_process_v1.png)](https://en.wikipedia.org/wiki/File:Data_visualization_process_v1.png)
+
+Data science process flowchart from _Doing Data Science_, by Schutt& O'Neil (2013)
+
+_Data analysis_ is a [process](https://en.wikipedia.org/wiki/Process_theory "Process theory") for obtaining [raw data](https://en.wikipedia.org/wiki/Raw_data "Raw data"), and subsequently converting it into information useful for decision-making by users.[[1]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Auerbach_Publications-1) Statistician [John Tukey](https://en.wikipedia.org/wiki/John_Tukey "John Tukey"), defined data analysis in 1961, as:
+
+> "Procedures for analyzing data, techniques for interpreting the results of such procedures, ways of planning the gathering of data to make its analysis easier, more precise or more accurate, and all the machinery and results of (mathematical) statistics which apply to analyzing data."[[7]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-7)
+
+There are several phases, and they are [iterative](https://en.wikipedia.org/wiki/Iteration "Iteration"), in that feedback from later phases may result in additional work in earlier phases.[[8]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Schutt_&_O'Neil-8)
+
+### Data requirements
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=2 "Edit section: Data requirements")]
+
+The data is necessary as inputs to the analysis, which is specified based upon the requirements of those directing the analytics (or customers, who will use the finished product of the analysis).[[9]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-9) The general type of entity upon which the data will be collected is referred to as an [experimental unit](https://en.wikipedia.org/wiki/Statistical_unit "Statistical unit") (e.g., a person or population of people). Specific variables regarding a population (e.g., age and income) may be specified and obtained. Data may be numerical or categorical (i.e., a text label for numbers).[[8]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Schutt_&_O'Neil-8)
+
+### Data collection
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=3 "Edit section: Data collection")]
+
+Data may be collected from a variety of sources.[[10]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-10) A [list of data sources](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research "List of datasets for machine-learning research") are available for study & research. The requirements may be communicated by analysts to [custodians](https://en.wikipedia.org/wiki/Data_custodian "Data custodian") of the data; such as, [Information Technology personnel](https://en.wikipedia.org/wiki/Information_systems_technician "Information systems technician") within an organization.[[11]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-11)**Data collection** or **data gathering** is the process of gathering and [measuring](https://en.wikipedia.org/wiki/Measuring "Measuring")[information](https://en.wikipedia.org/wiki/Information "Information") on targeted variables in an established system, which then enables one to answer relevant questions and evaluate outcomes. The data may also be collected from sensors in the environment, including traffic cameras, satellites, recording devices, etc. It may also be obtained through interviews, downloads from online sources, or reading documentation.[[8]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Schutt_&_O'Neil-8)
+
+### Data processing
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=4 "Edit section: Data processing")]
+
+[![Image 5](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Relationship_of_data%2C_information_and_intelligence.png/500px-Relationship_of_data%2C_information_and_intelligence.png)](https://en.wikipedia.org/wiki/File:Relationship_of_data,_information_and_intelligence.png)
+
+The phases of the [intelligence cycle](https://en.wikipedia.org/wiki/Intelligence_cycle "Intelligence cycle") used to convert raw information into actionable intelligence or knowledge are conceptually similar to the phases in data analysis.
+
+[Data integration](https://en.wikipedia.org/wiki/Data_integration "Data integration") is a precursor to data analysis: Data, when initially obtained, must be processed or organized for analysis. For instance, this may involve placing data into rows and columns in a table format (_known as_[structured data](https://en.wikipedia.org/wiki/Data_model "Data model")) for further analysis, often through the use of spreadsheet (e.g. Excel) or statistical software.[[8]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Schutt_&_O'Neil-8)
+
+### Data cleaning
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=5 "Edit section: Data cleaning")]
+
+Main article: [Data cleansing](https://en.wikipedia.org/wiki/Data_cleansing "Data cleansing")
+
+Once processed and organized, the data may be incomplete, contain duplicates, or contain errors.[[12]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Bohannon-12) The need for _data cleaning_ will arise from problems in the way that the data is entered and stored.[[12]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Bohannon-12)[[13]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-13) Data cleaning is the process of preventing and correcting these errors. Common tasks include record matching, identifying inaccuracy of data, overall quality of existing data, deduplication, and column segmentation.[[14]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-14)[[15]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-15)
+
+Such data problems can also be identified through a variety of analytical techniques. For example; with financial information, the totals for particular variables may be compared against separately published numbers that are believed to be reliable.[[16]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Koomey1-16) Unusual amounts, above or below predetermined thresholds, may also be reviewed. There are several types of data cleaning that are dependent upon the type of data in the set; this could be phone numbers, email addresses, employers, or other values.[[17]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-17) Quantitative data methods for outlier detection can be used to get rid of data that appears to have a higher likelihood of being input incorrectly. Text data spell checkers can be used to lessen the amount of mistyped words. However, it is harder to tell if the words are contextually (i.e., semantically and idiomatically) correct.
+
+### Exploratory data analysis
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=6 "Edit section: Exploratory data analysis")]
+
+Once the datasets are cleaned, they can then begin to be analyzed using [exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis "Exploratory data analysis"). The process of data exploration may result in additional data cleaning or additional requests for data; thus, the initialization of the _iterative phases_ mentioned above.[[18]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-18)[Descriptive statistics](https://en.wikipedia.org/wiki/Descriptive_statistics "Descriptive statistics"), such as the average, median, and standard deviation, are often used to broadly characterize the data.[[19]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-19)[[20]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-20)[Data visualization](https://en.wikipedia.org/wiki/Data_visualization "Data visualization") is also used, in which the analyst is able to examine the data in a graphical format in order to obtain additional insights about messages within the data.[[8]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Schutt_&_O'Neil-8)
+
+### Modeling and algorithms
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=7 "Edit section: Modeling and algorithms")]
+
+Further information: [Data modeling](https://en.wikipedia.org/wiki/Data_modeling "Data modeling")
+
+[Mathematical formulas](https://en.wikipedia.org/wiki/Mathematical_formula "Mathematical formula") or [mathematical models](https://en.wikipedia.org/wiki/Mathematical_model "Mathematical model") (supported by [algorithms](https://en.wikipedia.org/wiki/Algorithms "Algorithms")) may be applied to the data in order to identify relationships among the variables; for example, checking for [correlation](https://en.wikipedia.org/wiki/Correlation_and_dependence "Correlation and dependence") and by determining whether or not there is the presence of [causality](https://en.wikipedia.org/wiki/Causality "Causality"). In general terms, models may be developed to evaluate a specific variable based on other variable(s) contained within the dataset, with some _[residual error](https://en.wikipedia.org/wiki/Residual\_bit\_error\_rate "Residual bit error rate")_ depending on the implemented model's accuracy (_e.g._, Data = Model + Error).[[21]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-21)
+
+[Inferential statistics](https://en.wikipedia.org/wiki/Inferential_statistics "Inferential statistics") utilizes techniques that measure the relationships between particular variables.[[22]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-22) For example, [regression analysis](https://en.wikipedia.org/wiki/Regression_analysis "Regression analysis") may be used to model whether a change in advertising (_independent variable X_), provides an explanation for the variation in sales (_dependent variable Y_), i.e. is Y a function of X? This can be described as (_Y_ = _aX_ + _b_ + error), where the model is designed such that (_a_) and (_b_) minimize the error when the model predicts _Y_ for a given range of values of _X_.[[23]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-23)
+
+### Data product
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=8 "Edit section: Data product")]
+
+A **data product** is a computer application that takes _data inputs_ and generates _outputs_, feeding them back into the environment.[[24]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-24) It may be based on a model or algorithm. For instance, an application that analyzes data about customer purchase history, and uses the results to recommend other purchases the customer might enjoy.[[25]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-25)[[8]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Schutt_&_O'Neil-8)
+
+### Communication
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=9 "Edit section: Communication")]
+
+[![Image 6](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Social_Network_Analysis_Visualization.png/250px-Social_Network_Analysis_Visualization.png)](https://en.wikipedia.org/wiki/File:Social_Network_Analysis_Visualization.png)
+
+[Data visualization](https://en.wikipedia.org/wiki/Data_visualization "Data visualization") is used to help understand the results after data is analyzed.[[26]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-26)
+
+Main article: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization "Data and information visualization")
+
+Once data is analyzed, it may be reported in many formats to the users of the analysis to support their requirements.[[27]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-27) The users may have feedback, which results in additional analysis.
+
+When determining how to communicate the results, the analyst may consider implementing a variety of data visualization techniques to help communicate the message more clearly and efficiently to the audience. Data visualization uses [information displays](https://en.wikipedia.org/wiki/Information_displays "Information displays") (graphics such as, tables and charts) to help communicate key messages contained in the data. [Tables](https://en.wikipedia.org/wiki/Table_(information) "Table (information)") are a valuable tool by enabling the ability of a user to query and focus on specific numbers; while charts (e.g., bar charts or line charts), may help explain the quantitative messages contained in the data.[[28]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-28)
+
+## Quantitative messages
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=10 "Edit section: Quantitative messages")]
+
+Main article: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization "Data and information visualization")
+
+[![Image 7](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Total_Revenues_and_Outlays_as_Percent_GDP_2013.png/250px-Total_Revenues_and_Outlays_as_Percent_GDP_2013.png)](https://en.wikipedia.org/wiki/File:Total_Revenues_and_Outlays_as_Percent_GDP_2013.png)
+
+A time series illustrated with a line chart demonstrating trends in U.S. federal spending and revenue over time
+
+[![Image 8](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/U.S._Phillips_Curve_2000_to_2013.png/250px-U.S._Phillips_Curve_2000_to_2013.png)](https://en.wikipedia.org/wiki/File:U.S._Phillips_Curve_2000_to_2013.png)
+
+A scatterplot illustrating the correlation between two variables (inflation and unemployment) measured at points in time
+
+[Stephen Few](https://en.wikipedia.org/w/index.php?title=Stephen_Few&action=edit&redlink=1 "Stephen Few (page does not exist)") described eight types of quantitative messages that users may attempt to communicate from a set of data, including the associated graphs.[[29]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Few_GraphType-29)[[30]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-30)
+
+1.   Time-series: A single variable is captured over a period of time, such as the unemployment rate over a 10-year period. A [line chart](https://en.wikipedia.org/wiki/Line_chart "Line chart") may be used to demonstrate the trend.
+2.   Ranking: Categorical subdivisions are ranked in ascending or descending order, such as a ranking of sales performance (the _measure_) by salespersons (the _category_, with each salesperson a _categorical subdivision_) during a single period. A [bar chart](https://en.wikipedia.org/wiki/Bar_chart "Bar chart") may be used to show the comparison across the salespersons.[[31]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-31)
+3.   Part-to-whole: Categorical subdivisions are measured as a ratio to the whole (i.e., a percentage out of 100%). A [pie chart](https://en.wikipedia.org/wiki/Pie_chart "Pie chart") or bar chart can show the comparison of ratios, such as the market share represented by competitors in a market.[[32]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-32)
+4.   Deviation: Categorical subdivisions are compared against a reference, such as a comparison of actual vs. budget expenses for several departments of a business for a given time period. A bar chart can show the comparison of the actual versus the reference amount.[[33]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-33)
+5.   Frequency distribution: Shows the number of observations of a particular variable for a given interval, such as the number of years in which the stock market return is between intervals such as 0–10%, 11–20%, etc. A [histogram](https://en.wikipedia.org/wiki/Histogram "Histogram"), a type of bar chart, may be used for this analysis.
+6.   Correlation: Comparison between observations represented by two variables (X,Y) to determine if they tend to move in the same or opposite directions. For example, plotting unemployment (X) and inflation (Y) for a sample of months. A [scatter plot](https://en.wikipedia.org/wiki/Scatter_plot "Scatter plot") is typically used for this message.[[34]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-34)
+7.   Nominal comparison: Comparing categorical subdivisions in no particular order, such as the sales volume by product code. A bar chart may be used for this comparison.[[35]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-35)
+8.   Geographic or geo-spatial: Comparison of a variable across a map or layout, such as the unemployment rate by state or the number of persons on the various floors of a building. A [cartogram](https://en.wikipedia.org/wiki/Cartogram "Cartogram") is typically used.[[29]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Few_GraphType-29)
+
+## Analyzing quantitative data in finance
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=11 "Edit section: Analyzing quantitative data in finance")]
+
+See also: [Problem solving](https://en.wikipedia.org/wiki/Problem_solving "Problem solving")
+
+Author [Jonathan Koomey](https://en.wikipedia.org/wiki/Jonathan_Koomey "Jonathan Koomey") has recommended a series of best practices for understanding quantitative data. These include:[[16]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Koomey1-16)
+
+*   Check raw data for anomalies prior to performing an analysis;
+*   Re-perform important calculations, such as verifying columns of data that are formula-driven;
+*   Confirm main totals are the sum of subtotals;
+*   Check relationships between numbers that should be related in a predictable way, such as ratios over time;
+*   Normalize numbers to make comparisons easier, such as analyzing amounts per person or relative to GDP or as an index value relative to a base year;
+*   Break problems into component parts by analyzing factors that led to the results, such as [DuPont analysis](https://en.wikipedia.org/wiki/DuPont_analysis "DuPont analysis") of return on equity.
+
+For the variables under examination, analysts typically obtain [descriptive statistics](https://en.wikipedia.org/wiki/Descriptive_statistics "Descriptive statistics"), such as the mean (average), [median](https://en.wikipedia.org/wiki/Median "Median"), and [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation "Standard deviation"). They may also analyze the [distribution](https://en.wikipedia.org/wiki/Probability_distribution "Probability distribution") of the key variables to see how the individual values cluster around the mean.[[16]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Koomey1-16)
+
+[![Image 9](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/US_Employment_Statistics_-_March_2015.png/250px-US_Employment_Statistics_-_March_2015.png)](https://en.wikipedia.org/wiki/File:US_Employment_Statistics_-_March_2015.png)
+
+An illustration of the [MECE principle](https://en.wikipedia.org/wiki/MECE_principle "MECE principle") used for data analysis
+
+[McKinsey and Company](https://en.wikipedia.org/wiki/McKinsey_and_Company "McKinsey and Company") named a technique for breaking down a quantitative problem into its component parts called the [MECE principle](https://en.wikipedia.org/wiki/MECE_principle "MECE principle"). MECE means "Mutually Exclusive and Collectively Exhaustive".[[36]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-36) Each layer can be broken down into its components; each of the sub-components must be [mutually exclusive](https://en.wikipedia.org/wiki/Mutually_exclusive_events "Mutually exclusive events") of each other and [collectively](https://en.wikipedia.org/wiki/Collectively_exhaustive_events "Collectively exhaustive events") add up to the layer above them. For example, profit by definition can be broken down into total revenue and total cost.[[37]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-37)
+
+Analysts may use robust statistical measurements to solve certain analytical problems. [Hypothesis testing](https://en.wikipedia.org/wiki/Hypothesis_testing "Hypothesis testing") is used when a particular hypothesis about the true state of affairs is made by the analyst and data is gathered to determine whether that hypothesis is true or false.[[38]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-38) For example, the hypothesis might be that "Unemployment has no effect on inflation", which relates to an economics concept called the [Phillips Curve](https://en.wikipedia.org/wiki/Phillips_Curve "Phillips Curve").[[39]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-39) Hypothesis testing involves considering the likelihood of [Type I and type II errors](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors "Type I and type II errors"), which relate to whether the data supports accepting or rejecting the hypothesis.[[40]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-40)
+
+[Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis "Regression analysis") may be used when the analyst is trying to determine the extent to which independent variable X affects dependent variable Y (e.g., "To what extent do changes in the unemployment rate (X) affect the inflation rate (Y)?").[[41]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Yanamandra_57%E2%80%9368-41)
+
+[Necessary condition analysis](https://en.wikipedia.org/wiki/Necessary_condition_analysis "Necessary condition analysis") (NCA) may be used when the analyst is trying to determine the extent to which independent variable X allows variable Y (e.g., "To what extent is a certain unemployment rate (X) necessary for a certain inflation rate (Y)?").[[41]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Yanamandra_57%E2%80%9368-41) Whereas (multiple) regression analysis uses additive logic where each X-variable can produce the outcome and the X's can compensate for each other (they are sufficient but not necessary),[[42]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-42) necessary condition analysis (NCA) uses necessity logic, where one or more X-variables allow the outcome to exist, but may not produce it (they are necessary but not sufficient). Each single necessary condition must be present and compensation is not possible.[[43]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-43)
+
+## Analytical activities of data users
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=12 "Edit section: Analytical activities of data users")]
+
+[![Image 10](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/User-activities.png/500px-User-activities.png)](https://en.wikipedia.org/wiki/File:User-activities.png)
+
+Analytic activities of data visualization users
+
+Users may have particular data points of interest within a data set, as opposed to the general messaging outlined above. Such low-level user analytic activities are presented in the following table. The taxonomy can also be organized by three poles of activities: retrieving values, finding data points, and arranging data points.[[44]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-44)[[45]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-45)[[46]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-46)
+
+| # | Task | General description | Pro forma abstract | Examples |
+| :---: | --- | --- | --- | --- |
+| 1 | **Retrieve Value** | Given a set of specific cases, find attributes of those cases. | What are the values of attributes {X, Y, Z, ...} in the data cases {A, B, C, ...}? | _- What is the mileage per gallon of the Ford Mondeo?_ _- How long is the movie Gone with the Wind?_ |
+| 2 | **Filter** | Given some concrete conditions on attribute values, find data cases satisfying those conditions. | Which data cases satisfy conditions {A, B, C...}? | _- What Kellogg's cereals have high fiber?_ _- What comedies have won awards?_ _- Which funds underperformed the SP-500?_ |
+| 3 | **Compute Derived Value** | Given a set of data cases, compute an aggregate numeric representation of those data cases. | What is the value of aggregation function F over a given set S of data cases? | _- What is the average calorie content of Post cereals?_ _- What is the gross income of all stores combined?_ _- How many manufacturers of cars are there?_ |
+| 4 | **Find Extremum** | Find data cases possessing an extreme value of an attribute over its range within the data set. | What are the top/bottom N data cases with respect to attribute A? | _- What is the car with the highest MPG?_ _- What director/film has won the most awards?_ _- What Marvel Studios film has the most recent release date?_ |
+| 5 | **Sort** | Given a set of data cases, rank them according to some ordinal metric. | What is the sorted order of a set S of data cases according to their value of attribute A? | _- Order the cars by weight._ _- Rank the cereals by calories._ |
+| 6 | **Determine Range** | Given a set of data cases and an attribute of interest, find the span of values within the set. | What is the range of values of attribute A in a set S of data cases? | _- What is the range of film lengths?_ _- What is the range of car horsepowers?_ _- What actresses are in the data set?_ |
+| 7 | **Characterize Distribution** | Given a set of data cases and a quantitative attribute of interest, characterize the distribution of that attribute's values over the set. | What is the distribution of values of attribute A in a set S of data cases? | _- What is the distribution of carbohydrates in cereals?_ _- What is the age distribution of shoppers?_ |
+| 8 | **Find Anomalies** | Identify any anomalies within a given set of data cases with respect to a given relationship or expectation, e.g. statistical outliers. | Which data cases in a set S of data cases have unexpected/exceptional values? | _- Are there exceptions to the relationship between horsepower and acceleration?_ _- Are there any outliers in protein?_ |
+| 9 | **Cluster** | Given a set of data cases, find clusters of similar attribute values. | Which data cases in a set S of data cases are similar in value for attributes {X, Y, Z, ...}? | _- Are there groups of cereals w/ similar fat/calories/sugar?_ _- Is there a cluster of typical film lengths?_ |
+| 10 | **Correlate** | Given a set of data cases and two attributes, determine useful relationships between the values of those attributes. | What is the correlation between attributes X and Y over a given set S of data cases? | _- Is there a correlation between carbohydrates and fat?_ _- Is there a correlation between country of origin and MPG?_ _- Do different genders have a preferred payment method?_ _- Is there a trend of increasing film length over the years?_ |
+| 11 | **[Contextualization](https://en.wikipedia.org/wiki/Contextualization_(computer_science) "Contextualization (computer science)")** | Given a set of data cases, find contextual relevancy of the data to the users. | Which data cases in a set S of data cases are relevant to the current users' context? | _- Are there groups of restaurants that have foods based on my current caloric intake?_ |
+
+## Barriers to effective analysis
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=13 "Edit section: Barriers to effective analysis")]
+
+Barriers to effective analysis may exist among the analysts performing the data analysis or among the audience. Distinguishing fact from opinion, cognitive biases, and innumeracy are all challenges to sound data analysis.[[47]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-47)
+
+### Confusing fact and opinion
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=14 "Edit section: Confusing fact and opinion")]
+
+> You are entitled to your own opinion, but you are not entitled to your own facts.
+
+— [Daniel Patrick Moynihan](https://en.wikipedia.org/wiki/Daniel_Patrick_Moynihan "Daniel Patrick Moynihan")
+
+Effective analysis requires obtaining relevant [facts](https://en.wikipedia.org/wiki/Fact "Fact") to answer questions, support a conclusion or formal [opinion](https://en.wikipedia.org/wiki/Opinion "Opinion"), or test [hypotheses](https://en.wikipedia.org/wiki/Hypotheses "Hypotheses").[[48]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-48) Facts by definition are irrefutable, meaning that any person involved in the analysis should be able to agree upon them. The auditor of a public company must arrive at a formal opinion on whether financial statements of publicly traded corporations are "fairly stated, in all material respects".[[49]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-49) This requires extensive analysis of factual data and evidence to support their opinion.
+
+### Cognitive biases
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=15 "Edit section: Cognitive biases")]
+
+There are a variety of [cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias "Cognitive bias") that can adversely affect analysis. For example, [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias "Confirmation bias") is the tendency to search for or interpret information in a way that confirms one's preconceptions.[[50]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-50) In addition, individuals may discredit information that does not support their views.[[51]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-51)
+
+Analysts may be trained specifically to be aware of these biases and how to overcome them.[[52]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-52) In his book _Psychology of Intelligence Analysis_, retired CIA analyst [Richards Heuer](https://en.wikipedia.org/wiki/Richards_Heuer "Richards Heuer") wrote that analysts should clearly delineate their assumptions and chains of inference and specify the degree and source of the uncertainty involved in the conclusions.[[53]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-53) He emphasized procedures to help surface and debate alternative points of view.[[54]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Heuer1-54)
+
+### Innumeracy
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=16 "Edit section: Innumeracy")]
+
+Effective analysts are generally adept with a variety of numerical techniques. However, audiences may not have such literacy with numbers or [numeracy](https://en.wikipedia.org/wiki/Numeracy "Numeracy"); they are said to be innumerate.[[55]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-55) Persons communicating the data may also be attempting to mislead or misinform, deliberately using bad numerical techniques.[[56]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-56)
+
+For example, whether a number is rising or falling may not be the key factor. More important may be the number relative to another number, such as the size of government revenue or spending relative to the size of the economy (GDP) or the amount of cost relative to revenue in corporate financial statements.[[57]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-57) This numerical technique is referred to as normalization[[16]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Koomey1-16) or common-sizing. There are many such techniques employed by analysts, whether adjusting for inflation (i.e., comparing real vs. nominal data) or considering population increases, demographics, etc.[[58]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-58)
+
+Analysts may also analyze data under different assumptions or scenarios. For example, when analysts perform [financial statement analysis](https://en.wikipedia.org/wiki/Financial_statement_analysis "Financial statement analysis"), they will often recast the financial statements under different assumptions to help arrive at an estimate of future cash flow, which they then discount to present value based on some interest rate, to determine the valuation of the company or its stock.[[59]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-59) Similarly, the CBO analyzes the effects of various policy options on the government's revenue, outlays and deficits, creating alternative future scenarios for key measures.[[60]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-60)
+
+## Other applications
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=17 "Edit section: Other applications")]
+
+### Analytics and business intelligence
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=18 "Edit section: Analytics and business intelligence")]
+
+Main article: [Analytics](https://en.wikipedia.org/wiki/Analytics "Analytics")
+
+Analytics is the "extensive use of data, statistical and quantitative analysis, explanatory and predictive models, and fact-based management to drive decisions and actions." It is a subset of [business intelligence](https://en.wikipedia.org/wiki/Business_intelligence "Business intelligence"), which is a set of technologies and processes that uses data to understand and analyze business performance to drive decision-making.[[61]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Competing_on_Analytics_2007-61)
+
+### Education
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=19 "Edit section: Education")]
+
+In [education](https://en.wikipedia.org/wiki/Education "Education"), most educators have access to a [data system](https://en.wikipedia.org/wiki/Data_system "Data system") for the purpose of analyzing student data.[[62]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-62) These data systems present data to educators in an [over-the-counter data](https://en.wikipedia.org/wiki/Over-the-counter_data "Over-the-counter data") format (embedding labels, supplemental documentation, and a help system and making key package/display and content decisions) to improve the accuracy of educators' data analyses.[[63]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-63)
+
+## Practitioner notes
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=20 "Edit section: Practitioner notes")]
+
+This section contains rather technical explanations that may assist practitioners but are beyond the typical scope of a Wikipedia article.[[64]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-64)
+
+### Initial data analysis
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=21 "Edit section: Initial data analysis")]
+
+The most important distinction between the initial data analysis phase and the main analysis phase is that during initial data analysis one refrains from any analysis that is aimed at answering the original research question. The initial data analysis phase is guided by the following four questions:[[65]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-FOOTNOTEAd%C3%A8r2008a337-65)
+
+#### Quality of data
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=22 "Edit section: Quality of data")]
+
+The quality of the data should be checked as early as possible. Data quality can be assessed in several ways, using different types of analysis: frequency counts, descriptive statistics (mean, standard deviation, median), normality (skewness, kurtosis, frequency histograms), normal [imputation](https://en.wikipedia.org/wiki/Imputation_(statistics) "Imputation (statistics)") is needed.[[66]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-66)
+
+*   Analysis of [extreme observations](https://en.wikipedia.org/wiki/Outlier "Outlier"): outlying observations in the data are analyzed to see if they seem to disturb the distribution.[[67]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-67)
+*   Comparison and correction of differences in coding schemes: variables are compared with coding schemes of variables external to the data set, and possibly corrected if coding schemes are not comparable.[[68]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-68)
+*   Test for [common-method variance](https://en.wikipedia.org/wiki/Common-method_variance "Common-method variance"). The choice of analyses to assess the data quality during the initial data analysis phase depends on the analyses that will be conducted in the main analysis phase.[[69]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-FOOTNOTEAd%C3%A8r2008a338%E2%80%93341-69)
+
+#### Quality of measurements
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=23 "Edit section: Quality of measurements")]
+
+The quality of the [measurement instruments](https://en.wikipedia.org/wiki/Measuring_instrument "Measuring instrument") should only be checked during the initial data analysis phase when this is not the focus or research question of the study.[[70]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-70) One should check whether structure of measurement instruments corresponds to structure reported in the literature.
+
+There are two ways to assess measurement quality:
+
+*   Confirmatory factor analysis
+*   Analysis of homogeneity ([internal consistency](https://en.wikipedia.org/wiki/Internal_consistency "Internal consistency")), which gives an indication of the [reliability](https://en.wikipedia.org/wiki/Reliability_(statistics) "Reliability (statistics)") of a measurement instrument.[[71]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-71) During this analysis, one inspects the variances of the items and the scales, the [Cronbach's α](https://en.wikipedia.org/wiki/Cronbach%27s_alpha "Cronbach's alpha") of the scales, and the change in the Cronbach's alpha when an item would be deleted from a scale[[72]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-FOOTNOTEAd%C3%A8r2008a341%E2%80%93342-72)
+
+#### Initial transformations
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=24 "Edit section: Initial transformations")]
+
+After assessing the quality of the data and of the measurements, one might decide to impute missing data, or to perform initial transformations of one or more variables, although this can also be done during the main analysis phase.[[73]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-FOOTNOTEAd%C3%A8r2008a344-73)
+
+ Possible transformations of variables are:[[74]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-74)
+
+*   Square root transformation (if the distribution differs moderately from normal)
+*   Log-transformation (if the distribution differs substantially from normal)
+*   Inverse transformation (if the distribution differs severely from normal)
+*   Make categorical (ordinal / dichotomous) (if the distribution differs severely from normal, and no transformations help)
+
+#### Did the implementation of the study fulfill the intentions of the research design?
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=25 "Edit section: Did the implementation of the study fulfill the intentions of the research design?")]
+
+One should check the success of the [randomization](https://en.wikipedia.org/wiki/Randomization "Randomization") procedure, for instance by checking whether background and substantive variables are equally distributed within and across groups. If the study did not need or use a randomization procedure, one should check the success of the non-random sampling, for instance by checking whether all subgroups of the population of interest are represented in the sample.[[75]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-75)
+
+Other possible data distortions that should be checked are:
+
+*   [dropout](https://en.wikipedia.org/wiki/Dropout_(electronics) "Dropout (electronics)") (this should be identified during the initial data analysis phase)
+*   Item [non-response](https://en.wikipedia.org/wiki/Response_rate_(survey) "Response rate (survey)") (whether this is random or not should be assessed during the initial data analysis phase)
+*   Treatment quality (using [manipulation checks](https://en.wikipedia.org/wiki/Manipulation_check "Manipulation check")).[[76]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-FOOTNOTEAd%C3%A8r2008a344%E2%80%93345-76)
+
+#### Characteristics of data sample
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=26 "Edit section: Characteristics of data sample")]
+
+In any report or article, the structure of the sample must be accurately described. It is especially important to exactly determine the size of the subgroup when subgroup analyses will be performed during the main analysis phase.[[77]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-77)
+
+The characteristics of the data sample can be assessed by looking at:
+
+*   Basic statistics of important variables
+*   Scatter plots
+*   Correlations and associations
+*   Cross-tabulations[[78]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-FOOTNOTEAd%C3%A8r2008a345-78)
+
+#### Final stage of the initial data analysis
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=27 "Edit section: Final stage of the initial data analysis")]
+
+During the final stage, the findings of the initial data analysis are documented, and necessary, preferable, and possible corrective actions are taken. Also, the original plan for the main data analyses can and should be specified in more detail or rewritten. In order to do this, several decisions about the main data analyses can and should be made:
+
+*   In the case of non-[normals](https://en.wikipedia.org/wiki/Normal_distribution "Normal distribution"): should one [transform](https://en.wikipedia.org/wiki/Data_transformation_(statistics) "Data transformation (statistics)") variables; make variables categorical (ordinal/dichotomous); adapt the analysis method?
+*   In the case of [missing data](https://en.wikipedia.org/wiki/Missing_data "Missing data"): should one neglect or impute the missing data; which imputation technique should be used?
+*   In the case of [outliers](https://en.wikipedia.org/wiki/Outlier "Outlier"): should one use robust analysis techniques?
+*   In case items do not fit the scale: should one adapt the measurement instrument by omitting items, or rather ensure comparability with other (uses of the) measurement instrument(s)?
+*   In the case of (too) small subgroups: should one drop the hypothesis about inter-group differences, or use small sample techniques, like exact tests or [bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping_(statistics) "Bootstrapping (statistics)")?
+*   In case the [randomization](https://en.wikipedia.org/wiki/Randomization "Randomization") procedure seems to be defective: can and should one calculate [propensity scores](https://en.wikipedia.org/wiki/Propensity_score_matching "Propensity score matching") and include them as covariates in the main analyses?[[79]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-FOOTNOTEAd%C3%A8r2008a345%E2%80%93346-79)
+
+#### Analysis
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=28 "Edit section: Analysis")]
+
+Several analyses can be used during the initial data analysis phase:[[80]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-FOOTNOTEAd%C3%A8r2008a346%E2%80%93347-80)
+
+*   Univariate statistics (single variable)
+*   Bivariate associations (correlations)
+*   Graphical techniques (scatter plots)
+
+It is important to take the measurement levels of the variables into account for the analyses, as special statistical techniques are available for each level:[[81]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-FOOTNOTEAd%C3%A8r2008a349%E2%80%93353-81)
+
+*   Nominal and ordinal variables 
+    *   Frequency counts (numbers and percentages)
+    *   Associations 
+        *   circumambulations (crosstabulations)
+        *   hierarchical loglinear analysis (restricted to a maximum of 8 variables)
+        *   loglinear analysis (to identify relevant/important variables and possible confounders)
+
+    *   Exact tests or bootstrapping (in case subgroups are small)
+    *   Computation of new variables
+
+*   Continuous variables 
+    *   Distribution 
+        *   Statistics (M, SD, variance, skewness, kurtosis)
+        *   Stem-and-leaf displays
+        *   Box plots
+
+#### Nonlinear analysis
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=29 "Edit section: Nonlinear analysis")]
+
+Nonlinear analysis is often necessary when the data is recorded from a [nonlinear system](https://en.wikipedia.org/wiki/Nonlinear_system "Nonlinear system"). Nonlinear systems can exhibit complex dynamic effects including [bifurcations](https://en.wikipedia.org/wiki/Bifurcation_theory "Bifurcation theory"), [chaos](https://en.wikipedia.org/wiki/Chaos_theory "Chaos theory"), [harmonics](https://en.wikipedia.org/wiki/Harmonics "Harmonics") and [subharmonics](https://en.wikipedia.org/wiki/Subharmonics "Subharmonics") that cannot be analyzed using simple linear methods. Nonlinear data analysis is closely related to [nonlinear system identification](https://en.wikipedia.org/wiki/Nonlinear_system_identification "Nonlinear system identification").[[82]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-SAB1-82)
+
+### Main data analysis
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=30 "Edit section: Main data analysis")]
+
+In the main analysis phase, analyses aimed at answering the research question are performed as well as any other relevant analysis needed to write the first draft of the research report.[[83]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-FOOTNOTEAd%C3%A8r2008b363-83)
+
+#### Exploratory and confirmatory approaches
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=31 "Edit section: Exploratory and confirmatory approaches")]
+
+In the main analysis phase, either an exploratory or confirmatory approach can be adopted. Usually the approach is decided before data is collected.[[84]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-84) In an exploratory analysis no clear hypothesis is stated before analysing the data, and the data is searched for models that describe the data well.[[85]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-85) In a confirmatory analysis, clear hypotheses about the data are tested.[[86]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-86)
+
+[Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis "Exploratory data analysis") should be interpreted carefully. When testing multiple models at once there is a high chance on finding at least one of them to be significant, but this can be due to a [type 1 error](https://en.wikipedia.org/wiki/Type_1_error "Type 1 error"). It is important to always adjust the significance level when testing multiple models with, for example, a [Bonferroni correction](https://en.wikipedia.org/wiki/Bonferroni_correction "Bonferroni correction").[[87]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-87) Also, one should not follow up an exploratory analysis with a confirmatory analysis in the same dataset.[[88]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Mcardle_2008-88) An exploratory analysis is used to find ideas for a theory, but not to test that theory as well.[[88]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Mcardle_2008-88) When a model is found exploratory in a dataset, then following up that analysis with a confirmatory analysis in the same dataset could simply mean that the results of the confirmatory analysis are due to the same [type 1 error](https://en.wikipedia.org/wiki/Type_1_error "Type 1 error") that resulted in the exploratory model in the first place.[[88]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Mcardle_2008-88) The confirmatory analysis therefore will not be more informative than the original exploratory analysis.[[89]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-FOOTNOTEAd%C3%A8r2008b361%E2%80%93362-89)
+
+#### Stability of results
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=32 "Edit section: Stability of results")]
+
+It is important to obtain some indication about how generalizable the results are.[[90]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-FOOTNOTEAd%C3%A8r2008b361%E2%80%93371-90) While this is often difficult to check, one can look at the stability of the results. Are the results reliable and reproducible? There are two main ways of doing that.
+
+*   _[Cross-validation](https://en.wikipedia.org/wiki/Cross-validation\_(statistics) "Cross-validation (statistics)")_. By splitting the data into multiple parts, we can check if an analysis (like a fitted model) based on one part of the data generalizes to another part of the data as well.[[91]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-91) Cross-validation is generally inappropriate, though, if there are correlations within the data, e.g. with [panel data](https://en.wikipedia.org/wiki/Panel_data "Panel data").[[92]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-92) Hence other methods of validation sometimes need to be used. For more on this topic, see [statistical model validation](https://en.wikipedia.org/wiki/Statistical_model_validation "Statistical model validation").[[93]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-93)
+*   _[Sensitivity analysis](https://en.wikipedia.org/wiki/Sensitivity\_analysis "Sensitivity analysis")_. A procedure to study the behavior of a system or model when global parameters are (systematically) varied. One way to do that is via [bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping_(statistics) "Bootstrapping (statistics)").[[94]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-94)
+
+## Free software for data analysis
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=33 "Edit section: Free software for data analysis")]
+
+Free software for data analysis include:
+
+*   [DevInfo](https://en.wikipedia.org/wiki/DevInfo "DevInfo") – A database system endorsed by the [United Nations Development Group](https://en.wikipedia.org/wiki/United_Nations_Development_Group "United Nations Development Group") for monitoring and analyzing human development.[[95]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-95)
+*   [ELKI](https://en.wikipedia.org/wiki/ELKI "ELKI") – Data mining framework in Java with data mining oriented visualization functions.
+*   [KNIME](https://en.wikipedia.org/wiki/KNIME "KNIME") – The Konstanz Information Miner, a user friendly and comprehensive data analytics framework.
+*   [Orange](https://en.wikipedia.org/wiki/Orange_(software) "Orange (software)") – A visual programming tool featuring [interactive data visualization](https://en.wikipedia.org/wiki/Interactive_data_visualization "Interactive data visualization") and methods for statistical data analysis, [data mining](https://en.wikipedia.org/wiki/Data_mining "Data mining"), and [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning").
+*   [Pandas](https://en.wikipedia.org/wiki/Pandas_(software) "Pandas (software)") – Python library for data analysis.
+*   [PAW](https://en.wikipedia.org/wiki/Physics_Analysis_Workstation "Physics Analysis Workstation") – FORTRAN/C data analysis framework developed at [CERN](https://en.wikipedia.org/wiki/CERN "CERN").
+*   [R](https://en.wikipedia.org/wiki/R_(programming_language) "R (programming language)") – A programming language and software environment for statistical computing and graphics.[[96]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-96)
+*   [ROOT](https://en.wikipedia.org/wiki/ROOT "ROOT") – C++ data analysis framework developed at [CERN](https://en.wikipedia.org/wiki/CERN "CERN").
+*   [SciPy](https://en.wikipedia.org/wiki/SciPy "SciPy") – Python library for scientific computing.
+*   [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language) "Julia (programming language)") – A programming language well-suited for numerical analysis and computational science.
+
+## Reproducible analysis
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=34 "Edit section: Reproducible analysis")]
+
+The typical data analysis workflow involves collecting data, running analyses, creating visualizations, and writing reports. However, this workflow presents challenges, including a separation between analysis scripts and data, as well as a gap between analysis and documentation. Often, the correct order of running scripts is only described informally or resides in the data scientist's memory. The potential for losing this information creates issues for reproducibility.
+
+To address these challenges, it is essential to document analysis script content and workflow. Additionally, overall documentation is crucial, as well as providing reports that are understandable by both machines and humans, and ensuring accurate representation of the analysis workflow even as scripts evolve.[[97]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-97)
+
+## Data analysis contests
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=35 "Edit section: Data analysis contests")]
+
+Different companies and organizations hold data analysis contests to encourage researchers to utilize their data or to solve a particular question using data analysis. A few examples of well-known international data analysis contests are:
+
+*   [Kaggle](https://en.wikipedia.org/wiki/Kaggle "Kaggle") competitions; the [Kaggle](https://en.wikipedia.org/wiki/Kaggle "Kaggle") platform is owned and run by [Google](https://en.wikipedia.org/wiki/Google "Google").[[98]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-98)
+*   [LTPP data analysis contest](https://en.wikipedia.org/wiki/LTPP_International_Data_Analysis_Contest "LTPP International Data Analysis Contest")[[99]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-99) held by [FHWA](https://en.wikipedia.org/wiki/FHWA "FHWA") and [ASCE](https://en.wikipedia.org/wiki/ASCE "ASCE").[[100]](https://en.wikipedia.org/wiki/Data_analysis#cite_note-Nehme_2016-09-29-100)
+
+## See also
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=36 "Edit section: See also")]
+
+*   [Actuarial science](https://en.wikipedia.org/wiki/Actuarial_science "Actuarial science")
+*   [Analytics](https://en.wikipedia.org/wiki/Analytics "Analytics")
+*   [Augmented Analytics](https://en.wikipedia.org/wiki/Augmented_Analytics "Augmented Analytics")
+*   [Business intelligence](https://en.wikipedia.org/wiki/Business_intelligence "Business intelligence")
+*   [Data presentation architecture](https://en.wikipedia.org/wiki/Data_presentation_architecture "Data presentation architecture")
+*   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis "Exploratory data analysis")
+*   [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research "List of datasets for machine-learning research")
+*   [List of data science software](https://en.wikipedia.org/wiki/List_of_data_science_software "List of data science software")
+*   [Machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning")
+*   [Multiway data analysis](https://en.wikipedia.org/wiki/Multiway_data_analysis "Multiway data analysis")
+*   [Qualitative research](https://en.wikipedia.org/wiki/Qualitative_research "Qualitative research")
+*   [Structured data analysis (statistics)](https://en.wikipedia.org/wiki/Structured_data_analysis_(statistics) "Structured data analysis (statistics)")
+*   [Text mining](https://en.wikipedia.org/wiki/Text_mining "Text mining")
+*   [Unstructured data](https://en.wikipedia.org/wiki/Unstructured_data "Unstructured data")
+
+## References
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=37 "Edit section: References")]
+
+### Citations
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=38 "Edit section: Citations")]
+
+1.   ^ [_**a**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Auerbach_Publications_1-0)[_**b**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Auerbach_Publications_1-1)["Transforming Unstructured Data into Useful Information"](https://dx.doi.org/10.1201/b16666-14), _Big Data, Mining, and Analytics_, Auerbach Publications, pp.227–246, 2014-03-12, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1201/b16666-14](https://doi.org/10.1201%2Fb16666-14), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-0-429-09529-0](https://en.wikipedia.org/wiki/Special:BookSources/978-0-429-09529-0 "Special:BookSources/978-0-429-09529-0"), retrieved 2021-05-29`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+2.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-2)**["The Multiple Facets of Correlation Functions"](https://dx.doi.org/10.1017/9781108241922.013), _Data Analysis Techniques for Physical Scientists_, Cambridge University Press, pp.526–576, 2017, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1017/9781108241922.013](https://doi.org/10.1017%2F9781108241922.013), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-108-41678-8](https://en.wikipedia.org/wiki/Special:BookSources/978-1-108-41678-8 "Special:BookSources/978-1-108-41678-8"), retrieved 2021-05-29`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+3.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-3)**Xia, B. S., & Gong, P. (2015). Review of business intelligence through data analysis. _Benchmarking_, _21_(2), 300-311. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1108/BIJ-08-2012-0050](https://doi.org/10.1108%2FBIJ-08-2012-0050)
+4.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-4)**["Data Coding and Exploratory Analysis (EDA) Rules for Data Coding Exploratory Data Analysis (EDA) Statistical Assumptions"](https://dx.doi.org/10.4324/9781410611420-6), _SPSS for Intermediate Statistics_, Routledge, pp.42–67, 2004-08-16, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.4324/9781410611420-6](https://doi.org/10.4324%2F9781410611420-6), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-4106-1142-0](https://en.wikipedia.org/wiki/Special:BookSources/978-1-4106-1142-0 "Special:BookSources/978-1-4106-1142-0"), retrieved 2021-05-29`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+5.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-5)**Samandar, Petersson; Svantesson, Sofia (2017). _Skapandet av förtroende inom eWOM: En studie av profilbildens effekt ur ett könsperspektiv_. Högskolan i Gävle, Företagsekonomi. [OCLC](https://en.wikipedia.org/wiki/OCLC_(identifier) "OCLC (identifier)")[1233454128](https://search.worldcat.org/oclc/1233454128).
+6.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-6)**Goodnight, James (2011-01-13). ["The forecast for predictive analytics: hot and getting hotter"](https://dx.doi.org/10.1002/sam.10106). _Statistical Analysis and Data Mining: The ASA Data Science Journal_. **4** (1): 9–10. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1002/sam.10106](https://doi.org/10.1002%2Fsam.10106). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[1932-1864](https://search.worldcat.org/issn/1932-1864). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)")[38571193](https://api.semanticscholar.org/CorpusID:38571193).
+7.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-7)**Tukey, John W. (March 1962). ["John Tukey-The Future of Data Analysis-July 1961"](https://projecteuclid.org/download/pdf_1/euclid.aoms/1177704711). _The Annals of Mathematical Statistics_. **33** (1): 1–67. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1214/aoms/1177704711](https://doi.org/10.1214%2Faoms%2F1177704711). [Archived](https://web.archive.org/web/20200126232007/https://projecteuclid.org/download/pdf_1/euclid.aoms/1177704711) from the original on 2020-01-26. Retrieved 2015-01-01.
+8.   ^ [_**a**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Schutt_&_O'Neil_8-0)[_**b**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Schutt_&_O'Neil_8-1)[_**c**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Schutt_&_O'Neil_8-2)[_**d**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Schutt_&_O'Neil_8-3)[_**e**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Schutt_&_O'Neil_8-4)[_**f**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Schutt_&_O'Neil_8-5)Schutt, Rachel; [O'Neil, Cathy](https://en.wikipedia.org/wiki/Cathy_O%27Neil "Cathy O'Neil") (2013). _Doing Data Science_. [O'Reilly Media](https://en.wikipedia.org/wiki/O%27Reilly_Media "O'Reilly Media"). [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-449-35865-5](https://en.wikipedia.org/wiki/Special:BookSources/978-1-449-35865-5 "Special:BookSources/978-1-449-35865-5").
+9.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-9)**["USE OF THE DATA"](https://dx.doi.org/10.1002/9781118986370.ch18), _Handbook of Petroleum Product Analysis_, Hoboken, NJ: John Wiley & Sons, Inc, pp.296–303, 2015-02-06, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1002/9781118986370.ch18](https://doi.org/10.1002%2F9781118986370.ch18), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-118-98637-0](https://en.wikipedia.org/wiki/Special:BookSources/978-1-118-98637-0 "Special:BookSources/978-1-118-98637-0"), retrieved 2021-05-29`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+10.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-10)**Olusola, Johnson Adedeji; Shote, Adebola Adekunle; Ouigmane, Abdellah; Isaifan, Rima J. (7 May 2021). ["Table 1: Data type and sources of data collected for this research"](https://doi.org/10.7717%2Fpeerj.11387%2Ftable-1). _PeerJ_. **9**: e11387. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.7717/peerj.11387/table-1](https://doi.org/10.7717%2Fpeerj.11387%2Ftable-1).
+11.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-11)**MacPherson, Derek (2019-10-16), ["Information Technology Analysts' Perspectives"](https://dx.doi.org/10.4324/9780429437564-12), _Data Strategy in Colleges and Universities_, Routledge, pp.168–183, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.4324/9780429437564-12](https://doi.org/10.4324%2F9780429437564-12), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-0-429-43756-4](https://en.wikipedia.org/wiki/Special:BookSources/978-0-429-43756-4 "Special:BookSources/978-0-429-43756-4"), [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)")[211738958](https://api.semanticscholar.org/CorpusID:211738958), retrieved 2021-05-29`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+12.   ^ [_**a**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Bohannon_12-0)[_**b**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Bohannon_12-1)Bohannon, John (2016-02-24). ["Many surveys, about one in five, may contain fraudulent data"](https://doi.org/10.1126%2Fscience.aaf4104). _Science_. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1126/science.aaf4104](https://doi.org/10.1126%2Fscience.aaf4104). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[0036-8075](https://search.worldcat.org/issn/0036-8075).
+13.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-13)**Hancock, R.G.V.; Carter, Tristan (February 2010). ["How reliable are our published archaeometric analyses? Effects of analytical techniques through time on the elemental analysis of obsidians"](https://dx.doi.org/10.1016/j.jas.2009.10.004). _Journal of Archaeological Science_. **37** (2): 243–250. [Bibcode](https://en.wikipedia.org/wiki/Bibcode_(identifier) "Bibcode (identifier)"):[2010JArSc..37..243H](https://ui.adsabs.harvard.edu/abs/2010JArSc..37..243H). [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1016/j.jas.2009.10.004](https://doi.org/10.1016%2Fj.jas.2009.10.004). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[0305-4403](https://search.worldcat.org/issn/0305-4403).
+14.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-14)**["Data Cleaning"](http://research.microsoft.com/en-us/projects/datacleaning/). Microsoft Research. [Archived](https://web.archive.org/web/20131029200356/http://research.microsoft.com/en-us/projects/datacleaning/) from the original on 29 October 2013. Retrieved 26 October 2013.
+15.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-15)**Hellerstein, Joseph (27 February 2008). ["Quantitative Data Cleaning for Large Databases"](http://db.cs.berkeley.edu/jmh/papers/cleaning-unece.pdf)(PDF). _EECS Computer Science Division_: 3. [Archived](https://web.archive.org/web/20131013011223/http://db.cs.berkeley.edu/jmh/papers/cleaning-unece.pdf)(PDF) from the original on 13 October 2013. Retrieved 26 October 2013.
+16.   ^ [_**a**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Koomey1_16-0)[_**b**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Koomey1_16-1)[_**c**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Koomey1_16-2)[_**d**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Koomey1_16-3)["Perceptual Edge-Jonathan Koomey-Best practices for understanding quantitative data-February 14, 2006"](http://www.perceptualedge.com/articles/b-eye/quantitative_data.pdf)(PDF). [Archived](https://web.archive.org/web/20141005075112/http://www.perceptualedge.com/articles/b-eye/quantitative_data.pdf)(PDF) from the original on October 5, 2014. Retrieved November 12, 2014.
+17.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-17)**Peleg, Roni; Avdalimov, Angelika; Freud, Tamar (2011-03-23). ["Providing cell phone numbers and email addresses to Patients: the physician's perspective"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3076270). _BMC Research Notes_. **4** (1): 76. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1186/1756-0500-4-76](https://doi.org/10.1186%2F1756-0500-4-76). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[1756-0500](https://search.worldcat.org/issn/1756-0500). [PMC](https://en.wikipedia.org/wiki/PMC_(identifier) "PMC (identifier)")[3076270](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3076270). [PMID](https://en.wikipedia.org/wiki/PMID_(identifier) "PMID (identifier)")[21426591](https://pubmed.ncbi.nlm.nih.gov/21426591).
+18.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-18)**["FTC requests additional data"](https://dx.doi.org/10.1016/s1359-6128(99)90509-8). _Pump Industry Analyst_. **1999** (48): 12. December 1999. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1016/s1359-6128(99)90509-8](https://doi.org/10.1016%2Fs1359-6128%2899%2990509-8). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[1359-6128](https://search.worldcat.org/issn/1359-6128).
+19.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-19)**["Exploring your Data with Data Visualization & Descriptive Statistics: Common Descriptive Statistics for Quantitative Data"](https://dx.doi.org/10.4135/9781529732795). 2017. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.4135/9781529732795](https://doi.org/10.4135%2F9781529732795).`{{cite journal}}`: Cite journal requires `|journal=` ([help](https://en.wikipedia.org/wiki/Help:CS1_errors#missing_periodical "Help:CS1 errors"))
+20.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-20)**Murray, Daniel G. (2013). _Tableau your data!: fast and easy visual analysis with Tableau Software_. J. Wiley & Sons. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-118-61204-0](https://en.wikipedia.org/wiki/Special:BookSources/978-1-118-61204-0 "Special:BookSources/978-1-118-61204-0"). [OCLC](https://en.wikipedia.org/wiki/OCLC_(identifier) "OCLC (identifier)")[873810654](https://search.worldcat.org/oclc/873810654).
+21.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-21)**Evans, Michelle V.; Dallas, Tad A.; Han, Barbara A.; Murdock, Courtney C.; Drake, John M. (28 February 2017). Brady, Oliver (ed.). ["Figure 2. Variable importance by permutation, averaged over 25 models"](https://doi.org/10.7554%2Felife.22053.004). _eLife_. **6**: e22053. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.7554/elife.22053.004](https://doi.org/10.7554%2Felife.22053.004).
+22.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-22)**Watson, Kevin; Halperin, Israel; Aguilera-Castells, Joan; Iacono, Antonio Dello (12 November 2020). ["Table 3: Descriptive (mean ± SD), inferential (95% CI) and qualitative statistics (ES) of all variables between self-selected and predetermined conditions"](https://doi.org/10.7717%2Fpeerj.10361%2Ftable-3). _PeerJ_. **8**: e10361. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.7717/peerj.10361/table-3](https://doi.org/10.7717%2Fpeerj.10361%2Ftable-3).
+23.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-23)**Nwabueze, JC (2008-05-21). ["Performances of estimators of linear model with auto-correlated error terms when the independent variable is normal"](https://dx.doi.org/10.4314/jonamp.v9i1.40071). _Journal of the Nigerian Association of Mathematical Physics_. **9** (1). [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.4314/jonamp.v9i1.40071](https://doi.org/10.4314%2Fjonamp.v9i1.40071). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[1116-4336](https://search.worldcat.org/issn/1116-4336).
+24.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-24)**Conway, Steve (2012-07-04). ["A Cautionary Note on Data Inputs and Visual Outputs in Social Network Analysis"](https://dx.doi.org/10.1111/j.1467-8551.2012.00835.x). _British Journal of Management_. **25** (1): 102–117. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1111/j.1467-8551.2012.00835.x](https://doi.org/10.1111%2Fj.1467-8551.2012.00835.x). [hdl](https://en.wikipedia.org/wiki/Hdl_(identifier) "Hdl (identifier)"):[2381/36068](https://hdl.handle.net/2381%2F36068). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[1045-3172](https://search.worldcat.org/issn/1045-3172). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)")[154347514](https://api.semanticscholar.org/CorpusID:154347514).
+25.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-25)**["Customer Purchases and Other Repeated Events"](https://dx.doi.org/10.1002/9781119183419.ch8), _Data Analysis Using SQL and Excel®_, Indianapolis, Indiana: John Wiley & Sons, Inc., pp.367–420, 2016-01-29, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1002/9781119183419.ch8](https://doi.org/10.1002%2F9781119183419.ch8), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-119-18341-9](https://en.wikipedia.org/wiki/Special:BookSources/978-1-119-18341-9 "Special:BookSources/978-1-119-18341-9"), retrieved 2021-05-31`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+26.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-26)**Grandjean, Martin (2014). ["La connaissance est un réseau"](http://www.martingrandjean.ch/wp-content/uploads/2015/02/Grandjean-2014-Connaissance-reseau.pdf)(PDF). _Les Cahiers du Numérique_. **10** (3): 37–54. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.3166/lcn.10.3.37-54](https://doi.org/10.3166%2Flcn.10.3.37-54). [Archived](https://web.archive.org/web/20150927170721/http://www.martingrandjean.ch/wp-content/uploads/2015/02/Grandjean-2014-Connaissance-reseau.pdf)(PDF) from the original on 2015-09-27. Retrieved 2015-05-05.
+27.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-27)**[_Data requirements for semiconductor die. Exchange data formats and data dictionary_](https://dx.doi.org/10.3403/02271298), BSI British Standards, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.3403/02271298](https://doi.org/10.3403%2F02271298), retrieved 2021-05-31
+28.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-28)**[_Visualizing Data About UK Museums: Bar Charts, Line Charts and Heat Maps_](https://dx.doi.org/10.4135/9781529768749). 2021. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.4135/9781529768749](https://doi.org/10.4135%2F9781529768749). [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[9781529768749](https://en.wikipedia.org/wiki/Special:BookSources/9781529768749 "Special:BookSources/9781529768749"). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)")[240967380](https://api.semanticscholar.org/CorpusID:240967380).
+29.   ^ [_**a**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Few_GraphType_29-0)[_**b**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Few_GraphType_29-1)["Stephen Few-Perceptual Edge-Selecting the Right Graph for Your Message-2004"](http://www.perceptualedge.com/articles/ie/the_right_graph.pdf)(PDF). [Archived](https://web.archive.org/web/20141005080924/http://www.perceptualedge.com/articles/ie/the_right_graph.pdf)(PDF) from the original on 2014-10-05. Retrieved 2014-10-29.
+30.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-30)**["Stephen Few-Perceptual Edge-Graph Selection Matrix"](http://www.perceptualedge.com/articles/misc/Graph_Selection_Matrix.pdf)(PDF). [Archived](https://web.archive.org/web/20141005080945/http://www.perceptualedge.com/articles/misc/Graph_Selection_Matrix.pdf)(PDF) from the original on 2014-10-05. Retrieved 2014-10-29.
+31.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-31)**Swamidass, P. M. (2000). "X-Bar Chart". _Encyclopedia of Production and Manufacturing Management_. p.841. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1007/1-4020-0612-8_1063](https://doi.org/10.1007%2F1-4020-0612-8_1063). [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-0-7923-8630-8](https://en.wikipedia.org/wiki/Special:BookSources/978-0-7923-8630-8 "Special:BookSources/978-0-7923-8630-8").
+32.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-32)**["Chart C5.3. Percentage of 15-19 year-olds not in education, by labour market status (2012)"](https://dx.doi.org/10.1787/888933119055). [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1787/888933119055](https://doi.org/10.1787%2F888933119055). Retrieved 2021-06-03.`{{cite journal}}`: Cite journal requires `|journal=` ([help](https://en.wikipedia.org/wiki/Help:CS1_errors#missing_periodical "Help:CS1 errors"))
+33.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-33)**["Chart 7: Households: final consumption expenditure versus actual individual consumption"](https://dx.doi.org/10.1787/665527077310). [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1787/665527077310](https://doi.org/10.1787%2F665527077310). Retrieved 2021-06-03.`{{cite journal}}`: Cite journal requires `|journal=` ([help](https://en.wikipedia.org/wiki/Help:CS1_errors#missing_periodical "Help:CS1 errors"))
+34.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-34)**Garnier, Elodie M.; Fouret, Nastasia; Descoins, Médéric (3 February 2020). ["Table 2: Graph comparison between Scatter plot, Violin + Scatter plot, Heatmap and ViSiElse graph"](https://doi.org/10.7717%2Fpeerj.8341%2Ftable-2). _PeerJ_. **8**: e8341. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.7717/peerj.8341/table-2](https://doi.org/10.7717%2Fpeerj.8341%2Ftable-2).
+35.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-35)**["Product comparison chart: Wearables"](https://dx.doi.org/10.1037/e539162010-006). _PsycEXTRA Dataset_. 2009. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1037/e539162010-006](https://doi.org/10.1037%2Fe539162010-006). Retrieved 2021-06-03.
+36.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-36)**["Consultants Employed by McKinsey & Company"](https://dx.doi.org/10.4324/9781315701974-15), _Organizational Behavior 5_, Routledge, pp.77–82, 2008-07-30, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.4324/9781315701974-15](https://doi.org/10.4324%2F9781315701974-15), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-315-70197-4](https://en.wikipedia.org/wiki/Special:BookSources/978-1-315-70197-4 "Special:BookSources/978-1-315-70197-4"), retrieved 2021-06-03`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+37.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-37)**Carey, Malachy (November 1981). ["On Mutually Exclusive and Collectively Exhaustive Properties of Demand Functions"](https://dx.doi.org/10.2307/2553697). _Economica_. **48** (192): 407–415. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.2307/2553697](https://doi.org/10.2307%2F2553697). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[0013-0427](https://search.worldcat.org/issn/0013-0427). [JSTOR](https://en.wikipedia.org/wiki/JSTOR_(identifier) "JSTOR (identifier)")[2553697](https://www.jstor.org/stable/2553697).
+38.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-38)**Heckman (1978). ["Simple Statistical Models for Discrete Panel Data Developed and Applied to Test the Hypothesis of True State Dependence against the Hypothesis of Spurious State Dependence"](https://dx.doi.org/10.2307/20075292). _Annales de l'inséé_ (30/31): 227–269. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.2307/20075292](https://doi.org/10.2307%2F20075292). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[0019-0209](https://search.worldcat.org/issn/0019-0209). [JSTOR](https://en.wikipedia.org/wiki/JSTOR_(identifier) "JSTOR (identifier)")[20075292](https://www.jstor.org/stable/20075292).
+39.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-39)**Munday, Stephen C. R. (1996), ["Unemployment, Inflation and the Phillips Curve"](https://dx.doi.org/10.1007/978-1-349-24986-2_11), _Current Developments in Economics_, London: Macmillan Education UK, pp.186–218, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1007/978-1-349-24986-2_11](https://doi.org/10.1007%2F978-1-349-24986-2_11), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-0-333-64444-7](https://en.wikipedia.org/wiki/Special:BookSources/978-0-333-64444-7 "Special:BookSources/978-0-333-64444-7"), retrieved 2021-06-03`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+40.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-40)**Louangrath, Paul I. (2013). ["Alpha and Beta Tests for Type I and Type II Inferential Errors Determination in Hypothesis Testing"](https://dx.doi.org/10.2139/ssrn.2332756). _SSRN Electronic Journal_. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.2139/ssrn.2332756](https://doi.org/10.2139%2Fssrn.2332756). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[1556-5068](https://search.worldcat.org/issn/1556-5068).
+41.   ^ [_**a**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Yanamandra_57%E2%80%9368_41-0)[_**b**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Yanamandra_57%E2%80%9368_41-1)Yanamandra, Venkataramana (September 2015). ["Exchange rate changes and inflation in India: What is the extent of exchange rate pass-through to imports?"](https://dx.doi.org/10.1016/j.eap.2015.07.004). _Economic Analysis and Policy_. **47**: 57–68. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1016/j.eap.2015.07.004](https://doi.org/10.1016%2Fj.eap.2015.07.004). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[0313-5926](https://search.worldcat.org/issn/0313-5926).
+42.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-42)**Feinmann, Jane. ["How Can Engineers and Journalists Help Each Other?"](https://doi.org/10.1049%2Fiet-tv.48.859) (Video). The Institute of Engineering & Technology. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1049/iet-tv.48.859](https://doi.org/10.1049%2Fiet-tv.48.859). Retrieved 2021-06-03.
+43.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-43)**Dul, Jan (2015). ["Necessary Condition Analysis (NCA): Logic and Methodology of 'Necessary But Not Sufficient' Causality"](https://dx.doi.org/10.2139/ssrn.2588480). _SSRN Electronic Journal_. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.2139/ssrn.2588480](https://doi.org/10.2139%2Fssrn.2588480). [hdl](https://en.wikipedia.org/wiki/Hdl_(identifier) "Hdl (identifier)"):[1765/77890](https://hdl.handle.net/1765%2F77890). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[1556-5068](https://search.worldcat.org/issn/1556-5068). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)")[219380122](https://api.semanticscholar.org/CorpusID:219380122).
+44.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-44)**Robert Amar, James Eagan, and John Stasko (2005) ["Low-Level Components of Analytic Activity in Information Visualization"](http://www.cc.gatech.edu/~stasko/papers/infovis05.pdf)[Archived](https://web.archive.org/web/20150213074349/http://www.cc.gatech.edu/~stasko/papers/infovis05.pdf) 2015-02-13 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine "Wayback Machine")
+45.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-45)**William Newman (1994) ["A Preliminary Analysis of the Products of HCI Research, Using Pro Forma Abstracts"](http://www.mdnpress.com/wmn/pdfs/chi94-pro-formas-2.pdf)[Archived](https://web.archive.org/web/20160303212019/http://www.mdnpress.com/wmn/pdfs/chi94-pro-formas-2.pdf) 2016-03-03 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine "Wayback Machine")
+46.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-46)**Mary Shaw (2002) ["What Makes Good Research in Software Engineering?"](https://www.cs.cmu.edu/~Compose/ftp/shaw-fin-etaps.pdf)[Archived](https://web.archive.org/web/20181105042928/http://www.cs.cmu.edu/~Compose/ftp/shaw-fin-etaps.pdf) 2018-11-05 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine "Wayback Machine")
+47.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-47)**["Connectivity tool transfers data among database and statistical products"](https://dx.doi.org/10.1016/0167-9473(89)90021-2). _Computational Statistics & Data Analysis_. **8** (2): 224. July 1989. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1016/0167-9473(89)90021-2](https://doi.org/10.1016%2F0167-9473%2889%2990021-2). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[0167-9473](https://search.worldcat.org/issn/0167-9473).
+48.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-48)**["Information relevant to your job"](https://dx.doi.org/10.4324/9780080544304-16), _Obtaining Information for Effective Management_, Routledge, pp.48–54, 2007-07-11, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.4324/9780080544304-16](https://doi.org/10.4324%2F9780080544304-16) (inactive 1 July 2025), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-0-08-054430-4](https://en.wikipedia.org/wiki/Special:BookSources/978-0-08-054430-4 "Special:BookSources/978-0-08-054430-4"), retrieved 2021-06-03`{{citation}}`: CS1 maint: DOI inactive as of July 2025 ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_DOI_inactive_as_of_July_2025 "Category:CS1 maint: DOI inactive as of July 2025")) CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+49.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-49)**Gordon, Roger (March 1990). ["Do Publicly Traded Corporations Act in the Public Interest?"](https://dx.doi.org/10.3386/w3303). _National Bureau of Economic Research Working Papers_. Cambridge, MA. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.3386/w3303](https://doi.org/10.3386%2Fw3303).
+50.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-50)**Rivard, Jillian R (2014). [_Confirmation bias in witness interviewing: Can interviewers ignore their preconceptions?_](https://dx.doi.org/10.25148/etd.fi14071109) (Thesis). Florida International University. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.25148/etd.fi14071109](https://doi.org/10.25148%2Fetd.fi14071109) (inactive 21 January 2026).`{{cite thesis}}`: CS1 maint: DOI inactive as of January 2026 ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_DOI_inactive_as_of_January_2026 "Category:CS1 maint: DOI inactive as of January 2026"))
+51.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-51)**Papineau, David (1988), ["Does the Sociology of Science Discredit Science?"](https://dx.doi.org/10.1007/978-94-009-2877-0_2), _Relativism and Realism in Science_, Dordrecht: Springer Netherlands, pp.37–57, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1007/978-94-009-2877-0_2](https://doi.org/10.1007%2F978-94-009-2877-0_2), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-94-010-7795-8](https://en.wikipedia.org/wiki/Special:BookSources/978-94-010-7795-8 "Special:BookSources/978-94-010-7795-8"), retrieved 2021-06-03`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+52.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-52)**Bromme, Rainer; Hesse, Friedrich W.; Spada, Hans, eds. (2005). [_Barriers and Biases in Computer-Mediated Knowledge Communication_](https://dx.doi.org/10.1007/b105100). [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1007/b105100](https://doi.org/10.1007%2Fb105100). [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-0-387-24317-7](https://en.wikipedia.org/wiki/Special:BookSources/978-0-387-24317-7 "Special:BookSources/978-0-387-24317-7").
+53.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-53)**Heuer, Richards (2019-06-10). Heuer, Richards J (ed.). [_Quantitative Approaches to Political Intelligence_](https://dx.doi.org/10.4324/9780429303647). [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.4324/9780429303647](https://doi.org/10.4324%2F9780429303647). [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[9780429303647](https://en.wikipedia.org/wiki/Special:BookSources/9780429303647 "Special:BookSources/9780429303647"). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)")[145675822](https://api.semanticscholar.org/CorpusID:145675822).
+54.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Heuer1_54-0)**["Introduction"](https://www.cia.gov/static/9a5f1162fd0932c29bfed1c030edf4ae/Pyschology-of-Intelligence-Analysis.pdf)(PDF). Central Intelligence Agency. [Archived](https://web.archive.org/web/20211025160526/https://www.cia.gov/static/9a5f1162fd0932c29bfed1c030edf4ae/Pyschology-of-Intelligence-Analysis.pdf)(PDF) from the original on 2021-10-25. Retrieved 2021-10-25.
+55.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-55)**["Figure 6.7. Differences in literacy scores across OECD countries generally mirror those in numeracy"](https://dx.doi.org/10.1787/888934081549). [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1787/888934081549](https://doi.org/10.1787%2F888934081549). Retrieved 2021-06-03.
+56.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-56)**Ritholz, Barry. ["Bad Math that Passes for Insight"](https://web.archive.org/web/20141029014527/http://www.bloombergview.com/articles/2014-10-28/bad-math-that-passes-for-insight). _Bloomberg View_. Archived from [the original](http://www.bloombergview.com/articles/2014-10-28/bad-math-that-passes-for-insight) on 2014-10-29. Retrieved 2014-10-29.
+57.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-57)**Gusnaini, Nuriska; Andesto, Rony; Ermawati (2020-12-15). ["The Effect of Regional Government Size, Legislative Size, Number of Population, and Intergovernmental Revenue on The Financial Statements Disclosure"](https://dx.doi.org/10.24018/ejbmr.2020.5.6.651). _European Journal of Business and Management Research_. **5** (6). [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.24018/ejbmr.2020.5.6.651](https://doi.org/10.24018%2Fejbmr.2020.5.6.651). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[2507-1076](https://search.worldcat.org/issn/2507-1076). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)")[231675715](https://api.semanticscholar.org/CorpusID:231675715).
+58.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-58)**Taura, Toshiharu; Nagai, Yukari (2011). "Comparing Nominal Groups to Real Teams". _Design Creativity 2010_. London: Springer-Verlag London. pp.165–171. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-0-85729-223-0](https://en.wikipedia.org/wiki/Special:BookSources/978-0-85729-223-0 "Special:BookSources/978-0-85729-223-0").
+59.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-59)**Gross, William H. (July 1979). "Coupon Valuation and Interest Rate Cycles". _Financial Analysts Journal_. **35** (4): 68–71. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.2469/faj.v35.n4.68](https://doi.org/10.2469%2Ffaj.v35.n4.68). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[0015-198X](https://search.worldcat.org/issn/0015-198X).
+60.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-60)**["25. General government total outlays"](https://dx.doi.org/10.1787/888932348795). [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1787/888932348795](https://doi.org/10.1787%2F888932348795). Retrieved 2021-06-03.
+61.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Competing_on_Analytics_2007_61-0)**Davenport, Thomas; Harris, Jeanne (2007). _Competing on Analytics_. O'Reilly. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-4221-0332-6](https://en.wikipedia.org/wiki/Special:BookSources/978-1-4221-0332-6 "Special:BookSources/978-1-4221-0332-6").
+62.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-62)**Aarons, D. (2009). [Report finds states on course to build pupil-data systems.](https://www.proquest.com/docview/202710770)_Education Week, 29_(13), 6.
+63.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-63)**Rankin, J. (2013, March 28). [How data Systems & reports can either fight or propagate the data analysis error epidemic, and how educator leaders can help.](https://sas.elluminate.com/site/external/recording/playback/link/table/dropin?sid=2008350&suid=D.4DF60C7117D5A77FE3AED546909ED2)[Archived](https://web.archive.org/web/20190326201414/https://sas.elluminate.com/site/external/recording/playback/link/table/dropin?sid=2008350&suid=D.4DF60C7117D5A77FE3AED546909ED2) 2019-03-26 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine "Wayback Machine")_Presentation conducted from Technology Information Center for Administrative Leadership (TICAL) School Leadership Summit._
+64.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-64)**Brödermann, Eckart J. (2018), ["Article 2.2.1 (Scope of the Section)"](https://dx.doi.org/10.5771/9783845276564-525), _Commercial Law_, Nomos Verlagsgesellschaft mbH & Co. KG, p.525, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.5771/9783845276564-525](https://doi.org/10.5771%2F9783845276564-525), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-3-8452-7656-4](https://en.wikipedia.org/wiki/Special:BookSources/978-3-8452-7656-4 "Special:BookSources/978-3-8452-7656-4"), retrieved 2021-06-03`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+65.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-FOOTNOTEAd%C3%A8r2008a337_65-0)**[Adèr 2008a](https://en.wikipedia.org/wiki/Data_analysis#CITEREFAd%C3%A8r2008a), p.337.
+66.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-66)**Kjell, Oscar N. E.; Thompson, Sam (19 December 2013). ["Descriptive statistics indicating the mean, standard deviation and frequency of missing values for each condition (N = number of participants), and for the dependent variables (DV)"](https://doi.org/10.7717%2Fpeerj.231%2Ftable-1). _PeerJ_. **1**: e231. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.7717/peerj.231/table-1](https://doi.org/10.7717%2Fpeerj.231%2Ftable-1).
+67.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-67)**[_Practice for Dealing With Outlying Observations_](https://dx.doi.org/10.1520/e0178-16a), ASTM International, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1520/e0178-16a](https://doi.org/10.1520%2Fe0178-16a), retrieved 2021-06-03
+68.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-68)**["Alternative Coding Schemes for Dummy Variables"](https://dx.doi.org/10.4135/9781412985628.n5), _Regression with Dummy Variables_, Newbury Park, CA: SAGE Publications, Inc., pp.64–75, 1993, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.4135/9781412985628.n5](https://doi.org/10.4135%2F9781412985628.n5), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-0-8039-5128-0](https://en.wikipedia.org/wiki/Special:BookSources/978-0-8039-5128-0 "Special:BookSources/978-0-8039-5128-0"), retrieved 2021-06-03`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+69.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-FOOTNOTEAd%C3%A8r2008a338%E2%80%93341_69-0)**[Adèr 2008a](https://en.wikipedia.org/wiki/Data_analysis#CITEREFAd%C3%A8r2008a), pp.338–341.
+70.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-70)**Newman, Isadore (1998). _Qualitative-quantitative research methodology: exploring the interactive continuum_. Southern Illinois University Press. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[0-585-17889-5](https://en.wikipedia.org/wiki/Special:BookSources/0-585-17889-5 "Special:BookSources/0-585-17889-5"). [OCLC](https://en.wikipedia.org/wiki/OCLC_(identifier) "OCLC (identifier)")[44962443](https://search.worldcat.org/oclc/44962443).
+71.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-71)**Terwilliger, James S.; Lele, Kaustubh (June 1979). ["Some Relationships Among Internal Consistency, Reproducibility, and Homogeneity"](https://dx.doi.org/10.1111/j.1745-3984.1979.tb00091.x). _Journal of Educational Measurement_. **16** (2): 101–108. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1111/j.1745-3984.1979.tb00091.x](https://doi.org/10.1111%2Fj.1745-3984.1979.tb00091.x). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[0022-0655](https://search.worldcat.org/issn/0022-0655).
+72.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-FOOTNOTEAd%C3%A8r2008a341%E2%80%93342_72-0)**[Adèr 2008a](https://en.wikipedia.org/wiki/Data_analysis#CITEREFAd%C3%A8r2008a), pp.341–342.
+73.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-FOOTNOTEAd%C3%A8r2008a344_73-0)**[Adèr 2008a](https://en.wikipedia.org/wiki/Data_analysis#CITEREFAd%C3%A8r2008a), p.344.
+74.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-74)**Tabachnick & Fidell, 2007, p. 87-88.
+75.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-75)**[_Random sampling and randomization procedures_](https://dx.doi.org/10.3403/30137438), BSI British Standards, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.3403/30137438](https://doi.org/10.3403%2F30137438), retrieved 2021-06-03
+76.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-FOOTNOTEAd%C3%A8r2008a344%E2%80%93345_76-0)**[Adèr 2008a](https://en.wikipedia.org/wiki/Data_analysis#CITEREFAd%C3%A8r2008a), pp.344–345.
+77.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-77)**Foth, Christian; Hedrick, Brandon P.; Ezcurra, Martin D. (18 January 2016). ["Figure 4: Centroid size regression analyses for the main sample"](https://doi.org/10.7717%2Fpeerj.1589%2Ffig-4). _PeerJ_. **4**: e1589. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.7717/peerj.1589/fig-4](https://doi.org/10.7717%2Fpeerj.1589%2Ffig-4).
+78.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-FOOTNOTEAd%C3%A8r2008a345_78-0)**[Adèr 2008a](https://en.wikipedia.org/wiki/Data_analysis#CITEREFAd%C3%A8r2008a), p.345.
+79.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-FOOTNOTEAd%C3%A8r2008a345%E2%80%93346_79-0)**[Adèr 2008a](https://en.wikipedia.org/wiki/Data_analysis#CITEREFAd%C3%A8r2008a), pp.345–346.
+80.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-FOOTNOTEAd%C3%A8r2008a346%E2%80%93347_80-0)**[Adèr 2008a](https://en.wikipedia.org/wiki/Data_analysis#CITEREFAd%C3%A8r2008a), pp.346–347.
+81.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-FOOTNOTEAd%C3%A8r2008a349%E2%80%93353_81-0)**[Adèr 2008a](https://en.wikipedia.org/wiki/Data_analysis#CITEREFAd%C3%A8r2008a), pp.349–353.
+82.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-SAB1_82-0)**Billings S.A. "Nonlinear System Identification: NARMAX Methods in the Time, Frequency, and Spatio-Temporal Domains". Wiley, 2013
+83.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-FOOTNOTEAd%C3%A8r2008b363_83-0)**[Adèr 2008b](https://en.wikipedia.org/wiki/Data_analysis#CITEREFAd%C3%A8r2008b), p.363.
+84.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-84)**["Exploratory Data Analysis"](https://dx.doi.org/10.1002/9781119126805.ch4), _Python® for R Users_, Hoboken, NJ, USA: John Wiley & Sons, Inc., pp.119–138, 2017-10-13, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1002/9781119126805.ch4](https://doi.org/10.1002%2F9781119126805.ch4), [hdl](https://en.wikipedia.org/wiki/Hdl_(identifier) "Hdl (identifier)"):[11380/971504](https://hdl.handle.net/11380%2F971504), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-119-12680-5](https://en.wikipedia.org/wiki/Special:BookSources/978-1-119-12680-5 "Special:BookSources/978-1-119-12680-5"), retrieved 2021-06-03`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+85.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-85)**["Engaging in Exploratory Data Analysis, Visualization, and Hypothesis Testing – Exploratory Data Analysis, Geovisualization, and Data"](https://dx.doi.org/10.1201/b18808-8), _Spatial Analysis_, CRC Press, pp.106–139, 2015-07-28, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1201/b18808-8](https://doi.org/10.1201%2Fb18808-8), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-0-429-06936-9](https://en.wikipedia.org/wiki/Special:BookSources/978-0-429-06936-9 "Special:BookSources/978-0-429-06936-9"), [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)")[133412598](https://api.semanticscholar.org/CorpusID:133412598), retrieved 2021-06-03`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+86.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-86)**["Hypotheses About Categories"](https://dx.doi.org/10.4135/9781446287873.n14), _Starting Statistics: A Short, Clear Guide_, London: SAGE Publications Ltd, pp.138–151, 2010, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.4135/9781446287873.n14](https://doi.org/10.4135%2F9781446287873.n14), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-84920-098-1](https://en.wikipedia.org/wiki/Special:BookSources/978-1-84920-098-1 "Special:BookSources/978-1-84920-098-1"), retrieved 2021-06-03`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+87.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-87)**Liquet, Benoit; Riou, Jérémie (2013-06-08). ["Correction of the significance level when attempting multiple transformations of an explanatory variable in generalized linear models"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3699399). _BMC Medical Research Methodology_. **13** (1): 75. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1186/1471-2288-13-75](https://doi.org/10.1186%2F1471-2288-13-75). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[1471-2288](https://search.worldcat.org/issn/1471-2288). [PMC](https://en.wikipedia.org/wiki/PMC_(identifier) "PMC (identifier)")[3699399](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3699399). [PMID](https://en.wikipedia.org/wiki/PMID_(identifier) "PMID (identifier)")[23758852](https://pubmed.ncbi.nlm.nih.gov/23758852).
+88.   ^ [_**a**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Mcardle_2008_88-0)[_**b**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Mcardle_2008_88-1)[_**c**_](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Mcardle_2008_88-2)Mcardle, John J. (2008). ["Some ethical issues in confirmatory versus exploratory analysis"](https://dx.doi.org/10.1037/e503312008-001). _PsycEXTRA Dataset_. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1037/e503312008-001](https://doi.org/10.1037%2Fe503312008-001). Retrieved 2021-06-03.
+89.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-FOOTNOTEAd%C3%A8r2008b361%E2%80%93362_89-0)**[Adèr 2008b](https://en.wikipedia.org/wiki/Data_analysis#CITEREFAd%C3%A8r2008b), pp.361–362.
+90.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-FOOTNOTEAd%C3%A8r2008b361%E2%80%93371_90-0)**[Adèr 2008b](https://en.wikipedia.org/wiki/Data_analysis#CITEREFAd%C3%A8r2008b), pp.361–371.
+91.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-91)**Benson, Noah C; Winawer, Jonathan (December 2018). ["Bayesian analysis of retinotopic maps"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6340702). _eLife_. **7** e40224. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.7554/elife.40224](https://doi.org/10.7554%2Felife.40224). [PMC](https://en.wikipedia.org/wiki/PMC_(identifier) "PMC (identifier)")[6340702](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6340702). [PMID](https://en.wikipedia.org/wiki/PMID_(identifier) "PMID (identifier)")[30520736](https://pubmed.ncbi.nlm.nih.gov/30520736). Supplementary file 1. Cross-validation schema. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.7554/elife.40224.014](https://doi.org/10.7554%2Felife.40224.014)
+92.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-92)**Hsiao, Cheng (2014), ["Cross-Sectionally Dependent Panel Data"](https://dx.doi.org/10.1017/cbo9781139839327.012), _Analysis of Panel Data_, Cambridge: Cambridge University Press, pp.327–368, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1017/cbo9781139839327.012](https://doi.org/10.1017%2Fcbo9781139839327.012), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-139-83932-7](https://en.wikipedia.org/wiki/Special:BookSources/978-1-139-83932-7 "Special:BookSources/978-1-139-83932-7"), retrieved 2021-06-03`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+93.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-93)**Hjorth, J.S. Urban (2017-10-19), ["Cross validation"](https://dx.doi.org/10.1201/9781315140056-3), _Computer Intensive Statistical Methods_, Chapman and Hall/CRC, pp.24–56, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1201/9781315140056-3](https://doi.org/10.1201%2F9781315140056-3), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-315-14005-6](https://en.wikipedia.org/wiki/Special:BookSources/978-1-315-14005-6 "Special:BookSources/978-1-315-14005-6"), retrieved 2021-06-03`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+94.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-94)**Sheikholeslami, Razi; Razavi, Saman; Haghnegahdar, Amin (2019-10-10). ["What should we do when a model crashes? Recommendations for global sensitivity analysis of Earth and environmental systems models"](https://doi.org/10.5194%2Fgmd-12-4275-2019). _Geoscientific Model Development_. **12** (10): 4275–4296. [Bibcode](https://en.wikipedia.org/wiki/Bibcode_(identifier) "Bibcode (identifier)"):[2019GMD....12.4275S](https://ui.adsabs.harvard.edu/abs/2019GMD....12.4275S). [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.5194/gmd-12-4275-2019](https://doi.org/10.5194%2Fgmd-12-4275-2019). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")[1991-9603](https://search.worldcat.org/issn/1991-9603). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)")[204900339](https://api.semanticscholar.org/CorpusID:204900339).
+95.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-95)**United Nations Development Programme (2018). "Human development composite indices". _Human Development Indices and Indicators 2018_. United Nations. pp.21–41. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.18356/ce6f8e92-en](https://doi.org/10.18356%2Fce6f8e92-en). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)")[240207510](https://api.semanticscholar.org/CorpusID:240207510).
+96.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-96)**Wiley, Matt; Wiley, Joshua F. (2019), ["Multivariate Data Visualization"](https://dx.doi.org/10.1007/978-1-4842-2872-2_2), _Advanced R Statistical Programming and Data Models_, Berkeley, CA: Apress, pp.33–59, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1007/978-1-4842-2872-2_2](https://doi.org/10.1007%2F978-1-4842-2872-2_2), [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1-4842-2871-5](https://en.wikipedia.org/wiki/Special:BookSources/978-1-4842-2871-5 "Special:BookSources/978-1-4842-2871-5"), [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)")[86629516](https://api.semanticscholar.org/CorpusID:86629516), retrieved 2021-06-03`{{citation}}`: CS1 maint: work parameter with ISBN ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN"))
+97.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-97)**Mailund, Thomas (2022). _Beginning Data Science in R 4: Data Analysis, Visualization, and Modelling for the Data Scientist_ (2nd ed.). [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-148428155-0](https://en.wikipedia.org/wiki/Special:BookSources/978-148428155-0 "Special:BookSources/978-148428155-0").
+98.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-98)**["The machine learning community takes on the Higgs"](https://www.symmetrymagazine.org/article/july-2014/the-machine-learning-community-takes-on-the-higgs/). _Symmetry Magazine_. July 15, 2014. [Archived](https://web.archive.org/web/20210416100455/https://www.symmetrymagazine.org/article/july-2014/the-machine-learning-community-takes-on-the-higgs) from the original on 16 April 2021. Retrieved 14 January 2015.
+99.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-99)**["Data.Gov:Long-Term Pavement Performance (LTPP)"](https://highways.dot.gov/turner-fairbank-highway-research-center). May 26, 2016. [Archived](https://web.archive.org/web/20171101191727/https://www.fhwa.dot.gov/research/tfhrc/programs/infrastructure/pavements/ltpp/) from the original on November 1, 2017. Retrieved November 10, 2017.
+100.   **[^](https://en.wikipedia.org/wiki/Data_analysis#cite_ref-Nehme_2016-09-29_100-0)**Nehme, Jean (September 29, 2016). ["LTPP International Data Analysis Contest"](https://highways.dot.gov/turner-fairbank-highway-research-center). Federal Highway Administration. [Archived](https://web.archive.org/web/20171021010012/https://www.fhwa.dot.gov/research/tfhrc/programs/infrastructure/pavements/ltpp/2016_2017_asce_ltpp_contest_guidelines.cfm) from the original on October 21, 2017. Retrieved October 22, 2017.
+
+### Bibliography
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=39 "Edit section: Bibliography")]
+
+*   [Adèr, Herman J.](https://en.wikipedia.org/wiki/Herman_J._Ad%C3%A8r "Herman J. Adèr") (2008a). "Chapter 14: Phases and initial steps in data analysis". In Adèr, Herman J.; [Mellenbergh, Gideon J.](https://en.wikipedia.org/wiki/Gideon_J._Mellenbergh "Gideon J. Mellenbergh"); [Hand, David J](https://en.wikipedia.org/wiki/David_Hand_(statistician) "David Hand (statistician)") (eds.). _Advising on research methods: a consultant's companion_. Huizen, Netherlands: Johannes van Kessel Pub. pp.333–356. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[9789079418015](https://en.wikipedia.org/wiki/Special:BookSources/9789079418015 "Special:BookSources/9789079418015"). [OCLC](https://en.wikipedia.org/wiki/OCLC_(identifier) "OCLC (identifier)")[905799857](https://search.worldcat.org/oclc/905799857).
+*   [Adèr, Herman J.](https://en.wikipedia.org/wiki/Herman_J._Ad%C3%A8r "Herman J. Adèr") (2008b). "Chapter 15: The main analysis phase". In Adèr, Herman J.; [Mellenbergh, Gideon J.](https://en.wikipedia.org/wiki/Gideon_J._Mellenbergh "Gideon J. Mellenbergh"); [Hand, David J](https://en.wikipedia.org/wiki/David_Hand_(statistician) "David Hand (statistician)") (eds.). _Advising on research methods: a consultant's companion_. Huizen, Netherlands: Johannes van Kessel Pub. pp.357–386. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[9789079418015](https://en.wikipedia.org/wiki/Special:BookSources/9789079418015 "Special:BookSources/9789079418015"). [OCLC](https://en.wikipedia.org/wiki/OCLC_(identifier) "OCLC (identifier)")[905799857](https://search.worldcat.org/oclc/905799857).
+*   Tabachnick, B.G. & Fidell, L.S. (2007). Chapter 4: Cleaning up your act. Screening data prior to analysis. In B.G. Tabachnick & L.S. Fidell (Eds.), Using Multivariate Statistics, Fifth Edition (pp.60–116). Boston: Pearson Education, Inc. / Allyn and Bacon.
+
+## Further reading
+
+[[edit](https://en.wikipedia.org/w/index.php?title=Data_analysis&action=edit&section=40 "Edit section: Further reading")]
+
+[![Image 11: Wikiversity logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/40px-Wikiversity_logo_2017.svg.png)](https://en.wikipedia.org/wiki/File:Wikiversity_logo_2017.svg)
+
+Wikiversity has learning resources about _**[Data analysis](https://en.wikiversity.org/wiki/Special:Search/Data\_analysis "v:Special:Search/Data analysis")**_
+
+*   [Adèr, H.J.](https://en.wikipedia.org/wiki/Ad%C3%A8r,_H.J. "Adèr, H.J.")&[Mellenbergh, G.J.](https://en.wikipedia.org/wiki/Gideon_J._Mellenbergh "Gideon J. Mellenbergh") (with contributions by D.J. Hand) (2008). _Advising on Research Methods: A Consultant's Companion_. Huizen, the Netherlands: Johannes van Kessel Publishing. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-90-79418-01-5](https://en.wikipedia.org/wiki/Special:BookSources/978-90-79418-01-5 "Special:BookSources/978-90-79418-01-5")
+*   Chambers, John M.; [Cleveland, William S.](https://en.wikipedia.org/wiki/William_S._Cleveland "William S. Cleveland"); Kleiner, Beat; Tukey, Paul A. (1983). _Graphical Methods for Data Analysis_, Wadsworth/Duxbury Press. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[0-534-98052-X](https://en.wikipedia.org/wiki/Special:BookSources/0-534-98052-X "Special:BookSources/0-534-98052-X")
+*   Fandango, Armando (2017). _Python Data Analysis, 2nd Edition_. Packt Publishers. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-1787127487](https://en.wikipedia.org/wiki/Special:BookSources/978-1787127487 "Special:BookSources/978-1787127487")
+*   Juran, Joseph M.; Godfrey, A. Blanton (1999). _Juran's Quality Handbook, 5th Edition._ New York: McGraw Hill. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[0-07-034003-X](https://en.wikipedia.org/wiki/Special:BookSources/0-07-034003-X "Special:BookSources/0-07-034003-X")
+*   Lewis-Beck, Michael S. (1995). _Data Analysis: an Introduction_, Sage Publications Inc, [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[0-8039-5772-6](https://en.wikipedia.org/wiki/Special:BookSources/0-8039-5772-6 "Special:BookSources/0-8039-5772-6")
+*   NIST/SEMATECH (2008) [_Handbook of Statistical Methods_](https://www.itl.nist.gov/div898/handbook/)
+*   Pyzdek, T, (2003). _Quality Engineering Handbook_, [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[0-8247-4614-7](https://en.wikipedia.org/wiki/Special:BookSources/0-8247-4614-7 "Special:BookSources/0-8247-4614-7")
+*   [Richard Veryard](https://en.wikipedia.org/wiki/Richard_Veryard "Richard Veryard") (1984). _Pragmatic Data Analysis_. Oxford: Blackwell Scientific Publications. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[0-632-01311-7](https://en.wikipedia.org/wiki/Special:BookSources/0-632-01311-7 "Special:BookSources/0-632-01311-7")
+*   Tabachnick, B.G.; Fidell, L.S. (2007). _Using Multivariate Statistics, 5th Edition_. Boston: Pearson Education, Inc. / Allyn and Bacon, [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")[978-0-205-45938-4](https://en.wikipedia.org/wiki/Special:BookSources/978-0-205-45938-4 "Special:BookSources/978-0-205-45938-4")
+
+Part of a series on [Statistics](https://en.wikipedia.org/wiki/Statistics "Statistics")
+[Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization "Data and information visualization")
+[![Image 12](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Minard.png/250px-Minard.png)](https://en.wikipedia.org/wiki/File:Minard.png)
+Major dimensions
+*   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis "Exploratory data analysis")
+*   [Information design](https://en.wikipedia.org/wiki/Information_design "Information design")
+*   [Descriptive statistics](https://en.wikipedia.org/wiki/Descriptive_statistics "Descriptive statistics")
+*   [Inferential statistics](https://en.wikipedia.org/wiki/Statistical_inference "Statistical inference")
+*   [Statistical graphics](https://en.wikipedia.org/wiki/Statistical_graphics "Statistical graphics")
+*   [Plot](https://en.wikipedia.org/wiki/Plot_(graphics) "Plot (graphics)")
+*   [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
+*   [Infographic](https://en.wikipedia.org/wiki/Infographic "Infographic")
+*   [Data science](https://en.wikipedia.org/wiki/Data_science "Data science")
+Important figures
+*   [Tamara Munzner](https://en.wikipedia.org/wiki/Tamara_Munzner "Tamara Munzner")
+*   [Ben Shneiderman](https://en.wikipedia.org/wiki/Ben_Shneiderman "Ben Shneiderman")
+*   [John Tukey](https://en.wikipedia.org/wiki/John_Tukey "John Tukey")
+*   [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte "Edward Tufte")
+*   [Simon Wardley](https://en.wikipedia.org/wiki/Simon_Wardley "Simon Wardley")
+*   [Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling "Hans Rosling")
+*   [David McCandless](https://en.wikipedia.org/wiki/David_McCandless "David McCandless")
+*   [Kim Albrecht](https://en.wikipedia.org/wiki/Kim_Albrecht "Kim Albrecht")
+*   [Alexander Osterwalder](https://en.wikipedia.org/wiki/Alexander_Osterwalder "Alexander Osterwalder")
+*   [Ed Hawkins](https://en.wikipedia.org/wiki/Ed_Hawkins_(climatologist) "Ed Hawkins (climatologist)")
+*   [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham "Hadley Wickham")
+*   [Leland Wilkinson](https://en.wikipedia.org/wiki/Leland_Wilkinson "Leland Wilkinson")
+*   [Mike Bostock](https://en.wikipedia.org/wiki/Mike_Bostock "Mike Bostock")
+*   [Jeffrey Heer](https://en.wikipedia.org/wiki/Jeffrey_Heer "Jeffrey Heer")
+*   [Ihab Ilyas](https://en.wikipedia.org/wiki/Ihab_Ilyas "Ihab Ilyas")
+Information graphic types
+*   [Line chart](https://en.wikipedia.org/wiki/Line_chart "Line chart")
+*   [Bar chart](https://en.wikipedia.org/wiki/Bar_chart "Bar chart")
+*   [Histogram](https://en.wikipedia.org/wiki/Histogram "Histogram")
+*   [Scatter plot](https://en.wikipedia.org/wiki/Scatter_plot "Scatter plot")
+*   [Box plot](https://en.wikipedia.org/wiki/Box_plot "Box plot")
+*   [Pareto chart](https://en.wikipedia.org/wiki/Pareto_chart "Pareto chart")
+*   [Pie chart](https://en.wikipedia.org/wiki/Pie_chart "Pie chart")
+*   [Area chart](https://en.wikipedia.org/wiki/Area_chart "Area chart")
+*   [Tree map](https://en.wikipedia.org/wiki/Treemapping "Treemapping")
+*   [Bubble chart](https://en.wikipedia.org/wiki/Bubble_chart "Bubble chart")
+*   [Stripe graphic](https://en.wikipedia.org/wiki/Warming_stripes "Warming stripes")
+*   [Animated spiral](https://en.wikipedia.org/wiki/Climate_spiral "Climate spiral")
+*   [Control chart](https://en.wikipedia.org/wiki/Control_chart "Control chart")
+*   [Run chart](https://en.wikipedia.org/wiki/Run_chart "Run chart")
+*   [Stem-and-leaf display](https://en.wikipedia.org/wiki/Stem-and-leaf_display "Stem-and-leaf display")
+*   [Cartogram](https://en.wikipedia.org/wiki/Cartogram "Cartogram")
+*   [Small multiple](https://en.wikipedia.org/wiki/Small_multiple "Small multiple")
+*   [Sparkline](https://en.wikipedia.org/wiki/Sparkline "Sparkline")
+*   [Table](https://en.wikipedia.org/wiki/Table_(information) "Table (information)")
+*   [Marimekko chart](https://en.wikipedia.org/wiki/Mosaic_plot "Mosaic plot")
+Related topics
+*   [Data](https://en.wikipedia.org/wiki/Data "Data")
+*   [Information](https://en.wikipedia.org/wiki/Information "Information")
+*   [Big data](https://en.wikipedia.org/wiki/Big_data "Big data")
+*   [Database](https://en.wikipedia.org/wiki/Database "Database")
+*   [Chartjunk](https://en.wikipedia.org/wiki/Chartjunk "Chartjunk")
+*   [Visual perception](https://en.wikipedia.org/wiki/Visual_perception "Visual perception")
+*   [Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis "Regression analysis")
+*   [Statistical model](https://en.wikipedia.org/wiki/Statistical_model "Statistical model")
+*   [Misleading graph](https://en.wikipedia.org/wiki/Misleading_graph "Misleading graph")
+*   [Topological data analysis](https://en.wikipedia.org/wiki/Topological_data_analysis "Topological data analysis")
+*   [v](https://en.wikipedia.org/wiki/Template:Data_visualization "Template:Data visualization")
+*   [t](https://en.wikipedia.org/wiki/Template_talk:Data_visualization "Template talk:Data visualization")
+*   [e](https://en.wikipedia.org/wiki/Special:EditPage/Template:Data_visualization "Special:EditPage/Template:Data visualization")
+
+| [Computational physics](https://en.wikipedia.org/wiki/Computational_physics "Computational physics") |
+| --- |
+| [![Image 13](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rayleigh-Taylor_instability.jpg/250px-Rayleigh-Taylor_instability.jpg)](https://en.wikipedia.org/wiki/File:Rayleigh-Taylor_instability.jpg) |
+| * [Mechanics](https://en.wikipedia.org/wiki/Computational_mechanics "Computational mechanics") * [Electromagnetics](https://en.wikipedia.org/wiki/Computational_electromagnetics "Computational electromagnetics") * [Multiphysics](https://en.wikipedia.org/wiki/Multiphysics_simulation "Multiphysics simulation") * [Particle physics](https://en.wikipedia.org/wiki/Computational_particle_physics "Computational particle physics") * [Thermodynamics](https://en.wikipedia.org/wiki/Computational_thermodynamics "Computational thermodynamics") * [Simulation](https://en.wikipedia.org/wiki/Computer_simulation "Computer simulation") |
+| Potentials * [Morse/Long-range potential](https://en.wikipedia.org/wiki/Morse/Long-range_potential "Morse/Long-range potential") * [Lennard-Jones potential](https://en.wikipedia.org/wiki/Lennard-Jones_potential "Lennard-Jones potential") * [Yukawa potential](https://en.wikipedia.org/wiki/Yukawa_potential "Yukawa potential") * [Morse potential](https://en.wikipedia.org/wiki/Morse_potential "Morse potential") |
+| [Fluid dynamics](https://en.wikipedia.org/wiki/Computational_fluid_dynamics "Computational fluid dynamics") * [Finite difference](https://en.wikipedia.org/wiki/Finite_difference_method "Finite difference method") * [Finite volume](https://en.wikipedia.org/wiki/Finite_volume_method "Finite volume method") * [Finite element](https://en.wikipedia.org/wiki/Finite_element_method "Finite element method") * [Boundary element](https://en.wikipedia.org/wiki/Boundary_element_method "Boundary element method") * [Lattice Boltzmann](https://en.wikipedia.org/wiki/Lattice_Boltzmann_methods "Lattice Boltzmann methods") * [Riemann solver](https://en.wikipedia.org/wiki/Riemann_solver "Riemann solver") * [Dissipative particle dynamics](https://en.wikipedia.org/wiki/Dissipative_particle_dynamics "Dissipative particle dynamics") * [Smoothed particle hydrodynamics](https://en.wikipedia.org/wiki/Smoothed-particle_hydrodynamics "Smoothed-particle hydrodynamics") * [Turbulence models](https://en.wikipedia.org/wiki/Turbulence_modeling "Turbulence modeling") |
+| [Monte Carlo methods](https://en.wikipedia.org/wiki/Monte_Carlo_method "Monte Carlo method") * [Integration](https://en.wikipedia.org/wiki/Monte_Carlo_integration "Monte Carlo integration") * [Gibbs sampling](https://en.wikipedia.org/wiki/Gibbs_sampling "Gibbs sampling") * [Metropolis algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm "Metropolis–Hastings algorithm") |
+| Particle * [N-body](https://en.wikipedia.org/wiki/N-body_simulation "N-body simulation") * [Particle-in-cell](https://en.wikipedia.org/wiki/Particle-in-cell "Particle-in-cell") * [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics "Molecular dynamics") |
+| Scientists * [Godunov](https://en.wikipedia.org/wiki/Sergei_K._Godunov "Sergei K. Godunov") * [Ulam](https://en.wikipedia.org/wiki/Stanislaw_Ulam "Stanislaw Ulam") * [von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann "John von Neumann") * [Galerkin](https://en.wikipedia.org/wiki/Boris_Galerkin "Boris Galerkin") * [Lorenz](https://en.wikipedia.org/wiki/Edward_Norton_Lorenz "Edward Norton Lorenz") * [Wilson](https://en.wikipedia.org/wiki/Kenneth_G._Wilson "Kenneth G. Wilson") * [Alder](https://en.wikipedia.org/wiki/Berni_Alder "Berni Alder") * [Richtmyer](https://en.wikipedia.org/wiki/Robert_D._Richtmyer "Robert D. Richtmyer") |
+| * [v](https://en.wikipedia.org/wiki/Template:Computational_physics "Template:Computational physics") * [t](https://en.wikipedia.org/wiki/Template_talk:Computational_physics "Template talk:Computational physics") * [e](https://en.wikipedia.org/wiki/Special:EditPage/Template:Computational_physics "Special:EditPage/Template:Computational physics") |
+
+| * [v](https://en.wikipedia.org/wiki/Template:Data "Template:Data") * [t](https://en.wikipedia.org/wiki/Template_talk:Data "Template talk:Data") * [e](https://en.wikipedia.org/wiki/Special:EditPage/Template:Data "Special:EditPage/Template:Data") [Data](https://en.wikipedia.org/wiki/Data "Data") |
+| --- |
+| Information, data, and value | * [Information](https://en.wikipedia.org/wiki/Information "Information") * [Meta](https://en.wikipedia.org/wiki/Metadata "Metadata") * [Type](https://en.wikipedia.org/wiki/Data_type "Data type") * [Structure](https://en.wikipedia.org/wiki/Data_structure "Data structure") * [Ecosystem](https://en.wikipedia.org/wiki/Data_ecosystem "Data ecosystem") * [Library](https://en.wikipedia.org/wiki/Data_library "Data library") * [Infrastructure](https://en.wikipedia.org/wiki/Data_infrastructure "Data infrastructure") * [Value](https://en.wikipedia.org/wiki/Value_of_information "Value of information") |
+| Data categories and semantic structure | * Data categories * [Master data](https://en.wikipedia.org/wiki/Master_data "Master data") * [Master data management](https://en.wikipedia.org/wiki/Master_data_management "Master data management") * [Reference data](https://en.wikipedia.org/wiki/Reference_data "Reference data") * [Transaction data](https://en.wikipedia.org/wiki/Transaction_data "Transaction data") * Analytical data * [Metadata](https://en.wikipedia.org/wiki/Metadata "Metadata") * [Code tables](https://en.wikipedia.org/wiki/Code_(metadata) "Code (metadata)") * [Controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary "Controlled vocabulary") * Crosswalks * [Hierarchies](https://en.wikipedia.org/wiki/Data_hierarchy "Data hierarchy") * Observation data * [Dark data](https://en.wikipedia.org/wiki/Dark_data "Dark data") * [Trade and market data](https://en.wikipedia.org/wiki/Market_data "Market data") |
+| Data management and governance | * [Management](https://en.wikipedia.org/wiki/Data_management "Data management") * [Governance](https://en.wikipedia.org/wiki/Data_governance "Data governance") * [Cooperatives](https://en.wikipedia.org/wiki/Data_cooperative "Data cooperative") * [Ethics](https://en.wikipedia.org/wiki/Data_ethics "Data ethics") * [Stewardship](https://en.wikipedia.org/wiki/Data_steward "Data steward") * [Lineage](https://en.wikipedia.org/wiki/Data_lineage "Data lineage") * [Curation](https://en.wikipedia.org/wiki/Data_curation "Data curation") * [Preservation](https://en.wikipedia.org/wiki/Data_preservation "Data preservation") * [Retention](https://en.wikipedia.org/wiki/Data_retention "Data retention") * [Publishing](https://en.wikipedia.org/wiki/Data_publishing "Data publishing") * [Open data](https://en.wikipedia.org/wiki/Open_data "Open data") * [Master data management](https://en.wikipedia.org/wiki/Master_data_management "Master data management") * [Reference data](https://en.wikipedia.org/wiki/Reference_data "Reference data") |
+| Data quality, trust, and protection | * [Quality](https://en.wikipedia.org/wiki/Data_quality "Data quality") * [Information quality](https://en.wikipedia.org/wiki/Information_quality "Information quality") * [Validation](https://en.wikipedia.org/wiki/Data_validation "Data validation") * [Cleansing](https://en.wikipedia.org/wiki/Data_cleansing "Data cleansing") * [Scrubbing](https://en.wikipedia.org/wiki/Data_scrubbing "Data scrubbing") * [Integrity](https://en.wikipedia.org/wiki/Data_integrity "Data integrity") * [Protection (privacy)](https://en.wikipedia.org/wiki/Information_privacy "Information privacy") * [Security](https://en.wikipedia.org/wiki/Data_security "Data security") * [Anonymization](https://en.wikipedia.org/wiki/Data_anonymization "Data anonymization") * [De-identification](https://en.wikipedia.org/wiki/Data_de-identification "Data de-identification") * [Re-identification](https://en.wikipedia.org/wiki/Data_re-identification "Data re-identification") * [Minimization](https://en.wikipedia.org/wiki/Data_minimization "Data minimization") * [Erasure](https://en.wikipedia.org/wiki/Data_erasure "Data erasure") * [Remanence](https://en.wikipedia.org/wiki/Data_remanence "Data remanence") * [Corruption](https://en.wikipedia.org/wiki/Data_corruption "Data corruption") * [Degradation](https://en.wikipedia.org/wiki/Data_degradation "Data degradation") * [Loss](https://en.wikipedia.org/wiki/Data_loss "Data loss") * [Recovery](https://en.wikipedia.org/wiki/Data_recovery "Data recovery") |
+| Quality dimensions | * Accuracy * Completeness * Consistency * Timeliness * Validity * Uniqueness * Integrity * Conformity * Relevance |
+| Data engineering and movement | * [Engineering](https://en.wikipedia.org/wiki/Data_engineering "Data engineering") * [Integration](https://en.wikipedia.org/wiki/Data_integration "Data integration") * [Storage](https://en.wikipedia.org/wiki/Data_storage "Data storage") * [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load "Extract, transform, load")/[ELT](https://en.wikipedia.org/wiki/Extract,_load,_transform "Extract, load, transform") * [Extract](https://en.wikipedia.org/wiki/Data_extraction "Data extraction") * [Transform](https://en.wikipedia.org/wiki/Data_transformation "Data transformation") * [Load](https://en.wikipedia.org/wiki/Data_loading "Data loading") * [Migration](https://en.wikipedia.org/wiki/Data_migration "Data migration") * [Synchronization](https://en.wikipedia.org/wiki/Data_synchronization "Data synchronization") * [Compression](https://en.wikipedia.org/wiki/Data_compression "Data compression") * [Fusion](https://en.wikipedia.org/wiki/Data_fusion "Data fusion") * [Format management](https://en.wikipedia.org/wiki/Data_format_management "Data format management") |
+| Data preparation and operations | * [Acquisition](https://en.wikipedia.org/wiki/Data_acquisition "Data acquisition") * [Augmentation](https://en.wikipedia.org/wiki/Data_augmentation "Data augmentation") * [Collection](https://en.wikipedia.org/wiki/Data_collection "Data collection") * [Annotation](https://en.wikipedia.org/wiki/Data_annotation "Data annotation") * [Editing](https://en.wikipedia.org/wiki/Data_editing "Data editing") * [Deduplication](https://en.wikipedia.org/wiki/Data_deduplication "Data deduplication") * [Pre-processing](https://en.wikipedia.org/wiki/Data_pre-processing "Data pre-processing") * [Preparation](https://en.wikipedia.org/wiki/Data_preparation "Data preparation") * [Processing](https://en.wikipedia.org/wiki/Data_processing "Data processing") * [Reduction](https://en.wikipedia.org/wiki/Data_reduction "Data reduction") * [Redundancy](https://en.wikipedia.org/wiki/Data_redundancy "Data redundancy") * [Wrangling/munging](https://en.wikipedia.org/wiki/Data_wrangling "Data wrangling") * [Scraping](https://en.wikipedia.org/wiki/Data_scraping "Data scraping") * [Rescue](https://en.wikipedia.org/wiki/Data_rescue "Data rescue") |
+| Analysis, science, and interpretation | * [Big](https://en.wikipedia.org/wiki/Big_data "Big data") * [Analysis](https://en.wikipedia.org/wiki/Data_analysis) * [Exploration](https://en.wikipedia.org/wiki/Data_exploration "Data exploration") * [Mining](https://en.wikipedia.org/wiki/Data_mining "Data mining") * [Science](https://en.wikipedia.org/wiki/Data_science "Data science") * [Topological data analysis](https://en.wikipedia.org/wiki/Topological_data_analysis "Topological data analysis") * [Warehouse](https://en.wikipedia.org/wiki/Data_warehouse "Data warehouse") * [Business intelligence](https://en.wikipedia.org/wiki/Business_intelligence "Business intelligence") |
+| Data economy and exchange | * Data economy * [Sharing](https://en.wikipedia.org/wiki/Data_sharing "Data sharing") * [Open data](https://en.wikipedia.org/wiki/Open_data "Open data") * [Philanthropy](https://en.wikipedia.org/wiki/Data_philanthropy "Data philanthropy") * [Data as a service](https://en.wikipedia.org/wiki/Data_as_a_service "Data as a service") * [Data broker](https://en.wikipedia.org/wiki/Data_broker "Data broker") * Responsible reuse |
+| Exchange, use, and public context | * [Exhaust](https://en.wikipedia.org/wiki/Data_exhaust "Data exhaust") * [Farming](https://en.wikipedia.org/wiki/Data_farming "Data farming") * [Archaeology](https://en.wikipedia.org/wiki/Data_archaeology "Data archaeology") |
+| Distributed data, domains, and digital twins | * [Data mesh](https://en.wikipedia.org/wiki/Data_mesh "Data mesh") * [Data product](https://en.wikipedia.org/wiki/Data_product "Data product") * [Data domains](https://en.wikipedia.org/wiki/Data_domain "Data domain") * Data categories * [Data digital twins](https://en.wikipedia.org/wiki/Digital_twin "Digital twin") * Digital thread * Operational twins * Analytical twins |
+| Vendors and actors | * Data vendors * Data technology vendors * [Data service providers](https://en.wikipedia.org/wiki/Data_as_a_service "Data as a service") * [Data brokers](https://en.wikipedia.org/wiki/Data_broker "Data broker") * [Chief data officers](https://en.wikipedia.org/wiki/Chief_data_officer "Chief data officer") * [Information professionals](https://en.wikipedia.org/wiki/Information_professional "Information professional") * [Collibra](https://en.wikipedia.org/w/index.php?title=Collibra&action=edit&redlink=1 "Collibra (page does not exist)") * [Informatica](https://en.wikipedia.org/wiki/Informatica "Informatica") * [IBM](https://en.wikipedia.org/wiki/IBM "IBM") * [SAP](https://en.wikipedia.org/wiki/SAP "SAP") * [Oracle](https://en.wikipedia.org/wiki/Oracle_Corporation "Oracle Corporation") * [SAS](https://en.wikipedia.org/wiki/SAS_Institute "SAS Institute") * [Qlik](https://en.wikipedia.org/wiki/Qlik "Qlik") * [Experian](https://en.wikipedia.org/wiki/Experian "Experian") * [Alation](https://en.wikipedia.org/wiki/Alation "Alation") * Ataccama * Precisely |
+
+| [Authority control databases](https://en.wikipedia.org/wiki/Help:Authority_control "Help:Authority control")[![Image 14: Edit this at Wikidata](https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png)](https://www.wikidata.org/wiki/Q1988917#identifiers "Edit this at Wikidata") |
+| --- |
+| International | * [GND](https://d-nb.info/gnd/4123037-1) |
+| National | * [Czech Republic](https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph301326&CON_LNG=ENG) |
+
+Retrieved from "[https://en.wikipedia.org/w/index.php?title=Data_analysis&oldid=1347185105](https://en.wikipedia.org/w/index.php?title=Data_analysis&oldid=1347185105)"
+
+[Categories](https://en.wikipedia.org/wiki/Help:Category "Help:Category"): 
+*   [Data analysis](https://en.wikipedia.org/wiki/Category:Data_analysis "Category:Data analysis")
+*   [Data processing](https://en.wikipedia.org/wiki/Category:Data_processing "Category:Data processing")
+*   [Scientific method](https://en.wikipedia.org/wiki/Category:Scientific_method "Category:Scientific method")
+*   [Computational fields of study](https://en.wikipedia.org/wiki/Category:Computational_fields_of_study "Category:Computational fields of study")
+*   [Data management](https://en.wikipedia.org/wiki/Category:Data_management "Category:Data management")
+
+Hidden categories: 
+*   [CS1 maint: work parameter with ISBN](https://en.wikipedia.org/wiki/Category:CS1_maint:_work_parameter_with_ISBN "Category:CS1 maint: work parameter with ISBN")
+*   [CS1 errors: missing periodical](https://en.wikipedia.org/wiki/Category:CS1_errors:_missing_periodical "Category:CS1 errors: missing periodical")
+*   [Webarchive template wayback links](https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links "Category:Webarchive template wayback links")
+*   [CS1 maint: DOI inactive as of July 2025](https://en.wikipedia.org/wiki/Category:CS1_maint:_DOI_inactive_as_of_July_2025 "Category:CS1 maint: DOI inactive as of July 2025")
+*   [CS1 maint: DOI inactive as of January 2026](https://en.wikipedia.org/wiki/Category:CS1_maint:_DOI_inactive_as_of_January_2026 "Category:CS1 maint: DOI inactive as of January 2026")
+*   [Articles with short description](https://en.wikipedia.org/wiki/Category:Articles_with_short_description "Category:Articles with short description")
+*   [Short description is different from Wikidata](https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata "Category:Short description is different from Wikidata")
+
+*    This page was last edited on 5 April 2026, at 05:24(UTC).
+*   Text is available under the [Creative Commons Attribution-ShareAlike 4.0 License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License "Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License"); additional terms may apply. By using this site, you agree to the [Terms of Use](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use "foundation:Special:MyLanguage/Policy:Terms of Use") and [Privacy Policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy "foundation:Special:MyLanguage/Policy:Privacy policy"). Wikipedia® is a registered trademark of the [Wikimedia Foundation, Inc.](https://wikimediafoundation.org/), a non-profit organization.
+
+*   [Privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy)
+*   [About Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:About)
+*   [Disclaimers](https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer)
+*   [Contact Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contact_us)
+*   [Legal & safety contacts](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information)
+*   [Code of Conduct](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct)
+*   [Developers](https://developer.wikimedia.org/)
+*   [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)
+*   [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)
+*   [Mobile view](https://en.wikipedia.org/w/index.php?title=Data_analysis&mobileaction=toggle_view_mobile)
+
+*   [![Image 16: Wikimedia Foundation](https://en.wikipedia.org/static/images/footer/wikimedia.svg)](https://www.wikimedia.org/)
+*   [![Image 17: Powered by MediaWiki](https://en.wikipedia.org/w/resources/assets/mediawiki_compact.svg)](https://www.mediawiki.org/)
+
+Search
+
+Search
+
+- [x] Toggle the table of contents 
+
+Data analysis
+
+[](https://en.wikipedia.org/wiki/Data_analysis#)[](https://en.wikipedia.org/wiki/Data_analysis#)[](https://en.wikipedia.org/wiki/Data_analysis#)[](https://en.wikipedia.org/wiki/Data_analysis#)[](https://en.wikipedia.org/wiki/Data_analysis#)[](https://en.wikipedia.org/wiki/Data_analysis#)[](https://en.wikipedia.org/wiki/Data_analysis#)
+
+42 languages[Add topic](https://en.wikipedia.org/wiki/Data_analysis#)

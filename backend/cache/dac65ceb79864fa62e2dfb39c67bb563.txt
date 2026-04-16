@@ -1,0 +1,405 @@
+Title: AirBNB at Kevin Warnock
+
+URL Source: https://kevinwarnock.com/tag/airbnb/
+
+Markdown Content:
+[![Image 1: Jeff Clavier on left August 30 2012 at Berkeley Entrepreneurs Forum Photo by Kevin Warnock](http://kevinwarnock.com/wp-content/uploads/2013/03/Jeff-Clavier-on-left-August-30-2012-at-Berkeley-Entrepreneurs-Forum-Photo-by-Kevin-Warnock-e1363999786520.jpg)](http://kevinwarnock.com/wp-content/uploads/2013/03/Jeff-Clavier-on-left-August-30-2012-at-Berkeley-Entrepreneurs-Forum-Photo-by-Kevin-Warnock-e1363999786520.jpg)
+
+Jeff Clavier, left, August 30, 2012, at Berkeley Entrepreneurs Forum at University of California Berkeley
+
+I have learned that smoke and fire detectors almost always signal low battery condition in the early morning between midnight and five o’clock. This wakes me up and forces me to replace batteries when I am sleepy. I suspect many people don’t have spare batteries always on hand like I do, and simply take the batteries out until they can go to the store. This leaves the premises less well protected, and I suspect fires have started during this period and that people have died.
+
+The fix is so simple I can’t believe I only thought of it today.
+
+Simply include a clock in all battery operated smoke, fire and carbon monoxide detectors. Have this clock powered by its own battery that can last a decade or more. Set this clock at the factory for the part of the world where the detectors will be sold. The low battery circuitry should consult this on board clock, and should suppress the chirping ‘low battery’ notification during typical sleeping hours, say from 10pm to 8am. The chirping can resume at 8am each day until the batteries are replaced. Alarms typically will chirp for months before they run out of power entirely, so the delay in chirping during the night will not cause a significant safety issue.
+
+The clock should be user resettable so the detector can be moved between time zones by the buyer, or set to accommodate unusual sleep schedules.
+
+I suspect the clock I am proposing costs no more than USD $.50 in bulk, and the feature that it will enable can be promoted to boost sales. I suspect such a detector will sell well because I suspect everyone with a detector has been awakened by their chirping.
+
+Chirping during waking hours is likely to be a measurable advance in fire and poisoning safety, since awake and alert people are less likely to make mistakes, like removing the batteries or putting in replacement batteries backwards.
+
+[![Image 2: Jeff Clavier's Facebook Wall as of March 22, 2013](http://kevinwarnock.com/wp-content/uploads/2013/03/Jeff-Clavier-Facebook-Wall-March-22-20131.jpg)](http://kevinwarnock.com/wp-content/uploads/2013/03/Jeff-Clavier-Facebook-Wall-March-22-20131.jpg)
+
+Jeff Clavier's Facebook Wall as of March 22, 2013
+
+While the circuit designers are at it, they should program the detectors to keep track of the passing years and notify the user when the detector has reached its end of life, around ten years after manufacture. I am sure there are millions of ‘expired’ detectors still in use because people forget when to replace them.
+
+This is my second post on how to improve detectors. My first post[Smoke detectors should send activation warnings via text messages via Wi-Fi](http://kevinwarnock.com/2011/07/23/smoke-detectors-should-send-activation-warnings-via-text-messages-via-wi-fi/) I wrote July 23, 2011.
+
+I believe detectors chirp now early in the morning because batteries deliver less power when cold, and in many homes the temperature drops lowest early in the morning. Here’s a [post](http://sdinspections.com/smoke-alarms) by The San Diego Real Estate Inspection Company that agrees with me.
+
+Thank you to [SoftTech VC](http://softtechvc.com/) venture capitalist [Jeff Clavier](https://www.facebook.com/jeffclavier) for sparking my imagination today to think up this fix. Clavier asked on Facebook this morning why detectors report low batteries exclusively at 3:30am. It’s then that I thought of including an internal clock to solve the problem. I posted my suggestion in a comment on Clavier’s Facebook Wall, and then decided to write this post to formalize my suggestion, with the hope the idea gets discovered and implemented.
+
+If this idea makes money for you or your company, please send me an industry average royalty for using this, out of the goodness of your heart. I am guessing that will amount to about USD $.05 per detector, but that could result in my getting ever more wealthy over time given every residence on Earth should have multiple detectors forever. Thank you!
+
+I will not patent this so it’s now in the public domain if it hasn’t already been patented, which is not unlikely given how simple the idea is. I could quickly find no mention of this idea after performing a Google search for this idea.
+
+I wrote about [Jeff Clavier last year](http://kevinwarnock.com/2012/09/05/berkeley-entrepreneurs-forum-august-30-2012/), and I took the picture of him that accompanies this post. Clavier speaks colorfully. My favorite quote from when I saw him speak August 30, 2012?
+
+“I passed on airbnb that some showed me when it was called air bed and breakfast and I said ‘air bed and breakfast… are you f—ing kidding me?”
+
+My preference is that the world move quickly towards hard wired sealed detectors that have backup batteries that will last [ten years](http://philadelphia.cbslocal.com/2013/01/09/ten-year-smoke-alarms-now-required-in-older-philadelphia-homes/). It also seems that non hard wired detectors should have solar cells like calculators and watches, to keep the batteries from having to drain themselves so quickly.
+
+My clock idea I present here is still relevant to such detectors, since I would prefer to learn the detector needs replacing while I am awake and likely to buy a new one at once.
+
+[![Image 3: The Berkeley Entrepreneurs Forum, August 30, 2012, held at Stanley Hall, room 105, because Anderson Auditorium was booked](http://kevinwarnock.com/wp-content/uploads/2012/09/The-Berkeley-Entrepreneurs-Forum-August-30-2012-photo-by-Kevin-Warnock-e1346723843912.jpg)](http://kevinwarnock.com/wp-content/uploads/2012/09/The-Berkeley-Entrepreneurs-Forum-August-30-2012-photo-by-Kevin-Warnock.jpg)
+
+The Berkeley Entrepreneurs Forum, August 30, 2012, held at Stanley Hall, room 105, because Anderson Auditorium was booked
+
+On August 30, 2012 I attended the [2012-13 Angel & Venture Capital Financing Overview](http://entrepreneurship.berkeley.edu/bef/Aug12_forum.html) at [The Berkeley Entrepreneurs Forum](http://entrepreneurship.berkeley.edu/bef/index.html). [](http://entrepreneurship.berkeley.edu/bef/Aug12_forum.html)
+
+The August 30th Forum was the first of this academic year. The Berkeley Entrepreneurs Forum is a production of [The Lester Center for Entrepreneurship & Innovation](http://entrepreneurship.berkeley.edu/main/index.html) at the [Haas School of Business](http://haas.berkeley.edu/) at the [University of California Berkeley](http://berkeley.edu/).
+
+[![Image 4: Panelists Jeff Clavier, Vivek Mehra and Jim Barnett at Berkeley Entrepreneurs Forum, August 30, 2012. Photo by Kevin Warnock.](http://kevinwarnock.com/wp-content/uploads/2012/09/Jeff-Clavier-and-Vivek-Mehra-and-Jim-Barnett-at-Berkeley-Entrepreneurs-Forum-August-30-2012-photo-by-Kevin-Warnock-e1346658190127.jpg)](http://kevinwarnock.com/wp-content/uploads/2012/09/Jeff-Clavier-and-Vivek-Mehra-and-Jim-Barnett-at-Berkeley-Entrepreneurs-Forum-August-30-2012-photo-by-Kevin-Warnock-e1346658190127.jpg)
+
+Panelists Jeff Clavier, Vivek Mehra and Jim Barnett at Berkeley Entrepreneurs Forum, August 30, 2012. Photo by Kevin Warnock.
+
+The first Forum of the year for years now starts with [Steve Bengston’s](http://www.linkedin.com/profile/view?id=59806&authType=OPENLINK&authToken=Hr1x&locale=en_US&srchid=a1af9c11-94c1-4ce6-9c31-32c76bb914b0-0&srchindex=1&srchtotal=9&goback=%2Efps_PBCK_steve+bengston_*1_*1_*1_*1_*1_*1_*2_*1_Y_*1_*1_*1_false_1_R_*1_*51_*1_*51_true_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&pvs=ps&trk=pp_profile_name_link) presentation of the [Shaking the Money Tree](https://www.pwcmoneytree.com/MTPublic/ns/index.jsp) report. I suspect Bengston has made this presentation hundreds of times, as he gives it not just at the Forum, but at many venues. In fact, I suspect it’s Bengston’s signature talk.
+
+You can watch the full video of the Forum here to see what happened. I am a [photographer](http://photography.kevinwarnock.com/), not a videographer. This is not the official video, which The Lester Center will publish in its entirety some weeks from now, I believe. I suggest you watch that version, because it will have professional sound from a mixing board, the slides will likely be full screen so you can read them, and the camera used is far better than the still camera I used that happens to also shoot video. I did not upload this video at full quality, since such video takes far longer to compress for Internet display.
+
+There were some good lines from the speakers. I’ve transcribed my favorites here:
+
+Steve Bengston:
+
+“It [venture capital] finally got big in the mid to late 90s and now we worry when the venture business goes from $30B to $20B, but it never got above $20B until 1998 so the scale of the venture business is just much bigger than it’s ever been.”
+
+“What about Series A, ‘didn’t that collapse?’ It is down certainly from the peak but you can see whatever that is there are $200M to $400M of series A deals each quarter just in Silicon Valley and that represents about 50 to about a 100 Series A deals in Silicon Valley each quarter.”
+
+“The good news is there is a lot of money for your deal if you meet the certain metrics for an investor.”
+
+“If you’re going to raise money which is still hard to do, you’re going to raise around $3M. That’s a typical deal. In this era, that buys you a lot more months of burn than it would have say ten years ago.”
+
+“You have 300 to 400 M & A exits in the US a year in the US, much higher than the old days.”
+
+“The top five or so [venture] firms are raising 80% of the money.”
+
+“It begs the question ‘How many VCs do you need to find the 30 good companies every year?’ Right now the answer is about 3,000. For many people that seems high.”
+
+“China has been the number one economy 15 of the last 18 centuries. So, just because they have had a couple of bad centuries you don’t want to count them out. They are used to being on top.”
+
+Jeff Clavier:
+
+“The challenge at the early stage is that even great founders can come up with really stupid ideas.”
+
+“Do it because you are passionate about it, not because it’s cool.”
+
+“I passed on airbnb that some showed me when it was called air bed and breakfast and I said ‘air bed and breakfast… are you f—ing kidding me?'”
+
+Jim Barnett:
+
+“One of the danger signs that all the partners look for is what we call ‘complexifiers’ — people that take what is otherwise a relatively simple business proposition or business idea and figure out how to make it complex.”
+
+“The one thing I would say to those thinking about starting a company or planning to start a company is just go do it. Your idea really doesn’t need to be that great. It really doesn’t. If you’re great, it will get funded.”
+
+“I want to dispell a myth that you learn more from your mistakes than you do from your successes. I think that is just a bunch of crap. I really do. I think you learn from watching success — pattern matching, whether it’s in sports whether it’s in business or anything else so for those of you that are in the audience that are MBAs or that are undergrads that are thinking about what do if they’re not going to start a company I would say ‘go work for a successful company and watch.’ You’ll learn a lot more than doing three failed startups.”
+
+Vivek Mehra:
+
+“I hate doing deals over the weekend. I have never done one and I hope I never have to do one. It’s just impossible to get to know the entrepreneur.”
+
+“When there are very asymmetric equity assignments amongst the team you know what they really think about each other.”
+
+Here is my succinct summary of this Entrepreneurs Forum:
+
+*   The venture industry is in trouble, but there is still plenty of money around.
+*   Lots of angel investors are making what will prove to be poor investments so this increases the chances that you can raise money even if you or your idea are not that good.
+*   There is a lot to be gained by just starting a company, so if you are passionate about doing so, then go for it. You won’t ruin your chances for future success by failing a few times.
+*   However, if you’re not going to start a company, you should work for a clearly successful company so you can pay attention and learn from the success of others.
+*   Surround yourself with high quality people.
+*   Don’t make things more complicated than they need to be.
+*   Have your role worked out with your founders before you pitch to investors. Lopsided equity divisions speak loudly to investors what you think of your co-founders.
+*   Increase your chances of getting funded by persistently pursuing entrepreneurship over years, so investors may gauge your actions over your words.
+*   Work hard and recognize that a lot of success may be attributed to your ability to forge healthy and respectful long term relationships with people in the community.
+
+[![Image 5: Panelist Jeff Clavier answers questions at the Berkeley Entrepreneurs Forum, August 30, 2012. Photo by Kevin Warnock.](http://kevinwarnock.com/wp-content/uploads/2012/09/Jeff-Clavier-answers-questions-at-the-Berkeley-Entrepreneurs-Forum-August-30-2012-photo-by-Kevin-Warnock-e1346724236598.jpg)](http://kevinwarnock.com/wp-content/uploads/2012/09/Jeff-Clavier-answers-questions-at-the-Berkeley-Entrepreneurs-Forum-August-30-2012-photo-by-Kevin-Warnock.jpg)
+
+Panelist Jeff Clavier answers questions at the Berkeley Entrepreneurs Forum, August 30, 2012. Photo by Kevin Warnock.
+
+From the Berkeley Entrepreneurs Forum website, here are the introductions for the moderator and speakers — I added the hyperlinks to make it easier for you to learn more about the panelists and their many interests:
+
+Samuel B. Angus
+
+ Partner
+
+[Fenwick & West LLP](http://www.fenwick.com/pages/default.aspx)
+
+[Samuel B. Angus](http://www.fenwick.com/professionals/Pages/samangus.aspx#) is a partner in the Corporate and Venture Capital Group of [Fenwick & West LLP](http://www.fenwick.com/pages/default.aspx), a law firm specializing in technology and life sciences matters. Mr. Angus is resident in the San Francisco office and his practice concentrates on advising start-up/venture-backed companies, venture capital and debt financings, mergers and acquisitions, intellectual property licensing, joint ventures and general corporate matters. Mr. Angus represents a broad range of companies from privately held start-up companies to publicly traded corporations, including [Airbnb](http://airbnb.com/), [Github](http://github.com/), [Marin Software](http://www.marinsoftware.com/) and [oDesk](https://www.odesk.com/). His practice also includes advising entrepreneurs and investors.
+
+[Jim Barnett](http://www.shastaventures.com/team/jim_barnett)
+
+ Partner
+
+ Shasta Ventures
+
+Jim Barnett is a Partner at [Shasta Ventures](http://www.shastaventures.com/) and has been a highly successful serial CEO and entrepreneur. Jim is currently [chairman](http://www.turn.com/board/jim-barnett) and co-founder of [Turn](http://www.turn.com/home), chairman of [Extole](http://extole.com/) and [Sojern](http://www.sojern.com/), and a board member of [Needle](http://needle.com/) and [RelayRides](https://relayrides.com/). From 2004 until 2009, Jim was CEO, chairman and co-founder of Turn, the leading platform for managing data driven digital advertising. Before that he was president of Overture Search, a division of Overture Services, Inc. Jim joined Overture via its acquisition of [AltaVista](http://en.wikipedia.org/wiki/AltaVista) Company, where he was president and CEO. In this role, he led the company’s successful turnaround and sale to Overture.
+
+Jim was also president of [Ancestry.com](http://ancestry.com/) (MyFamily.com) and president and CEO of ThirdAge Media, which was acquired by Ancestry.com. Prior to that, Jim was president and CEO of Infogrammes North America, a leading global publisher of video games and entertainment software. He was also chairman, president and CEO of Accolade Inc, Infogrammes’ predecessor company, and prior to that was chief operating officer of an “[Inc.](http://www.inc.com/) 100 Fastest Growing Private Companies.”
+
+Jim has served on the boards of many private and public companies including [SideStep, Inc.](http://sidestep.com/) where he was chairman and [Petco](http://petco.com/) where he was also an early investor. Jim earned a bachelor’s degree, MBA and J.D. from [Stanford University](http://stanford.edu/).
+
+[![Image 6: Moderator Sam Angus listens to student Rebecca Spitzer pitch her startup at the Berkeley Entrepreneurs Forum, August 30, 2012](http://kevinwarnock.com/wp-content/uploads/2012/09/Attorney-Sam-Angus-listens-to-student-Rebecca-Spitzer-pitch-her-startup-at-Berkeley-Entrepreneurs-Forum-August-30-2012-e1346724283822.jpg)](http://kevinwarnock.com/wp-content/uploads/2012/09/Attorney-Sam-Angus-listens-to-student-Rebecca-Spitzer-pitch-her-startup-at-Berkeley-Entrepreneurs-Forum-August-30-2012.jpg)
+
+Moderator Sam Angus listens to student Rebecca Spitzer pitch her startup at the Berkeley Entrepreneurs Forum, August 30, 2012
+
+Steve Bengston
+
+[PricewaterhouseCoopers](http://www.pwc.com/us/en/index.jhtml)
+
+[Steve Bengston](http://www.youtube.com/watch?v=UCG3qtRuar8) heads the Emerging Company Services (ECS) group at [PricewaterhouseCoopers](http://www.pwc.com/us/en/index.jhtml). ECS acts as “mentor capitalists” for young, high potential companies.
+
+Before joining PwC, Steve had 20 years of experience in a variety of marketing, business development and general management roles at several high tech companies in the Bay Area. Most recently, he was Pres/CEO of ynot.com [Note: not the website now online at that URL], a leading international emarketing and greeting card company. Previously, he was VP Marketing & Business Development at Worldview Systems, an Internet travel pioneer. At Worldview, Steve helped launch and market Travelocity with Sabre Interactive.
+
+Steve has a BA in Economics and MBA from [Stanford University](http://stanford.edu/). He works closely or sits on the Advisory Board at [Churchill Club](http://www.churchillclub.org/LandingPage.aspx), [SVASE](http://svase.org/), [Life Science Angels](http://www.lifescienceangels.com/site/), [Bay Bio](http://www.baybio.org/), and the [Stanford/MIT Venture Lab](http://www.vlab.org/), has taught classes on startups at [UC Berkeley](http://berkeley.edu/), [San Jose State](http://www.sjsu.edu/), [Santa Clara Law School](http://law.scu.edu/), [Hastings Law School](http://www.uchastings.edu/), and [Stanford](http://stanford.edu/), and is active in a variety of other organizations in the Bay Area targeting entrepreneurs and investors. He is a frequent moderator/panelist at both university and industry sponsored events.
+
+[![Image 7: Sam Angus, a partner at law firm Fenwick & West LLP moderates panel at the Berkeley Entrepreneurs Forum, August 30, 2012. Photo by Kevin Warnock.](http://kevinwarnock.com/wp-content/uploads/2012/09/Sam-Angus-of-Fenwick-and-West-moderates-panel-at-Berkeley-Entrepreneurs-Forum-August-30-2012-photo-by-Kevin-Warnock-e1346724516597.jpg)](http://kevinwarnock.com/wp-content/uploads/2012/09/Sam-Angus-of-Fenwick-and-West-moderates-panel-at-Berkeley-Entrepreneurs-Forum-August-30-2012-photo-by-Kevin-Warnock.jpg)
+
+Sam Angus, a partner at law firm Fenwick & West LLP, moderates a panel at the Berkeley Entrepreneurs Forum, August 30, 2012
+
+Jeff Clavier
+
+ Founder and Managing Partner
+
+[SoftTech VC](http://softtechvc.com/)
+
+Based in Palo Alto, California, [Jean-Francois “Jeff” Clavier](http://softtechvc.com/team_member/jeff-clavier/) is the Founder and Managing Partner of SoftTech VC, one of the most active seed stage investors in Web 2.0 startups. Since 2004, Jeff has invested 125 consumer internet startups (Fund I, Fund II, Fund III) in areas like social media, monetization, search, gaming or B2B/B2C web services. These investments are typically located in Silicon Valley, New-York and Boulder. With over 20 years of operational, entrepreneurial and venture capital experience, Jeff is able to add relevant perspective and value to his companies as they grow from inception to maturity, and hopefully, success.
+
+Jeff was recognized as one of the 13 “Web 2.0 King Makers” by (late) [Business 2.0](http://en.wikipedia.org/wiki/Business_2.0). [BusinessWeek](http://businessweek.com/) named him one of “The 25 Most Influential People on the Web” in 2008, and one of the “Top 25 Angels in Tech” in 2010. He was also nominated in the “Best Angel” category at the [Crunchies](http://crunchies.techcrunch.com/) in 2009 and 2010. He is often noted for his investments in categories such as “passion-centric communities” or online gaming, or for having sold a number of his Web 2.0 startups to the likes of Yahoo, AOL, Intuit or more recently [PayPal](http://paypal.com/), [Twitter](http://twitter.com/) and [Groupon](http://groupon.com/).
+
+Some of Jeff’s representative investments include [Mint](http://mint.com/) ([Intuit](http://intuit.com/)), [Brightroll](http://brightroll.com/), [Truveo](http://truveo.com/) ([AOL](http://aol.com/)), [Userplane](http://www.userplane.com/) (AOL), [Rapleaf](http://rapleaf.com/), [Ustream](http://ustream.com/), [Milo](http://milo.com/) ([eBay](http://ebay.com/)), [Blekko](http://blekko.com/), [Eventbrite](http://eventbrite.com/), [Tapulous](http://tapulous.com/) ([Disney](http://disney.com/)), [DNANexus](http://dnanexus.com/), [FanBridge](http://fanbridge.com/), [BillFloat](http://billfloat.com/), [Fab](http://fab.com/), [Gigwalk](http://gigwalk.com/), [Byliner](http://byliner.com/) and [Wildfire](http://wildfireapp.com/).
+
+[![Image 8: Stuart Sweetow, owner of Audio Video Consultants, capturing video at the Berkeley Entrepreneurs Forum, August 30, 2012](http://kevinwarnock.com/wp-content/uploads/2012/09/Stuart-Sweetow-of-Audio-Video-Consultants-working-at-Berkeley-Entrepreneurs-Forum-August-30-2012-e1346724574169.jpg)](http://kevinwarnock.com/wp-content/uploads/2012/09/Stuart-Sweetow-of-Audio-Video-Consultants-working-at-Berkeley-Entrepreneurs-Forum-August-30-2012.jpg)
+
+Stuart Sweetow, owner of Audio Video Consultants, capturing video at the Berkeley Entrepreneurs Forum, August 30, 2012
+
+Vivek Mehra
+
+[August Capital](http://www.augustcap.com/)
+
+Vivek joined [August Capital](http://www.crunchbase.com/financial-organization/august-capital) in 2003. He invests broadly in IT infrastructure and areas of interest include data center technologies, systems management, security, storage, and cloud computing systems and software. Prior to joining August Capital, Vivek co-founded [Cobalt Networks](http://en.wikipedia.org/wiki/Cobalt_Networks) in 1996. As CTO & VP of Product Development, Vivek built the first successful server appliance and grew Cobalt into a worldwide leader in the category, culminating in a successful IPO and acquisition by [Sun Microsystems](http://en.wikipedia.org/wiki/Sun_Microsystems) for $2B. At Sun, Vivek served as the Vice President and General Manager of the Cobalt Business Unit and a member of Sun’s Technical Architecture Council. Prior to founding Cobalt, Vivek held a number of technical and management positions at [Apple](http://apple.com/), [SGI](http://sgi.com/), and [Digital Equipment Corporation](http://en.wikipedia.org/wiki/Digital_Equipment_Corporation) and successfully developed numerous products including Internet enabled set-top boxes, PDAs, RISC workstations, and high performance graphics subsystems.
+
+Vivek received a BS in Electronics from [Punjab University](http://puchd.ac.in/), India, and an MS in Computer Engineering from [Iowa State University](http://www.iastate.edu/).
+
+[![Image 9: Audience members enjoying a funny moment at the Berkeley Entrepreneurs Forum, August 30, 2012](http://kevinwarnock.com/wp-content/uploads/2012/09/Audience-members-enjoying-a-funny-moment-at-Berkeley-Entrepreneurs-Forum-August-30-2012-photo-by-Kevin-Warnock-e1346724683494.jpg)](http://kevinwarnock.com/wp-content/uploads/2012/09/Audience-members-enjoying-a-funny-moment-at-Berkeley-Entrepreneurs-Forum-August-30-2012-photo-by-Kevin-Warnock.jpg)
+
+Audience members enjoying a funny moment at the Berkeley Entrepreneurs Forum, August 30, 2012
+
+To my knowledge, I have been attending The Berkeley Entrepreneurs Forum for longer than anyone else besides [Jerry Engel](http://facultybio.haas.berkeley.edu/faculty-list/engel-jerome), who founded The Lester Center in 1991 and was its Executive Director for nearly two decades.
+
+I have some suggestions to improve the The Entrepreneurs Forum, which I will describe here. I am posting these suggestions publicly because they are likely applicable to numerous programs across the globe, and I’d like to see these ideas adopted widely if people think they are worthwhile.
+
+1. Dispense with the table panelists sit at. The table doesn’t look good on camera or video, and over time the majority audience for the Forum should be watching online, since the rooms frequently sell out already. Panelists should sit on arm chairs or couches, like they do at most tech conferences that I attend. The moderator should sit with the panelists and not be off to the side standing at a podium. All the people on stage should be outfitted with wireless lapel microphones. I would like the Forum to appear more conversational in style. The table separates the speakers from the audience, where arm chairs suggest a residence for a more intimate vibe.
+
+[Here’s an example of a more visually appealing way to run a panel](http://www.youtube.com/watch?v=UCG3qtRuar8). Steve Bengston is the moderator for this panel at [The Churchill Club](http://churchillclub.com/LandingPage.aspx), where he is a member of its Board of Directors and its past Chair.
+
+[![Image 10: Jeff Burton, the brand new Executive Director of the UC Berkeley Skydeck, talks with Jim Barnett of Shasta Ventures, August 30, 2012](http://kevinwarnock.com/wp-content/uploads/2012/09/Jeff-Burton-of-UC-Berkeley-Skydeck-talks-with-Jim-Barnett-of-Shasta-Ventures-August-30-2012-e1346725085394.jpg)](http://kevinwarnock.com/wp-content/uploads/2012/09/Jeff-Burton-of-UC-Berkeley-Skydeck-talks-with-Jim-Barnett-of-Shasta-Ventures-August-30-2012.jpg)
+
+Jeff Burton, the brand new Executive Director of the UC Berkeley Skydeck, talks with Jim Barnett of Shasta Ventures, August 30, 2012
+
+2. Commercial bottled water should be forbidden on stage, even if the speakers bring it with them. Nearly all the conferences I attend serve water from pitchers into real glasses. Bottled water is an [evil](http://www.adventure-journal.com/2010/04/the-evils-of-bottled-water-communicated-nicely/) product, and it looks bad in photographs and video to see those bottles. Image is important, and promoting bottled water by showing it on stage should stop.
+
+3. Commercial bottled water should not be a beverage choice during the networking hour. Tap water should be offered, and it should not require a drink ticket.
+
+4. When it comes time for audience questions, invite the questioner to sit on stage in an arm chair or on the couch while they ask the question and while they are receiving the answer. This will give the questioner time on video, and will permit them to look the speakers in the eye. This will be a treat for the audience members, because they’ll feel they get to ‘meet’ the panelists for 60 or 120 seconds. Questioners can line up to get their turn on stage. Questioners should be encouraged to state their first and last name, so they can be identified online.
+
+5. Although I appreciate that it’s a lot of work, the Forums should be transcribed, and the transcribed text should be posted online. This is a certain way to get more traffic to The Lester Center website, and it’s likely to increase the interest in the Forum from attendees that can’t attend in person.
+
+6. All Forums should be archived online, including Forums from ten and twenty years ago. Forums should never expire and be removed.
+
+7. The ‘numbers’ should be videotaped and included in the online video. The numbers are often the most interesting part of the evening. The contact information for the number presenters should be posted online, with permission of course, and there should be a hyperlink to the project the person is working on.
+
+[![Image 11: Vivek Mehra, a partner at August Capital, answers questions posed by attendees at the Berkeley Entrepreneurs Forum, August 30, 2012](http://kevinwarnock.com/wp-content/uploads/2012/09/Vivek-Mehra-partner-at-August-Capital-photo-by-Kevin-Warnock-August-30-2012-e1346725202448.jpg)](http://kevinwarnock.com/wp-content/uploads/2012/09/Vivek-Mehra-partner-at-August-Capital-photo-by-Kevin-Warnock-August-30-2012.jpg)
+
+Vivek Mehra, a partner at August Capital, answers questions posed by attendees at the Berkeley Entrepreneurs Forum, August 30, 2012
+
+8. The photographs taken by [Bruce Cook](http://brucecookphoto.com/), the official photographer, should be publicly posted to Facebook, and should be tagged. Once the identities of the people pictured are known via the tagging, the captions for the official Lester Center website should be updated to identify everyone whose name is known. If required, change the terms of the tickets purchased to give UC Berkeley the right to identify the people by name. Offer an ‘opt out’ list during checkin. Having the names with the pictures will increase traffic to The Lester Center website, since people will search for those names for decades to come. Invite people to tag the pictures in the emails The Lester Center sends out and via Facebook status updates.
+
+9. A vast collection of at least 5,000 of Bruce Cook’s unpublished photographs of the Forum from the last twenty years should be published to Facebook and the Web, and they should be tagged and captioned. This was entirely my idea — Cook did not hint that I propose such an idea. The majority of the pictures published should be of the networking hour, to get as many people from the audiences over the years tagged as possible.
+
+10. The Forum should be oversold, like airplane seats. This August 30th Forum was ‘sold out’ but there were unfilled seats in the auditorium, which takes away from the excitement of a sold out show. If too many people show up, they can watch on video monitors in the Bank of America Forum, and as compensation for not getting a seat, their entrance fee can be 100% refunded. I predict the revenue over time from overbooking will more than make up for the refunds that need to be given. Attendees should be told when they buy their tickets they risk being bumped, and encouraged to arrive early to be sure they get a seat.
+
+11. The reminder to ‘Like’ The Lester Center on Facebook should be repeated on a poster displayed during the Forum. The Forum’s Twitter handle should also be on this poster.
+
+12. Attendees should be given a perk if they follow the Forum on social networks, such as a second drink ticket on their next visit to the Forum, to encourage getting as many followers as possible. Currently attendees may eat unlimited quantities of food at the Forum, but are permitted only one drink, either with alcohol or without.
+
+13. Attendees should be invited to blog and post about the Forums, and The Lester Center site should find and link to the best examples of such efforts, to encourage people to write about the Forum.
+
+I am one of the only bloggers writing about the Forum, but there should be at least several.
+
+14. I love the luxurious food served during the networking hour, but it sure seems like it must cost a fortune. I think it would be more than fine to switch to less fancy food. There is precedent for this. Last year at the [Founder School Demo Day](http://kevinwarnock.com/2011/10/14/uc-berkeley-founder-school-demo-day/) what appeared to be inexpensive sandwiches were served, but the event was superb and not diminished by the more everyday food. I suspect the food budget for the Forum could be cut by two thirds without getting more than a handful of complaints. The Forum is still too expensive at USD $25 a ticket, and I bet it loses money even at that price. When I started attending in my mid twenties, the cost was prohibitive. It was only due to my getting free tickets from my employer at the time, Cooley, that I attended regularly. The goal should be to get lots of currently poor entrepreneurs in the making to attend, including but not limited to Berkeley students.
+
+I suggest the price should be no more than $10. To get the price that low, I suggest alcohol should cost extra.
+
+That is all my suggestions for now. The Forum is already a success, or I would not have attended for twenty years. I am trying to make the Forum better.
+
+[![Image 12: Jeff-Burton, left, the brand new Executive Director of the UC Berkeley Skydeck talks with Andre Marquis, Executive Director of The Lester Center for Entrepreneurship & Innovation, August 30, 2012. Photo by Kevin Warnock.](http://kevinwarnock.com/wp-content/uploads/2012/09/Jeff-Burton-of-UC-Berkeley-Skydeck-talks-with-Andre-Marquis-of-The-Lester-Center-August-30-2012-photo-by-Kevin-Warnock-e1346724132740.jpg)](http://kevinwarnock.com/wp-content/uploads/2012/09/Jeff-Burton-of-UC-Berkeley-Skydeck-talks-with-Andre-Marquis-of-The-Lester-Center-August-30-2012-photo-by-Kevin-Warnock-e1346724132740.jpg)
+
+Jeff-Burton, left, the brand new Executive Director of the UC Berkeley Skydeck talks with Andre Marquis, Executive Director of The Lester Center for Entrepreneurship & Innovation, August 30, 2012. Photo by Kevin Warnock.
+
+I upload pictures to this blog at the maximum resolution my camera produces — 21 megapixels. Click on them twice in delayed succession to see them at full size. I shot these pictures at ISO 4,000 due to the low lighting levels.
+
+[Click here to see all the posts I have written about the Berkeley Entrepreneurs Forum](http://kevinwarnock.com/tag/berkeley-entrepreneurs-forum/).
+
+The law firm Fenwick & West LLP where Sam Angus is a partner produced and gave away a great 80 page booklet at the Forum. Retired Fenwick attorney Jacqueline Daunt wrote a fantastic introduction to startups that includes a capitalization table for a hypothetical company from pre-funding stage through a public stock offering. Thank you Fenwick! If I can post this booklet, please let me know and I’ll update this post with a link to a PDF scan of the booklet.
+
+Finally, as an end note, I met Steve Bengston in 1999 during the first dot com boom, when he agreed to help me with [Hotpaper](http://kevinwarnock.com/2010/02/04/hotpaper-my-first-internet-startup-gets-acquired/), my startup at the time. It turned out I didn’t call on him much, since I lined up financing almost too easily, but I will never forget pitching him at his PriceWaterhouseCoopers office in San Jose, California USA, and him telling me at that meeting that he would help me. Bengston is well known, and I was thrilled to have his support, especially back then when I didn’t know many people or know much of anything.
+
+[![Image 13: Ultimate bachelor pad found on Airbnb (photo from jeremyperson.com)](http://kevinwarnock.com/wp-content/uploads/2011/08/ultimateBachelorPad-from-jeremyperson-dot-com1-e1312270320956.jpg)](http://kevinwarnock.com/wp-content/uploads/2011/08/ultimateBachelorPad-from-jeremyperson-dot-com1.jpg)
+
+Ultimate bachelor pad found on Airbnb (photo from jeremyperson.com)
+
+On July 30, 2011 [I wrote a long post about Airbnb](http://kevinwarnock.com/2011/07/30/airbnb-hosting-is-fun-with-minimal-risk/). I used to be an active Airbnb host so I’m still on their email list. On August 1, 2011 I received a lengthy email from Airbnb co-founder and CEO Brian Chesky, which I reproduce in double quotes at the bottom of this post.
+
+Starting August 15, 2011 Airbnb will offer hosts a USD $50,000 guaranteed against property damage done by guests that book their stays via Airbnb. This is generous, and much more than I suggested in my July 30th analysis and discussion. I had suggested Airbnb cover the homeowners’ or renters’ insurance deductible, which is likely to be much, much lower than $50K.
+
+[ad#Google Adsense-1]
+
+I applaud Airbnb for their generous guarantee, which should reassure nervous hosts that they take on little risk by being a host.
+
+I predict this mess will blow over but that Airbnb will benefit from this small scale incident.
+
+What Airbnb needs to loose actual sleep over is a host being killed by a guest. I hope they’ll take some of the suggestions I wrote up on my July 30th blog post to help guard against that. I pray Airbnb never has to confront a guest killing a host or a host killing a guest. One of the best ways to avoid either situation is to take steps now to make both scenarios less likely.
+
+I’ll expand on my thoughts I wrote in my July 30, 2011 post by saying that the phone apps I suggested could be used by guests to send the identification of the host to Airbnb. I had written that the reverse should happen, but while writing this it occured to me that guests might be concerned about their hosts.
+
+If both sides know their IDs are securely on file at Airbnb before anybody goes to sleep, everyone should sleep better, including the CEO of Airbnb.
+
+Here’s Chesky’s email, from start to finish:
+
+“Last month, the home of a San Francisco host named EJ was tragically vandalized by a guest. The damage was so bad that her life was turned upside down. When we learned of this our hearts sank. We felt paralyzed, and over the last four weeks, we have really screwed things up. Earlier this week, I wrote a blog post trying to explain the situation, but it didn’t reflect my true feelings. So here we go.
+
+There have been a lot of questions swirling around, and I would like to apologize and set the record straight in my own words. In the last few days we have had a crash course in crisis management. I hope this can be a valuable lesson to other businesses about what not to do in a time of crisis, and why you should always uphold your values and trust your instincts.
+
+With regards to EJ, we let her down, and for that we are very sorry. We should have responded faster, communicated more sensitively, and taken more decisive action to make sure she felt safe and secure. But we weren’t prepared for the crisis and we dropped the ball. Now we’re dealing with the consequences. In working with the San Francisco Police Department, we are happy to say a suspect is now in custody. Even so, we realize that we have disappointed the community. To EJ, and all the other hosts who have had bad experiences, we know you deserve better from us.
+
+We want to make it right.**On August 15th, we will be implementing a $50,000 Airbnb Guarantee**, protecting the property of hosts from damage by Airbnb guests who book reservations through our website. We will extend this program to EJ and any other hosts who may have reported such property damage while renting on Airbnb in the past.
+
+We’ve built this company by listening to our community. Guided by your feedback, we have iterated to become safer and more secure. Our job’s not done yet; we’re still evolving. In the wake of these recent events, we’ve heard an uproar from people, both inside and outside our community. Know that we were closely listening.
+
+Today we are launching a new safety section of the website ([www.airbnb.com/safety](http://www.airbnb.com/safety)) with the following offerings:
+
+*   **Airbnb Guarantee**
+
+ Starting August 15th, when hosts book reservations through Airbnb their personal property will be covered for loss or damage due to vandalism or theft caused by an Airbnb guest up to $50,000 with our Airbnb Guarantee. Terms will apply to the program and may vary (e.g. by country). This program will also apply retroactively to any hosts who may have reported such property damage prior to August 1, 2011.
+*   **24-Hour Customer Hotline**
+
+ Beginning next week, we will have operators and customer support staff ready to provide around the clock phone and email support for anything big or small.
+*   **2x Customer Support Team**
+
+ Since last month we have more than doubled our Customer Support team from forty-two to eighty-eight people, and will be bringing on a 10-year veteran from eBay as our Director of Customer Support next week.
+*   **Dedicated Trust & Safety Department**
+
+ Airbnb now has an in-house task force devoted to the manual review of suspicious activity. This team will also build new security features based on community feedback.
+*   **Contact the CEO**
+
+ If you can’t get a hold of anyone or if you just want to contact me, email[brian.chesky@airbnb.com](mailto:brian.chesky@airbnb.com).
+
+We’ve also added several other safety-related features to strengthen the trust and confidence of our community:
+
+*   **Safety Tips**
+
+ Suggestions for both guests and hosts on how to utilize our tools to better inform your decisions.
+*   **Verified Profiles**
+
+ Our updated user profiles chronicle their public history on Airbnb, giving you more insight than ever about a potential host or guest. Along with standard social information, you’ll also see if a user has verified their phone number, connected to their Facebook account, and whether the majority of their reviews are positive or negative. And as always, you can read their reviews and references.
+*   **Customized trust settings**
+
+ We now give hosts the ability to set custom trust parameters for bookings; those who don’t meet the specified requirements will be unable to make a reservation. Selections for Trust Settings include: verified phone numbers, profile descriptions, location information, with more coming soon.
+*   **Product suggestions poll**
+
+ Have more ideas on improving safety? Now, you can submit and vote on the best ideas through our new product suggestions poll.
+
+Many more product updates will be released in the coming days. In addition to these new features, there are safeguards already in place to protect the community. These include over 60 million Social Connections, private messaging to screen before booking, a secure reservation and payment system and transaction-based reviews. We also provide verified photographs, fraud detection algorithms, and flagging capabilities.
+
+These steps are just the beginning. Improving the safety and security of our system is ongoing. Although we do have these measures in place, no system is without some risk, so we remind you to be vigilant and discerning. As a member of the community, you have invaluable experience that we hope to draw upon to improve our system. If you have any constructive ideas or feedback, please share them with us at[www.airbnb.com/safety](http://www.airbnb.com/safety).
+
+What’s made us proud during this trying time is the response of our community. Emails of support to EJ poured in; many hosts offered her a place to stay in their homes. It’s been inspiring to see that Airbnb can really bring out the best in people. Like Airbnb, the world works on the idea that people are good, and we’re in this together.
+
+When we first started Airbnb, I told my mom about our plans for the business and she said, “Are you crazy? I’d never do that.” But when I told my late grandfather he said, “Of course! Everyone used to stay in each others’ homes.” We’re bringing back this age-old idea with new technology. Now each day, you and the rest of the community are creating meaningful connections around the world.
+
+Thank you for being part of Airbnb.
+
+Sincerely,
+
+ Brian Chesky
+
+ CEO, Co-founder
+
+ Airbnb
+
+[brian.chesky@airbnb.com](mailto:brian.chesky@airbnb.com)“
+
+[![Image 14: airbnb](http://kevinwarnock.com/wp-content/uploads/2011/07/airbnb.png)](http://kevinwarnock.com/wp-content/uploads/2011/07/airbnb.png)
+
+[Airbnb](http://airbnb.com/), formerly [Air Bed and Breakfast](http://airbedandbreakfast.com/), is in the news this week.
+
+According to [news reports like this one on TechCrunch.com](http://techcrunch.com/2011/07/29/airbnb-victim-speaks-again-homeless-scared-and-angry/), a host’s home was ransacked by a paid guest. Apparently this is the first time this has happened, even though Airbnb says their site has arranged over 2 million nights of stays.
+
+If this is the worst that’s happened in 2 million nights, that sounds like a better record than hotels and motels likely have. I suspect that the rate of guests being actually attacked in a hotel is higher than 1 in 2,000,000, though I have no facts to back up that hunch.
+
+There is controversy about what happened, with [Paul Graham, the founder of Y Combinator saying the host may be lying](http://www.businessinsider.com/airbnb-ransackgate-paul-graham-2011-7). I don’t know what did or didn’t happen, and I’m not taking sides here.
+
+Here are some more links to stories about the controversy:
+
+[The Airbnb Horror Story Continues](http://www.digitaltrends.com/social-media/the-airbnb-horror-story-continues/)
+
+[On Safety — A Word from Airbnb](http://techcrunch.com/2011/07/27/on-safety-a-word-from-airbnb/)
+
+[Airbnb Responds to User Horror Story](http://www.washingtonpost.com/blogs/faster-forward/post/airbnb-responds-to-user-horror-story/2011/07/28/gIQAiBrpeI_blog.html)
+
+[![Image 15: AirBNB graphic from their website](http://kevinwarnock.com/wp-content/uploads/2011/07/AirBNB-graphic-from-their-website1-e1312047464104.jpg)](http://kevinwarnock.com/wp-content/uploads/2011/07/AirBNB-graphic-from-their-website1.jpg)
+
+AirBNB graphic from their website
+
+I will share my experience with Airbnb below.
+
+I was an Airbnb host in 2009. I made about USD $800.
+
+I offered the living room in my detached San Francisco house at USD $40.00 per night. I had a lot of takers, and I absolutely loved being a host. It was a highlight of that year. I got to meet so many interesting travelers, including guests from [France](http://dispatchesfromfrance.blogspot.com/), [Czech Republic](http://czechproperty.blogspot.com/), [Austria](http://theviennawilsons.net/), [Japan](http://russiansenorita.blogspot.com/), [Oklahoma](http://www.blogoklahoma.com/) and even [San Francisco](http://www.sfgirlbybay.com/).
+
+I never felt unsafe even though I hosted groups as large as four people.
+
+I increased my feeling of safety by installing an electronic deadbolt. I assigned a new door code for each guest or group of guests, and I deleted the code when they departed. So nobody retained access to my house after their visit.
+
+I also made a copy of the government issued identification documents of each guest, and I locked these copies in a safe and scanned them and emailed them to myself. So even if a guest burned down my house, I would be able to give the authorities copies of the IDs of my guests.
+
+I would guess that the person who allegedly had their apartment ransacked didn’t make a copy of the ID of their guest. I think AirBNB should instruct hosts to do so. After all, hotels and motels in the US are required to ask to see your ID, so guests are trained to not think anything of such a request. I’ve been asked for my passport at all the hotels, motels and youth hostels I’ve stayed at outside of the US, so I suspect there is a law requiring such requests almost worldwide.
+
+I suspect that people are less likely to ransack a place after they’ve had their ID copied by the host.
+
+One of the most interesting guests I had in 2009 was a guy who arrived by motorcycle from his San Francisco apartment. He stayed the night but didn’t shower in the morning. He went home for that, I guess. Why did he stay here, alone?
+
+Airbnb was considering hiring him, and part of the hiring process required that applicants try the service. He was very talkative, and since we were both in the Internet field, we had a lot to talk about. I recall Airbnb had fewer than 10 employees at the time. I could tell Airbnb was a great company on its way up, up, up. What a business model — I recall they collect 20% of the rental price for playing matchmaker and escrow agent.
+
+According to recent news reports, Airbnb recently closed a [USD $112 million dollar venture capital investment at a valuation of USD $1,300,000,000 (sic)](http://blogs.forbes.com/tomiogeron/2011/07/25/airbnb-raises-massive-112-million-funding-round/). If that guy that stayed with me for a night got hired, he’s likely now worth millions on paper. I’m happy for him.
+
+Here are some links to articles about Airbnb:
+
+[AirBNB Could Have More Rooms than Hilton by 2010](http://blogs.forbes.com/bruceupbin/2011/06/29/airbnb-could-have-more-rooms-than-hilton-by-2012/)
+
+[My Ultimate Bachelor Pad on AirBNB](http://www.jeremyperson.com/my-ultimate-bachelor-pad-on-airbnb-com/)
+
+I know two people who used Airbnb to book a multinight stay in an apartment in [Paris, France](http://www.theparisblog.com/). They got the entire place to themselves. I saw pictures and the home was charming and simply lovely. There was no elevator and there were six flights of spiral stairs to climb, but I bet those stairs made the place particularly memorable for the travelers. I am not criticizing Airbnb or Paris for the stairs. I really believe that charming old buildings help their occupants form strong memories. It was probably a pain to lug suitcases up six flights of stairs. But as those memories fade, I believe the fond memories of the apartment will remain, and that even 50 years from now those travelers will fondly remember their cute Paris apartment, but they won’t remember any of the corporate hotels they stayed at back then, no matter how costly or opulent.
+
+I was inspired to become an Airbnb host by my brother [Andrew Warnock](http://fcmdsc.wordpress.com/2009/03/17/the-world-window-at-dsc/). On his honeymoon with his wife, they booked an apartment in [Prague, Czech Republic](http://www.praguewelcome.cz/en/) by visiting a booking booth in the [Prague central train station](http://www.pragueexperience.com/places.asp?PlaceID=1005). He said the apartment was really great, and that he would repeat the experience.
+
+[![Image 16: AirBNB founders (picture from their website)](http://kevinwarnock.com/wp-content/uploads/2011/07/AirBNB-founders-from-their-website-e1312050672659.jpg)](http://kevinwarnock.com/wp-content/uploads/2011/07/AirBNB-founders-from-their-website.jpg)
+
+AirBNB founders (picture from their website)
+
+Now, back to the Airbnb property damage controversy. AirBNB is worth more than a billion dollars now. They are famous. They are targets, and they’ll need to deal with that, sadly.
+
+I can easily see a situation where hosts stage a trashing of their home, hoping to get new housing, courtesy of a rich and well liked startup. I would think that Airbnb will ultimately decide to require hosts to email them the IDs of guests on the day of checkin. This will allow Airbnb to be a central repository of the identification documents, and will help greatly if a host is ever hurt such that they can’t point the authorities to the location of the IDs. Airbnb already stores the credit card details of its guests, so storing their IDs should not raise the eyebrows of well intentioned guests. However, it should greatly alarm poorly intentioned guests.
+
+With the widespread adoption of smart phones with cameras, hosts can photograph and send photos by MMS or email. If it’s decided such systems are not secure enough, Airbnb could write a set of phone apps that would use the camera to take the picture. Then, the apps could encrypt the picture and directly connect to servers at Airbnb. In this way, the sensitive ID documents could be securely transmitted to Airbnb while bypassing the Internet’s open email infrastructure.
+
+Again, I don’t know what happened in the current ugly situation in the news. If the host’s home was ruined by a guest, then perhaps AirBNB should pay the deductable for any insurance the host carries. I do think that AirBNB shouldn’t be fully on the hook for all the damages, because that’s what renters’ or homeowners’ insurance is for. What if a guest accidentally burns down an apartment building by careless use of candles or the stove? Should AirBNB have to spend millions to rebuild an apartment building? I don’t think that’s fair or just. The terms of service should require that hosts carry suitable insurance as a condition of being a host.
+
+I’m sure all these issues will get worked out. I met one of the founders of Airbnb in 2009 when he came to my house with his camera and tripod to take pictures for my profile. When he learned I already had pretty good pictures on my profile, he didn’t take any and we used his time at my house to talk about Airbnb. I had a good feeling about him, and I suspect if his other cofounders are similar, that the company will come though this situation stronger. The founders of Airbnb are[Nathan Blecharczyk,Brian Chesky and Joe Gebbia](http://www.airbnb.com/founding-team). I can’t remember which founder came by my house.
+
+[I have a website for my house](http://sanfranciscohouseforrent.com/) where you can see the pictures I used when I was an AirBNB host.
+
+I continue to be a huge fan of Airbnb and I hope to again be a host. The reason I am not a host right now is I have four young female roommates sharing my house as tenants, and it just doesn’t seem nice to ask them if I can allow random strangers to share their bathroom, as much as I think it’s safe.
+
+Disclosure: I am friends with [Sam Angus](http://www.fenwick.com/attorneys/4.2.1.asp?aid=265), a partner at law firm[Fenwick & West LLP](http://fenwick.com/). Angus represents Airbnb. I haven’t had any contact with Angus about this controversy.

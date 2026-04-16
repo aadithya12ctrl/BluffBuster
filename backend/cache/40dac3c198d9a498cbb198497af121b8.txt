@@ -1,0 +1,64 @@
+Title: Percentage Increase Calculator ％ - Calculate percent increase
+
+URL Source: https://www.gigacalculator.com/calculators/percent-increase-calculator.php
+
+Markdown Content:
+Use this percent increase calculator to calculate the result from a percentage increase by any amount. Easy to use as a percentage growth calculator for your salary, business, or investment. Increase a number by a percentage (add X% to a number).
+
+Quick navigation:
+
+1.   [How to calculate percentage increase?](https://www.gigacalculator.com/calculators/percent-increase-calculator.php#percentincrease)
+
+    *   [Percentage increase formula](https://www.gigacalculator.com/calculators/percent-increase-calculator.php#percentinceaseformula)
+    *   [How to increase a number by a percentage](https://www.gigacalculator.com/calculators/percent-increase-calculator.php#numberincreaseformula)
+
+2.   [Percent increase calculation examples](https://www.gigacalculator.com/calculators/percent-increase-calculator.php#examples)
+
+    *   [New versus old salary / hourly rate](https://www.gigacalculator.com/calculators/percent-increase-calculator.php#newvsoldsalary)
+    *   [Percentage growth calculation](https://www.gigacalculator.com/calculators/percent-increase-calculator.php#businessgrowth)
+    *   [Price increase calculation](https://www.gigacalculator.com/calculators/percent-increase-calculator.php#pricewithtax)
+    *   [Increase in property value example](https://www.gigacalculator.com/calculators/percent-increase-calculator.php#propertyvalue)
+
+## How to calculate percentage increase?
+
+Percentage increase is a useful thing to calculate when comparing time periods, estimating growth percent (yearly, monthly, daily etc.), or comparing a new state to an old state of things, e.g. a new [salary](https://www.gigacalculator.com/converters/salary-converter.php) or [hourly rate](https://www.gigacalculator.com/calculators/hourly-to-salary-calculator.php), versus your previous one. The formula for calculating percent increase used in our percentage increase calculator is:
+
+### Percentage increase formula
+
+**Percent increase = new / old * 100 - 100**
+
+where **new** is the newer quantity or measure, and **old** is the older (or original) quantity or measure. It can be used to calculate the percentage by which one number is larger than another.
+
+### How to increase a number by a percentage
+
+Sometimes a starting, or original quantity, measure, or price is known and one wants to estimate what it would become after it is **increased by a given percentage**. To increase a number by a percentage, use the formula:
+
+**Increased value = base + base * % increase / 100**
+
+where **base** is the starting amount (starting number) and **% increase** is the percentage to increase it by. The above formula would be used for a price increase, pay increase, or salary increase calculation. Let us see some concrete examples to explore how it works.
+
+## Percent increase calculation examples
+
+Several practical examples on how to work out a percentage increase should illustrate the use of relative growth calculations in various applied scenarios.
+
+### New versus old salary / hourly rate
+
+First, consider an example of a salary percentage increase. Say your salary is $50,000 and you were offered a salary hike amounting to a 20% increase of your current pay. To calculate your new salary after the raise do: $50,000 + $50,000 * 20 / 100 = $50,000 + $50,000 * 0.2 = $50,000 + $10,000 = $60,000. This adds 20% to your salary.
+
+In another example, say you have been approached with an opportunity for a new job and they offer you a yearly wage of $60,000 instead of your current $50,000 salary. What is the percentage increase from the difference of $10,000? We plug the numbers into the first formula above to get $60,000 / $50,000 * 100 - 100 = 1.2 * 100 - 100 = 120 - 100 = 20% increase. You can verify this using this online percent increase calculator.
+
+Finally, consider an hourly pay example. If your current rate is $20/h and you are offered a 10% increase, your new hourly rate can be calculated like so: $20 + $20 * 10 / 100 = $20 + $20 * 0.1 = $20 + $2 = $22. That is an example of adding 10 percent to a number. On the other hand, if your current hourly rate is $20/h, and you are offered $22/h, what is that in percentage change? Using the formula, we get 22 / 20 * 100 - 100 = 1.1 * 100 - 100 = 110 - 100 = 10% increase in pay.
+
+### Percentage growth calculation
+
+Say you are running a small business and you have an average revenue of $20,000 per month by serving 20 customers a month, and you want to increase your revenue by 20%. How many new customers would you need? You need to multiply 20 by 20% and add 20, so that is 5 + 20 = 25. So you would need to serve 5 more customers to a total of 25 customers per month, in order to achieve revenue percentage growth of 20%, assuming that revenue per customer stays the same.
+
+In another example, say you have, on average, 20 new clients per month. However, in December you got 30 new clients, and you want to tell what that is in terms of percentage growth. Of course, it is easiest to use our free online percentage increase calculator, but if you choose to do the math by hand, it is 30 / 20 * 100 - 100 = 1.5 * 100 - 100 = 150 - 100 = 50%. A growth of 10 clients represents a fifty percent increase in the number of new clients.
+
+### Price increase calculation
+
+In another situation you might see a price on an item, but it doesn't have tax (e.g. VAT) included. The price is $10 and you know that there is a 20% tax, and you want to know the final price you need to pay after the price increase due to the added tax. Using a percent increase calculator you will quickly find that the final price is $12. The price increase amounts to two dollars. Or you can use our specialized [VAT calculator](https://www.gigacalculator.com/calculators/vat-calculator.php) instead.
+
+### Increase in property value example
+
+In this example use case of our percent increase calculator, you have bought a property worth $500,000 and now its valuation has increased to $550,000 and you want to know what the percentage increase is. You divide the new price by the old price: $550,000 / $500,000 = 1.1, then multiply by 100 to get 110, then subtract 100. The final result is that your property value has increased by 10% over that time period via its gain in value to the amount of 50,000 USD.

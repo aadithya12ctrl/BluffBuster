@@ -1,0 +1,139 @@
+Title: Samsung Security Locks Explained: Knox Guard, MDM, Samsung Account Lock & Google FRP
+
+URL Source: https://imeicheck.com/samsung-imei-check
+
+Published Time: 2026-02-25
+
+Markdown Content:
+## Which IMEI Should You Check? IMEI1 vs IMEI2
+
+Most Samsung Galaxy phones are dual-SIM devices — they have two IMEI numbers. IMEI1 is assigned to the primary SIM slot, and IMEI2 is assigned to the secondary SIM slot or eSIM. When you dial *#06# on your Samsung phone, both numbers are displayed.
+
+**Always use IMEI1 for verification.** Here is why:
+
+When a phone is reported lost or stolen, carriers typically blacklist IMEI1 — the primary identifier. In many cases, IMEI2 may remain clean even when the device is blacklisted. This means checking only IMEI2 can give a false "clean" result and lead you to purchase a blocked phone.
+
+The same applies to warranty, Knox Guard status, and carrier lock information — Samsung's servers index device records primarily by IMEI1. Checking IMEI2 may return incomplete or inaccurate data.
+
+**How to identify IMEI1:** Dial *#06# — IMEI1 is always listed first. In Settings → About Phone, it is labeled "IMEI (Slot 1)" or simply "IMEI." IMEI2 is labeled "IMEI (Slot 2)" or "IMEI2."
+
+**You do not need to check both.** If you verify IMEI1 and the result is clean, there is no need to also check IMEI2. One check on IMEI1 gives you the full picture.
+
+Samsung Galaxy phones can have up to four different types of security locks. Each one works independently — a phone can have one, multiple, or none of them active. Understanding these locks is critical before buying a used Samsung, because some of them cannot be removed by factory reset and can permanently block access to the device.
+
+### Knox Guard
+
+Samsung Knox Guard is a cloud-based device management platform that allows carriers, insurance companies, leasing providers, and enterprise organizations to remotely control Samsung devices. It is primarily used for fraud and theft protection on financed devices.
+
+**How Knox Guard works:** When a carrier sells you a Samsung phone on installments, they register the device's IMEI in the Knox Guard console. From that point, the carrier can remotely lock the phone, display custom messages on the lock screen, restrict app installation, control SIM card changes, and even wipe the device — all without physical access.
+
+**Knox Guard status flow (from Samsung's official documentation):**
+
+Knox Guard devices go through a defined lifecycle of states:
+
+*   **OFF** — The device has never been enrolled in Knox Guard, or it was never accepted into the system. This is the ideal status for used phone buyers. No restrictions exist.
+*   **Pending** — The device IMEI has been uploaded to the Knox Guard console by a reseller, but not yet accepted by the managing organization. The device is not yet controlled.
+*   **Activating** — The device was accepted in Knox Guard, but has not yet connected to the internet to complete activation. Knox Guard will automatically activate when the device boots up and connects to a network (within 7 days of first boot).
+*   **Active** — The device is actively managed by Knox Guard. The managing organization can lock, unlock, send notifications, restrict apps, control SIM changes, block factory reset, and apply various policies. **A phone in Active state can be locked at any moment.**
+*   **Locked** — The managing organization has remotely locked the device. The phone displays a lock screen message and is completely unusable. This typically happens when a financed phone has unpaid installments.
+*   **Completing** — The managing organization has marked the device for release. There is a 2-day grace period during which this can be reversed.
+*   **Completed** — Knox Guard management is finished. The Knox Guard client is permanently uninstalled from the device. **This is a safe status for buyers** — it means the phone was previously managed (e.g., financed) but has been fully released. The device cannot be re-locked through Knox Guard.
+
+**Knox Guard cannot be removed by factory reset.** Even if you wipe the phone completely, Knox Guard will re-activate when the device connects to the internet. Only the managing organization (carrier, insurance company, or employer) can release a device from Knox Guard by marking it as "Completed."
+
+**A factory reset alone does NOT prove a Samsung phone is clean.** Knox Guard, MDM, and Samsung Account Lock all survive a factory reset — they re-activate **the moment the device connects to the internet** (Wi-Fi or mobile data). A phone that appears clean in offline/airplane mode can become locked instantly once it goes online. **If you cannot verify the IMEI before buying, you MUST connect the device to the internet during the in-person meeting and complete the full initial setup** — including signing in with your own Google and Samsung accounts — before paying. If any lock screen, enterprise enrollment prompt, or account verification appears during this process, do not purchase the device.
+
+### MDM — Mobile Device Management
+
+MDM is a broader category of enterprise software that allows organizations to remotely manage, configure, and secure employee devices. Samsung supports MDM through Knox Mobile Enrollment (KME) and Knox Manage, as well as third-party solutions like Microsoft Intune, VMware Workspace ONE, and ManageEngine.
+
+When a Samsung phone is enrolled in MDM, the organization can enforce password policies, restrict which apps can be installed, disable camera or screen capture, prevent factory reset, block USB debugging, and remotely wipe the device.
+
+**Why MDM matters when buying used:** Enterprise devices that have been resold — sometimes without the company's knowledge — may still be enrolled in MDM. The phone might work normally for weeks or months, then suddenly get locked when the company's admin pushes a new policy or notices the device is still active. **MDM enrollment persists through factory reset — when the device connects to the internet after a reset, it automatically re-enrolls into the organization's MDM system.** Unlike Knox Guard, MDM enrollment may not be visible in a standard IMEI check — but in some cases, the Knox Guard status can indicate enterprise enrollment.
+
+**How to check manually:** On the device, go to Settings → Biometrics and Security → Device Admin Apps. If you see entries like "KC Client," "Knox Enrollment Service," or any unfamiliar management app, the device may be MDM-enrolled. Ask the seller to have the organization remove the MDM profile before purchasing.
+
+### Samsung Account Lock (Reactivation Lock)
+
+Samsung Account Lock — also called Reactivation Lock — is Samsung's anti-theft feature, similar to Apple's Activation Lock. When enabled through Samsung's Find My Mobile service, the device requires the original Samsung account credentials after a factory reset.
+
+This feature is tied to the Samsung account (not Google), and it must be manually enabled by the user in Settings → Biometrics and Security → Find My Mobile → Reactivation Lock. It is not enabled by default on most models.
+
+**Why it matters when buying used:** If the seller performed a factory reset without removing their Samsung account, the phone will ask for their Samsung account email and password during setup. Without these credentials, the phone cannot be activated. Only the original Samsung account owner can disable this — Samsung support will only assist with proof of ownership (purchase receipt + matching IMEI).
+
+**Before buying:** Ask the seller to sign out of their Samsung account (Settings → Accounts → Samsung Account → Remove Account) and disable Find My Mobile. **Then connect the device to the internet and verify the setup completes without asking for any Samsung account credentials.** Samsung Reactivation Lock only triggers during the setup process when the device is online. If they cannot complete this process in front of you, do not purchase the device.
+
+### Google Account Lock (FRP — Factory Reset Protection)
+
+Factory Reset Protection (FRP) is a security feature built into Android 5.1 and later — it is not Samsung-specific, but affects all Samsung Galaxy phones. FRP activates automatically when you add a Google account and set a screen lock. After a factory reset (performed through recovery mode or remote wipe), the phone requires the previously synced Google account credentials before it can be set up again.
+
+**FRP cannot be detected through an IMEI check.** There is no remote database that stores FRP status by IMEI — it is stored locally on the device. This makes it a risk that can only be verified with the phone in hand.
+
+**Why it matters when buying used:** If the previous owner factory reset their Samsung phone without first removing their Google account, you will be locked out at the setup screen. The phone will display "This device was reset. To continue, sign in with a Google Account that was previously synced on this device." Without the correct Google credentials, the phone is unusable.
+
+**Before buying:** Ask the seller to perform the factory reset in front of you from Settings → General Management → Reset → Factory Data Reset (not from recovery mode). When done through Settings, FRP is properly cleared. **After the reset, immediately connect the phone to Wi-Fi and go through the entire initial setup process.** FRP only triggers when the device connects to the internet during setup — a phone that was reset but kept offline will appear clean until it goes online. If the phone asks for a Google account you do not own during setup, do not purchase the device.
+
+| Lock Type | Who Controls It | Survives Factory Reset? | Visible in IMEI Check? | How to Verify |
+| --- | --- | --- | --- | --- |
+| **Knox Guard** | Carrier / Insurance / Employer | Yes — re-activates on internet | Yes — via IMEI check | Run a Samsung IMEI check with Knox Guard verification |
+| **MDM** | Employer / Organization | Yes — auto re-enrolls on internet | Partially — may show as Knox Guard Active | Check Settings → Device Admin Apps on device |
+| **Samsung Account Lock** | Device owner (Samsung account) | Yes — triggers during setup on internet | No | Ask seller to sign out + connect to internet during meeting |
+| **Google FRP** | Device owner (Google account) | Yes — triggers during setup on internet | No | Ask seller to factory reset from Settings + complete full setup online |
+
+**Important: All four lock types re-activate only when the device connects to the internet.** A phone in airplane mode or without SIM/Wi-Fi may appear completely clean. Always test with an active internet connection before purchasing.
+
+## Supported Samsung Models
+
+Our checker supports every Samsung Galaxy device ever released:
+
+Galaxy S26 Series (2026)
+
+Galaxy S26 S26+S26 Ultra
+
+Galaxy S25 Series (2025)
+
+Galaxy S25 S25+S25 Ultra S25 Edge S25 FE
+
+Galaxy S24 Series (2024)
+
+Galaxy S24 S24+S24 Ultra S24 FE
+
+Galaxy S23 Series (2023)
+
+Galaxy S23 S23+S23 Ultra S23 FE
+
+Galaxy S22 Series (2022)
+
+Galaxy S22 S22+S22 Ultra
+
+Galaxy S21 Series (2021)
+
+Galaxy S21 S21+S21 Ultra S21 FE
+
+Galaxy Z Fold
+
+Z Fold7 Z Fold6 Z Fold5 Z Fold4 Z Fold3 Z Fold2 Fold
+
+Galaxy Z Flip
+
+Z Flip7 Z Flip6 Z Flip5 Z Flip4 Z Flip3 Z Flip Z Flip 5G
+
+Galaxy A Series
+
+A56 A55 A54 A53 A52 A36 A35 A34 A33 A26 A25 A24 A16 A15 A14 A06 A05
+
+Galaxy M Series
+
+M55 M54 M53 M34 M33 M15 M14
+
+Galaxy F Series
+
+F55 F54 F34 F15
+
+Galaxy Note (legacy)
+
+Note 20 Ultra Note 20 Note 10+Note 10 Note 9 Note 8
+
+Galaxy Tab (tablets)
+
+Tab S10 Tab S9 Tab S8 Tab A9 Tab A8 Tab Active5 Tab Active4 Pro

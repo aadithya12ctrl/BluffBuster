@@ -1,0 +1,297 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;700&family=Space+Grotesk:wght@300;500;700&family=Press+Start+2P&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-bebas: "Bebas Neue", sans-serif;
+  --font-sans: "DM Sans", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --font-space: "Space Grotesk", sans-serif;
+  --font-pixel: "Press Start 2P", system-ui;
+
+  --color-background: #0A0A0F;
+  --color-card: #13131A;
+  --color-border: #1E1E2E;
+  --color-red-forensic: #FF3D3D;
+  --color-amber-forensic: #FF9500;
+  --color-green-forensic: #00C896;
+  --color-off-white: #F0F0F5;
+  --color-muted-forensic: #7A7A9A;
+}
+
+@layer base {
+  body {
+    @apply bg-[#050508] text-off-white font-sans antialiased selection:bg-red-forensic/30;
+    background-image: radial-gradient(circle at 50% 0%, #130a10 0%, #050508 50%);
+    overflow-x: hidden;
+  }
+
+  /* Custom Scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #0A0A0F;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #1E1E2E;
+    border-radius: 10px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #FF3D3D;
+  }
+}
+
+.glass, .glass-green, .glass-amber, .glass-red {
+  backdrop-filter: blur(32px) saturate(200%);
+  position: relative;
+  border-style: solid;
+  border-width: 4px;
+  border-image-slice: 2;
+  border-image-width: 2;
+  border-image-outset: 0;
+  /* Trims the internal frosted background into an 8-bit shape */
+  clip-path: polygon(
+    4px 0px, calc(100% - 4px) 0px, 
+    calc(100% - 4px) 4px, 100% 4px, 
+    100% calc(100% - 4px), calc(100% - 4px) calc(100% - 4px), 
+    calc(100% - 4px) 100%, 4px 100%, 
+    4px calc(100% - 4px), 0px calc(100% - 4px), 
+    0px 4px, 4px 4px
+  );
+}
+
+.glass {
+  background: rgba(19, 19, 26, 0.4);
+  /* The SVG path creates a pixelated 8-bit frame structure */
+  border-image-source: url('data:image/svg+xml;utf8,<svg fill="rgba(255,255,255,0.15)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8"><path d="M0,2 v4 h2 v2 h4 v-2 h2 v-4 h-2 v-2 h-4 v2 z" /></svg>');
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.6);
+}
+
+.glass-green {
+  background: rgba(0, 200, 150, 0.08);
+  border-image-source: url('data:image/svg+xml;utf8,<svg fill="rgba(0,200,150,0.4)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8"><path d="M0,2 v4 h2 v2 h4 v-2 h2 v-4 h-2 v-2 h-4 v2 z" /></svg>');
+  box-shadow: 0 12px 40px rgba(0, 200, 150, 0.1);
+}
+
+.glass-amber {
+  background: rgba(255, 149, 0, 0.08);
+  border-image-source: url('data:image/svg+xml;utf8,<svg fill="rgba(255,149,0,0.4)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8"><path d="M0,2 v4 h2 v2 h4 v-2 h2 v-4 h-2 v-2 h-4 v2 z" /></svg>');
+  box-shadow: 0 12px 40px rgba(255, 149, 0, 0.1);
+}
+
+.glass-red {
+  background: rgba(255, 61, 61, 0.08);
+  border-image-source: url('data:image/svg+xml;utf8,<svg fill="rgba(255,61,61,0.4)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8"><path d="M0,2 v4 h2 v2 h4 v-2 h2 v-4 h-2 v-2 h-4 v2 z" /></svg>');
+  box-shadow: 0 12px 40px rgba(255, 61, 61, 0.1);
+}
+
+/* Spotlight Hover Mechanics */
+.spotlight-card {
+  position: relative;
+  overflow: hidden;
+}
+.spotlight-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    600px circle at var(--mouse-x, 50%) var(--mouse-y, 50%),
+    rgba(255, 255, 255, 0.06),
+    transparent 40%
+  );
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+.spotlight-card:hover::before {
+  opacity: 1;
+}
+
+.verdict-border-red { border-left: 3px solid #FF3D3D; }
+.verdict-border-amber { border-left: 3px solid #FF9500; }
+.verdict-border-green { border-left: 3px solid #00C896; }
+
+/* Lenis smooth scroll */
+html.lenis {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
+
+.crt-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(
+    rgba(18, 16, 16, 0) 50%,
+    rgba(0, 0, 0, 0.1) 50%
+  ),
+  linear-gradient(
+    90deg,
+    rgba(255, 0, 0, 0.02),
+    rgba(0, 255, 0, 0.01),
+    rgba(0, 0, 255, 0.02)
+  );
+  background-size: 100% 3px, 3px 100%;
+  pointer-events: none;
+  z-index: 100;
+  opacity: 0.4;
+}
+
+@keyframes neonPulseGreen {
+  0%, 100% { box-shadow: 0 0 5px rgba(0, 200, 150, 0.2), 0 0 10px rgba(0, 200, 150, 0.2); border-color: rgba(0, 200, 150, 0.4); }
+  50% { box-shadow: 0 0 15px rgba(0, 200, 150, 0.6), 0 0 25px rgba(0, 200, 150, 0.3); border-color: rgba(0, 200, 150, 1); }
+}
+
+@keyframes neonPulseAmber {
+  0%, 100% { box-shadow: 0 0 5px rgba(255, 149, 0, 0.2), 0 0 10px rgba(255, 149, 0, 0.2); border-color: rgba(255, 149, 0, 0.4); }
+  50% { box-shadow: 0 0 15px rgba(255, 149, 0, 0.6), 0 0 25px rgba(255, 149, 0, 0.3); border-color: rgba(255, 149, 0, 1); }
+}
+
+@keyframes neonPulseRed {
+  0%, 100% { box-shadow: 0 0 5px rgba(255, 61, 61, 0.2), 0 0 10px rgba(255, 61, 61, 0.2); border-color: rgba(255, 61, 61, 0.4); }
+  50% { box-shadow: 0 0 15px rgba(255, 61, 61, 0.6), 0 0 25px rgba(255, 61, 61, 0.3); border-color: rgba(255, 61, 61, 1); }
+}
+
+.neon-hover-green:hover {
+  animation: neonPulseGreen 1.5s infinite ease-in-out;
+  @apply bg-green-forensic/10 text-off-white;
+}
+
+.neon-hover-amber:hover {
+  animation: neonPulseAmber 1.5s infinite ease-in-out;
+  @apply bg-amber-forensic/10 text-off-white;
+}
+
+.neon-hover-red:hover,
+.group:hover .group-neon-hover-red {
+  animation: neonPulseRed 1.5s infinite ease-in-out;
+  @apply bg-red-forensic/10 text-off-white;
+}
+
+.dark {
+  --background: oklch(0 0 0);
+}
+
+/* --- Retro Arcade Additions --- */
+.retro-text-3d {
+  background: linear-gradient(180deg, #FF3D3D 0%, #FF9500 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(4px 4px 0px rgba(0, 0, 0, 0.8)) 
+          drop-shadow(6px 6px 0px rgba(255, 61, 61, 0.4)) 
+          drop-shadow(8px 8px 0px rgba(255, 149, 0, 0.2));
+}
+
+.retro-button {
+  background: rgba(10, 10, 15, 0.8);
+  border: 2px solid;
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.5), 
+              6px 6px 0px var(--btn-color);
+  transform: translate(0px, 0px);
+  transition: all 0.15s ease-out;
+}
+
+.retro-button:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.5), 
+              8px 8px 0px var(--btn-color),
+              0 0 20px var(--btn-color-glow);
+}
+
+.retro-button:active {
+  transform: translate(4px, 4px);
+  box-shadow: 0px 0px 0px;
+}
+
+@keyframes float-slow {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-20px) rotate(5deg); }
+}
+
+@keyframes float-fast {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-30px) rotate(-10deg); }
+}
+
+.animate-float-slow { animation: float-slow 6s ease-in-out infinite; }
+.animate-float-fast { animation: float-fast 4s ease-in-out infinite; }
+
+.wave-layer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 200%;
+  height: 50vh;
+  background-repeat: repeat-x;
+  background-position: bottom;
+  background-size: 50% 100%;
+  animation: wave-move linear infinite;
+  pointer-events: none;
+}
+
+@keyframes wave-move {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes blob {
+  0% {
+    transform: translate(0px, 0px) scale(1);
+  }
+  33% {
+    transform: translate(60px, -80px) scale(1.1);
+  }
+  66% {
+    transform: translate(-40px, 40px) scale(0.9);
+  }
+  100% {
+    transform: translate(0px, 0px) scale(1);
+  }
+}
+
+.animate-blob {
+  animation: blob 15s infinite ease-in-out;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+.animation-delay-4000 {
+  animation-delay: 5s;
+}
+
+/* Background Scrollytelling Pacman */
+.pacman-down {
+  width: 0px;
+  height: 0px;
+  border-right: 40px solid var(--color-amber-forensic);
+  border-top: 40px solid var(--color-amber-forensic);
+  border-left: 40px solid var(--color-amber-forensic);
+  border-bottom: 40px solid transparent;
+  border-radius: 40px;
+  animation: chomp-down 0.4s infinite;
+}
+
+@keyframes chomp-down {
+  0%, 100% { border-bottom: 40px solid transparent; }
+  50% { border-bottom: 40px solid var(--color-amber-forensic); }
+}

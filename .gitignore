@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+.venv/
+env/
+__pycache__/
+
+# Build
+build/
+dist/
+
+# Test
+coverage/
+.pytest_cache/
+
+# System
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Large/Temporary Data
+*.db
+*.sqlite
+*.pdf
+*.pptx
+!FooDel.pdf
+
+# Analysis Results (keep demo ones if needed, otherwise ignore)
+# Excluding generic result files to keep repo clean
+*_result.json
+test_*.json

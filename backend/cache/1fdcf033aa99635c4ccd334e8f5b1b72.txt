@@ -1,0 +1,126 @@
+Title: Target CPE Guide
+
+URL Source: https://helpcenter.mintegral.com/en/docs/target-cpe-guide/retargeting-adjust-key-events-postback
+
+Markdown Content:
+[## **I.**Introduction to Target CPE Campaign](https://helpcenter.mintegral.com/en/docs/target-cpe-guide/retargeting-adjust-key-events-postback#I._Introduction_to_Target_CPE_Campaign)[### **1. What is Target CPE Campaign?**](https://helpcenter.mintegral.com/en/docs/target-cpe-guide/retargeting-adjust-key-events-postback#1._What_is_Target_CPE_Campaign?)
+Target CPE stands for Target Cost Per Engagement, which is an advertising strategy offered by Mintegral to optimize the cost of events. It leverages Mintegral's algorithmic capabilities to optimize the Day 0 or Day 7 cost per target event on a unique device basis set by the advertiser **(At present, optimization is only supported for paid-related events. If you are interested in participating in the beta program for non-paid event optimization, please reach out to your account manager)**, and charges based on an oCPI (Optimized Cost Per Install) model.This approach effectively controls the cost of target events and improves advertising effectiveness.
+
+[### 2. What is oCPI?](https://helpcenter.mintegral.com/en/docs/target-cpe-guide/retargeting-adjust-key-events-postback#2._What_is_oCPI?)
+oCPI refers to **Optimized Cost Per Instal**l, a non-fixed pricing model.
+
+With the oCPI model, Mintegral's algorithmic strategy dynamically adjusts the CPI based on the value information at the user level. This non-fixed pricing model ensures the effective acquisition of more quality users.
+
+[### 3. The Available Options for Optimization Time Windows](https://helpcenter.mintegral.com/en/docs/target-cpe-guide/retargeting-adjust-key-events-postback#3._The_Available_Options_for_Optimization_Time_Windows)
+Currently, Mintegral's Target CPE feature can optimize within **Day 0 (D0) and Day 7 (D7)** Target CPE. You can determine which one to test based on your product's payback cycle and the number of paid events on D0 and D7 across all channels.
+
+As a general recommendation, the following metrics are to be considered in terms of testing D7 Target CPE:
+
+*   **Payback Period**
+
+Evaluate the payback period of your product, which is the time it takes for a user to pay after they saw your ad. If the payback period is relatively short and a significant portion of revenue is generated within a few days after installation, D0 Target CPE may be more suitable for your product. If the payback period is longer, then D7 Target CPE might be a better fit for your product.
+
+*   **Ratio of D7 Unique Paying Devices to D0 Unique Paying Devices across all networks**
+
+It is recommended that the number of D7 unique paying devices across all networks should be at least **twice** as high as that of D0 unique paying devices. Sufficient numbers of unique paying devices are required for the delivery and data learning of D7 Target CPE.
+
+[## **II.****Preparation for Target CPE Campaign**](https://helpcenter.mintegral.com/en/docs/target-cpe-guide/retargeting-adjust-key-events-postback#II._Preparation_for_Target_CPE_Campaign)[### 1. Product suitability and required settings for the Target CPE campaign](https://helpcenter.mintegral.com/en/docs/target-cpe-guide/retargeting-adjust-key-events-postback#1._Product_suitability_and_required_settings_for_the_Target_CPE_campaign)
+*   For products with a revenue share of over 70% from in-app purchases, the promotion goal is mainly to attract paying users.
+
+*   For **D0 Target CPE testing**, **it is necessary to enable all network installs and event postbacks at least 7 days in advance and correctly configure the mapping for the in-app purchase event category**. For **D7 Target CPE testing**, **all network installs and event postbacks should be enabled at least 14 days in advance, along with the correct configuration of in-app purchase event category mapping.** The mapping configuration is as follows (please contact your account manager if you have any questions):
+
+![Image 1](https://cdn-customer.helplook.net/_hl/load-img.DSGdRIBO.png)
+
+*   **At least 1 Purchase event will be generated from Mintegral or all networks' postback.**
+
+*   **We recommend running CPI Offer** on Mintegral at least**7** days in advance.
+
+*   **We recommend testing the title so that the average daily number of all network D0/D7 unique paying devices** in the corresponding region over the past week reaches **a minimum of 50 devices**.
+
+*   We highly recommend that you forward not only purchase data but also **other in-app events across all networks** (such as registration, game levels, character creation, etc.). This will enable the algorithmic models to learn from multidimensional user data and reach high-value users more effectively.
+
+**Original Event Meaning****Mintegral Standard Event Name**
+Reaching XX level Game Level
+Registering an app account Register
+Logging into the app Login App
+Reaching XX level and accumulating LTV to XX amount Key Action
+Reaching XX level and completing XX task Key Action
+Other key action events Key Action
+
+[### 2. Target CPE Goal and Budget Suggestions](https://helpcenter.mintegral.com/en/docs/target-cpe-guide/retargeting-adjust-key-events-postback#2._Target_CPE_Goal_and_Budget_Suggestions)
+*   **Target CPE Goal Level Suggestion:** We suggest you set the Target CPE goal in Mintegral based on the **D0 or D7 cost per unique paying user across all networks from user acquisition in the target region**.
+
+    *   **D0 cost per unique paying user = Total spend on user acquisition across all networks/D0 unique paying user (excluding organic users)**
+
+    *   **D7 cost per unique paying user = Total spend on user acquisition across all networks/D7 unique paying user (excluding organic users)**
+
+*   **Budget Suggestion:**To obtain adequate samples during the learning phase, **we recommend setting a daily budget of at least 10 times the Target CPE Goal (Daily Budget = 10 * Target CPE) and the minimum daily budget should be $200.** For example, if Advertiser A sets a Target CPE goal of $60, we suggest setting a daily budget of at least $600. This will help avoid insufficient budget constraints that could hinder progress in subsequent stages of model optimization.
+
+[## **III.****The Optimization Phase of Target CPE Campaign**](https://helpcenter.mintegral.com/en/docs/target-cpe-guide/retargeting-adjust-key-events-postback#III._The_Optimization_Phase_of_Target_CPE_Campaign)
+1.   **Learning Phase**: There will be a learning period before the Target CPE Campaign enters the normal delivery phase. It is recommended that you patiently wait for the learning phase to conclude.
+
+    *   **The duration of the learning phase:**
+
+        *   The learning period for D0 Target CPE campaigns is typically around 1-2 weeks.
+
+        *   The learning period for D7 Target CPE campaigns is typically around 3-4 weeks.
+
+    *   **As the number of unique paying users increases in a Target CPE campaign, the algorithm model will gradually improve, leading to further optimization and better performance.**
+
+        *   When a Target CPE campaign stabilizes and reaches a stable number of 5-10 unique paying users per day, the optimization effect tends to improve, and the CPE price may decrease. This is because with a larger sample size of paying users, the algorithm can better understand user behavior and optimize targeting, resulting in more efficient and cost-effective conversions.
+
+        *   When a Target CPE campaign stabilizes and achieves more than 20 unique paying users per day, the learning phase concludes, and the optimization effect tends to improve significantly.
+
+    *   **During the learning period, you may encounter the following situations:**
+
+        *   The number of paying users is unstable, and there might be days without any paying users, making it difficult to achieve the set Target CPE goal.
+
+        *   The cost per engagement (CPE) exceeds the set Target CPE by 1-1.5 times.
+
+        *   During the first week, the eCPI may be higher compared to the regular CPI campaigns by 1-2 times.
+
+2.   **Normal delivery phase:** When the daily number of unique paying users consistently exceeds 20, and the CPE steadily meets the set target, it can be considered the end of the learning phase, and the algorithm model is in a good state. It is recommended to continue monitoring the performance and gradually increase the budget, while considering raising the Target CPE goal to scale up the volume based on the return on investment.
+
+3.   **How to check the actual CPE of the campaign on Mintegral dashboard?**
+
+Path: Reports >> Cohort Report >> Filter Spend, D0_Devnum, and D7_Devnum, then manually calculate Spend/D0_Devnum or Spend/D7_Devnum to get the cost per D0 unique payer and D7 unique payer.![Image 2](https://cdn-customer.helplook.net/_hl/load-img.DSGdRIBO.png)
+
+[## **IV.****Q&A**](https://helpcenter.mintegral.com/en/docs/target-cpe-guide/retargeting-adjust-key-events-postback#IV._Q&A)
+1.   **Why should the budget be set at least 10 times the Target CPE price?**
+
+    *   **The purpose is to ensure that the algorithm model has a sufficient number of new paying samples every day for learning and optimization,** and smoothly proceeds to the next phase of optimization. If the budget is too low, the campaign may experience increased volatility and poor data performance, caused by the insufficient event sample for algorithm learning.
+
+2.   **How to set up a campaign for multiple countries?**
+
+    *   When conducting Target CPE campaigns in multiple countries, the following are recommended steps:
+
+        *   **Validate data across all networks:** Firstly, contact your account manager to **verify if the volume of unique paying users across all networks for each target country is sufficient.** If the data volume is too small in a particular country, it indicates challenges in scaling up, and we do not recommend conducting Target CPE campaigns in that country.
+
+        *   **Include all target countries in one Target CPE Campaign:** To accumulate as many paying samples as possible, **we recommend including all target countries in only one Target CPE Campaign.**
+
+        *   **Set the same Target CPE price for countries with similar Target CPE goals**: **It is recommended to group countries with similar Target CPE goals within the same campaign and set the same Target CPE price for them.** This allows the algorithm model to learn and optimize on a larger sample size of data and improve the overall performance.
+
+3.   **Why do we need to forward data from all networks?**
+
+    *   Forwarding data from all networks can reduce learning phase costs, shorten the learning phase, and enhance advertising performance. **By forwarding data from all networks, the Target CPE model is expected to acquire more paying users compared to relying solely on Mintegral attribution data. The number of paying conversions can be increased by at least 50%.**
+
+    *   _Mintegral highly values the privacy and security of advertisers. It adheres to relevant privacy policies and data protection regulations. The data from all networks is solely used for model learning and will not be utilized for any other purposes. It does not pose any privacy risks to users._
+
+4.   **Why is it necessary to forward other in-app events?**
+
+    *   **Enhancing advertising performance:** For most products, the actual payment behavior often occurs in the later stages of the user journey. However, relying solely on payment events for advertising optimization might miss out on opportunities to accurately identify high-value users during the early stages of their behavior. **By forwarding other in-app event data, a better understanding of user behavior patterns can be gained, enabling more precise and personalized ad targeting strategies, eventually enhancing advertising performance.**
+
+5.   **How to determine whether to test D0 Target CPE or D7 Target CPE?**
+
+    *   Generally, you can consider the following metrics to determine whether to test D7 Target CPE:
+
+        *   Payback Period: Evaluate the payback period of your product. If the payback period is relatively short and a significant portion of revenue is generated within a few days after installation, D0 Target CPE may be more suitable for your product. If the payback period is longer, then D7 Target CPE might be a better fit for your product
+
+        *   Ratio of D7 Unique Paying Devices to D0 Unique Paying Devices across all networks: It is recommended that the number of D7 unique paying devices across all networks should be at least **twice** as high as the number of D0 unique paying devices. Sufficient numbers of unique paying devices are required to support the delivery effectiveness and data learning for D7
+
+[## **V.****Event Postback Guides**](https://helpcenter.mintegral.com/en/docs/target-cpe-guide/retargeting-adjust-key-events-postback#V._Event_Postback_Guides)
+*   [Adjust](https://mintegral_en.helplook.com/docs/Adjust-Guidance-for-Mintegral)
+*   [Appsflyer](https://mintegral_en.helplook.com/docs/Appsflyer-Guidance-for-Mintegral)
+*   [Singular](https://mintegral_en.helplook.com/docs/Singular)
+*   [SolarEngine](https://mintegral_en.helplook.com/docs/SolarEngine)
+*   [Tenjin](https://mintegral_en.helplook.com/docs/Tenjin)

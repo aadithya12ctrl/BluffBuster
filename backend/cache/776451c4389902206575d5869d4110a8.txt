@@ -1,0 +1,85 @@
+Title: Founder Odyssey
+
+URL Source: https://www.founderodyssey.com/tools/market-size-calculator
+
+Markdown Content:
+## Market Size Calculator
+
+Calculate your TAM, SAM, and SOM to understand your market opportunity and project your revenue potential.
+
+🎯
+
+### TAM
+
+Total Addressable Market represents your entire market opportunity. The maximum revenue potential if you captured 100% of the market.
+
+⭐
+
+### SAM
+
+Serviceable Addressable Market is the portion of TAM that you can realistically target with your business model.
+
+💎
+
+### SOM
+
+Serviceable Obtainable Market is your actual target market - the portion of SAM you can realistically capture.
+
+Total Addressable Market (TAM)
+
+$
+
+SAM (% of TAM)
+
+%
+
+SOM (% of SAM)
+
+%
+
+Enter market size values to see the chart
+
+## How to Use This Calculator
+
+1
+
+### Enter Your TAM
+
+Start with your total market size based on market research and industry data.
+
+2
+
+### Calculate SAM
+
+Determine what percentage of TAM you can realistically service.
+
+3
+
+### Estimate SOM
+
+Project the market share you can capture in the medium term.
+
+4
+
+### Review Projections
+
+Analyze your revenue potential across different scenarios.
+
+## Common Questions
+
+### How accurate are these calculations?
+
+The accuracy depends on your input data quality. Use multiple sources and regularly update your numbers as you gather more market intelligence.
+
+### How often should I update these numbers?
+
+Review and update your calculations quarterly or when significant market changes occur to maintain accuracy.
+
+## Validate Your Idea, Launch, Earn
+
+Don't waste time building and trying to sell a product that nobody wants.
+
+[](https://www.founderodyssey.com/dashboard)
+![Image 1: Planet illustration](https://www.founderodyssey.com/_next/image?url=%2FPlanet.png&w=640&q=75)
+
+![Image 2: Planet illustration](https://www.founderodyssey.com/_next/image?url=%2FPlanet.png&w=640&q=75)

@@ -1,0 +1,192 @@
+Title: 14 Event Marketing KPIs for Measuring Your Success
+
+URL Source: https://www.eventbrite.com/blog/measure-event-success-kpis/
+
+Published Time: 2024-03-22T08:00:00-05:00
+
+Markdown Content:
+The number one issue that event organizers cite is [internal event management problems](https://www.convene-digital.org/convene/november_2022/MobilePagedReplica.action?pm=2&folio=42#pg46). These can dramatically affect your marketing success, but how do you even determine those challenges and successes are for future events?
+
+It all begins with measuring your events’ performance using the right key performance indicators (KPIs). These metrics keep you on track and show you what is and isn’t working.
+
+For example, if you’re only measuring total revenue or ticket sales, you don’t have clear visibility into your marketing performance. If your analysis stops there, you’re missing out on an opportunity to grow your audience, boost your event’s return on investment (ROI), and hit key event goals.
+
+Get ahead of your competition and learn how to improve your event with this definitive list of event marketing KPIs.
+
+##### **14 KPIs to monitor before and after your event**
+
+[KPIs to monitor before your event](https://www.eventbrite.com/blog/measure-event-success-kpis/#before)
+
+[1. Sales by ticket type](https://www.eventbrite.com/blog/measure-event-success-kpis/#one)
+
+[2. Sales by marketing source](https://www.eventbrite.com/blog/measure-event-success-kpis/#two)
+
+[3. Attendee geography](https://www.eventbrite.com/blog/measure-event-success-kpis/#three)
+
+[4. Website conversion rate](https://www.eventbrite.com/blog/measure-event-success-kpis/#four)
+
+[5. Email marketing engagement rates](https://www.eventbrite.com/blog/measure-event-success-kpis/#five)
+
+[KPIs to check when wrapping up your event](https://www.eventbrite.com/blog/measure-event-success-kpis/#after)
+
+[6. Attendance](https://www.eventbrite.com/blog/measure-event-success-kpis/#six)
+
+[7. Total profit](https://www.eventbrite.com/blog/measure-event-success-kpis/#seven)
+
+[8. New vs. returning attendees](https://www.eventbrite.com/blog/measure-event-success-kpis/#eight)
+
+[9. Top attendees by money spent](https://www.eventbrite.com/blog/measure-event-success-kpis/#nine)
+
+[10. Feedback surveys](https://www.eventbrite.com/blog/measure-event-success-kpis/#ten)
+
+[11. Content engagement](https://www.eventbrite.com/blog/measure-event-success-kpis/#eleven)
+
+[12. Speaker/performer engagement](https://www.eventbrite.com/blog/measure-event-success-kpis/#twelve)
+
+[13. Social media engagement](https://www.eventbrite.com/blog/measure-event-success-kpis/#thirteen)
+
+[14. Sponsorship page engagement](https://www.eventbrite.com/blog/measure-event-success-kpis/#fourteen)
+
+## KPIs to monitor before your event
+
+You likely have an attendance goal in mind, but do you know how to reach it? With these KPIs, you’ll be able to navigate your event’s performance and make smarter decisions about your promotion strategy.
+
+![Image 1: One person showing their phone to someone, who's reading](https://www.eventbrite.com/blog/wp-content/uploads/2018/11/Frame-1-4-min-preview-30x16.png)
+
+**The Contour Group** / Country Dance Party / Nashville, TN
+
+### 1. Sales by ticket type
+
+Unless your event is free, you want to track how each [category of ticket type](https://www.eventbrite.com/blog/types-event-tickets-ds00/) performs in the lead-up to your event (such as your early-bird, VIP, and general admission tickets). Combining this event KPI with sales over time can help you identify how your early-bird sales affected regular-price ticket sales.
+
+**Where to find it:** Your event ticketing and registration platform. The way you measure this can vary depending on the event management software you use. For example, Eventbrite makes it easy to track and break down [event tickets](https://www.eventbrite.com/l/sell-tickets/) by ticket type.
+
+### 2. Sales by marketing source
+
+Another ticket-related KPI is sales by source, which allows you to zero in on the marketing channels that yield the most ticket buyers for your event. This KPI can help you determine which channels are [delivering the best ROI](https://www.eventbrite.com/blog/3-data-driven-increase-event-roi-ds0c/) for your marketing spend.
+
+**Where to find it**: Your event ticketing and registration platform. This is where it’s important to make sure that your marketing platform and your ticketing processor are integrated — or even better, that you can manage both through the same platform, like with [Eventbrite](https://www.eventbrite.com/l/event-marketing-platform/). That way, you can clearly attribute sales to the right marketing channels.
+
+### 3. Attendee geography
+
+This useful KPI is worth tracking if you want to know where attendees are coming from, which you can use to [better target your advertising efforts](https://www.eventbrite.com/blog/using-eb-reports-ds0c/) for your next event. You can also use this data to pinpoint other cities where you’ll most likely be successful, [should you wish to scale](https://www.eventbrite.com/blog/academy/local-multi-city-scale-event-across-country/). Just make sure to store it in a sortable, searchable, and secure database so you can use it in the future.
+
+**Where to find it:** Your event ticketing and registration platform. This will depend on whether your event registration form includes the option for attendees to share where they discovered you. By using the right [registration form template](https://www.eventbrite.com/blog/event-registration-form-template-ds00/), you can make sure to include all the information you need.
+
+### 4. Website conversion rate
+
+Tracking how many views your event listing or a page on your website receives gives you a sense of how many people are aware of your event. That’ll help you with the future event planning process for capacity and interest, which is especially important for in-person events and hybrid events.
+
+Then, correlate page views to the number of tickets or registrations sold in the same time period.
+
+The result is your [conversion rate](https://www.eventbrite.com/blog/academy/how-to-grow-your-event-without-spending-more-money/) (the percentage of page visitors who click through to sign up).
+
+Why care about the conversion rate? It tells you how effective your event listing or website is and whether would-be attendees are dropping off because of a frustrating [ticket purchase or registration process](https://www.eventbrite.com/blog/how-to-sell-more-with-a-simplified-registration-process-ds0d/).
+
+**Where to find it:** Your web analytics (such as [Google Analytics](https://www.eventbrite.com/blog/google-analytics-sell-out-your-event-ds00/)). Google is a great option because you can [set up tracking pixels with Google](https://www.eventbrite.com/help/en-us/articles/475328/how-to-set-up-a-tracking-pixel-with-google-universal-analytics/), making it easy to figure out who bought tickets and how they found out about your event. That means you can break your website conversion rate down into different kinds of conversion rates depending on other sub-factors with much more valuable data.
+
+![Image 2: A person smiling at friends](https://www.eventbrite.com/blog/wp-content/uploads/2018/11/Frame-1-3-min-1-1-preview-30x16.png)
+
+**Screen Free Weekends** / Half the Story / New York, NY
+
+### 5. Email marketing engagement rates
+
+When done right, email can be a powerful and effective tool for getting the word out about your event. But you need to be vigilant about monitoring your campaigns’ performance if you want to see results. This includes tracking KPIs like [open, click-through, and unsubscribe rates](https://www.eventbrite.com/blog/event-email-marketing-ds0c/). If you ask for people to reply, you should also track response rates.
+
+**Where to find it:** Your email marketing tool. When you look at email marketing tools, you should look for ones that make it easy for you to track advanced event KPIs. For example, [Eventbrite’s email marketing platform](https://www.eventbrite.com/l/email-marketing/) will even calculate the cost per click and revenue generated from your email campaigns on top of all the other KPIs listed above.
+
+## KPIs to check when wrapping up your event
+
+Once you’ve recovered from your event, it’s time to harvest all the data it generated. Pay attention to the following KPIs, especially when proving ROI to sponsors.
+
+### 6. Attendance
+
+Compare the number of registrants you had to the number of attendees who showed up (called the attendance rate).
+
+While some people might have simply had a last-minute change of plan, if there’s a big difference, it may be that your event was marketed well but wasn’t exciting enough for people to actually attend. If your event is free, setting a price for premium upgrades can reduce your [no-show rate](https://www.eventbrite.com/blog/reduce-no-shows-ds0c/).
+
+**Where to find it:** Your event ticketing and registration platform. Some of these platforms will make it easier to see key information, like whether a person has come to your previous events, where they’re coming from, and other custom information you can include in the event check-in form. So make sure to use an [event registration tool](https://www.eventbrite.com/blog/event-registration-software/) like Eventbrite that makes all of that easy to digest.
+
+![Image 3: Big crowd at music festival](https://www.eventbrite.com/blog/wp-content/uploads/2023/10/Frame-1-3-min-1-4-preview-30x16.png)
+
+### 7. Total profit
+
+While many of the KPIs on this list drill down into different details of an event, total profit is the simplest indicator of event success and is a must-have when monitoring your event’s ROI from year to year.
+
+To calculate it, simply subtract your expenses from your net revenue. Looking at expenses can also help you calculate other helpful statistics, such as the cost per attendee and event budget alignment.
+
+**Where to find it**: Your event ticketing and registration platform. Revenue and profit numbers can be more complicated than they might appear. Make sure to use a platform that makes it easy for you to break down your revenue streams, such as different ticket types, the way that [Eventbrite](https://www.eventbrite.com/l/sell-tickets/) does. That way, you can know what marketing campaign helped you have such a successful event.
+
+![Image 4: People gathered around a table](https://www.eventbrite.com/blog/wp-content/uploads/2018/11/Frame-1-1-min-1-1-preview-30x16.png)
+
+**Shop Made in DC** / Wine and Watercolors / Washington, DC
+
+### 8. New vs. returning attendees
+
+This event marketing KPI makes sure you have a healthy flow of both new and returning attendees. People can lose interest in events over time — some attrition is a natural part of any successful business.
+
+But if almost all your attendees are new, you know you have a problem. This can also tell you about whether marketing campaigns targeted at returning or new attendees were successful and what kinds of people responded most.
+
+**Where to find it:** Your event ticketing and registration platform. Tracking new and returning attendees can be a little tricky, which is why it helps to make sure your ticketing platform is built into your registration page, marketing tool, and event page the way that [Eventbrite](https://www.eventbrite.com/organizer/pricing/) does.
+
+### 9. Top attendees by money spent
+
+Some attendees will buy more tickets and spend more money than others. And because [84% of consumers](https://www.certain.com/blog/75-stellar-event-marketing-statistics-to-help-you-measure-your-event-success/) will repurchase products promoted at events after their first purchase, it’s important to keep these top spenders returning year after year to your event. Tracking how much your top attendees spend will help you figure out how successfully you marketed to them specifically.
+
+**Where to find it:** Your event ticketing and registration platform and point-of-sale solution (such as [Square](https://squareup.com/us/en)). Just make sure to use a platform like Eventbrite that breaks down attendee spending in an easy-to-view format that automatically updates in real time.
+
+### 10. Feedback surveys
+
+No matter how tired you are post-event, never skip sending out a post-event survey at the end. It’s a valuable opportunity to get feedback directly from attendees about how they enjoyed your event. KPIs from surveys can include satisfaction, intent to return, and net promoter score.
+
+This also helps you figure out how well you marketed your event. If people came in with the right expectations, they’re more likely to be satisfied with the event itself.
+
+**Where to find it:** You can send a [post-event survey](https://www.eventbrite.com/blog/post-event-survey-ds00/) through whichever email provider you prefer. It helps if you choose one that integrates with your other tools. For example, you can upload a list of your attendees straight into an email with [Eventbrite](https://www.eventbrite.com/l/email-marketing/).
+
+### 11. Content engagement
+
+Whether your event is a conference or a festival, you’ll have plenty of content on your agenda for attendees to read or watch. Be sure to look at the [content that got the most views](https://www.eventbrite.com/blog/qualitative-quantitative-data-ds00/) and the most audience engagement. This will tell you what’s resonating with your fans and something your sponsors will want, too.
+
+It also helps to host information about your event on a website that regularly ranks high in the Google search results pages (something called [Domain Authority](https://moz.com/learn/seo/domain-authority)) so that more people see it. For that reason, many event organizers find success by making their [Eventbrite event listing](https://www.eventbrite.com/l/event-listing/) the main page to find information about their event.
+
+**Where to find it:** Your web analytics tool. You can use [Google Analytics](https://www.eventbrite.com/blog/how-to-measure-and-track-seo-success-with-google-analytics-ds00/) to track your success with SEO (search engine optimization). A number of tools can be useful for this, but Google’s the gold standard: It’s free, widely used, and supported by the [most popular search engine](https://www.statista.com/statistics/216573/worldwide-market-share-of-search-engines/).
+
+![Image 5: A singer performing on stage](https://www.eventbrite.com/blog/wp-content/uploads/2018/11/Frame-1-2-min-1-1-preview-30x16.png)
+
+**Camp Dyketopia** / Dyketopia Comedy / Littleton, CO
+
+### 12. Speaker/performer engagement
+
+If you have a keynote speaker or a performer at your event, it helps to track how successfully they captured your audience’s attention. This is often a measure of how well you marketed the event: Good marketing should help people accurately anticipate what they’re going to see.
+
+If they’re fully engaged, you likely did your job well and ensured a great attendee experience. You can also use [live polling](https://www.eventbrite.com/blog/audience-participation-at-events-ds00/) after a session or performance to measure attendee satisfaction.
+
+**Where to find it:** Social media platforms. It helps a lot to make a [dedicated event hashtag](https://www.eventbrite.com/blog/how-to-use-hashtags-for-your-event-ds00/). That way, you can easily see social media mentions when people are talking about your event. Otherwise, you should follow any influencers who will attend your event to get their perspective on your speaker or performer. Some event apps may also have live feedback features.
+
+### 13. Social media engagement
+
+Social media can also be used to measure attendee engagement with sponsors, which is especially important if you’ve [offered it as an activation](https://www.eventbrite.com/blog/engage-your-event-sponsors-ds00/). You have the ability to provide engagement metrics on things like:
+
+*   How many users interact with sponsor messaging on your social feeds
+*   Which specific messages perform best
+*   How many new followers came directly after mentioning a sponsor in a post
+*   How many people commented on a post about a sponsor, and the tone of those comments
+*   How many times you mentioned a sponsor in social posts
+
+**Where to find it:** Your social media platforms (Facebook, Instagram, Twitter, and LinkedIn). Other platforms like [Eventbrite](https://www.eventbrite.com/l/event-marketing-platform/) can also help if you’re looking to improve your engagement. It can also help you track whether that social media engagement turns into actual revenue rather than people just clicking to like your posts.
+
+### 14. Sponsorship page engagement
+
+Engagement with sponsorship pages on your event website or in your app, such as page views or on social media with likes, can help you track how relevant sponsors were to attendees. Use this data to prove [ROI to sponsors](https://www.eventbrite.com/blog/sponsorship-roi-ds00/) — and to provide a better event experience for your fans. This is important for future sponsor marketing campaigns, and it also lets you know whether you’re doing a good job with your marketing efforts.
+
+**Where to find it:** Your mobile event app or web analytics. This depends on what KPIs you and your sponsor agreed to track. For example, if they just want page views, you’ll need to use Google Analytics.
+
+But if they want to know how many people are attending the event because of a marketing campaign associated with them, you’ll want to use an integrated marketing and ticket sales platform like [Eventbrite](https://www.eventbrite.com/l/event-marketing-platform/).
+
+## Get visibility into your event’s success
+
+Take control of your event by using event technology that gathers these event KPIs for you. If you use Eventbrite, you can track sales in real time from any device. With 24/7 access to more than 15 different reports and chart views, you can grow your audience and boost your event ROI.
+
+Set up your next event now and start selling tickets in minutes.
+
+This site is registered on [wpml.org](https://wpml.org/) as a development site. Switch to a production site key to [remove this banner](https://wpml.org/faq/how-to-remove-the-this-site-is-registered-on-wpml-org-as-a-development-site-notice/?utm_source=plugin&utm_medium=gui&utm_campaign=wpml-core&utm_term=footer-notice).

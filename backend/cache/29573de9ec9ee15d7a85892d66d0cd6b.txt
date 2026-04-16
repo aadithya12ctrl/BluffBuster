@@ -1,0 +1,293 @@
+Title: TAM, SAM, SOM: Understanding Market Size for Your Business - 2026 - MasterClass
+
+URL Source: https://www.masterclass.com/articles/tam-sam-som
+
+Markdown Content:
+[Business](https://www.masterclass.com/articles/categories/business)
+
+Written by MasterClass
+
+Last updated: Jan 5, 2022 • 4 min read
+
+[Start-ups](https://www.masterclass.com/articles/what-is-a-startup), entrepreneurs, and investors often use the TAM, SAM, and SOM metrics to uncover the potential upside to an investment opportunity such as a new product or service. Learn the definitions for these acronyms and explore their role in helping businesses prioritize new products and secure vital funding.
+
+![Image 1](https://images.ctfassets.net/3s5io6mnxfqz/769XLHgSbF5XucsZZnpTMB/f8dc993dc39d0b15e2a1a6b3d9b852e2/tam-sam-som.jpeg?w=1920)
+
+## Learn From the Best
+
+[![Image 2](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 3: David Axelrod and Karl Rove](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/david-axelrod-and-karl-rove-teach-campaign-strategy-and-messaging)
+Teach Campaign Strategy and Messaging
+
+[![Image 4](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 5: Paul Krugman](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/paul-krugman-teaches-economics-and-society)
+Teaches Economics and Society
+
+[![Image 6](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 7: Doris Kearns Goodwin](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/doris-kearns-goodwin-teaches-us-presidential-history-and-leadership)
+Teaches U.S. Presidential History and Leadership
+
+[![Image 8](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 9: Diane von Furstenberg](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/diane-von-furstenberg-teaches-building-a-fashion-brand)
+Teaches Building a Fashion Brand
+
+[![Image 10](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 11: Bob Woodward](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/bob-woodward-teaches-investigative-journalism)
+Teaches Investigative Journalism
+
+[![Image 12](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 13: Marc Jacobs](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/marc-jacobs-teaches-fashion-design)
+Teaches Fashion Design
+
+[![Image 14](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 15: Bobbi Brown](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/bobbi-brown-teaches-makeup-and-beauty)
+Teaches Makeup and Beauty
+
+[![Image 16](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 17: Chris Dixon, Changpeng “CZ” Zhao, Emilie Choi, and Paul Krugman](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/crypto-and-the-blockchain)
+With Noted Experts
+
+[![Image 18](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 19: Coach K](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/coach-k-teaches-value-driven-leadership)
+Teaches Values-Driven Leadership
+
+[![Image 20](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 21: Metallica](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/metallica-teaches-being-a-band)
+Teaches Being a Band
+
+[![Image 22](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 23: LeVar Burton](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/levar-burton-teaches-the-power-of-storytelling)
+Teaches the Power of Storytelling
+
+[![Image 24](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 25: Ringo Starr](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/ringo-starr-teaches-drumming-creative-collaboration)
+Teaches Drumming & Creative Collaboration
+
+[![Image 26](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 27: Laura Kim & Fernando Garcia](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/laura-kim-and-fernando-garcia-teach-creative-collaboration-and-fashion)
+Teach Creative Collaboration and Fashion
+
+[![Image 28](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 29: Professor Jeffrey Pfeffer](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/the-power-playbook)
+With Professor Jeffrey Pfeffer
+
+[![Image 30](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 31: James Clear](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/small-habits-that-make-a-big-impact-on-your-life)
+Small Habits that Make a Big Impact on Your Life
+
+[![Image 32](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 33: Michael Lewis](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/tell-a-great-story)
+Tell a Great Story
+
+[![Image 34](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 35: Ethan Mollick, Allie K. Miller, Don Allen III, and Manuel Sainsily](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/achieve-more-with-gen-ai)
+Achieve More With GenAI
+
+[![Image 36](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 37: Howard Schultz](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/howard-schultz-leading-a-values-based-business)
+Business Leadership
+
+[![Image 38](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 39: Anna Wintour](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/anna-wintour-teaches-creativity-and-leadership)
+Teaches Creativity and Leadership
+
+[![Image 40](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 41: Sara Blakely](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/sara-blakely-teaches-self-made-entrepreneurship)
+Teaches Self-Made Entrepreneurship
+
+[![Image 42](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 43: Bob Iger](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/bob-iger-teaches-business-strategy-and-leadership)
+Teaches Business Strategy and Leadership
+
+[![Image 44](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 45: Chris Voss](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation)
+Teaches the Art of Negotiation
+
+[![Image 46](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 47: Jeff Goodby & Rich Silverstein](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/jeff-goodby-and-rich-silverstein-teach-advertising-and-creativity)
+Teach Advertising and Creativity
+
+[![Image 48](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 49: Robin Roberts](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/robin-roberts-teaches-effective-and-authentic-communication)
+Teaches Effective and Authentic Communication
+
+[![Image 50](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 51: Daniel Pink](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/daniel-pink-teaches-sales-and-persuasion)
+Teaches Sales and Persuasion
+
+[![Image 52](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 53: Robert Reffkin](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/robert-reffkin-teaches-buying-and-selling-real-estate)
+Teaches Buying and Selling Real Estate
+
+[![Image 54](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 55: Elaine Welteroth](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/elaine-welteroth-teaches-designing-your-career)
+Teaches Designing Your Career
+
+[![Image 56](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 57: Geno Auriemma](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/geno-auriemma-teaches-leading-winning-teams)
+Teaches Leading Winning Teams
+
+[![Image 58](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 59: George Stephanopoulos](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/george-stephanopoulos-teaches-purposeful-communication)
+Teaches Purposeful Communication
+
+[![Image 60](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 61: Kris Jenner](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/kris-jenner-on-the-power-of-personal-branding)
+On the Power of Personal Branding
+
+[![Image 62](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 63: Richard Branson](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/richard-branson-teaches-disruptive-entrepreneurship)
+Teaches Disruptive Entrepreneurship
+
+[![Image 64](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 65: Esther Perel](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/esther-perel-teaches-relational-intelligence)
+Teaches Relational Intelligence
+
+[![Image 66](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 67: Indra Nooyi](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/indra-nooyi-teaches-leading-with-purpose)
+Teaches Leading With Purpose
+
+[![Image 68](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 69: Chris Voss, Chris Hadfield, Condoleezza Rice, and Stephen Hadley](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/crisis-day)
+Chris Voss and Noted Co-Experts
+
+[![Image 70](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 71: Rosalind Brewer](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/rosalind-brewer-teaches-business-innovation)
+Teaches Business Innovation
+
+[![Image 72](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 73: Alexis Ohanian](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/alexis-ohanian-teaches-building-your-startup)
+Teaches Building Your Startup
+
+[![Image 74](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 75: Ray Dalio, Meredith Whitney, Joel Greenblatt, and Seth Klarman](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/mastering-the-markets)
+Mastering the Markets
+
+[![Image 76](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 77: Mellody Hobson](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/mellody-hobson-teaches-strategic-decision-making)
+Teaches Strategic Decision-Making
+
+[![Image 78](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 79: Jocko Willink](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/critical-leadership-training-with-navy-seal-officer-jocko-willink-continuous-cut)
+Critical Leadership Training
+
+[![Image 80](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 81: Whitney Wolfe Herd](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/rewriting-the-rules-of-business-and-life)
+Rewriting the Rules of Business and Life
+
+[![Image 82](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 83: Kevin Hart](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/using-humor-to-make-your-mark)
+Using Humor to Make Your Mark
+
+[![Image 84](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 85: Martha Stewart](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/think-like-a-boss-live-like-a-legend)
+Think Like a Boss, Live Like a Legend
+
+[![Image 86](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 87: Mark Cuban](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/win-big-in-business)
+Win Big in Business
+
+[![Image 88](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 89: Bill Clinton, Richard Branson, George Stephanopoulos, Roy Choi, George W. Bush, Elaine Welteroth, Coach K, Lewis Hamilton, Hillary Rodham Clinton, Robin Roberts, Shonda Rhimes, Doris Kearns Goodwin, Simone Biles, Bob Iger, Daniel Pink, Malala Yousafzai, Judd Apatow, Robin Arzón, LeVar Burton, Sara Blakely, Neil deGrasse Tyson, RuPaul, Issa Rae, Anna Wintour, and Geno Auriemma](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/skill-builder-episodes)
+With Renowned Instructors
+
+[![Image 90](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 91: Dawn Meyerriecks, Michael Morell, and Brian Carbaugh](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/the-art-of-intelligence)
+With Former CIA Officers
+
+[![Image 92](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 93: Vanessa Van Edwards](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/people-intelligence)
+With Vanessa Van Edwards
+
+[![Image 94](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 95: General Stanley McChrystal](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/general-stanley-mcchrystal)
+Battlefield Tactics for Business Success
+
+[![Image 96](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 97: Kim Kardashian](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/kim-kardashian)
+With Kim Kardashian
+
+[![Image 98](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 99: Rich Paul, Bob Myers, and Draymond Green](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/the-dealmakers-mindset)
+With Super Agent Rich Paul
+
+[![Image 100](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 101: Mike Cessario and Laura Modi](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/business-rebels)
+With Leading CEOs
+
+[![Image 102](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 103: Amy Webb, Conor Grennan, and Nichol Bradford](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/ai-strategy-at-work)
+Amy Webb, Conor Grennan, and Nichol Bradford
+
+[![Image 104](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 105: Dr. Anna Lembke](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/dopamine)
+With Dr. Anna Lembke
+
+[![Image 106](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 107: Dr. Alexandra Solomon](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/in-practice-series)
+In Practice: Resolve Conflict and Fuel Chemistry with Dr. Alexandra Solomon
+
+[![Image 108](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 109: Cal Newport](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/rebuild-your-focus)
+With Cal Newport
+
+[![Image 110](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 111: Ramit Sethi](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/financial-wellness)
+With Ramit Sethi
+
+[![Image 112](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 113: Carol Dweck, David Yeager, Steve Young, Jeremy Bohannon, and Lorena Tareszkiewicz Seidel](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/power-of-mindset)
+With Leading Experts
+
+[![Image 114](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 115: Ryan Holiday](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/using-ancient-wisdom-to-solve-modern-problems)
+Ryan Holiday with Noted Experts
+
+[![Image 116](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 117: Neil deGrasse Tyson](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/neil-degrasse-tyson-teaches-scientific-thinking-and-communication)
+Teaches Scientific Thinking and Communication
+
+[![Image 118](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ![Image 119: Erik Brynjolfsson, Dambisa Moyo, and Michelle Meyer](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)](https://www.masterclass.com/classes/the-new-rules-of-wealth)
+With Notable Instructors
+
+## Jump To Section
+
+*   [What Is TAM SAM SOM?](https://www.masterclass.com/articles/tam-sam-som#7gFsVtIj3q9yYwhlRLf3Hw)
+*   [What Is the Total Addressable Market (TAM)?](https://www.masterclass.com/articles/tam-sam-som#51XtvuS7ddJL7P2eHodwIf)
+*   [How to Calculate Total Addressable Market](https://www.masterclass.com/articles/tam-sam-som#56e60dbvPgXOTqnvajnGGx)
+*   [What Is the Serviceable Available Market (SAM)?](https://www.masterclass.com/articles/tam-sam-som#5TlHHETddcZCaYSrFNblLq)
+*   [How to Calculate Serviceable Available Market](https://www.masterclass.com/articles/tam-sam-som#5CTrewCDuXkLlDW9VnuTfJ)
+*   [What Is the Serviceable Obtainable Market (SOM)?](https://www.masterclass.com/articles/tam-sam-som#1EVFT8IubjYmdVXjHK88Rh)
+*   [How to Calculate Serviceable Obtainable Market](https://www.masterclass.com/articles/tam-sam-som#012CL5LGmI766kMImG4Gkh)
+*   [How to Use TAM, SAM, and SOM](https://www.masterclass.com/articles/tam-sam-som#1w0zQODCsS5BrYiIBqHVP9)
+*   [Want to Learn More About Business?](https://www.masterclass.com/articles/tam-sam-som#3Wfp5F6XA3opwPP4UUKbxI)
+*   [Sara Blakely Teaches Self-Made Entrepreneurship](https://www.masterclass.com/classes/sara-blakely-teaches-self-made-entrepreneurship)
+
+## What Is TAM SAM SOM?
+
+TAM, SAM, and SOM represent three subsets of a business’s market: the total addressable market (TAM), serviceable available market (SAM), and serviceable obtainable market (SOM). Start-ups use these key metrics to analyze the viability of their business model for fundraising purposes, and preexisting companies use them to vet new business ideas. TAM, SAM, and SOM may also help start-ups and investors assess the potential upside and risks of an investment opportunity.
+
+![Image 120](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)
+
+## What Is the Total Addressable Market (TAM)?
+
+The total addressable market, which is sometimes called the total available market, refers to the overall revenue opportunity that a product or service has if it achieves 100% market share. Essentially, TAM represents the money you’ll make if you sell to every customer who could potentially buy your product or service, regardless of any barriers or competition in the market.
+
+Start-ups, entrepreneurs, and existing businesses may use TAM to assess the revenue opportunity inherent in a product or service and to determine how much effort and funding they should invest in a new venture. TAM can also help companies prioritize specific opportunities, products, or customer segments, and can provide a value proposition to interested investors or buyers, showing them what a company can potentially achieve if they expand into all segments of the global market.
+
+## How to Calculate Total Addressable Market
+
+To calculate the TAM, multiply the average annual revenue of the relevant product or service by the overall number of potential customers in the entire addressable market. Remember, these are the customers your product or service will reach if you achieve 100% market share.
+
+Businesses may arrive at these numbers in several ways:
+
+*   **Top-down approach**: Top-down calculations reach the number of potential customers via a process of elimination. The business typically starts with a target market of a known size—for example, a pet food business might start with the number of pet owners worldwide—and then eliminates irrelevant segments using demographic, economic, and geographic assumptions using market data. 
+*   **Bottom-up analysis**: Bottom-up analysis uses company data generated by early sales to estimate the overall market. To calculate TAM using this method, multiply the average sales price for your product or service by the number of current customers to determine your annual contract value (ACV). Then, multiply your ACV by the total number of potential customers worldwide to determine your TAM. 
+*   **Value theory**: Value theory may provide less accurate calculations because the numbers come from conjecture about a buyer’s willingness to pay for your product or service, and often relying on guesswork and supposition. However, it can be useful if you want to get a sense of the TAM when considering upgrades for current products, or if you’re planning on introducing a novel product that will create its own market category. 
+
+## What Is the Serviceable Available Market (SAM)?
+
+The serviceable available market, which may be referred to as the serviceable accessible market, represents the portion of the total addressable market, or TAM, that you can realistically acquire with your current business model. This is the portion of the market that may actually buy your products or services or may purchase similar products or services from another business. For example, if you only offer your product or service in English, your SAM is the English-speaking portion of the TAM.
+
+Essentially, SAM represents your product or service’s target group, and a well-defined SAM can help your company create efficient, effective sales and [marketing campaigns](https://www.masterclass.com/articles/b2b-marketing-guide). It can also show investors the potential of your business venture in the medium term.
+
+## How to Calculate Serviceable Available Market
+
+You can calculate your SAM by tallying up the potential customers in your target market, factoring in barriers to potential sales such as competition, distribution capacity, and marketing reach. Once you’ve determined the number of potential customers, multiply that number by the average annual revenue each customer generates to determine your SAM.
+
+## What Is the Serviceable Obtainable Market (SOM)?
+
+The serviceable obtainable market represents the portion of the market your business can realistically serve. In other words, SOM identifies who will buy your product or service, so you can identify potential sales prospects.
+
+*   SOM calculations factor in restrictions to potential sales, including: 
+*   Marketing reach 
+*   Production capacity 
+*   Distribution area 
+*   Regional regulations and restrictions 
+*   Competition and the likelihood of market share loss 
+*   Natural barriers, including language and distance 
+
+## How to Calculate Serviceable Obtainable Market
+
+To determine your SOM, you must first calculate the SAM. Next, divide the prior year’s revenue for your product or service by the SAM to determine the prior year’s market share. Finally, to calculate your SOM, multiply this percentage by this year’s SAM.
+
+## How to Use TAM, SAM, and SOM
+
+TAM, SAM, and SOM are effective market analysis tools for small businesses, entrepreneurs, and investors. These metrics provide vital information, helping parties make informed business decisions, execute fundraising campaigns, and prioritize opportunities. Common situations in which businesses and potential investors may benefit from TAM, SAM, and SOM calculations include:
+
+*   Small businesses that want to bring new products to market but need to know how much funding the venture will require 
+*   Potential entrepreneurs who want to analyze a business idea’s worthiness 
+*   Start-ups that want to gauge market potential so they can prioritize new products or services 
+*   Established businesses conducting general [market research](https://www.masterclass.com/articles/how-to-conduct-market-research), determining business valuations, or looking for entry points into specific markets 
+*   Venture capitalists researching the upsides of potential investments 
+*   Businesses that want to prove the viability of their business model to potential buyers 
+
+Early-stage start-ups preparing pitch decks for fundraising
+
+If you’re starting or growing a business, TAM, SAM, and SOM have numerous applications and can be helpful indicators of your company’s potential and the viability of the target market in general.
+
+## Want to Learn More About Business?
+
+Get the [MasterClass Annual Membership](https://www.masterclass.com/) for exclusive access to video lessons taught by business luminaries, including Sara Blakely, Chris Voss, Robin Roberts, Bob Iger, Howard Schultz, Anna Wintour, and more.
+
+## Try some of our classes
+
+Enter your email and we’ll send you some samples of our favorite classes.
+
+Email
+
+I agree to receive marketing emails about MasterClass and other related learning products.
+
+By clicking “Submit”, and sharing your email, you agree to our [Terms of Service](https://www.masterclass.com/terms) and [Privacy Policy](https://privacy.masterclass.com/).
+
+![Image 121](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)
+
+Featured MasterClass Instructor
+
+## Sara Blakely
+
+Spanx founder Sara Blakely teaches you bootstrapping tactics and her approach to inventing, selling, and marketing products that consumers love.
+
+[Explore the class](https://www.masterclass.com/classes/sara-blakely-teaches-self-made-entrepreneurship)

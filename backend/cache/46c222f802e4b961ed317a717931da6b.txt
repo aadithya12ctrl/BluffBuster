@@ -1,0 +1,118 @@
+Title: Crouching Rivals, Not-So-Hidden Dragon: SpaceX and the Future of Launch Competition - Part 1 - London Economics
+
+URL Source: https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/
+
+Markdown Content:
+| Practice area: | [Space](https://londoneconomics.co.uk/blog/sector/space/ "Space")[](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/) |
+| --- |
+| Client: | N/A |
+| Published: | 18 September, 2024 |
+| Keywords: | [Launch](https://londoneconomics.co.uk/blog/tag/launch/)[Monopoly](https://londoneconomics.co.uk/blog/tag/monopoly/)[Space in Focus](https://londoneconomics.co.uk/blog/tag/space-in-focus/)[SpaceX](https://londoneconomics.co.uk/blog/tag/spacex/)[Starship](https://londoneconomics.co.uk/blog/tag/starship/) |
+
+**_In light of SpaceX’s recent uncharacteristic setbacks and Boeing’s ongoing challenges, the lack of a strong spaceflight competitor has never been more evident. The industry’s heavy reliance on a single provider raises concerns, yet the current landscape shows little sign of shifting. This first Space in Focus instalment of a two-part series on an outlook of the launch industry details the factors contributing to SpaceX’s market dominance. It explores how the company’s business model has created a formidable competitive advantage, presenting significant hurdles for rivals attempting to close the gap._**
+
+Resilience has emerged as a central theme in the space launch industry, exemplified by two examples of launch vulnerabilities this year: SpaceX’s Falcon 9 anomaly in July 2024[[1]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn1) and the Boeing Starliner saga, spanning June until August 2024[[2]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn2).
+
+While similar, the responses differed markedly. SpaceX managed to recover quickly from the Falcon 9 incident, resuming operations within two weeks[[3]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn3). In contrast, the Boeing Starliner situation persisted for over a month. NASA ultimately opted to extend the astronauts’ mission from the planned 8 days to 8 months, arranging their return on a SpaceX Crew Dragon instead of the Starliner[[4]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn4). What was expected to introduce a serious competitor to SpaceX in human spaceflight has instead highlighted the weakness of alternatives.
+
+SpaceX’s dominance of the space industry is so pronounced, that it can be visualised in a single graph[[5]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn5).
+
+###### [![Image 1](https://londoneconomics.co.uk/wp-content/uploads/2024/09/Graph-of-spaceX-number-of-launches-300x189.png)](https://londoneconomics.co.uk/wp-content/uploads/2024/09/Graph-of-spaceX-number-of-launches.png) Source: London Economics analysis of Planet4589 data
+
+At the core of SpaceX’s value proposition is its market-leading price point. Satellite operators can secure a ride on a Falcon 9 to low Earth orbit (LEO) for roughly $3,000/kg, a significant reduction from the $10,000’s/kg prices of previous years[[6]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn6) and alternative launch vehicles.
+
+###### [![Image 2](https://londoneconomics.co.uk/wp-content/uploads/2024/09/Graph-of-space-launch-costs-updated-2-300x148.png)](https://londoneconomics.co.uk/wp-content/uploads/2024/09/Graph-of-space-launch-costs-updated-2.png)Source Our World in Data
+
+SpaceX’s aggressive pricing has positioned them as the go-to launch provider, with no significant competitive pressure from rivals. This lack of competition, along with their next generation rocket Starship marching closer to operational capability, will see SpaceX’s sphere of influence continue to expand, leading to far-reaching implications for the rest of the industry.
+
+Part 1 of this Space in Focus article examines SpaceX’s rise to market leadership and the strategies they use to sustain their competitive advantage. It explores the unique factors that enable SpaceX to maintain this edge and analyses why competitors may struggle to replicate their success.
+
+## **Background: Lift-off to market dominance**
+
+Elon Musk founded SpaceX in 2002 with the goal of making access to space more affordable. The company initiated the development of its first orbital vehicle, the Falcon 1, estimated to cost SpaceX $90 to $100 million[[7]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn7).
+
+In 2006, NASA launched the Commercial Orbital Transportation Services (COTS) program to stimulate the development of private spacecraft and launch vehicles for resupply missions to the International Space Station (ISS). Unlike previous NASA programmes, COTS required that the spacecraft be owned and financed primarily by the companies themselves, operating under a new contractual structure. NASA’s contracting approach shifted from traditional cost-plus contracts, where contractors are reimbursed for allowable expenses plus a profit margin, to fixed-price contracts, where the price is established upfront and remains unchanged throughout the duration of the project, regardless of the actual costs incurred by the contractor. This change incentivised companies to reduce costs and improve efficiency and was seen as a key factor in the cost savings achieved in the COTS programme. Under COTS, SpaceX was awarded $396 million to provide crew and cargo supply demonstration contracts to the ISS[[8]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn8).
+
+Despite this, SpaceX faced significant challenges as its first three launches failed between 2006 and 2008, putting the company on the brink of collapse. The situation turned around in 2008 when NASA signed the first Commercial Resupply Services (CRS) contracts, awarding SpaceX $1.6 billion for twelve cargo Dragon flights to the ISS[[9]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn9), effectively saving the company. This allowed SpaceX to focus its resources on developing a larger orbital rocket, the Falcon 9, which the company stated cost $300 million to develop (NASA estimated the Falcon 9 would have cost up to $4 billion under the traditional cost-plus acquisition approach[[10]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn10)).
+
+As SpaceX’s launch capabilities grew, so did its market share. By 2013, the company captured just under 10% of the global commercial launch market, and by 2018, this figure exceeded 60%[[11]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn11). This impressive share can be attributed, in part, to the exceptional reliability of the Falcon 9 rocket family, which has been launched 373 times over 14 years, achieving 370 full successes (a success rate of 99.2%), along with two in-flight failures and one partial failure. This unprecedented track record has resulted in lower insurance premiums and a revised risk assessment for operators, fundamentally changing the landscape of the space launch industry.
+
+## **Holding the fort**
+
+To contextualise their competitive moat and highlight the challenge faced by rivals in closing this gap, it is necessary to examine the key factors that underpin SpaceX’s market power. While Elon Musk’s substantial wealth provides significant financial stability, shielding SpaceX from many pressures encountered by other launch providers, attributing their success solely to this factor would be an oversimplification (see Blue Origin). The reusability of the Falcon rocket boosters combined with vertical integration of their Starlink business has allowed SpaceX to leverage economic principles, delivering a one-two punch that is unparalleled in terms of market impact.
+
+### **Reusability**
+
+Reusable rockets save significantly on costs, offering up to a 65% reduction in launch costs[[12]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn12) as fixed costs (e.g. hardware, infrastructure, development effort) are amortised across multiple launches. This feat has not been replicated by any other competitor and gives SpaceX a cost advantage and opportunity to earn higher margins in a severely supply constrained market. Reusability also offers SpaceX an accelerated learning curve compared to expendable systems. While onboard sensors offer valuable data, the ability to physically inspect and analyse the returned hardware allows for a more thorough diagnosis.This enables the rapid iterative development approach that SpaceX is renowned for, creating a continuous feedback loop where data is analysed and improvements are implemented, accelerating cost and performance improvements.
+
+### **Vertical integration flywheel effect**
+
+Reusability is a game-changer for reducing launch costs by spreading them across multiple missions. But to really cash in on these savings, you need a lot of launches. So, how do you ensure a high launch cadence? Enter SpaceX’s biggest customer – SpaceX! More specifically, the Starlink constellation, SpaceX’s LEO satellite broadband service.
+
+As of 2 nd August, SpaceX has launched 6,828 Starlink satellites[[13]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn13), with plans to deploy up to 42,000 to complete the constellation. To put this into perspective, there have been about 18,400 satellites placed into orbit since the start of the space age[[14]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn14). The Starlink constellation has enabled SpaceX to achieve unprecedented launch cadence. They have launched 280 times in the last four and a half years, with almost two thirds of these launches being dedicated to Starlink satellites[[15]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn15).
+
+###### [![Image 3](https://londoneconomics.co.uk/wp-content/uploads/2024/09/graph-of-starlink-launches-300x210.png)](https://londoneconomics.co.uk/wp-content/uploads/2024/09/graph-of-starlink-launches.png)Source: Payload Insights
+
+This has unlocked a virtuous cycle for the company. Beyond the benefits of cost amortisation and accelerated learning curves, a higher launch cadence drives economies of scale in Falcon rocket production and operations, while also ensuring the efficient use of rocket capacity. The Starlink constellation guarantees a steady stream of payloads, maintaining consistent launch demand. As a result, this approach reduces the financial risks associated with overcapacity and eliminates the need to cut prices to fill launch slots.
+
+Starlink, meanwhile, gains access to space at a fraction of the cost compared to its competitors, essentially at cost price. This substantial cost advantage allows it to deploy and maintain its satellite constellation more affordably than any other player in the market. With its own dedicated launch capacity, Starlink enjoys a fast track pass to space, enabling a rapid scaling of the constellation. As a result, first mover advantages can be enjoyed, raising barriers for new competitors through high customer switching costs and avoiding the inherent spectrum regulation challenges that laggards in the satcom game must contend with.
+
+The flywheel effect is amplified through the revenue generated by Starlink. According to Quilty Space, Starlink has achieved cash flow positivity and is projected to generate $6.6 billion in revenue in 2024[[16]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn16), with strong growth prospectives. This is particularly significant when considering that the global launch market is valued at $9-13 billion[[17]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn17). As a result, pure-play launch providers face an uphill battle competing with SpaceX, given its access to substantial capital.
+
+###### [![Image 4](https://londoneconomics.co.uk/wp-content/uploads/2024/09/Graph-launch-market-size-updated-300x300.png)](https://londoneconomics.co.uk/wp-content/uploads/2024/09/Graph-launch-market-size-updated.png)Source: Eurospace
+
+Starlink’s revenue stream enables the reinvestment of profits into the launch business, particularly Starship research and development, expediting the vehicles timeline to operation. Additionally, this cash flow positivity further strengthens SpaceX position as the hottest investment opportunity within the space industry, allowing the company to remain privately held and avoid the scrutiny and volatility associated with public market fundraising avenues. While the long speculated Starlink IPO remains an option to supercharge their growth, SpaceX are in no rush and under no pressure to do so[[18]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftn18). As a safer harbour for capital due to more predictable cash flows, SpaceX can also secure debt with more favorable conditions than its competitors, thereby strengthening its financial resources without diluting ownership. Debt raising is particularly risky for companies that have not yet achieved cash flow positivity, and has led to the financial distress (and in some cases bankruptcy), of competitors in both the launch sector, such as Astra, and the satellite communications sector, including ORBCOMM, OneWeb, Globalstar, and Iridium.
+
+This integrated approach strengthens both SpaceX’s launch business and Starlink’s position in the satellite broadband market, creating a powerful synergy that is difficult for competitors to replicate.
+
+With SpaceX’s market dominance firmly established, Part 2 of this series will examine how the company is further widening the competitive gap, how rivals are working to close it, and the implications of this for the space industry at large.
+
+* * *
+
+_Matthew Christie is an Economic Analyst on the London Economics Space Team. With a background in engineering, he now advises both public and private clients on the economics of space, covering the entire value chain._ _He can be reached at [mchristie@londoneconomics.co.uk](mailto:mchristie@londoneconomics.co.uk)._
+
+* * *
+
+**Disclaimer**
+
+The thoughts described in this article have been drawn from Matthew’s experience working in and serving clients from across the space sector. This article is an opinion piece and does not assert any view on any specific company or organisation. Should you want to provide feedback on the topics discussed in this article or discuss another topic please do[reach out to us](mailto:mchristie@londoneconomics.co.uk).
+
+* * *
+
+Works cited
+
+[[1]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref1) Foust, J. (2024)._Starlink satellites lost on Falcon 9 upper stage failure_. [online] SpaceNews. Available at: [https://spacenews.com/starlink-satellites-lost-on-falcon-9-upper-stage-failure/](https://spacenews.com/starlink-satellites-lost-on-falcon-9-upper-stage-failure/)
+
+[[2]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref2) Foust, J. (2024). Starliner to return from ISS without astronauts on board. [online] SpaceNews. Available at: [https://spacenews.com/starliner-to-return-from-iss-without-astronauts-on-board/](https://spacenews.com/starliner-to-return-from-iss-without-astronauts-on-board/)
+
+[[3]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref3) Foust, J. (2024)._Falcon 9 cleared to resume launches_. [online] SpaceNews. Available at: [https://spacenews.com/falcon-9-cleared-to-resume-launches/](https://spacenews.com/falcon-9-cleared-to-resume-launches/)
+
+[[4]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref4) Fernholz, T. and Fernholz, T. (2024)._NASA Finally Chooses Dragon for Starliner Crew Return_. [online] Payload. Available at: [https://payloadspace.com/nasa-finally-chooses-dragon-for-starliner-crew-return/](https://payloadspace.com/nasa-finally-chooses-dragon-for-starliner-crew-return/)
+
+[[5]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref5) Launch data source: Jonathan McDowell, [https://planet4589.org](https://planet4589.org/)
+
+[[6]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref6) Our World in Data.._Cost of space launches to low Earth orbit_. [online] Available at: [https://ourworldindata.org/grapher/cost-space-launches-low-earth-orbit](https://ourworldindata.org/grapher/cost-space-launches-low-earth-orbit)
+
+[[7]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref7) Berger, Eric (2021). Liftoff. William Morrow and Company. p. 215. ISBN 978-0-06-297997-1
+
+[[8]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref8) NASA._NASA Announces Launch Date and Milestones for Spacex Flight – NASA_. [online] Available at: [https://www.nasa.gov/news-release/nasa-announces-launch-date-and-milestones-for-spacex-flight/](https://www.nasa.gov/news-release/nasa-announces-launch-date-and-milestones-for-spacex-flight/)
+
+[[9]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref9) NASA._First Contracted SpaceX Resupply Mission Launches with NASA Cargo to Space Station – NASA_. [online] Available at: [https://www.nasa.gov/news-release/first-contracted-spacex-resupply-mission-launches-with-nasa-cargo-to-space-station/](https://www.nasa.gov/news-release/first-contracted-spacex-resupply-mission-launches-with-nasa-cargo-to-space-station/)
+
+[[10]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref10) Zapata, E. (n.d.)._An Assessment of Cost Improvements in the NASA COTS/CRS Program and Implications for Future NASA Missions_. [online] Available at: [https://ntrs.nasa.gov/api/citations/20170008895/downloads/20170008895.pdf](https://ntrs.nasa.gov/api/citations/20170008895/downloads/20170008895.pdf)
+
+[[11]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref11) Berger, E. (2018)._As the SpaceX steamroller surges, European rocket industry vows to resist_. [online] Ars Technica. Available at: [https://arstechnica.com/science/2018/07/as-the-spacex-steamroller-surges-european-rocket-industry-vows-to-resist/](https://arstechnica.com/science/2018/07/as-the-spacex-steamroller-surges-european-rocket-industry-vows-to-resist/)
+
+[[12]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref12) Stockley, A. (2023)._The Rise of Reusable Rockets: Transforming the Economics of Space Travel_. [online] KDC Resource. Available at: [https://www.kdcresource.com/insights-events/the-rise-of-reusable-rockets-transforming-the-economics-of-space-travel/](https://www.kdcresource.com/insights-events/the-rise-of-reusable-rockets-transforming-the-economics-of-space-travel/)
+
+[[13]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref13) Jonathan McDowell, [https://planet4589.org](https://planet4589.org/)
+
+[[14]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref14) European Space Agency (2024). Space debris by the numbers. [online] Available at: [https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
+
+[[15]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref15) Kuhr, J., Islam, M. and Islam, J.K. and M. (2024)._Estimating SpaceX’s 2023 Revenue_. [online] Payload. Available at: [https://payloadspace.com/estimating-spacexs-2023-revenue/](https://payloadspace.com/estimating-spacexs-2023-revenue/)
+
+[[16]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref16) Erwin, S. (2024)._Starlink soars: SpaceX’s satellite internet surprises analysts with $6.6 billion revenue projection_. [online] SpaceNews. Available at: [https://spacenews.com/starlink-soars-spacexs-satellite-internet-surprises-analysts-with-6-6-billion-revenue-projection/](https://spacenews.com/starlink-soars-spacexs-satellite-internet-surprises-analysts-with-6-6-billion-revenue-projection/)
+
+[[17]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref17) Eurospace (2024). _Facts and figures 2024 Press Release_ [online] Available at: [https://eurospace.org/wp-content/uploads/2024/07/ff-2024-press-release.pdf](https://eurospace.org/wp-content/uploads/2024/07/ff-2024-press-release.pdf)
+
+[[18]](https://londoneconomics.co.uk/blog/publication/crouching-rivals-not-so-hidden-dragon-spacex-and-the-future-of-launch-competition-part-1/#_ftnref18) De Selding, P. (2024)._SpaceX CFO: No need to go public now, but when the Starship and Starlink businesses stabilize, we might take a look_. [online] Space Intel Report. Available at: [https://www.spaceintelreport.com/spacex-cfo-no-need-to-go-public-now-but-when-the-starship-and-starlink-businesses-stabilize-we-might-take-a-look/](https://www.spaceintelreport.com/spacex-cfo-no-need-to-go-public-now-but-when-the-starship-and-starlink-businesses-stabilize-we-might-take-a-look/)

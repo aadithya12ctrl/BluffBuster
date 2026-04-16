@@ -1,0 +1,381 @@
+Title: Unlocking Better Document Retrieval with Sequential Latching & Dynamic Context Window Optimization
+
+URL Source: https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc
+
+Published Time: 2025-04-02T07:30:36.000+00:00
+
+Markdown Content:
+# Unlocking Better Document Retrieval with Sequential Latching & Dynamic Context Window Optimization
+
+Agree & Join LinkedIn
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy).
+
+![Image 1](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)
+## Join now to view more content
+
+Create your free account or sign in to continue your search
+
+ Email or phone  
+
+ Password  
+
+Show
+
+[Forgot password?](https://www.linkedin.com/uas/request-password-reset?trk=csm-v2_forgot_password) Sign in 
+
+[Join with email](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=pulse-article_contextual-sign-in-modal_join-with-email-cta)
+
+or
+
+Already on LinkedIn? [Sign in](https://www.linkedin.com/login?trk=pulse-article_contextual-sign-in-modal_sign-in-link)
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy).
+
+[Skip to main content](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc#main-content)[LinkedIn](https://www.linkedin.com/?trk=article-ssr-frontend-pulse_nav-header-logo)
+*   [Top Content](https://www.linkedin.com/top-content?trk=article-ssr-frontend-pulse_guest_nav_menu_topContent)
+*   [People](https://www.linkedin.com/pub/dir/+/+?trk=article-ssr-frontend-pulse_guest_nav_menu_people)
+*   [Learning](https://www.linkedin.com/learning/search?trk=article-ssr-frontend-pulse_guest_nav_menu_learning)
+*   [Jobs](https://www.linkedin.com/jobs/search?trk=article-ssr-frontend-pulse_guest_nav_menu_jobs)
+*   [Games](https://www.linkedin.com/games?trk=article-ssr-frontend-pulse_guest_nav_menu_games)
+
+[Sign in](https://www.linkedin.com/uas/login?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&fromSignIn=true&trk=article-ssr-frontend-pulse_nav-header-signin)[Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_nav-header-join)[![Image 2](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)](https://www.linkedin.com/uas/login?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&fromSignIn=true&trk=article-ssr-frontend-pulse_nav-header-signin)
+
+![Image 3: Unlocking Better Document Retrieval with Sequential Latching & Dynamic Context Window Optimization](https://media.licdn.com/dms/image/v2/D5612AQF2YBMhxRU2CA/article-cover_image-shrink_720_1280/B56ZXqrUaFGsAI-/0/1743398979873?e=2147483647&v=beta&t=sc1k6F2Ra3m3ecSRnrfgbKaF85aOe6xZ9TWY21tqNKQ)
+
+Overview
+
+# Unlocking Better Document Retrieval with Sequential Latching & Dynamic Context Window Optimization
+
+*   [Report this article](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=PONCHO_ARTICLE&_f=guest-reporting)
+
+[Abhiraj Kumar Singh](https://in.linkedin.com/in/abhirajsingh05)![Image 4: Abhiraj Kumar Singh](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)
+
+### Abhiraj Kumar Singh
+
+ Published Apr 2, 2025 
+
+[+ Follow](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_publisher-author-card)
+
+Authors :- [Praneet Reddy](https://www.linkedin.com/in/praneet017?trk=article-ssr-frontend-pulse_little-mention)&[Abhiraj Kumar Singh](https://in.linkedin.com/in/abhirajsingh05?trk=article-ssr-frontend-pulse_little-mention)
+
+In the field of Information Retrieval (IR), ensuring accurate & context-aware document retrieval can make a significant impact across industries such as healthcare, legal, and finance. Traditional RAG systems are great at enhancing LLM performance, but they often face limitations when dealing with structured, multi-page documents — like medical reports, legal contracts, or compliance documents.
+
+> ⚡ The Problem: Incomplete Context in Long Documents
+
+When querying long, multi-page documents, critical information is often spread across different sections. Standard RAG systems may retrieve individual chunks that match the query but miss important context from neighboring sections. This results in:
+
+*   Incomplete Answers: Relevant information scattered across the document is overlooked.
+*   Loss of Continuity: Context-sensitive information needed for generating coherent responses is missed.
+*   Inclusion of Noise: Irrelevant chunks can dilute the accuracy of responses.
+
+> Example:
+
+Imagine querying the Vitamin C content in citrus fruits. A typical RAG system may retrieve isolated data about oranges, lemons, and limes, but without considering contextual information such as nutritional comparisons or health benefits, the generated response would lack comprehensiveness.
+
+> The Solution: Sequential Latching with Dynamic Context Windowing
+
+To address these challenges, I implemented a chunk ID-based sequential latching mechanism combined with dynamic context windowing. This technique dynamically expands or contracts the context window, ensuring that relevant information surrounding retrieved chunks is captured and re-ranked for accuracy.
+
+* * *
+
+> How It Works - Let's take an example of a document related to citrus fruits
+
+1️⃣ Chunking & Embedding
+
+The document is initially divided into smaller, semantically meaningful sections (chunks). Each chunk is assigned a unique chunk_id to maintain sequential order. These chunks are then converted into embeddings & stored in the vector database.
+
+Example:
+
+Consider a document describing the Vitamin C content in different citrus fruits:
+
+*   1.1 - Introduction to citrus fruits 
+*   1.2 - Benefits of Vitamin C 
+*   2.1 - Vitamin C in oranges (53 mg/100g) 
+*   2.2 - Vitamin C in lemons (55 mg/100g) 
+*   2.3 - Vitamin C in limes (53 mg/100g) 
+
+Each of these chunks is vectorized & stored, preserving the order of sections for downstream retrieval.
+
+2️⃣ Sequential Latching for Context Preservation
+
+When a query is submitted (e.g., "What is the Vitamin C content in lemons?"), the top relevant chunks are retrieved based on cosine similarity scores.
+
+Latching Process:
+
+*   Retrieved chunks are sorted by chunk_id.
+*   Sequentially related chunks (same page or adjacent paragraphs) are latched together to ensure continuity of information.
+*   If a query retrieves chunk 2.2 about lemons, neighboring chunks 2.1 (oranges) and 2.3 (limes) are dynamically included to maintain context.
+
+Example:
+
+Query: "How does the Vitamin C content in lemons compare with oranges and limes?"
+
+*   Initial retrieval brings up chunk 2.2 (lemons). 
+*   Sequential Latching dynamically adds 2.1 (oranges) and 2.3 (limes) for a complete comparison. 
+
+3️⃣ Dynamic Context Window Optimization
+
+The context window dynamically expands or contracts based on:
+
+*   Chunk Density: Retaining relevant chunks while removing unrelated sections.
+*   Content Importance: Prioritizing sections that contribute contextually to the query.
+
+## Recommended by LinkedIn
+
+[![Image 5: Evolution of Thematic Analysis Methodologies: A Comparative Study between Braun & Clarke (2006) and Naeem et al. (2023)](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) Evolution of Thematic Analysis Methodologies: A… Dr Naeem Muhammad (DBA, PhD, FHEA, CMgr, FCMI) 2 years ago](https://www.linkedin.com/pulse/evolution-thematic-analysis-methodologies-comparative-dr-muhammad-qzwxe)
+
+[![Image 6: A pragmatic view on the role of statistics and statisticians in modern data analytics](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) A pragmatic view on the role of statistics and… Ron S. Kenett 6 years ago](https://www.linkedin.com/pulse/pragmatic-view-role-statistics-statisticians-modern-data-kenett)
+
+[![Image 7: This Week I Have Mostly Been Reading](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) This Week I Have Mostly Been Reading Dave Iberson-Hurst - Partner at d4k 4 years ago](https://www.linkedin.com/pulse/week-i-have-mostly-been-reading-david-iberson-hurst-partner-at-d4k)
+
+Example:
+
+Query: "Which citrus fruit offers the highest Vitamin C content?"
+
+*   Initial retrieval may capture chunks about individual fruits. 
+*   Dynamic windowing ensures adjacent chunks (such as comparisons, nutritional benefits, or deficiencies) are included, providing a complete answer.
+
+4️⃣ Re-ranking for Enhanced Relevance
+
+If enabled, re-ranking uses a lightweight re-ranking model to refine the results, ensuring the most contextually relevant chunks are prioritized.
+
+Goal:
+
+*   Boost Accuracy: Improve response quality by emphasizing high-relevance chunks.
+*   Reduce Noise: Discard unrelated or less important chunks.
+
+Example:
+
+Query: "Which citrus fruit provides better immune support?"
+
+*   Initial chunks include Vitamin C data from oranges, lemons, and limes. 
+*   Re-ranking highlights information about immune system benefits and tissue repair, ensuring the highest-quality response.
+
+> Why This Approach Outperforms Standard RAG Systems
+
+*   Higher Accuracy: Sequential latching prevents loss of critical context by ensuring neighboring sections are included in the retrieval.
+*   Improved Contextual Understanding: Dynamic windowing reduces irrelevant content inclusion while capturing only the most contextually important information.
+*   Better Response Quality: Re-ranking refines the selection to prioritize information that directly answers the query, minimizing noise.
+
+### Real-World Applications
+
+1. Healthcare: Extracting a patient’s consultation history across multiple reports and dynamically combining related entries.
+
+Example: Linking lab results from different visits to create a comprehensive patient history.
+
+2. Legal Sector: Identifying and linking related clauses from lengthy contracts.
+
+Example: Analyzing a 50-page contract to extract sections defining payment terms and penalty clauses.
+
+3. Compliance & Security: Validating SOC 2 compliance across multi-section audit reports.
+
+Example: Ensuring adherence to security and data privacy protocols by aggregating findings across multiple pages.
+
+### Why It Matters
+
+By implementing Sequential Latching and Dynamic Context Windowing, RAG systems are significantly more powerful and context-aware. These improvements ensure that context-sensitive queries receive high-quality, accurate responses, making this approach ideal for complex industries that rely on structured documents.
+
+This approach not only enhances response accuracy but also reduces information loss — making it a game-changer for applications that require deep contextual understanding
+
+#ArtificialIntelligence #MachineLearning #NLP #DeepLearning #AIResearch #LLMs #GenerativeAI #RAG #InformationRetrieval #RetrievalAugmentedGeneration #AIChatbots #LLMOptimization #KnowledgeRetrieval #Hiring #HealthcareAI #LegalTech #FinTech #ComplianceAI #CyberSecurity #VectorDatabases #Qdrant #SentenceTransformers
+
+[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_like-toggle_like-cta)
+
+![Image 8: Like](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)Like
+
+![Image 9: Celebrate](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)Celebrate
+
+![Image 10: Support](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)Support
+
+![Image 11: Love](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)Love
+
+![Image 12: Insightful](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)Insightful
+
+![Image 13: Funny](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)Funny
+
+[Comment](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_comment-cta)
+
+*   Copy
+*   LinkedIn
+*   Facebook
+*   X
+
+ Share 
+
+[![Image 14](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)![Image 15](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)![Image 16](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) 33](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_likes-count_social-actions-reactions)[7 Comments](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_likes-count_social-actions-comments)
+
+[![Image 17: Manisha Chhaya, graphic](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)](https://in.linkedin.com/in/manisha-chhaya-12a0764?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-image)
+
+[Manisha Chhaya](https://in.linkedin.com/in/manisha-chhaya-12a0764?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-name) 11mo 
+
+*   [Report this comment](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+It will truely enhance accuracy but will it also consider chunck that are not adjacent?
+
+[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_like)[Reply](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reply) 1 Reaction 
+
+[![Image 18: Suraj Eggoni, graphic](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)](https://in.linkedin.com/in/suraje5?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-image)
+
+[Suraj Eggoni](https://in.linkedin.com/in/suraje5?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-name) 1y 
+
+*   [Report this comment](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+Brilliant approach! Sequential Latching + Dynamic Context Windowing seems like a true game-changer for improving precision in RAG pipelines.
+
+[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_like)[Reply](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reply)[1 Reaction](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reactions) 2 Reactions 
+
+[![Image 19: Lasya Nandini, graphic](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)](https://in.linkedin.com/in/lasya-nandini?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-image)
+
+[Lasya Nandini](https://in.linkedin.com/in/lasya-nandini?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-name) 1y 
+
+*   [Report this comment](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+Optimizing AI retrieval with Sequential Latching can truly enhance accuracy in complex domains. Great share [Abhiraj Kumar Singh](https://in.linkedin.com/in/abhirajsingh05?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment-text) !
+
+[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_like)[Reply](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reply)[1 Reaction](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reactions) 2 Reactions 
+
+[![Image 20: Meghana S, graphic](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)](https://in.linkedin.com/in/meghana-s-33730a216?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-image)
+
+[Meghana S](https://in.linkedin.com/in/meghana-s-33730a216?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-name) 1y 
+
+*   [Report this comment](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+Cool experiment [Abhiraj](https://in.linkedin.com/in/abhirajsingh05?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment-text) !!
+
+[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_like)[Reply](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reply) 1 Reaction 
+
+[![Image 21: Parikha Sharma, graphic](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)](https://in.linkedin.com/in/parikha-sharma-9916091b3?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-image)
+
+[Parikha Sharma](https://in.linkedin.com/in/parikha-sharma-9916091b3?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-name) 1y 
+
+*   [Report this comment](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+Insightful [Abhiraj](https://in.linkedin.com/in/abhirajsingh05?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment-text) !!
+
+[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_like)[Reply](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reply) 1 Reaction 
+
+[See more comments](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_comments_comment-see-more)
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Funlocking-better-document-retrieval-sequential-latching-singh-sf9jc&trk=article-ssr-frontend-pulse_x-social-details_feed-cta-banner-cta)
+
+## More articles by Abhiraj Kumar Singh
+
+*   [Leveraging Machine Learning to Combat Phishing: Safeguarding the Digital Frontier](https://www.linkedin.com/pulse/leveraging-machine-learning-combat-phishing-digital-frontier-singh-honbc)![Image 22](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) May 6, 2024 
+### Leveraging Machine Learning to Combat Phishing: Safeguarding the Digital Frontier
+
+Results of the model The Internet has revolutionized the way we live, work, and connect with the world. Yet, alongside…
+
+![Image 23](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)![Image 24](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)![Image 25](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) 18     
+
+## Others also viewed
+
+*   [![Image 26](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) ### P-Value < 0.05 & I am a statistician Nisarg Shrivats 4y](https://www.linkedin.com/pulse/p-value-005-i-am-statistician-nisarg-shrivats)
+*   [![Image 27](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) ### Data Conversion Service: Making Scientific Research Data Interoperable, Transparent and Reusable Physical Sciences Data Infrastructure (PSDI) 2mo](https://www.linkedin.com/pulse/data-conversion-service-making-scientific-research-interoperable-cnune)
+*   [![Image 28](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) ### Best practices: Naming research samples Core Facility Genomics (NCCT) 5mo](https://www.linkedin.com/pulse/best-practices-naming-research-samples-ncctuebingen-qexve)
+*   [![Image 29](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) ### Asking the right questions Eliezer Magno Diógenes Araújo 6y](https://www.linkedin.com/pulse/asking-right-questions-eliezer-magno-araujo)
+*   [![Image 30](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) ### Analyzing augmented data James Silva Garcia 10y](https://www.linkedin.com/pulse/analyzing-augmented-data-james-silva)
+*   [![Image 31](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) ### Technical knowledge in analytics: More is NOT (always) better Michiko I. Wolcott, CMC 1y](https://www.linkedin.com/pulse/technical-knowledge-analytics-more-always-better-wolcott-cmc-qmq2e)
+*   [![Image 32](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) ### The Necessary Burden of Analytic Tradecraft Standards Farijah St Clair 4mo](https://www.linkedin.com/pulse/necessary-burden-analytic-tradecraft-standards-st-clair--kz87c)
+*   [![Image 33](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) ### What Is A Statistical T-Test? Tim Bushnell, Ph.D., MBA 8y](https://www.linkedin.com/pulse/what-statistical-t-test-tim-bushnell)
+*   [![Image 34](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) ### Plot, Line, and Sinker – The Power of Storying Data Jason Larson 5y](https://www.linkedin.com/pulse/plot-line-sinker-power-storying-data-jason-larson)
+*   [![Image 35](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc) ### KNN Retrieval vs. Random Forest Classifier: Choosing the Right Approach for Agri AI Weather Advisory CHINMAY R M 6mo](https://www.linkedin.com/pulse/knn-retrieval-vs-random-forest-classifier-choosing-right-chinmay-r-m-6gfnc)
+
+ Show more  Show less 
+
+## Explore content categories
+
+*   [Career](https://www.linkedin.com/top-content/career/)
+*   [Productivity](https://www.linkedin.com/top-content/productivity/)
+*   [Finance](https://www.linkedin.com/top-content/finance/)
+*   [Soft Skills & Emotional Intelligence](https://www.linkedin.com/top-content/soft-skills-emotional-intelligence/)
+*   [Project Management](https://www.linkedin.com/top-content/project-management/)
+*   [Education](https://www.linkedin.com/top-content/education/)
+*   [Technology](https://www.linkedin.com/top-content/technology/)
+*   [Leadership](https://www.linkedin.com/top-content/leadership/)
+*   [Ecommerce](https://www.linkedin.com/top-content/ecommerce/)
+*   [User Experience](https://www.linkedin.com/top-content/user-experience/)
+*   [Recruitment & HR](https://www.linkedin.com/top-content/recruitment-hr/)
+*   [Customer Experience](https://www.linkedin.com/top-content/customer-experience/)
+*   [Real Estate](https://www.linkedin.com/top-content/real-estate/)
+*   [Marketing](https://www.linkedin.com/top-content/marketing/)
+*   [Sales](https://www.linkedin.com/top-content/sales/)
+*   [Retail & Merchandising](https://www.linkedin.com/top-content/retail-merchandising/)
+*   [Science](https://www.linkedin.com/top-content/science/)
+*   [Supply Chain Management](https://www.linkedin.com/top-content/supply-chain-management/)
+*   [Future Of Work](https://www.linkedin.com/top-content/future-of-work/)
+*   [Consulting](https://www.linkedin.com/top-content/consulting/)
+*   [Writing](https://www.linkedin.com/top-content/writing/)
+*   [Economics](https://www.linkedin.com/top-content/economics/)
+*   [Artificial Intelligence](https://www.linkedin.com/top-content/artificial-intelligence/)
+*   [Employee Experience](https://www.linkedin.com/top-content/employee-experience/)
+*   [Workplace Trends](https://www.linkedin.com/top-content/workplace-trends/)
+*   [Fundraising](https://www.linkedin.com/top-content/fundraising/)
+*   [Networking](https://www.linkedin.com/top-content/networking/)
+*   [Corporate Social Responsibility](https://www.linkedin.com/top-content/corporate-social-responsibility/)
+*   [Negotiation](https://www.linkedin.com/top-content/negotiation/)
+*   [Communication](https://www.linkedin.com/top-content/communication/)
+*   [Engineering](https://www.linkedin.com/top-content/engineering/)
+*   [Hospitality & Tourism](https://www.linkedin.com/top-content/hospitality-tourism/)
+*   [Business Strategy](https://www.linkedin.com/top-content/business-strategy/)
+*   [Change Management](https://www.linkedin.com/top-content/change-management/)
+*   [Organizational Culture](https://www.linkedin.com/top-content/organizational-culture/)
+*   [Design](https://www.linkedin.com/top-content/design/)
+*   [Innovation](https://www.linkedin.com/top-content/innovation/)
+*   [Event Planning](https://www.linkedin.com/top-content/event-planning/)
+*   [Training & Development](https://www.linkedin.com/top-content/training-development/)
+
+ Show more  Show less 
+
+*   LinkedIn© 2026
+*   [About](https://about.linkedin.com/?trk=d_flagship2_pulse_read_footer-about)
+*   [Accessibility](https://www.linkedin.com/accessibility?trk=d_flagship2_pulse_read_footer-accessibility)
+*   [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=d_flagship2_pulse_read_footer-user-agreement)
+*   [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=d_flagship2_pulse_read_footer-privacy-policy)
+*   [Your California Privacy Choices](https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_flagship2_pulse_read_footer-california-privacy-rights-act)
+*   [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=d_flagship2_pulse_read_footer-cookie-policy)
+*   [Copyright Policy](https://www.linkedin.com/legal/copyright-policy?trk=d_flagship2_pulse_read_footer-copyright-policy)
+*   [Brand Policy](https://brand.linkedin.com/policies?trk=d_flagship2_pulse_read_footer-brand-policy)
+*   [Guest Controls](https://www.linkedin.com/psettings/guest-controls?trk=d_flagship2_pulse_read_footer-guest-controls)
+*   [Community Guidelines](https://www.linkedin.com/legal/professional-community-policies?trk=d_flagship2_pulse_read_footer-community-guide)
+*   
+    *    العربية (Arabic) 
+    *    বাংলা (Bangla) 
+    *    Čeština (Czech) 
+    *    Dansk (Danish) 
+    *    Deutsch (German) 
+    *    Ελληνικά (Greek) 
+    *   **English (English)**
+    *    Español (Spanish) 
+    *    فارسی (Persian) 
+    *    Suomi (Finnish) 
+    *    Français (French) 
+    *    हिंदी (Hindi) 
+    *    Magyar (Hungarian) 
+    *    Bahasa Indonesia (Indonesian) 
+    *    Italiano (Italian) 
+    *    עברית (Hebrew) 
+    *    日本語 (Japanese) 
+    *    한국어 (Korean) 
+    *    मराठी (Marathi) 
+    *    Bahasa Malaysia (Malay) 
+    *    Nederlands (Dutch) 
+    *    Norsk (Norwegian) 
+    *    ਪੰਜਾਬੀ (Punjabi) 
+    *    Polski (Polish) 
+    *    Português (Portuguese) 
+    *    Română (Romanian) 
+    *    Русский (Russian) 
+    *    Svenska (Swedish) 
+    *    తెలుగు (Telugu) 
+    *    ภาษาไทย (Thai) 
+    *    Tagalog (Tagalog) 
+    *    Türkçe (Turkish) 
+    *    Українська (Ukrainian) 
+    *    Tiếng Việt (Vietnamese) 
+    *    简体中文 (Chinese (Simplified)) 
+    *    正體中文 (Chinese (Traditional)) 
+
+ Language 
+
+[](https://www.linkedin.com/pulse/unlocking-better-document-retrieval-sequential-latching-singh-sf9jc)

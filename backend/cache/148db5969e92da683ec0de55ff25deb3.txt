@@ -1,0 +1,1150 @@
+Title: From Google to game changers: 9 startups founded by ex-Googlers that secured big funding in AI
+
+URL Source: https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/
+
+Published Time: 2024-12-20T08:00:52+00:00
+
+Markdown Content:
+# From Google to game changers: 9 startups founded by ex-Googlers that secured big funding in AI — TFN
+
+We value your privacy
+
+We and our 1714 partners use cookies and other tracking technologies to improve your experience on our website. We may store and/or access information on a device and process personal data, such as your IP address and browsing data, for personalised advertising and content, advertising and content measurement, audience research and services development. Additionally, we may utilize precise geolocation data and identification through device scanning.
+
+Please note that your choices will apply only to this website. Once you give consent, a floating button will appear at the bottom of your screen, allowing you to change or withdraw your consent at any time. We respect your choices and are committed to providing you with a transparent and secure browsing experience.
+
+Customise Reject All Accept All
+
+Customise Consent Preferences![Image 10](https://cdn-cookieyes.com/assets/images/close.svg)
+
+Customise your consent preferences for Cookie Categories and advertising tracking preferences for Purposes & Features and Vendors below. You can give granular consent for each Third Party Vendor and Google Ad Tech Provider. Most vendors require explicit consent for personal data processing, while some rely on legitimate interest. However, you have the right to object to their use of legitimate interest. Additionally, please note that your preferences regarding purposes and vendors are saved in a cookie named 'euconsent' on your device and may be retained for up to 730 days to remember your choices.
+
+*   Cookie Categories
+*   Purposes & Features
+*   Vendors
+
+Cookie Categories
+
+We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.
+
+The cookies that are categorised as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. ...Show more
+
+Necessary Always Active
+
+Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.
+
+*   Cookie VISITOR_PRIVACY_METADATA 
+*   Duration 6 months 
+*   Description YouTube sets this cookie to store the user's cookie consent state for the current domain.  
+
+*   Cookie elementor 
+*   Duration Never Expires 
+*   Description The website's WordPress theme uses this cookie.It allows the website owner to implement or change the website's content in real-time. 
+
+*   Cookie wpEmojiSettingsSupports 
+*   Duration session 
+*   Description WordPress sets this cookie when a user interacts with emojis on a WordPress site. It helps determine if the user's browser can display emojis properly. 
+
+*   Cookie cookieyes-consent 
+*   Duration 1 year 
+*   Description CookieYes sets this cookie to remember users' consent preferences so that their preferences are respected on subsequent visits to this site. It does not collect or store any personal information about the site visitors. 
+
+*   Cookie euconsent 
+*   Duration 1 year 
+*   Description CookieYes sets this cookie to store data when IAB TCF is enabled. 
+
+*   Cookie __cf_bm 
+*   Duration 1 hour 
+*   Description This cookie, set by Cloudflare, is used to support Cloudflare Bot Management.  
+
+*   Cookie JSESSIONID 
+*   Duration session 
+*   Description New Relic uses this cookie to store a session identifier so that New Relic can monitor session counts for an application. 
+
+*   Cookie li_gc 
+*   Duration 6 months 
+*   Description Linkedin set this cookie for storing visitor's consent regarding using cookies for non-essential purposes. 
+
+*   Cookie m 
+*   Duration 1 year 1 month 4 days 
+*   Description Stripe sets this cookie for fraud prevention purposes. It identifies the device used to access the website, allowing the website to be formatted accordingly. 
+
+*   Cookie __stripe_mid 
+*   Duration 1 year 
+*   Description Stripe sets this cookie to set a unique session identifier to recognize users across sessions. 
+
+*   Cookie __stripe_sid 
+*   Duration 1 hour 
+*   Description Stripe sets this cookie to set a unique session identifier for a single session. 
+
+*   Cookie _cfuvid 
+*   Duration session 
+*   Description Cloudflare sets this cookie to track users across sessions to optimize user experience by maintaining session consistency and providing personalized services 
+
+*   Cookie _px3 
+*   Duration 6 minutes 
+*   Description This cookie is set by the Bloomberg to protect the site from BOT attacks. 
+
+*   Cookie _pxvid 
+*   Duration 1 year 
+*   Description PerimeterX sets this cookie to detect fraud and bot activity. 
+
+Functional
+
+- [x] 
+
+Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.
+
+*   Cookie VISITOR_INFO1_LIVE 
+*   Duration 6 months 
+*   Description A cookie set by YouTube to measure bandwidth that determines whether the user gets the new or old player interface. 
+
+*   Cookie ytidb::LAST_RESULT_ENTRY_KEY 
+*   Duration Never Expires 
+*   Description The cookie ytidb::LAST_RESULT_ENTRY_KEY is used by YouTube to store the last search result entry that was clicked by the user. This information is used to improve the user experience by providing more relevant search results in the future. 
+
+*   Cookie lang 
+*   Duration session 
+*   Description LinkedIn sets this cookie to remember a user's language setting. 
+
+*   Cookie lidc 
+*   Duration 1 day 
+*   Description LinkedIn sets the lidc cookie to facilitate data center selection. 
+
+Analytics
+
+- [x] 
+
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.
+
+*   Cookie YSC 
+*   Duration session 
+*   Description YSC cookie is set by Youtube and is used to track the views of embedded videos on Youtube pages. 
+
+*   Cookie _ga 
+*   Duration 1 year 1 month 4 days 
+*   Description Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors. 
+
+*   Cookie _ga_* 
+*   Duration 1 year 1 month 4 days 
+*   Description Google Analytics sets this cookie to store and count page views. 
+
+*   Cookie li_alerts 
+*   Duration 1 year 
+*   Description LinkedIn sets this cookie to track impressions of LinkedIn alerts, such as the Cookie Banner and to implement cool-off periods for display of alerts. 
+
+Performance
+
+Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+
+No cookies to display.
+
+Advertisement
+
+- [x] 
+
+Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.
+
+*   Cookie bcookie 
+*   Duration 1 year 
+*   Description LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser IDs. 
+
+*   Cookie bscookie 
+*   Duration 1 year 
+*   Description LinkedIn sets this cookie to store performed actions on the website. 
+
+*   Cookie NID 
+*   Duration 6 months 
+*   Description Google sets the cookie for advertising purposes; to limit the number of times the user sees an ad, to unwanted mute ads, and to measure the effectiveness of ads. 
+
+Uncategorised
+
+- [x] 
+
+Other uncategorised cookies are those that are being analysed and have not been classified into a category as yet.
+
+*   Cookie __Secure-ROLLOUT_TOKEN 
+*   Duration 6 months 
+*   Description Description is currently not available. 
+
+*   Cookie _color_system_schema 
+*   Duration session 
+*   Description No description available. 
+
+*   Cookie __Secure-YEC 
+*   Duration past 
+*   Description Description is currently not available. 
+
+*   Cookie __Secure-YNID 
+*   Duration 6 months 
+*   Description Description is currently not available. 
+
+*   Cookie luma.did 
+*   Duration session 
+*   Description Description is currently not available. 
+
+*   Cookie luma.first-page 
+*   Duration session 
+*   Description Description is currently not available. 
+
+*   Cookie pxcts 
+*   Duration session 
+*   Description Description is currently not available. 
+
+*   Cookie _pxttld 
+*   Duration session 
+*   Description Description is currently not available. 
+
+*   Cookie __Secure-BUCKET 
+*   Duration 6 months 
+*   Description Description is currently not available. 
+
+Purposes & Features
+
+ Purposes (11) 
+
+- [x] 
+
+Store and/or access information on a device
+
+Consent
+
+- [x] 
+
+Cookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other information (e.g. browser type and information, language, screen size, supported technologies etc.) can be stored or read on your device to recognise it each time it connects to an app or to a website, for one or several of the purposes presented here.
+
+Illustrations
+
+*   Most purposes explained in this notice rely on the storage or accessing of information from your device when you use an app or visit a website. For example, a vendor or publisher might need to store a cookie on your device during your first visit on a website, to be able to recognise your device during your next visits (by accessing this cookie each time).
+
+Number of Vendors seeking consent: 811
+
+Use limited data to select advertising
+
+Legitimate Interest
+
+- [x] 
+
+Consent
+
+- [x] 
+
+Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).
+
+Illustrations
+
+*   A car manufacturer wants to promote its electric vehicles to environmentally conscious users living in the city after office hours. The advertising is presented on a page with related content (such as an article on climate change actions) after 6:30 p.m. to users whose non-precise location suggests that they are in an urban zone.
+*   A large producer of watercolour paints wants to carry out an online advertising campaign for its latest watercolour range, diversifying its audience to reach as many amateur and professional artists as possible and avoiding showing the ad next to mismatched content (for instance, articles about how to paint your house). The number of times that the ad has been presented to you is detected and limited, to avoid presenting it too often.
+
+Number of Vendors seeking consent or relying on legitimate interest: 762
+
+Create profiles for personalised advertising
+
+Consent
+
+- [x] 
+
+Information about your activity on this service (such as forms you submit, content you look at) can be stored and combined with other information about you (for example, information from your previous activity on this service and other websites or apps) or similar users. This is then used to build or improve a profile about you (that might include possible interests and personal aspects). Your profile can be used (also later) to present advertising that appears more relevant based on your possible interests by this and other entities.
+
+Illustrations
+
+*   If you read several articles about the best bike accessories to buy, this information could be used to create a profile about your interest in bike accessories. Such a profile may be used or improved later on, on the same or a different website or app to present you with advertising for a particular bike accessory brand. If you also look at a configurator for a vehicle on a luxury car manufacturer website, this information could be combined with your interest in bikes to refine your profile and make an assumption that you are interested in luxury cycling gear.
+*   An apparel company wishes to promote its new line of high-end baby clothes. It gets in touch with an agency that has a network of clients with high income customers (such as high-end supermarkets) and asks the agency to create profiles of young parents or couples who can be assumed to be wealthy and to have a new child, so that these can later be used to present advertising within partner apps based on those profiles.
+
+Number of Vendors seeking consent: 618
+
+Use profiles to select personalised advertising
+
+Consent
+
+- [x] 
+
+Advertising presented to you on this service can be based on your advertising profiles, which can reflect your activity on this service or other websites or apps (like the forms you submit, content you look at), possible interests and personal aspects.
+
+Illustrations
+
+*   An online retailer wants to advertise a limited sale on running shoes. It wants to target advertising to users who previously looked at running shoes on its mobile app. Tracking technologies might be used to recognise that you have previously used the mobile app to consult running shoes, in order to present you with the corresponding advertisement on the app.
+*   A profile created for personalised advertising in relation to a person having searched for bike accessories on a website can be used to present the relevant advertisement for bike accessories on a mobile app of another organisation.
+
+Number of Vendors seeking consent: 620
+
+Create profiles to personalise content
+
+Consent
+
+- [x] 
+
+Information about your activity on this service (for instance, forms you submit, non-advertising content you look at) can be stored and combined with other information about you (such as your previous activity on this service or other websites or apps) or similar users. This is then used to build or improve a profile about you (which might for example include possible interests and personal aspects). Your profile can be used (also later) to present content that appears more relevant based on your possible interests, such as by adapting the order in which content is shown to you, so that it is even easier for you to find content that matches your interests.
+
+Illustrations
+
+*   You read several articles on how to build a treehouse on a social media platform. This information might be added to a profile to mark your interest in content related to outdoors as well as do-it-yourself guides (with the objective of allowing the personalisation of content, so that for example you are presented with more blog posts and articles on treehouses and wood cabins in the future).
+*   You have viewed three videos on space exploration across different TV apps. An unrelated news platform with which you have had no contact builds a profile based on that viewing behaviour, marking space exploration as a topic of possible interest for other videos.
+
+Number of Vendors seeking consent: 266
+
+Use profiles to select personalised content
+
+Consent
+
+- [x] 
+
+Content presented to you on this service can be based on your content personalisation profiles, which can reflect your activity on this or other services (for instance, the forms you submit, content you look at), possible interests and personal aspects. This can for example be used to adapt the order in which content is shown to you, so that it is even easier for you to find (non-advertising) content that matches your interests.
+
+Illustrations
+
+*   You read articles on vegetarian food on a social media platform and then use the cooking app of an unrelated company. The profile built about you on the social media platform will be used to present you vegetarian recipes on the welcome screen of the cooking app.
+*   You have viewed three videos about rowing across different websites. An unrelated video sharing platform will recommend five other videos on rowing that may be of interest to you when you use your TV app, based on a profile built about you when you visited those different websites to watch online videos.
+
+Number of Vendors seeking consent: 240
+
+Measure advertising performance
+
+Legitimate Interest
+
+- [x] 
+
+Consent
+
+- [x] 
+
+Information regarding which advertising is presented to you and how you interact with it can be used to determine how well an advert has worked for you or other users and whether the goals of the advertising were reached. For instance, whether you saw an ad, whether you clicked on it, whether it led you to buy a product or visit a website, etc. This is very helpful to understand the relevance of advertising campaigns.
+
+Illustrations
+
+*   You have clicked on an advertisement about a “black Friday” discount by an online shop on the website of a publisher and purchased a product. Your click will be linked to this purchase. Your interaction and that of other users will be measured to know how many clicks on the ad led to a purchase.
+*   You are one of very few to have clicked on an advertisement about an “international appreciation day” discount by an online gift shop within the app of a publisher. The publisher wants to have reports to understand how often a specific ad placement within the app, and notably the “international appreciation day” ad, has been viewed or clicked by you and other users, in order to help the publisher and its partners (such as agencies) optimise ad placements.
+
+Number of Vendors seeking consent or relying on legitimate interest: 882
+
+Measure content performance
+
+Legitimate Interest
+
+- [x] 
+
+Consent
+
+- [x] 
+
+Information regarding which content is presented to you and how you interact with it can be used to determine whether the (non-advertising) content e.g. reached its intended audience and matched your interests. For instance, whether you read an article, watch a video, listen to a podcast or look at a product description, how long you spent on this service and the web pages you visit etc. This is very helpful to understand the relevance of (non-advertising) content that is shown to you.
+
+Illustrations
+
+*   You have read a blog post about hiking on a mobile app of a publisher and followed a link to a recommended and related post. Your interactions will be recorded as showing that the initial hiking post was useful to you and that it was successful in interesting you in the related post. This will be measured to know whether to produce more posts on hiking in the future and where to place them on the home screen of the mobile app.
+*   You were presented a video on fashion trends, but you and several other users stopped watching after 30 seconds. This information is then used to evaluate the right length of future videos on fashion trends.
+
+Number of Vendors seeking consent or relying on legitimate interest: 405
+
+Understand audiences through statistics or combinations of data from different sources
+
+Legitimate Interest
+
+- [x] 
+
+Consent
+
+- [x] 
+
+Reports can be generated based on the combination of data sets (like user profiles, statistics, market research, analytics data) regarding your interactions and those of other users with advertising or (non-advertising) content to identify common characteristics (for instance, to determine which target audiences are more receptive to an ad campaign or to certain contents).
+
+Illustrations
+
+*   The owner of an online bookstore wants commercial reporting showing the proportion of visitors who consulted and left its site without buying, or consulted and bought the last celebrity autobiography of the month, as well as the average age and the male/female distribution of each category. Data relating to your navigation on its site and to your personal characteristics is then used and combined with other such data to produce these statistics.
+*   An advertiser wants to better understand the type of audience interacting with its adverts. It calls upon a research institute to compare the characteristics of users who interacted with the ad with typical attributes of users of similar platforms, across different devices. This comparison reveals to the advertiser that its ad audience is mainly accessing the adverts through mobile devices and is likely in the 45-60 age range.
+
+Number of Vendors seeking consent or relying on legitimate interest: 559
+
+Develop and improve services
+
+Legitimate Interest
+
+- [x] 
+
+Consent
+
+- [x] 
+
+Information about your activity on this service, such as your interaction with ads or content, can be very helpful to improve products and services and to build new products and services based on user interactions, the type of audience, etc. This specific purpose does not include the development or improvement of user profiles and identifiers.
+
+Illustrations
+
+*   A technology platform working with a social media provider notices a growth in mobile app users, and sees based on their profiles that many of them are connecting through mobile connections. It uses a new technology to deliver ads that are formatted for mobile devices and that are low-bandwidth, to improve their performance.
+*   An advertiser is looking for a way to display ads on a new type of consumer device. It collects information regarding the way users interact with this new kind of device to determine whether it can build a new mechanism for displaying advertising on this type of device.
+
+Number of Vendors seeking consent or relying on legitimate interest: 659
+
+Use limited data to select content
+
+Legitimate Interest
+
+- [x] 
+
+Consent
+
+- [x] 
+
+Content presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).
+
+Illustrations
+
+*   A travel magazine has published an article on its website about the new online courses proposed by a language school, to improve travelling experiences abroad. The school’s blog posts are inserted directly at the bottom of the page, and selected on the basis of your non-precise location (for instance, blog posts explaining the course curriculum for different languages than the language of the country you are situated in).
+*   A sports news mobile app has started a new section of articles covering the most recent football games. Each article includes videos hosted by a separate streaming platform showcasing the highlights of each match. If you fast-forward a video, this information may be used to select a shorter video to play next.
+
+Number of Vendors seeking consent or relying on legitimate interest: 177
+
+ Special Purposes (3) 
+
+Ensure security, prevent and detect fraud, and fix errors
+
+Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.
+
+Illustrations
+
+*   An advertising intermediary delivers ads from various advertisers to its network of partnering websites. It notices a large increase in clicks on ads relating to one advertiser, and uses data regarding the source of the clicks to determine that 80% of the clicks come from bots rather than humans.
+
+Number of Vendors seeking consent: 628
+
+Deliver and present advertising and content
+
+Certain information (like an IP address or device capabilities) is used to ensure the technical compatibility of the content or advertising, and to facilitate the transmission of the content or ad to your device.
+
+Illustrations
+
+*   Clicking on a link in an article might normally send you to another page or part of the article. To achieve this, 1°) your browser sends a request to a server linked to the website, 2°) the server answers back (“here is the article you asked for”), using technical information automatically included in the request sent by your device, to properly display the information / images that are part of the article you asked for. Technically, such exchange of information is necessary to deliver the content that appears on your screen.
+
+Number of Vendors seeking consent: 623
+
+Save and communicate privacy choices
+
+The choices you make regarding the purposes and entities listed in this notice are saved and made available to those entities in the form of digital signals (such as a string of characters). This is necessary in order to enable both this service and those entities to respect such choices.
+
+Illustrations
+
+*   When you visit a website and are offered a choice between consenting to the use of profiles for personalised advertising or not consenting, the choice you make is saved and made available to advertising providers, so that advertising presented to you respects that choice.
+
+Number of Vendors seeking consent: 477
+
+ Features (3) 
+
+Match and combine data from other data sources
+
+Information about your activity on this service may be matched and combined with other information relating to you and originating from various sources (for instance your activity on a separate online service, your use of a loyalty card in-store, or your answers to a survey), in support of the purposes explained in this notice.
+
+Number of Vendors seeking consent: 443
+
+Link different devices
+
+In support of the purposes explained in this notice, your device might be considered as likely linked to other devices that belong to you or your household (for instance because you are logged in to the same service on both your phone and your computer, or because you may use the same Internet connection on both devices).
+
+Number of Vendors seeking consent: 372
+
+Identify devices based on information transmitted automatically
+
+Your device might be distinguished from other devices based on information it automatically sends when accessing the Internet (for instance, the IP address of your Internet connection or the type of browser you are using) in support of the purposes exposed in this notice.
+
+Number of Vendors seeking consent: 577
+
+ Special Features (2) 
+
+- [x] 
+
+Use precise geolocation data
+
+Consent
+
+- [x] 
+
+With your acceptance, your precise location (within a radius of less than 500 metres) may be used in support of the purposes explained in this notice.
+
+Number of Vendors seeking consent: 291
+
+Actively scan device characteristics for identification
+
+Consent
+
+- [x] 
+
+With your acceptance, certain characteristics specific to your device might be requested and used to distinguish it from other devices (such as the installed fonts or plugins, the resolution of your screen) in support of the purposes explained in this notice.
+
+Number of Vendors seeking consent: 160
+
+Vendors
+
+ Third party vendors (998) 
+
+- [x] 
+
+ Google Ad Tech Providers (716) 
+
+- [x] 
+
+Reject All Save My Preferences Accept All
+
+[![Image 11: Tech Funding News](https://techfundingnews.com/wp-content/uploads/2021/07/cropped-android-chrome-192x192-1.png)](https://techfundingnews.com/)[![Image 12: Tech Funding News](https://techfundingnews.com/wp-content/uploads/2021/07/cropped-android-chrome-192x192-1.png)](https://techfundingnews.com/)
+
+*   [UK](https://techfundingnews.com/category/uk/)
+*   [Europe](https://techfundingnews.com/category/europe/)
+*   [US](https://techfundingnews.com/category/us/)
+*   [VC News](https://techfundingnews.com/category/vc/)
+*   [Interviews](https://techfundingnews.com/category/interviews/)
+*   [Partner Content](https://techfundingnews.com/category/sponsored/)
+*   [AI News](https://techfundingnews.com/category/AI/)
+*   [PREMIUM](https://techfundingnews.com/category/premium/)
+
+#### Subscribe TFN for Daily News Alerts
+
+Email address:
+
+By clicking submit, you agree to share your email address with TFN to receive marketing, updates, and other emails from the site owner. Use the unsubscribe link in the emails to opt out at any time.
+
+Leave this field empty if you're human:  
+
+##### Categories
+
+*   [Acquisition News](https://techfundingnews.com/category/acquisition/)
+*   [Africa Tech News](https://techfundingnews.com/category/africa/)
+*   [Agtech News](https://techfundingnews.com/category/agtech/)
+*   [AI News](https://techfundingnews.com/category/ai/)
+*   [App News](https://techfundingnews.com/category/app/)
+*   [Asia Tech News](https://techfundingnews.com/category/asia/)
+*   [Australia Tech News](https://techfundingnews.com/category/australia/)
+*   [Autonomous News](https://techfundingnews.com/category/autonomous/)
+*   [Batterytech News](https://techfundingnews.com/category/batterytech/)
+*   [Biotech News](https://techfundingnews.com/category/biotech/)
+*   [Blockchain News](https://techfundingnews.com/category/blockchain/)
+*   [Blog](https://techfundingnews.com/category/blog/)
+*   [BNPL News](https://techfundingnews.com/category/fintech/bnpl/)
+*   [Business Wire](https://techfundingnews.com/category/business-wire/)
+*   [Canada Tech News](https://techfundingnews.com/category/canada/)
+*   [Challenger Bank News](https://techfundingnews.com/category/fintech/challenger-bank/)
+*   [Climate Tech News](https://techfundingnews.com/category/climate-tech/)
+*   [Cloud News](https://techfundingnews.com/category/cloud/)
+*   [Covid-19 News](https://techfundingnews.com/category/covid-19/)
+*   [Crypto News](https://techfundingnews.com/category/crypto/)
+*   [Cybersecurity News](https://techfundingnews.com/category/cybersecurity/)
+*   [Deeptech News](https://techfundingnews.com/category/deep-tech/)
+*   [Defence Tech](https://techfundingnews.com/category/defence-tech/)
+*   [Diversity News](https://techfundingnews.com/category/diversity/)
+*   [Ecommerce News](https://techfundingnews.com/category/ecommerce/)
+*   [Editor's Pick](https://techfundingnews.com/category/editors-pick/)
+*   [Edtech News](https://techfundingnews.com/category/edtech/)
+*   [Electric News](https://techfundingnews.com/category/electric/)
+*   [Europe Tech News](https://techfundingnews.com/category/europe/)
+*   [Female Funding](https://techfundingnews.com/category/female-funding/)
+*   [Femtech News](https://techfundingnews.com/category/femtech/)
+*   [Fintech News](https://techfundingnews.com/category/fintech/)
+*   [Foodtech News](https://techfundingnews.com/category/foodtech/)
+*   [Funding News](https://techfundingnews.com/category/funding/)
+*   [Gadgets News](https://techfundingnews.com/category/gadgets/)
+*   [Gaming News](https://techfundingnews.com/category/gaming/)
+*   [Guest Post](https://techfundingnews.com/category/guest-post/)
+*   [Healthtech News](https://techfundingnews.com/category/health/)
+*   [HRtech News](https://techfundingnews.com/category/hrtech/)
+*   [India Tech News](https://techfundingnews.com/category/india/)
+*   [Interviews](https://techfundingnews.com/category/interviews/)
+*   [Israel Tech News](https://techfundingnews.com/category/israel/)
+*   [Latest News](https://techfundingnews.com/category/latest-news/)
+*   [Marketplace News](https://techfundingnews.com/category/marketplace/)
+*   [Medtech News](https://techfundingnews.com/category/medtech/)
+*   [Middle East Tech News](https://techfundingnews.com/category/middle-east/)
+*   [Mobility News](https://techfundingnews.com/category/mobility/)
+*   [Monthly & Annual premium](https://techfundingnews.com/category/annual-premium/)
+*   [news 2](https://techfundingnews.com/category/news-2/)
+*   [NFT News](https://techfundingnews.com/category/nft/)
+*   [Other news](https://techfundingnews.com/category/other-news/)
+*   [Partner Spotlight](https://techfundingnews.com/category/partner_spotlight/)
+*   [Podcast](https://techfundingnews.com/category/podcast/)
+*   [Popular now](https://techfundingnews.com/category/featured/)
+*   [Premium](https://techfundingnews.com/category/premium/)
+*   [Robotics News](https://techfundingnews.com/category/robotics/)
+*   [SaaS News](https://techfundingnews.com/category/saas/)
+*   [Social Media News](https://techfundingnews.com/category/social-media/)
+*   [Spacetech News](https://techfundingnews.com/category/spacetech/)
+*   [Sponsored](https://techfundingnews.com/category/sponsored-2/)
+*   [Startups News](https://techfundingnews.com/category/startups/)
+*   [Sustainable News](https://techfundingnews.com/category/sustainable/)
+*   [TFN Partner Content](https://techfundingnews.com/category/sponsored/)
+*   [Top Feature](https://techfundingnews.com/category/top-feature/)
+*   [Top Funding Rounds](https://techfundingnews.com/category/top-funding-rounds/)
+*   [Top News](https://techfundingnews.com/category/top-news/)
+*   [Top Stories](https://techfundingnews.com/category/top-stories/)
+*   [Traveltech News](https://techfundingnews.com/category/travel/)
+*   [UK Tech News](https://techfundingnews.com/category/uk/)
+*   [Unicorns](https://techfundingnews.com/category/unicorns/)
+*   [US Tech News](https://techfundingnews.com/category/us/)
+*   [VC News](https://techfundingnews.com/category/vc/)
+*   [VR and AR News](https://techfundingnews.com/category/vr-and-ar/)
+*   [WEB3 News](https://techfundingnews.com/category/web3/)
+*   [Wellbeing News](https://techfundingnews.com/category/wellbeing/)
+
+[![Image 13: Tech Funding News](https://techfundingnews.com/wp-content/uploads/2021/07/cropped-android-chrome-192x192-1.png)](https://techfundingnews.com/)[![Image 14: Tech Funding News](https://techfundingnews.com/wp-content/uploads/2021/07/cropped-android-chrome-192x192-1.png)](https://techfundingnews.com/)
+
+*   [UK](https://techfundingnews.com/category/uk/)
+*   [Europe](https://techfundingnews.com/category/europe/)
+*   [US](https://techfundingnews.com/category/us/)
+*   [VC News](https://techfundingnews.com/category/vc/)
+*   [Interviews](https://techfundingnews.com/category/interviews/)
+*   [Partner Content](https://techfundingnews.com/category/sponsored/)
+*   [AI News](https://techfundingnews.com/category/AI/)
+*   [PREMIUM](https://techfundingnews.com/category/premium/)
+
+##### Gadgets
+
+*   ![Image 15: Sovereign AI Fund](blob:http://localhost/f6cbe9653b3d5e88cba5f968b6e5efa1) [](https://techfundingnews.com/even-founders-nordic-female-startup-funding/) April 14, 2026  
+### [Where Nordic women-founded startups can and can’t raise capital](https://techfundingnews.com/even-founders-nordic-female-startup-funding/)
+
+[by Sofia Chesnokova](https://techfundingnews.com/author/sofia/ "View all posts by Sofia Chesnokova")    
+*   ![Image 16: Sovereign AI Fund](blob:http://localhost/f6cbe9653b3d5e88cba5f968b6e5efa1) [](https://techfundingnews.com/uk-fintech-ralio-ai-agentic-payments-pitch-deck/) April 14, 2026  
+### [UK fintech Ralio just raised $2.5M to make AI agentic payments safer. Check out the deck it used](https://techfundingnews.com/uk-fintech-ralio-ai-agentic-payments-pitch-deck/)
+
+[by Tasmin Lockwood](https://techfundingnews.com/author/tasmin/ "View all posts by Tasmin Lockwood")    
+*   ![Image 17: Sovereign AI Fund](blob:http://localhost/f6cbe9653b3d5e88cba5f968b6e5efa1) [](https://techfundingnews.com/convelio-series-c-phillips-art-logistics/) April 14, 2026  
+### [After shipping $1.84B of art for Sotheby’s, Christie’s and now Phillips, Convelio raises Series C to automate the art logistics](https://techfundingnews.com/convelio-series-c-phillips-art-logistics/)
+
+[by Sofia Chesnokova](https://techfundingnews.com/author/sofia/ "View all posts by Sofia Chesnokova")    
+*   ![Image 18: Sovereign AI Fund](blob:http://localhost/f6cbe9653b3d5e88cba5f968b6e5efa1) [](https://techfundingnews.com/what-if-you-never-forgot-anything-harvard-spinout-engramme-eyes-1b-valuation-to-build-ai-memory/) April 13, 2026  
+### [Harvard neuroscientist eyes $100M raise at a $1B valuation to build AI that never forgets](https://techfundingnews.com/what-if-you-never-forgot-anything-harvard-spinout-engramme-eyes-1b-valuation-to-build-ai-memory/)
+
+[by Vignesh R](https://techfundingnews.com/author/miles_vig/ "View all posts by Vignesh R")    
+*   ![Image 19: Sovereign AI Fund](blob:http://localhost/f6cbe9653b3d5e88cba5f968b6e5efa1) [](https://techfundingnews.com/uk-sovereign-ai-fund-500m/) April 13, 2026  
+### [The UK is launching its £500M Sovereign AI Fund this week. Here’s what we know](https://techfundingnews.com/uk-sovereign-ai-fund-500m/)
+
+[by Sofia Chesnokova](https://techfundingnews.com/author/sofia/ "View all posts by Sofia Chesnokova")    
+
+NEWSLETTER
+
+Email address:
+
+By clicking submit, you agree to share your email address with TFN to receive marketing, updates, and other emails from the site owner. Use the unsubscribe link in the emails to opt out at any time.
+
+Leave this field empty if you're human:  
+
+[![Image 20: Tech Funding News](https://techfundingnews.com/wp-content/uploads/2021/07/cropped-android-chrome-192x192-1.png)](https://techfundingnews.com/)[![Image 21: Tech Funding News](https://techfundingnews.com/wp-content/uploads/2021/07/cropped-android-chrome-192x192-1.png)](https://techfundingnews.com/)
+
+##### The Latest
+
+![Image 22: Engramme](blob:http://localhost/3abbd2324c49b007baa09cb7fd8dc3a2)
+
+[](https://techfundingnews.com/even-founders-nordic-female-startup-funding/)
+
+###### [Where Nordic women-founded startups can and can’t raise capital](https://techfundingnews.com/even-founders-nordic-female-startup-funding/)
+
+*   [Diversity News](https://techfundingnews.com/category/diversity/)
+*   [Europe Tech News](https://techfundingnews.com/category/europe/)
+*   [Female Funding](https://techfundingnews.com/category/female-funding/)
+*   [Funding News](https://techfundingnews.com/category/funding/)
+*   [Interviews](https://techfundingnews.com/category/interviews/)
+*   [Latest News](https://techfundingnews.com/category/latest-news/)
+*   [Monthly & Annual premium](https://techfundingnews.com/category/annual-premium/)
+*   [Popular now](https://techfundingnews.com/category/featured/)
+*   [Premium](https://techfundingnews.com/category/premium/)
+*   [Startups News](https://techfundingnews.com/category/startups/)
+*   [Top Feature](https://techfundingnews.com/category/top-feature/)
+*   [Top News](https://techfundingnews.com/category/top-news/)
+*   [Top Stories](https://techfundingnews.com/category/top-stories/)
+
+[by Sofia Chesnokova](https://techfundingnews.com/author/sofia/ "View all posts by Sofia Chesnokova")
+
+April 14, 2026
+
+4 minute read
+
+![Image 23: Engramme](blob:http://localhost/3abbd2324c49b007baa09cb7fd8dc3a2)
+
+[](https://techfundingnews.com/uk-fintech-ralio-ai-agentic-payments-pitch-deck/)
+
+###### [UK fintech Ralio just raised $2.5M to make AI agentic payments safer. Check out the deck it used](https://techfundingnews.com/uk-fintech-ralio-ai-agentic-payments-pitch-deck/)
+
+*   [AI News](https://techfundingnews.com/category/ai/)
+*   [Fintech News](https://techfundingnews.com/category/fintech/)
+*   [Funding News](https://techfundingnews.com/category/funding/)
+*   [Interviews](https://techfundingnews.com/category/interviews/)
+*   [Latest News](https://techfundingnews.com/category/latest-news/)
+*   [Monthly & Annual premium](https://techfundingnews.com/category/annual-premium/)
+*   [Popular now](https://techfundingnews.com/category/featured/)
+*   [Premium](https://techfundingnews.com/category/premium/)
+*   [Startups News](https://techfundingnews.com/category/startups/)
+*   [Top News](https://techfundingnews.com/category/top-news/)
+*   [Top Stories](https://techfundingnews.com/category/top-stories/)
+*   [UK Tech News](https://techfundingnews.com/category/uk/)
+
+[by Tasmin Lockwood](https://techfundingnews.com/author/tasmin/ "View all posts by Tasmin Lockwood")
+
+April 14, 2026
+
+2 minute read
+
+![Image 24: Engramme](blob:http://localhost/3abbd2324c49b007baa09cb7fd8dc3a2)
+
+[](https://techfundingnews.com/convelio-series-c-phillips-art-logistics/)
+
+###### [After shipping $1.84B of art for Sotheby’s, Christie’s and now Phillips, Convelio raises Series C to automate the art logistics](https://techfundingnews.com/convelio-series-c-phillips-art-logistics/)
+
+*   [AI News](https://techfundingnews.com/category/ai/)
+*   [Europe Tech News](https://techfundingnews.com/category/europe/)
+*   [Funding News](https://techfundingnews.com/category/funding/)
+*   [Latest News](https://techfundingnews.com/category/latest-news/)
+*   [Popular now](https://techfundingnews.com/category/featured/)
+*   [Startups News](https://techfundingnews.com/category/startups/)
+*   [Top News](https://techfundingnews.com/category/top-news/)
+*   [Top Stories](https://techfundingnews.com/category/top-stories/)
+
+[by Sofia Chesnokova](https://techfundingnews.com/author/sofia/ "View all posts by Sofia Chesnokova")
+
+April 14, 2026
+
+2 minute read
+
+![Image 25: Engramme](blob:http://localhost/3abbd2324c49b007baa09cb7fd8dc3a2)
+
+[](https://techfundingnews.com/what-if-you-never-forgot-anything-harvard-spinout-engramme-eyes-1b-valuation-to-build-ai-memory/)
+
+###### [Harvard neuroscientist eyes $100M raise at a $1B valuation to build AI that never forgets](https://techfundingnews.com/what-if-you-never-forgot-anything-harvard-spinout-engramme-eyes-1b-valuation-to-build-ai-memory/)
+
+*   [AI News](https://techfundingnews.com/category/ai/)
+*   [Funding News](https://techfundingnews.com/category/funding/)
+*   [Latest News](https://techfundingnews.com/category/latest-news/)
+*   [Popular now](https://techfundingnews.com/category/featured/)
+*   [Top Funding Rounds](https://techfundingnews.com/category/top-funding-rounds/)
+*   [Top News](https://techfundingnews.com/category/top-news/)
+*   [Top Stories](https://techfundingnews.com/category/top-stories/)
+*   [US Tech News](https://techfundingnews.com/category/us/)
+
+[by Vignesh R](https://techfundingnews.com/author/miles_vig/ "View all posts by Vignesh R")
+
+April 13, 2026
+
+2 minute read
+
+*   [Yoni Assia](https://techfundingnews.com/tag/yoni-assia/)
+*   [X](https://techfundingnews.com/tag/x/)
+*   [WWDC](https://techfundingnews.com/tag/wwdc/)
+*   [workertech](https://techfundingnews.com/tag/workertech/)
+*   [women in tech](https://techfundingnews.com/tag/women-in-tech/)
+*   [Woman in Tech](https://techfundingnews.com/tag/woman-in-tech/)
+*   [Wise](https://techfundingnews.com/tag/wise/)
+*   [wireless charging](https://techfundingnews.com/tag/wireless-charging/)
+*   [WhatsApp](https://techfundingnews.com/tag/whatsapp/)
+*   [Wellbeing](https://techfundingnews.com/tag/wellbeing/)
+
+[![Image 26: techarena](https://techfundingnews.com/wp-content/uploads/2026/03/Family-Day-Banner-TFN-1520px-x-183px_V2.jpg)](https://www.family-day-htgf.de/?utm_source=url&utm_medium=url&utm_campaign=HTGF+Family+Day&utm_id=HTGF+Family+Day&utm_term=TFN)
+
+*   [AI News](https://techfundingnews.com/category/ai/)
+*   [Europe Tech News](https://techfundingnews.com/category/europe/)
+*   [Female Funding](https://techfundingnews.com/category/female-funding/)
+*   [Funding News](https://techfundingnews.com/category/funding/)
+*   [Latest News](https://techfundingnews.com/category/latest-news/)
+*   [Startups News](https://techfundingnews.com/category/startups/)
+*   [Top Funding Rounds](https://techfundingnews.com/category/top-funding-rounds/)
+*   [Top Stories](https://techfundingnews.com/category/top-stories/)
+*   [UK Tech News](https://techfundingnews.com/category/uk/)
+*   [Unicorns](https://techfundingnews.com/category/unicorns/)
+*   [US Tech News](https://techfundingnews.com/category/us/)
+
+# From Google to game changers: 9 startups founded by ex-Googlers that secured big funding in AI
+
+[![Image 27](https://secure.gravatar.com/avatar/96e0528549083f000d5340af7e95b0cccc4371c16f90f53837437398ffb2c8af?s=26&d=mm&r=g)by Abhinaya Prabhu](https://techfundingnews.com/author/abhinaya_prabhu/ "View all posts by Abhinaya Prabhu")
+
+December 20, 2024
+
+5 minute read
+
+![Image 28: ex-googler-startups](https://techfundingnews.com/wp-content/uploads/2024/12/ex-googler-startups.jpg)
+
+Total
+
+0
+
+Shares
+
+[0](https://www.facebook.com/sharer.php?u=https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/)
+
+[0](https://x.com/share?&text=From%20Google%20to%20game%20changers%3A%209%20startups%20founded%20by%20ex-Googlers%20that%20secured%20big%20funding%20in%20AI&via=TFNBreakingNews&url=https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/)
+
+[0](https://www.linkedin.com/shareArticle?mini=true&url=https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/)
+
+[0](whatsapp://send?text=https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/)
+
+The term Google Mafia refers to the network of former Google employees who have founded or led successful startups after their tenure at Google. In 2024, this group has been particularly influential in the AI sector, with several startups achieving significant valuations and securing substantial funding.
+
+As of October 2024, 14 AI startups led by ex-Google employees have [collectively raised](https://writerbuddy.ai/blog/top-50-ai) approximately $14.7 billion, reaching a combined valuation of $71.61 billion. Notable examples include [Anthropic](https://techfundingnews.com/anthropic-and-aws-deepen-ties-with-4b-funding-what-this-means-for-ais-future/), co-founded by former Googler Dario Amodei, which reached a $40 billion valuation; [Perplexity](https://techfundingnews.com/perplexity-reportedly-closed-500m-funding-at-9b-valuation-also-acquired-carbon/), founded by ex-Google intern Aravind Srinivas, attained a $62 billion valuation, and [Mistral AI](https://techfundingnews.com/genai-race-french-openai-rival-mistral-ai-snaps-e468m-at-e5-8b-valuation/), co-founded by Arthur Mensch, who departed from Google DeepMind, reached a $6.2 billion valuation.
+
+Beyond AI, the broader Google Mafia has been instrumental in founding over 2,300 companies, collectively raising $98.2 billion in funding. These ventures span various sectors, including fintech, entertainment tech, and workplace automation.
+
+Venture capital firms have shown keen interest in these startups, with Andreessen Horowitz emerging as the most active investor, having backed 46 Google alum-founded companies since 2018. In addition to individual entrepreneurial efforts, Google continues to support the startup ecosystem through initiatives like the Google for Startups Founders Funds.
+
+The influence of the Google Mafia underscores the impact that former Google employees have on the tech startup landscape, particularly in advancing AI technologies and attracting substantial venture capital investment.
+
+That said, here is a list of AI startups founded by Google alums that bagged funding in 2024.
+
+### **Cohere (Canada)**
+
+![Image 29: Cohere](https://techfundingnews.com/wp-content/uploads/2023/05/Cohere.jpg)
+
+Picture credits: Cohere
+
+Founder/s: Aidan Gomez, Nick Frosst
+
+ Founded year: 2019
+
+ Total funding: $970M
+
+The brainchild of two Canadian ex-Google researchers [Cohere](https://cohere.com/) develops advanced language models and AI technologies focused on natural language processing. Their language model can engage in open-ended dialogue, answer questions, and assist with various tasks across industries.
+
+Earlier this year, the Toronto startup offering an AI platform for enterprises has [landed $500 million in a Series D funding round](https://techfundingnews.com/chatgpt-rival-cohere-bags-500m-at-5-5b-valuation-from-cisco-and-others/). With this round, the company’s valuation hits $5.5 billion. The investment came from Cisco, AMD, and Fujitsu alongside participation from Canadian pension investment manager PSP Investments and Canada’s export credit agency EDC.
+
+### **Cradle (Netherlands)**
+
+![Image 30: Glean team](blob:http://localhost/ef64050e50f973f64b679e06de8a0e25)
+
+Picture credits: Cradle
+
+Founder/s: Elise de Reus, Stef van Grieken
+
+ Founded year: 2015
+
+ Total funding: $103M
+
+Founded by experts from experts from Google, Deepmind, and other tech giants, [Cradle](https://www.cradle.bio/)’s generative AI platform helps scientists to design better proteins, up to ten times faster and more successfully, speeding up the development of new therapeutics and bio-based products such as enzymes, antibodies, and bio-based materials and chemicals.
+
+Last month, [Cradle raised $73 million in Series B funding](https://techfundingnews.com/genai-techbio-founded-by-google-alumni-secures-73m-series-b-with-backing-from-ivp-and-index-ventures/) led by IVP, with participation from previous investors Index Ventures, and Kindred Capital.
+
+### **/dev/agents (US)**
+
+![Image 31: Glean team](blob:http://localhost/ef64050e50f973f64b679e06de8a0e25)
+
+Picture credits: Hugo Barra
+
+Founder/s: David Singleton, Hugo Barra, Ficus Kirkpatrick, Nicholas Jitkoff
+
+ Founded year: 2022
+
+ Total funding: NA
+
+Recently, a group of tech experts from Google has joined hands for a new startup dubbed [/dev/agents](https://sdsa.ai/). This new company specialises in launching a cloud operating system for AI agents. The platform makes it easier to build AI agents in a new cloud-based operating system. It will work seamlessly across all devices, making AI more accessible and functional. The startup also wants to create a new user interface so that people can interact with agents on various hardware devices more naturally.
+
+A couple of weeks back, the startup [snapped $56 million](https://techfundingnews.com/from-android-to-ai-google-alums-raise-56m-to-build-next-gen-os-for-ai-agents/) led by Index Ventures and Alphabet’s investment fund CapitalG. The round also saw participation from angel investors, including Scale AI CEO Alexander Wang, Palo Alto Networks CEO Nikesh Arora, and OpenAI co-founder Andrej Karpathy.
+
+### **Simplismart (US)**
+
+![Image 32: Glean team](blob:http://localhost/ef64050e50f973f64b679e06de8a0e25)
+
+Picture credits: Simplismart
+
+Founder/s: Amritanshu Jain, Devansh Ghatak
+
+ Founded year: 2022
+
+ Total funding: $7M
+
+[Simplismart](https://www.simplismart.ai/) is a platform that helps businesses and researchers build and manage deep learning models without writing code. As per the company, it has built the fastest inference engine that helps AI apps be more responsive and cheaper for businesses to use. It offers a range of powerful features and integrations, giving you complete control of the modern MLOps lifecycle.
+
+In October, [Simplismart secured $7 million in Series A funding](https://techfundingnews.com/ex-oracle-google-engineers-raise-7m-to-make-ai-apps-more-responsive-and-cheaper-for-businesses-to-use/) led by Accel with participation from Shastra VC, Titan Capital, and high-profile angels, including Akshay Kothari, Co-Founder of Notion.
+
+### **Magic (US)**
+
+![Image 33: Glean team](blob:http://localhost/ef64050e50f973f64b679e06de8a0e25)
+
+Picture credits: Magic
+
+Founder/s: Eric Steinberger, Sebastian De Ro
+
+ Founded year: 2022
+
+ Total funding: $465M
+
+Led by former Google CEO Eric Schmidt [Magic](https://magic.dev/) is an AI startup that creates tools to help software engineers with coding tasks like writing, reviewing, debugging, and planning. These tools act like automated programmer, learning from the context of different coding projects. The company developed a model called LTM-2-mini, which can understand and process information equivalent to 10 million lines of code or 750 novels.
+
+Recently, [Magic raised $320 million in funding](https://techfundingnews.com/genai-coding-startup-magic-lands-320m-funding-from-ex-google-ceo-and-others/), with additional investments from Elad Gil, Nat Friedman, Daniel Gross, Jane Street, Sequoia, and Atlassian. This followed an earlier Series B funding round of $117 million in February. Magic is important in the AI coding industry because it enhances the efficiency and capabilities of software development.
+
+### **BeyondMath (UK)**
+
+![Image 34: Glean team](blob:http://localhost/ef64050e50f973f64b679e06de8a0e25)
+
+Picture credits: BeyondMath
+
+Founder/s: Alan Patterson, Darren Garvey
+
+ Founded year: 2022
+
+ Total funding: $8.5M
+
+[BeyondMath](https://beyondmath.com/)‘s platform uses AI to simulate the physical world for complex phenomena, such as those used in designing vehicles, aircraft, batteries, and data centres. It employs AI trained to decipher the core equations of the physical world, delivering a monumental leap in speed and cost. It is said to accelerate engineering iterations by a factor of 1,000 compared to current solutions.
+
+In August this year, [BeyondMath scooped $8.5 million in seed funding](https://techfundingnews.com/google-alums-beyondmath-secures-8-5m-for-ai-powered-engineering-simulation-platform/) led by UP.Partners, with significant participation from Insight Partners and InMotion Ventures, the investment arm of JLR.
+
+### **Maxim AI (US)**
+
+![Image 35: Glean team](blob:http://localhost/ef64050e50f973f64b679e06de8a0e25)
+
+Picture credits: Maxim AI
+
+Founder/s: Vaibhavi Gangwar, Akshay Deo
+
+ Founded year: 2023
+
+ Total funding: $3.0M
+
+California-based [Maxim AI](https://www.getmaxim.ai/) is an enterprise-grade evaluation and observability platform for AI applications. It aims to bring the best practices of traditional software development to streamline AI development workflows. It streamlines the entire AI development lifecycle from design to production, enabling faster, reliable, and high-quality deployment of AI across organisations.
+
+A few months back, [Maxim AI closed $3 million in a funding](https://techfundingnews.com/google-postman-alums-brainchild-maxim-ai-snaps-3m-to-build-ai-products-faster/) round led by Elevation Capital. The round also saw participation from angel investors, including founders of Postman, Chargebee, Groww, Razorpay, and Media.net.
+
+### **CuspAI (UK)**
+
+![Image 36: Glean team](blob:http://localhost/ef64050e50f973f64b679e06de8a0e25)
+
+Picture credits: CuspAI
+
+Founder/s: Max Welling, Chad Edwards
+
+ Founded year: 2024
+
+ Total funding: $30M
+
+[CuspAI](https://www.cuspai.com/) is an AI startup that uses generative AI, deep learning, and molecular simulation to develop a platform that generates and evaluates new materials. The platform works like a search engine for materials, allowing users to request specific properties for new materials. CuspAI’s goal is to tackle sustainability challenges by developing materials that can address climate change, renewable energy, and other global concerns.
+
+In June, [CuspAI secured $30 million in seed funding](https://techfundingnews.com/microsoft-google-execs-cuspai-bags-30m-for-ai-powered-next-gen-materials-startup/). The round was led by Hoxton Ventures, with significant participation from Basis Set Ventures and Lightspeed Venture Partners. Other investors in the round include LocalGlobe, Northzone, Touring Capital, Giant Ventures, FJ Labs, Tiferes Ventures, and Zero Prime Ventures. Prominent angel investors, including Mehdi Ghissassi and Dorothy Chou from Google Deepmind, also participated in the round.
+
+### **Glean (US)**
+
+![Image 37: Glean team](blob:http://localhost/ef64050e50f973f64b679e06de8a0e25)
+
+Picture credits: Glean
+
+Founder/s: Arvind Jain
+
+ Founded year: 2019
+
+ Total funding: $655M
+
+Enterprise AI platform [Glean](https://www.glean.com/) focuses on user-friendly AI tools reflecting a broader trend in the industry to make AI more accessible to non-technical employees. This trend has been driven by the realisation that AI adoption within organisations often hinges on employee comfort with the technology.
+
+In September, [Glean raised $260 million](https://techfundingnews.com/glean-raises-260m-at-4-6b-valuation-know-how-it-is-advancing-ai-prompting-for-workplaces/) in its latest Series E funding round, securing a valuation of $4.6 billion. The round was led by new investors Altimeter and DST Global, with participation from existing backers such as Coatue, General Catalyst, and Sequoia Capital.
+
+*   [AI](https://techfundingnews.com/tag/ai/)
+*   [Europe](https://techfundingnews.com/tag/europe/)
+*   [female funding](https://techfundingnews.com/tag/female-funding/)
+*   [funding](https://techfundingnews.com/tag/funding/)
+*   [news](https://techfundingnews.com/tag/news/)
+*   [Startups](https://techfundingnews.com/tag/startups/)
+*   [top 10](https://techfundingnews.com/tag/top-10/)
+*   [Top funding round](https://techfundingnews.com/tag/top-funding-round/)
+*   [UK](https://techfundingnews.com/tag/uk/)
+*   [Unicorns](https://techfundingnews.com/tag/unicorns/)
+*   [US](https://techfundingnews.com/tag/us/)
+
+Total
+
+0
+
+Shares
+
+[Share 0](https://www.facebook.com/sharer.php?u=https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/)
+
+[Tweet 0](https://x.com/share?&text=From%20Google%20to%20game%20changers%3A%209%20startups%20founded%20by%20ex-Googlers%20that%20secured%20big%20funding%20in%20AI&via=TFNBreakingNews&url=https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/)
+
+[Share 0](https://www.linkedin.com/shareArticle?mini=true&url=https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/)
+
+[Share 0](whatsapp://send?text=https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/)
+
+## EDITOR'S PICK
+
+![Image 38: LSEG](blob:http://localhost/ef6ff28bc3f24e951ad64b72f6acc96c)
+
+## SiFive raises $400M from NVIDIA and Apollo in last round before IPO
+
+[](https://techfundingnews.com/sifive-400m-series-g-risc-v-ipo/)
+
+![Image 39: LSEG](blob:http://localhost/ef6ff28bc3f24e951ad64b72f6acc96c)
+
+## Meta commits $21B to CoreWeave in one of AI infrastructure’s largest ever contracts
+
+[](https://techfundingnews.com/meta-coreweave-21b-ai-cloud-deal/)
+
+![Image 40: LSEG](blob:http://localhost/ef6ff28bc3f24e951ad64b72f6acc96c)
+
+## UK startup and venture capital tax reforms lead to ‘troubling picture’ for ecosystem
+
+[](https://techfundingnews.com/uk-tax-reform-venture-capital/)
+
+## TFN Prime
+
+![Image 41: LSEG](blob:http://localhost/ef6ff28bc3f24e951ad64b72f6acc96c)
+
+## Where Nordic women-founded startups can and can’t raise capital
+
+[](https://techfundingnews.com/even-founders-nordic-female-startup-funding/)
+
+![Image 42: LSEG](blob:http://localhost/ef6ff28bc3f24e951ad64b72f6acc96c)
+
+## UK fintech Ralio just raised $2.5M to make AI agentic payments safer. Check out the deck it used
+
+[](https://techfundingnews.com/uk-fintech-ralio-ai-agentic-payments-pitch-deck/)
+
+![Image 43: LSEG](blob:http://localhost/ef6ff28bc3f24e951ad64b72f6acc96c)
+
+## The biggest IPO mistake European founders make is choosing the exchange. GPO Fund’s Jeff Stewart explains why
+
+[](https://techfundingnews.com/gpo-fund-ipo-location-us-vs-europe/)
+
+[![Image 44](https://techfundingnews.com/wp-content/uploads/2026/03/Family-Day-Banner-TFN-564px-x-225px_V2.jpg)](https://www.family-day-htgf.de/?utm_source=url&utm_medium=url&utm_campaign=HTGF+Family+Day&utm_id=HTGF+Family+Day&utm_term=TFN)
+
+## Tech Talks With TFN
+
+Please accept cookies to access this content
+
+Please accept cookies to access this content
+
+Please accept cookies to access this content
+
+##### Related Posts
+
+![Image 45: Haruko](blob:http://localhost/d23c4a9b713de401036b4f6bab77502d)
+
+Read More
+
+4 minute read
+
+[](https://techfundingnews.com/octopus-energy-kraken-spinout-utility-software-disruption/)
+
+*   [Funding News](https://techfundingnews.com/category/funding/)
+*   [Latest News](https://techfundingnews.com/category/latest-news/)
+*   [Popular now](https://techfundingnews.com/category/featured/)
+*   [Startups News](https://techfundingnews.com/category/startups/)
+*   [Top Feature](https://techfundingnews.com/category/top-feature/)
+*   [Top Funding Rounds](https://techfundingnews.com/category/top-funding-rounds/)
+*   [Top News](https://techfundingnews.com/category/top-news/)
+*   [Top Stories](https://techfundingnews.com/category/top-stories/)
+*   [UK Tech News](https://techfundingnews.com/category/uk/)
+*   [Unicorns](https://techfundingnews.com/category/unicorns/)
+
+## [Octopus Energy unleashes Kraken: £10bn spin-out set to disrupt global utility tech](https://techfundingnews.com/octopus-energy-kraken-spinout-utility-software-disruption/)
+
+ Octopus Energy is planning to spin off Kraken Technologies, its software division, as an independent company. Valued at… 
+
+[by Sofia Chesnokova](https://techfundingnews.com/author/sofia/ "View all posts by Sofia Chesnokova")
+
+July 7, 2025
+
+![Image 46: Haruko](blob:http://localhost/d23c4a9b713de401036b4f6bab77502d)
+
+Read More
+
+2 minute read
+
+[](https://techfundingnews.com/lunar-energy-232m-series-d-vpp-expansion/)
+
+*   [AI News](https://techfundingnews.com/category/ai/)
+*   [Funding News](https://techfundingnews.com/category/funding/)
+*   [Latest News](https://techfundingnews.com/category/latest-news/)
+*   [Popular now](https://techfundingnews.com/category/featured/)
+*   [Startups News](https://techfundingnews.com/category/startups/)
+*   [Top Funding Rounds](https://techfundingnews.com/category/top-funding-rounds/)
+*   [Top News](https://techfundingnews.com/category/top-news/)
+*   [Top Stories](https://techfundingnews.com/category/top-stories/)
+*   [US Tech News](https://techfundingnews.com/category/us/)
+
+## [Lunar Energy lands $232M to supercharge home batteries and AI power plants](https://techfundingnews.com/lunar-energy-232m-series-d-vpp-expansion/)
+
+ Lunar Energy has raised $232 million across two funding rounds to expand its home battery business and scale… 
+
+[by Vignesh R](https://techfundingnews.com/author/miles_vig/ "View all posts by Vignesh R")
+
+February 5, 2026
+
+![Image 47: Haruko](blob:http://localhost/d23c4a9b713de401036b4f6bab77502d)
+
+Read More
+
+2 minute read
+
+[](https://techfundingnews.com/artificial-labs-45m-series-b-us-expansion/)
+
+*   [AI News](https://techfundingnews.com/category/ai/)
+*   [Fintech News](https://techfundingnews.com/category/fintech/)
+*   [Funding News](https://techfundingnews.com/category/funding/)
+*   [Latest News](https://techfundingnews.com/category/latest-news/)
+*   [Popular now](https://techfundingnews.com/category/featured/)
+*   [Startups News](https://techfundingnews.com/category/startups/)
+*   [Top News](https://techfundingnews.com/category/top-news/)
+*   [Top Stories](https://techfundingnews.com/category/top-stories/)
+*   [UK Tech News](https://techfundingnews.com/category/uk/)
+
+## [London insurtech Artificial Labs nabs $45M to take digital underwriting stateside](https://techfundingnews.com/artificial-labs-45m-series-b-us-expansion/)
+
+ London-based insurtech company Artificial Labs has raised $45 million in a Series B funding round as it looks… 
+
+[by Vignesh R](https://techfundingnews.com/author/miles_vig/ "View all posts by Vignesh R")
+
+February 3, 2026
+
+![Image 48: Haruko](blob:http://localhost/d23c4a9b713de401036b4f6bab77502d)
+
+Read More
+
+3 minute read
+
+[](https://techfundingnews.com/londons-haruko-bags-10m-funding-for-its-one-stop-shop-for-crypto-investors/)
+
+*   [Funding News](https://techfundingnews.com/category/funding/)
+*   [Latest News](https://techfundingnews.com/category/latest-news/)
+*   [Startups News](https://techfundingnews.com/category/startups/)
+*   [Top Stories](https://techfundingnews.com/category/top-stories/)
+*   [UK Tech News](https://techfundingnews.com/category/uk/)
+
+## [London’s Haruko bags $10M funding for its one-stop shop for crypto investors](https://techfundingnews.com/londons-haruko-bags-10m-funding-for-its-one-stop-shop-for-crypto-investors/)
+
+ Haruko, a London fintech has closed $10 million in a seed funding round. The financing round was led… 
+
+[by Editorial Team](https://techfundingnews.com/author/editorial_team/ "View all posts by Editorial Team")
+
+March 4, 2022
+
+[![Image 49: Tech Funding News](https://techfundingnews.com/wp-content/uploads/2021/07/cropped-android-chrome-192x192-1.png)](https://techfundingnews.com/)[![Image 50: Tech Funding News](https://techfundingnews.com/wp-content/uploads/2021/07/cropped-android-chrome-192x192-1.png)](https://techfundingnews.com/)
+
+[2K](https://x.com/TFNBreakingNews)
+
+[15K](https://www.instagram.com/techfundingnews)
+
+[1K](https://www.youtube.com/channel/UC2VyjCEylJCGMBHrbD1Vu7w)
+
+[62k](https://www.linkedin.com/company/tech-funding-news)
+
+*   [About TFN](https://techfundingnews.com/about/)
+*   [Unicorns](https://techfundingnews.com/category/unicorns/)
+*   [Disclaimer](https://techfundingnews.com/disclaimer/)
+*   [Terms of Use](https://techfundingnews.com/terms-of-use/)
+*   [Privacy Policy](https://techfundingnews.com/privacy-policy/)
+*   [Popular now](https://techfundingnews.com/category/featured/)
+*   [Contact us](https://techfundingnews.com/contact-us/)
+*   [Top Funding Rounds](https://techfundingnews.com/category/top-funding-rounds/)
+*   [Jobs](https://techfundingnews.com/jobs/)
+
+Email address:
+
+By clicking submit, you agree to share your email address with TFN to receive marketing, updates, and other emails from the site owner. Use the unsubscribe link in the emails to opt out at any time.
+
+Leave this field empty if you're human:  
+
+© Stock images by [Depositphotos](https://depositphotos.com/bgremover.html)
+
+© 2026 Tech Funding News - All rights reserved.
+
+[](https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/#top)
+
+Total
+
+0
+
+Share
+
+[0](https://www.facebook.com/sharer.php?u=https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/)
+
+[0](https://x.com/share?&text=From%20Google%20to%20game%20changers%3A%209%20startups%20founded%20by%20ex-Googlers%20that%20secured%20big%20funding%20in%20AI&via=TFNBreakingNews&url=https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/)
+
+[0](https://www.linkedin.com/shareArticle?mini=true&url=https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/)
+
+[0](whatsapp://send?text=https://techfundingnews.com/ex-googlers-take-the-lead-startups-that-raised-funding-to-power-ai-boom/)
+
+[![Image 51: TFN Banner](https://techfundingnews.com/wp-content/uploads/2026/03/TFN-website-banner-2026-564-x-225-px-1520-x-183-px-5.png)](https://techfundingnews.com/subscribe/)×

@@ -1,0 +1,252 @@
+Title: Understanding the Market insights reports
+
+URL Source: https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api
+
+Markdown Content:
+Last updated
+
+1 year ago
+
+## [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-the-market-insights-reports)
+Understanding the Market insights reports
+
+Use the Market insights API to explore what the guests are searching for using Booking.com and to better understand:
+
+Area demand:
+
+*   [The demand in your property's region](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-the-demand-data-report): the only endpoint that requires [eligibility.](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#prerequisites-for-accessing-the-area-demand-data-report)
+
+Property performance:
+
+*   [A typical booking window](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-the-booking-window-report)
+*   [The booker's details](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-the-bookers-data)
+*   [The revenue forecasting information](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-the-pace-report)
+*   [The sales statistics](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-the-sales-statistics-report)
+
+Accessing performance insights needs additional permission
+
+To access the performance data of a property, properties must grant the "Performance data and insights" permission while requesting a new connection via the Extranet.
+
+For existing connections: Providers with individual property accounts can use the Quick connect interface in the [Provider portal](https://connect.booking.com/quick-connect) to request for an additional permission `Performance data and insights` from the connected partner.
+
+For providers with group accounts: Adding permissions for existing connections is currently not supported.
+
+Booking.com provides insights by helping you analyse the anonymised search and reservations data.
+
+## [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#prerequisites-for-accessing-the-area-demand-data-report)
+Prerequisites for accessing the area demand data report
+
+To provide reliable and accurate data, the `area_demand_data` endpoint is currently supported only for properties meeting the following criteria:
+
+*   Have been open and bookable at least once.
+*   Have at least 30 open and bookable properties listed on Booking.com in the property's area.
+*   Have at least 1200 guest searches in the previous two weeks for properties in the property's area.
+
+Using the area_demand_data endpoint without meeting the criteria
+
+The endpoint returns the following error message if the property does not meet the criteria mentioned above: 
+
+`The property is not eligible for retrieving demand data`.
+
+## [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-property-performance)
+Understanding property performance
+
+The Market insight API provides four endpoints that can provide insights into your property's performance.This section provides additional information on how to analyse the insights and understand the available metrics.
+
+### [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#analysing-the-metrics-impact)
+Analysing the metrics impact
+
+Using the property performance endpoints, you can compare the insights with data from:
+
+*   Last year: The API compares the report with the last year values, that is 365 days earlier than the date or time period when the report is run. You can see the percentage change. Useful for year-on-year comparison.
+*   A competitive set: A competitive set includes up to 50 properties selected by Booking.com based on what guests were looking at before booking a specific property.
+*   A peer group: A peer group consists of 50 similar properties in the target property's area. You can use the peer group to see how a specific property is doing compared to similar properties. The properties in the peer group are chosen by Booking.com based on similarities in conversion, cancellations, property type, and other factors.
+*   Market: All properties in a specific region.
+
+### [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-insight-terminologies)
+Understanding insight terminologies
+
+| Terminology | Description |
+| --- | --- |
+| Book date | The date a reservation is booked by guests, minus any cancellations. |
+| Stay date | A reservation’s actual stay dates. Those are the dates guests will stay (or have already stayed) at a property, not the day they booked on Booking.com. |
+| Room night | The number of rooms booked or stayed on a given date or time period. For example, if a guest books a room for 3 nights, that’s 3 room nights. But if the guest books two rooms for 3 nights, that’s 6 room nights. |
+| ADR | Average daily rate calculated as the total revenue divided by room nights sold. |
+
+## [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-the-demand-data-report)
+Understanding the demand data report
+
+Using the `area_demand_data` endpoint, you can find:
+
+*   The guest's search window: The number of days ahead of their stay that guests took to search.
+*   The traveller type: For example, whether guests wanted to travel alone, as a couple, a family or a group.
+*   The most popular device type they use to search for the stay. For example, mobile or a computer.
+*   The cancellation policy attached to the stay. For example, you can find the details of cancellation policies that were most popular based on actual reservations.
+*   The top 5 countries from where the bulk of the guests' search come, based on IP address.
+*   The guests' stay destination, whether domestic or international. For example, guests from France searching for stays in New Zealand are reported as an international destination.
+
+For information on how to implement the `area_demand_data` endpoint, see [Retrieving a demand report.](https://developers.booking.com/connectivity/docs/market-insights-api/managing-market-insights-demand-data/#retrieving-a-demand-report)
+
+### [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#insights-use-past-two-weeks-data)
+Insights use past two-weeks data
+
+The API returns a report that provides insights on the target property's region based on the property ID you specify. The report uses the previous two weeks data from the date the report is generated.The data is updated once per 24 hours and the report generation process starts every day at midnight (CET).
+
+Retrieving demand data for a test property
+
+When using the endpoint on a test property, the API returns mock data for the Paris region.
+
+The report contains a score in percentage for each of the metrics grouped under six categories as shown in the following table.
+
+*   [Book window](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#book_window)
+*   [Traveller type](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#traveller-type)
+*   [Domestic and international travellers](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#domestic-and-international-travellers)
+*   [Device](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#device)
+*   [Top 5 countries](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#top-5-countries)
+*   [Cancellation policy](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#cancellation-policy)
+
+### [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#book-window)
+Book window
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Category** | Book window (`book_window`) |  |  |  |  |  |
+| **Metrics** | 0-1 days | 2-7 days | 8-30 days | 31-90 days | 90+ day | No dates |
+| **Description** | Guests looking for stays less than 2 days | Guests looking for stays between two and seven days | Guests looking for stays between eight and thirty days | Guests looking for stays between thirty one and ninety days | Guests looking for stays longer than ninety days | Guests searching without any fixed dates |
+
+### [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#traveller-type)
+Traveller type
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Category** | Traveller type (`traveller_type`) |  |  |  |
+| **Metrics** | Couple | Solo traveller | Family | Group |
+| **Description** | Two guests travelling together | A single guest travelling | Two or more adult guests accompanied by one or more children | More than two adult guests travelling as a group |
+
+### [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#domestic-and-international-travellers)
+Domestic and international travellers
+
+|  |  |  |
+| --- | --- | --- |
+| **Category** | Domestic and international travellers (`origin`) |  |
+| **Metrics** | Domestic | International |
+| **Description** | Guests who are searching for stays in the target property's region and from the same country | Guests searching for stays in your property's region but are currently residing in a different country |
+
+### [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#device)
+Device
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Category** | Device (`device`) |  |  |
+| **Metrics** | Mobile | Desktop | Unidentified |
+| **Description** | Guests using mobile devices to search | Guests using desktop computers | Guests using devices that are neither mobile nor desktop |
+
+### [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#top-5-countries)
+Top 5 countries
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **Category** | Top 5 countries (`rank`) |  |  |  |  |
+| **Metrics** | Country 1 | Country 2 | Country 3 | Country 4 | Country 5 |
+| **Description** | Guests from country 1 searching for stays in your property's region | Guests from country 2 searching for stays in your property's region | Guests from country 3 searching for stays in the target property's region | Guests from country 4 searching for stays in your property's region | Guests from country 5 searching for stays in your property's region |
+
+### [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#cancellation-policy)
+Cancellation policy
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Category** | Cancellation policy (`policy`) |  |  |
+| **Metrics** | Free cancellation | Non-refundable | Partially refundable |
+| **Description** | Guests making reservations for a property (or room) where the cancellation policy allows for free cancellation | Guests making reservations for a property (or room) where the cancellation policy charges in full on any cancellations | Guests making reservations for a property (or room) where the cancellation policy charges a partial amount on cancellations |
+
+## [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-the-booking-window-report)
+Understanding the booking window report
+
+Use the Booking window report (`book_window_data`) to see how far ahead guests book their stay by analysing the following metrics:
+
+*   The total number of reservations based on date of booking across all booking windows, minus cancellations.
+*   Average daily rate (ADR). This is the average rate charged per room per night. It is calculated as the total revenue divided by room nights sold.
+*   Percentage of rooms booked in a specific booking window.
+
+For information on how to implement the `book_window_data` endpoint, see [Retrieving booking window report.](https://developers.booking.com/connectivity/docs/market-insights-api/managing-market-insights-demand-data/#retrieving-booking-window-information)
+
+The report shows the above metrics for the following booking windows:
+
+*   0 - 1 days
+*   2 - 3 days
+*   4 - 7 days
+*   8 - 14 days
+*   31 - 60 days
+*   61 - 90 days
+*   90+ days
+
+You can view the analytics:
+
+*   Based on a date range.
+*   Comparing the results with values from last year or with the Booking-defined competitive set, peer group or market.
+
+## [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-the-bookers-data)
+Understanding the Booker's data
+
+Use the Booker's data report (`booker_insights_data`) to understand which countries a property's guests are booking from.
+
+It returns the following metrics:
+
+*   The total number of reservations based on date of booking that were booked by guests across all countries, minus cancellations.
+*   Percentage of rooms booked by guests from a specific country.
+
+For information on how to implement the `booker_insights_data` endpoint, see [Retrieving booker's data report.](https://developers.booking.com/connectivity/docs/market-insights-api/managing-market-insights-demand-data/#retrieving-booker-insights-data)
+
+The report shows the above metrics for the top 5 countries where the highest numbers of guests booked from.
+
+You can view the analytics:
+
+*   Based on a date range.
+*   Comparing the results with values from last year or with the Booking-defined competitive set, peer group or market.
+
+## [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-the-pace-report)
+Understanding the pace report
+
+Use the pace report (`pace_report_data`) to keep track of your future reservations, and compare your performance to previous years.You can also check how the property compares with their peer group, competitive set or the market in general.
+
+The report captures the following metrics:
+
+*   Total number of reservations in the future based on the stay date, excluding any cancellations. Therefore, not stayed or cancelled yet.
+*   Total revenue forecast from selling the projected number of rooms.
+*   Average daily rate calculated as the total revenue divided by room nights sold.
+
+For information on how to implement the `pace_report_data` endpoint, see [Retrieving revenue forecasting report.](https://developers.booking.com/connectivity/docs/market-insights-api/managing-market-insights-demand-data/#retrieving-pace-report-data)
+
+You can view the analytics:
+
+*   Based on a date range.
+*   Comparing the average daily rate metric with values from last year or with the Booking.com-defined competitive set, peer group or market.
+*   View by date, week, month or none (aggregates by total).
+
+## [](https://developers.booking.com/connectivity/docs/market-insights-api/understanding-the-market-insights-api#understanding-the-sales-statistics-report)
+Understanding the Sales statistics report
+
+Use the Sales statistics report (`sales_statistics_report_data`) to view the reservations from guests who have booked or stayed at the property, and compare it to the previous year.You can also compare the past performance with the property’s peer group, competitive set or the market in general.
+
+You can view the analytics:
+
+*   Based on a date range.
+*   Based on reservations:
+    *   Book date gross: Takes all reservations based on the date of the booking (rather than the stay), even if cancelled.
+    *   Book date net: Takes all reservations based on the date of the booking (rather than the stay), excluding cancelled reservations.
+    *   Stay date net: Takes all reservations based on the stay date, net of any cancellations - therefore all stayed bookings.
+
+*   Comparing the results with values from last year or with the Booking.com-defined competitive set, peer group or market.
+*   View by date, week, month or none (aggregates by total).
+
+The report captures the following metrics:
+
+*   Total number of rooms booked gross, booked net or stayed net.
+*   Total revenue generated from selling the number of rooms.
+*   Average daily rate calculated as the total revenue divided by room nights sold.
+
+For information on how to implement the `/sales_statistics_report_data` endpoint, see [Retrieving sales statistics report.](https://developers.booking.com/connectivity/docs/market-insights-api/managing-market-insights-demand-data/#retrieving-sales-statistics-report-data)
+
+Was this page helpful?
+
+Previous page[](https://developers.booking.com/connectivity/docs/property-scores-api/property-scores-troubleshooting)

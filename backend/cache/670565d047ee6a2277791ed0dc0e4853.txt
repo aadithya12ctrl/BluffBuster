@@ -1,0 +1,705 @@
+Title: Revenue Models: The Advanced Guide To Revenue Modeling
+
+URL Source: https://fourweekmba.com/revenue-models/
+
+Published Time: 2024-04-25T23:25
+
+Markdown Content:
+STRATEGIC ANALYSIS
+
+Table of Contents
+
+*   [Revenue Models: The Advanced Guide To Revenue Modeling](https://fourweekmba.com/revenue-models/#Revenue_Models_The_Advanced_Guide_To_Revenue_Modeling)
+*   [Myth: A revenue model is a business model](https://fourweekmba.com/revenue-models/#Myth_A_revenue_model_is_a_business_model)
+*   [Revenue modeling as the avenue into the business model](https://fourweekmba.com/revenue-models/#Revenue_modeling_as_the_avenue_into_the_business_model)
+*   [What is a business model?](https://fourweekmba.com/revenue-models/#What_is_a_business_model)
+*   [What is a revenue model?](https://fourweekmba.com/revenue-models/#What_is_a_revenue_model)
+*   [Symmetrical vs. Asymmetrical business models](https://fourweekmba.com/revenue-models/#Symmetrical_vs_Asymmetrical_business_models)
+*   [Cash: who pays the bill?](https://fourweekmba.com/revenue-models/#Cash_who_pays_the_bill)
+    *   [Asymmetrical: users ≠ customers](https://fourweekmba.com/revenue-models/#Asymmetrical_users_%E2%89%A0_customers)
+    *   [Symmetrical: users = customers](https://fourweekmba.com/revenue-models/#Symmetrical_users_customers)
+
+*   [Information: does the user know how the platform makes money?](https://fourweekmba.com/revenue-models/#Information_does_the_user_know_how_the_platform_makes_money)
+    *   [Asymmetrical: hidden revenue generation](https://fourweekmba.com/revenue-models/#Asymmetrical_hidden_revenue_generation)
+    *   [Symmetrical: revealed revenue generation](https://fourweekmba.com/revenue-models/#Symmetrical_revealed_revenue_generation)
+
+*   [Scale: does the platform retain its margins as it scales?](https://fourweekmba.com/revenue-models/#Scale_does_the_platform_retain_its_margins_as_it_scales)
+    *   [Symmetrical and Linear: margins tighten as the platform scales](https://fourweekmba.com/revenue-models/#Symmetrical_and_Linear_margins_tighten_as_the_platform_scales)
+    *   [Asymmetrical and Non-linear: margins keep growing as the platform scales](https://fourweekmba.com/revenue-models/#Asymmetrical_and_Non-linear_margins_keep_growing_as_the_platform_scales)
+
+*   [Revenue model examples](https://fourweekmba.com/revenue-models/#Revenue_model_examples)
+    *   [Ad-supported](https://fourweekmba.com/revenue-models/#Ad-supported)
+    *   [Freemium](https://fourweekmba.com/revenue-models/#Freemium)
+    *   [Subscription-based](https://fourweekmba.com/revenue-models/#Subscription-based)
+    *   [Consumption-based](https://fourweekmba.com/revenue-models/#Consumption-based)
+    *   [Commission-based](https://fourweekmba.com/revenue-models/#Commission-based)
+    *   [Hidden Revenue](https://fourweekmba.com/revenue-models/#Hidden_Revenue)
+    *   [Razor and blade](https://fourweekmba.com/revenue-models/#Razor_and_blade)
+    *   [Direct](https://fourweekmba.com/revenue-models/#Direct)
+    *   [Indirect](https://fourweekmba.com/revenue-models/#Indirect)
+
+*   [Hybrid revenue models](https://fourweekmba.com/revenue-models/#Hybrid_revenue_models)
+*   [Revenue model vs. cost structure](https://fourweekmba.com/revenue-models/#Revenue_model_vs_cost_structure)
+*   [Remove model and distribution](https://fourweekmba.com/revenue-models/#Remove_model_and_distribution)
+*   [Breaking down the wall between product and distribution](https://fourweekmba.com/revenue-models/#Breaking_down_the_wall_between_product_and_distribution)
+*   [Key Highlights:](https://fourweekmba.com/revenue-models/#Key_Highlights)
+*   [Other Case Studies](https://fourweekmba.com/revenue-models/#Other_Case_Studies)
+*   [What is revenue and business model?](https://fourweekmba.com/revenue-models/#What_is_revenue_and_business_model)
+*   [What is revenue model example?](https://fourweekmba.com/revenue-models/#What_is_revenue_model_example)
+*   [What is the best revenue model?](https://fourweekmba.com/revenue-models/#What_is_the_best_revenue_model)
+*   [Other Key Components of a Business Model](https://fourweekmba.com/revenue-models/#Other_Key_Components_of_a_Business_Model)
+*   [Key Takeaways](https://fourweekmba.com/revenue-models/#Key_Takeaways)
+*   [Other Revenue Model Case Studies](https://fourweekmba.com/revenue-models/#Other_Revenue_Model_Case_Studies)
+    *   [Frequently Asked Questions](https://fourweekmba.com/revenue-models/#Frequently_Asked_Questions)
+    *   [Related](https://fourweekmba.com/revenue-models/#Related)
+
+Revenue modeling is a process of incorporating a sustainable financial model for revenue generation within a [business model design](https://fourweekmba.com/business-model-design/). Revenue modeling can help to understand what options make more sense in creating a [digital business](https://fourweekmba.com/digital-business-models/) from scratch; alternatively, it can help in analyzing existing digital businesses and reverse engineer them. I noticed over the years of research I've put into [business modeling](https://fourweekmba.com/what-is-a-business-model/) how pervasive the confusion between revenue and [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")is.
+
+Key Figures
+
+Key Metrics
+
+$237.85B
+
+that – in 2023 – generated…
+
+$31.5B
+
+YouTube Premium (a
+
+$33B
+
+and Google Cloud (
+
+$33.7B
+
+Netflix generated over
+
+Key Components
+
+Myth: A revenue model is a business model
+
+I noticed over the years of research I've put into [business modeling](https://fourweekmba.com/what-is-a-business-model/) how pervasive the confusion between revenue and [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")is.
+
+Revenue modeling as the avenue into the business model
+
+Once you take into account the above, then, of course, you know that revenue modeling can be an avenue into a business model.
+
+What is a revenue model?
+
+For the sake of this guide, we'll look at a key distinction: symmetrical vs. asymmetrical in several contexts.
+
+Symmetrical vs. Asymmetrical business models
+
+For that matter, there might be as many [business models](https://fourweekmba.com/what-is-a-business-model/)as the companies we have in the marketplace.
+
+Cash: who pays the bill?
+
+In many cases, platform [business models](https://fourweekmba.com/what-is-a-business-model/)success depends upon two key players:
+
+Information: does the user know how the platform makes money?
+
+If there is information asymmetry, it means there is one of the parties knows more than the other side.
+
+Scale: does the platform retain its margins as it scales?
+
+Scale is the ability of a company to grow exponentially while keeping its margins growing with the platform's revenues .
+
+Revenue model examples
+
+In this chapter, we'll see some revenue model examples you can use or borrow to build your business model .
+
+Hybrid revenue models
+
+A good example of a [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")that has different revenue models is Amazon. Based on each side of its business, Amazon has different revenue streams and models:
+
+Revenue model vs. cost structure
+
+To complete the picture, it's critical to trace the difference between the revenue model and cost structure.
+
+Real-World Examples
+
+Airbnb Alibaba Amazon Apple Doordash Ebay
+
+Practical Application
+
+1
+
+The asymmetry here stands in the fact that users and customers are two separate entities ( asymmetrical cash model: users ≠ customers).
+
+2
+
+Think of how Google sells ads to companies, while its core products are all free to users.
+
+3
+
+Thus, in a symmetrical revenue model, users and customers are the same entity (symmetrical cash model: users = customers).
+
+4
+
+Think of how Netflix 's users are also its customers.
+
+5
+
+However, it's worth highlighting how Netflix has now launched an ad-supported version, which starts at $6.99 and is an ad-supported tier.
+
+Quick Answers
+
+What is Myth: A revenue model is a business model?
+
+I noticed over the years of research I've put into [business modeling](https://fourweekmba.com/what-is-a-business-model/) how pervasive the confusion between revenue and [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")is.
+
+What is Revenue modeling as the avenue into the business model?
+
+Once you take into account the above, then, of course, you know that revenue modeling can be an avenue into a business model.
+
+What is a revenue model?
+
+For the sake of this guide, we'll look at a key distinction: symmetrical vs. asymmetrical in several contexts.
+
+Key Insight
+
+Most business people tend to confuse the revenue model with the business model . While the revenue model informs a business model, those are two separate things. The revenue model is one of the building blocks of a business model. Yet a [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")comprises many other aspects such as distribution, cost structure, financial structure, and more.
+
+Exec Package + Claude OS Master Skill | Business Engineer Founding Plan
+
+FourWeekMBA x Business Engineer | Updated 2026
+
+Last Updated: **April 2026**
+
+**Revenue modeling is a process of incorporating a sustainable financial model for revenue generation within a [business model](https://fourweekmba.com/what-is-a-business-model/) design.** Revenue modeling can help to understand what options make more sense in creating a digital business from scratch; alternatively, it can help in analyzing existing digital businesses and reverse engineer them.
+
+## **Myth: A revenue model is a business model**
+
+I noticed over the years of research I’ve put into [business modeling](https://fourweekmba.com/what-is-a-business-model/) how pervasive the confusion between revenue and [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")is.
+
+In the startup world, those are often used as synonyms.
+
+Which is fine as long as it doesn’t limit the understanding of what you can do within a business model.
+
+Indeed, a revenue model actually does inform the business model, and it often influences it from the foundation.
+
+However, those are not the same. In fact, in many cases, a revenue model and stream are the only building blocks of an overall business model.
+
+Take the case of Netflix, which for years has been running with a [subscription business](https://fourweekmba.com/media-industry-business-model/) model, and that much much later on (only in 2021), Netflix started to roll out an ad-based revenue model.
+
+Changing a revenue model is not just about changing the way you make money, but it implies changing a set of assumptions within a business model.
+
+Going back to the case of Netflix, adding the ad-supported tier within its business model, requires an understanding of the implications that might carry on the overall business model.
+
+Thus, Netflix is not just about running ads on top of its platform. It’s about understanding how the streaming ad ecosystem works, how to integrate it within its business model, and what consequences that might have on a current subscription model.
+
+That is why, if you’re on Netflix when you start running ads, it’s not just about how and how much money you can make from it; it’s about asking a few fundamental questions about the overall business model, such as:
+
+*   What’s the impact of advertising on the overall business model? 
+*   How is advertising different from subscriptions? 
+*   What scalability advertising has vs. subscriptions? 
+*   What margins do we have with advertising vs. subscriptions?
+*   Is advertising helping us build a better acquisition funnel?
+*   Who are the key players within the advertising ecosystem?
+*   How do we build a scalable advertising platform? 
+
+And so on.
+
+In other words, my argument here is if you plug in a new revenue stream, that is not a business model.
+
+And it’s not just about how you make money; that is also about how that stream integrates within the overall [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")and how it changes its distribution, marketing, and financial model.
+
+With this holistic understanding, you are not constrained by a narrowed definition.
+
+## **Revenue modeling as the avenue into the business model**
+
+Once you take into account the above, then, of course, you know that revenue modeling can be an avenue into a business model.
+
+Thus, an understanding of the revenue model will help you:
+
+*   Reverse engineering any business (by starting the analysis by simply following the money).
+*   Speed up the experimentation process by plugging in new revenue models for your business. 
+*   Start building or scaling a business model!
+
+## [What is a business model?](https://fourweekmba.com/what-is-a-business-model/)
+
+![Image 1: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+A [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")is a framework for finding a systematic way to unlock long-term value for an organization while delivering value to customers and capturing value through monetization strategies. A [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")is a holistic framework to understand, design, and test your business assumptions in the marketplace.
+
+## [What is a revenue model?](https://fourweekmba.com/revenue-stream/)
+
+![Image 2: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+A revenue stream is one of the foundational building blocks of a business model, and the economic value customers are willing to pay for the products and services offered. While a revenue stream is not a business model, it does influence how a [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")works and delivers value.
+
+For the sake of this guide, we’ll look at a key distinction: symmetrical vs. asymmetrical in several contexts.
+
+Remember that all classification methods have flaws and we can only take them into account as long as they help us better tune an existing [business model](https://fourweekmba.com/what-is-a-business-model/).
+
+I decided to use this classification, but any alternative classification works as long as we are able to grasp and understand the possibilities we have in terms of [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")design.
+
+## **Symmetrical vs. Asymmetrical business models**
+
+![Image 3: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+In an asymmetric business model, the organization doesn’t monetize the user directly, but it leverages the data users provide coupled with technology, thus have a key customer pay to sustain the core asset. For example, Google makes money by leveraging users’ data, combined with its algorithms sold to advertisers for visibility. 
+
+[Business models](https://fourweekmba.com/what-is-a-business-model/) can be of various types.
+
+For that matter, there might be as many [business models](https://fourweekmba.com/what-is-a-business-model/)as the companies we have in the marketplace.
+
+In this guide, we’ll use as reference symmetry vs. asymmetry to distinguish across two main [business models](https://fourweekmba.com/what-is-a-business-model/)categories.
+
+In this particular case, we’ll look at revenue modeling by keeping a key distinction between symmetry and asymmetry from three different perspectives.
+
+## **Cash: who pays the bill?**
+
+In many cases, [platform business models](https://fourweekmba.com/platform-business-models/) success depends upon two key players:
+
+*   **Users**: who don’t pay for some or all the services offered by a platform (on the user-side), but they help the platform build it’s a core asset
+*   **Customers**: who pay for the services offered (on the customer-side) to take advantage of the core asset of the platform
+
+In such a business model, the [platform](https://fourweekmba.com/platform-business-models/) assembles the anonymized data of its users who get a free service in exchange.
+
+The assembled data gets processed (by the platform AI and algorithms) and it’s used to scale the platform, build a valuable core asset that can be financed by a set of customers willing to pay for it.
+
+### **Asymmetrical: users ≠ customers**
+
+The asymmetry here stands in the fact that users and customers are two separate entities (asymmetrical cash model: users ≠ customers).
+
+Think of how Google sells ads to companies, while its core products are all free to users.
+
+### **Symmetrical: users = customers**
+
+Thus, in a symmetrical revenue model, users and customers are the same entity (symmetrical cash model: users = customers).
+
+Think of how Netflix’s users are also its customers.
+
+However, it’s worth highlighting how Netflix has now launched an ad-supported version, which starts at $6.99 and is an ad-supported tier.
+
+This is an interestin[g business model](https://fourweekmba.com/procter-and-gamblep-business-model/) transition. Indeed, for all its life, Netflix has relied on a linear and symmetrical revenue model, where users were also customers.
+
+As of now, that is still true. In fact, in the ad-supported tier, users are still paying customers. However, it’s worth emphasizing that users are now advertisers’ target.
+
+Thus, by October 2022, as Netflix started to roll out its ad-supported plan, the company also started to move into an asymmetrical [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")type.
+
+Why is Netflix moving toward an [asymmetric business](https://fourweekmba.com/asymmetric-business-models/) model? The answer is simple: Scale!
+
+To reach a subsequent stage of scale, where the company can successfully reach a billion users, an ad-supported [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")can help with that.
+
+## **Information: does the user know how the platform makes money?**
+
+If there is information asymmetry, it means there is one of the parties knows more than the other side.
+
+### **Asymmetrical: hidden revenue generation**
+
+![Image 4: airbnb-revenue-model](blob:http://localhost/16c0c8b4171fbbb57328faeb4d6f893c)
+
+Google is an attention merchant that – in 2023 – generated over $237.85 billion (over 77% of revenues) from ads (Google Search, YouTube Ads, and Network sites), followed by Google Play, Pixel phones, YouTube Premium (a $31.5 billion segment), and Google Cloud ($33 billion).
+
+In a [hidden revenue generation model](https://fourweekmba.com/what-is-a-business-model/), the users of the platform ignore how it makes money while the [platform](https://fourweekmba.com/platform-business-models/) knows a lot about its users.
+
+### **Symmetrical: revealed revenue generation**
+
+![Image 5: airbnb-revenue-model](blob:http://localhost/16c0c8b4171fbbb57328faeb4d6f893c)
+
+Netflix is a subscription-based [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")making money with three simple plans: basic, standard, and premium, giving access to stream series, movies, and shows. Leveraging on a streaming platform, Netflix generated over $33.7 billion in 2023, with an operating income of over $6.95 billion and a net income of over $5.4 billion. Starting in 2013, Netflix started to develop its content under the Netflix Originals brand, which today represents the most important strategic asset for the company that, in 2023, counted over 260 million paying members worldwide.
+
+In a symmetrical model, revenue generation is revealed, thus enabling the customers to know what they get for the service paid.
+
+## **Scale: does the platform retain its margins as it scales?**
+
+Scale is the ability of a company to grow exponentially while keeping its margins growing with the [platform’s](https://fourweekmba.com/platform-business-models/) revenues.
+
+### Symmetrical and Linear: margins tighten as the platform scales
+
+In a linear symmetrical revenue model as the [platform](https://fourweekmba.com/platform-business-models/) scales its margins tighten up, thus reducing the profitability of the platform.
+
+### Asymmetrical and Non-linear: margins keep growing as the platform scales
+
+In a non-linear asymmetrical revenue model as the platform scales margins keep growing, thus keeping the [platform](https://fourweekmba.com/platform-business-models/) highly profitable.
+
+## **Revenue model examples**
+
+In this chapter, we’ll see some [revenue model](https://fourweekmba.com/revenue-models/) examples you can use or borrow to build your [business model](https://fourweekmba.com/what-is-a-business-model/).
+
+### **Ad-supported**
+
+![Image 6: airbnb-revenue-model](blob:http://localhost/16c0c8b4171fbbb57328faeb4d6f893c)
+
+Spotify is a two-sided marketplace, running a free ad-supported service and a paid membership. Founded in 2008 with the belief that music should be universally accessible, it generated €13.25 billion in 2023. Of these revenues, 87.3%, or €11.56 billion, came from premium memberships, while over 12.6%, or €1.68 billion, came from ad-supported members. By 2023, Spotify had over 600 million users, of which 236 million were premium members and 379 million weread-supported users.
+
+### **Freemium**
+
+![Image 7: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+The freemium is usually a growth and branding strategy rather than a business model. A free service is provided to a majority of users, while a small percentage of those users convert into paying customers through either marketing or sales funnel. The free users not converting in customers help spread the brand.
+
+![Image 8: airbnb-revenue-model](blob:http://localhost/16c0c8b4171fbbb57328faeb4d6f893c)
+
+Dropbox generated over 90% of its revenue via its self-serve channels to convert users into paying customers through in-product prompts and notifications, time-limited free trials of paid subscription plans, email campaigns, and lifecycle marketing. Dropbox generated over $2.5 billion in revenue in 2023, with an average revenue per paying user of over $139, based on over 18 million paying users. 
+
+### **Subscription-based**
+
+![Image 9: is-netflix-profitable](blob:http://localhost/6c53f74fed562979732e3a5a7d45b305)
+
+Netflix is a profitable company, with over $5.4 billion in net profits in 2023, an increase compared to nearly $4.5 billion in 2022.
+
+### **Consumption-based**
+
+![Image 10: aws-revenues](blob:http://localhost/20e409c6feab8eba0b386df6edb8c1f5)
+
+Amazon AWS (cloud) is the most successful business segment within Amazon, and it generated over $90 billion in revenues in 2023, with over $24 billion in net profits compared to $80 billion in revenues in 2022 and almost $23 billion in operating profit. And over $62 billion in revenues in 2021 and $18.5 billion in net profits.
+
+### **Commission-based**
+
+![Image 11: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+Airbnb is a platform [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")making money by charging guests a service fee between 5% and 15% of the reservation, while the commission from hosts is generally 3%. For instance, on a $100 booking per night set by a host, Airbnb might make as much as $15, split between host and guest fees.
+
+![Image 12: airbnb-revenue-model](blob:http://localhost/16c0c8b4171fbbb57328faeb4d6f893c)
+
+Airbnb is a two-sided marketplace where hosts and guests transact via its booking platform. Thus, Airbnb makes money by charging a fee on top of hosts and guests when a transaction goes through. For instance, in 2023, Airbnb generated $ 9.92 billion in transaction rates, with an average take rate of 13.5%.
+
+![Image 13: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+Airbnb’s take rates, also called fees, that the platform charges to hosts range between 15-20%. In Q3 2022, Airbnb’s take rate was around 18.5%, compared to 18.8% in 2021 on almost a hundred million nights booked over the platform. Airbnb’s gross booking value per night was $156.44 in Q3 2022, and the total gross booking value was $15.6 billion.
+
+### Hidden Revenue
+
+![Image 14: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+Google (now Alphabet) primarily makes money through advertising. The Google search engine, while free, is monetized with paid advertising. In 2021 Google’s advertising generated over $209 billion (beyond Google Search, this comprises YouTube Ads and the Network Members Sites) compared to $257 billion in net sales. Advertising represented over 81% of net sales, followed by Google Cloud ($19 billion) and Google’s other revenue streams (Google Play, Pixel phones, and YouTube Premium).
+
+### Razor and blade
+
+![Image 15: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+The razor blade business model, also known as the razor-razorblade model, involves selling a product at a lower price to then selling a related product later for a profit. The razor and blade [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")has been popularized by King C. Gillette, founder of the safety razor company Gillette, which sold a durable razor at cost while selling disposable blades at a premium. 
+
+![Image 16: amazon-razor-blade-business-model](blob:http://localhost/54fc797f3830d7463196a9ea104c5057)
+
+In a regular razor and blade revenue model, the company sells the “razor” product at cost, while selling the “blade” at extremely high margins. 
+
+### Direct
+
+![Image 17: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+Tesla is vertically integrated. Therefore, the company runs and operates the Tesla’s plants where cars are manufactured and the Gigafactory which produces the battery packs and stationary storage systems for its electric vehicles, which are sold via direct channels like the Tesla online store and the Tesla physical stores. 
+
+### Indirect
+
+![Image 18: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+In 2022, most of Apple’s sales (62%) came from indirect channels (comprising third-party cellular networks, wholesalers/retailers, and resellers). These channels are critical for sales amplification, scale, and subsidies (to enable the iPhone to be purchased by many people). In comparison, the direct channel represented 38% of the total revenues. Stores are critical for customer experience, enabling the service business, and branding at scale.
+
+## **Hybrid revenue models**
+
+![Image 19: amazon-case-study](blob:http://localhost/1f407e4bd90021f5369ae25fb43ffc20)
+
+Amazon runs a platform [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")as a core model with several business units within. Some units, like Prime and the Advertising business, are highly tied to the e-commerce platform. For instance, Prime helps Amazon reward repeat customers, thus enhancing its platform business. Other units, like AWS, helped improve Amazon’s tech infrastructure.
+
+A good example of a [business model](https://fourweekmba.com/what-is-a-business-model/) that has different revenue models is Amazon. Based on each side of its business, Amazon has different revenue streams and models:
+
+Within the Amazon core consumer [e-commerce platform](https://fourweekmba.com/wish-business-model/), there are two main types of revenue streams:
+
+*   **Amazon-branded products**: on those products which are labeled and sourced by Amazon, the company sells them directly to consumers. Therefore, this is part of the revenue model, where Amazon has the highest margins and more control.
+*   **Amazon’s third-parties****products**: those are products that[Amazon](https://fourweekmba.com/amazon-business-model/)hosts on its own e-commerce platform. Those products benefit from Amazon’s e-commerce visibility and sustained traffic.At the same time, Amazon will have the advantage of increasing the variety of products available in its stores, thus making them more appealing to consumers. However, compared to the branded product, Amazon will have less control and reduced margins. Indeed, Amazon will split the revenues with third-party sellers. 
+
+To enable more capabilities to third-party e-commerce stores, and at the same time, guarantee a better experience on its e-commerce (and we can argue also to have more control and margins) Amazon introduced over the years the third-party seller services:
+
+*   **Amazon third-party seller services:**fulfilled by[Amazon](https://fourweekmba.com/amazon-business-model/), perhaps enables sellers to host their inventories, and deliver with[Amazon](https://fourweekmba.com/amazon-business-model/), thus collecting a royalty as a result of the sales made on the platform.Here, the revenue model is flipped. Indeed, Amazon will collect most of the revenues coming from the product sales (remember that Amazon also takes care of storing the inventory and fulfilling it to customers) and the seller will collect a royalty, thus a % of the sale.
+
+**Other revenue streams comprise:**
+
+*   **Product advertising:**[Amazon](https://fourweekmba.com/amazon-business-model/)is the most popular product search engine. Over the years it gave the options to e-commerce built on top of Amazon, to gain more visibility both on an impression or on a click-through rate basis. This means that Amazon sells advertising with a bidding model (similar to [Google Ads)](https://fourweekmba.com/google-business-model/).
+
+*   **Amazon Prime:**born as an attempt by[Amazon](https://fourweekmba.com/amazon-business-model/)to increase the repeat business on the e-commerce platform, Prime turned into a real streaming entertaining business, competing with other companies, like Netflix.This revenue stream follows a [subscription-based model](https://fourweekmba.com/subscription-business-model/). 
+
+*   **Amazon AWS:**[Amazon](https://fourweekmba.com/amazon-business-model/)AWS turned into a cloud infrastructure able to support many small, medium, and enterprise customers. The revenue model here runs primarily based on a consumption basis. Therefore, with a logic of pay-as-you-go. 
+
+## **Revenue model vs. cost structure**
+
+To complete the picture, it’s critical to trace the [difference between](https://fourweekmba.com/business-model-vs-business-strategy/) the revenue model and cost structure.
+
+And from there, how the two elements come together to help build a viable business model.
+
+The cost structure is tightly connected to the revenue model. Each revenue stream might carry
+
+## **Remove model and distribution**
+
+In many cases, having a more holistic view of how the revenue model and cost structure interact is critical also to assess when a revenue model goes beyond making money alone.
+
+Don’t get me wrong; a revenue model does focus primarily on how to make money for a business.
+
+However, in some cases, a revenue model might bring in the money as a side-effect of building distribution for the business.
+
+Let’s take a few examples.
+
+When you look at [Spotify’s business model](https://fourweekmba.com/spotify-business-model/), there is no doubt that the premium members’ revenue stream (for now) is the one that most contributes to the business.
+
+![Image 20: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+Above, you can see how the premium membership revenue is many times over that of the ad-supported tier.
+
+And there is more to it.
+
+Even if we look at it from a cost structure standpoint, the premium membership revenue has a much lower cost compared to the ad business.
+
+Indeed, Spotify, in 2021, generated €8.46 billion in revenues from the premium members’ revenue stream.
+
+And of that, an almost 30% gross profit margin.
+
+On the other hand, in the same period, Spotify generated €1.2 billion in revenue from the ad-supported stream at a 20% gross profit margin.
+
+![Image 21: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+Does that mean the ad-supported revenue stream is not as good as the premium members?
+
+If you look at it from a revenue generation standpoint alone. That is what you can imply.
+
+However, you do understand that the ad-supported side of the business also represents the marketing funnel, which helps Spotify get recognized by hundred of millions of users across the world.
+
+And that many of these free, ad-supported members become, over time, paid subscribers.
+
+You can get a more comprehensive picture.
+
+As the ad-supported side of the business is not only a revenue stream but it’s also a marketing and distribution channel.
+
+In addition, the ad-supported side of the business, if scaled up, can also enable Spotify to generate much more revenues, in the future, at much wider margins.
+
+Indeed, advertising networks, compared to membership networks, work better as they are scaled up!
+
+That is why it’s critical to develop a holistic mindset to grasp the complete picture of how companies’ [business models](https://fourweekmba.com/what-is-a-business-model/)work.
+
+This is the essence of [business engineering](https://fourweekmba.com/business-engineer/).
+
+## **Breaking down the wall between product and distribution**
+
+The lesson we learned from the Internet playbook and way of doing business is the aspiration, over time, to break the walls between product and distribution.
+
+In short, the product becomes both a revenue generator and a marketing/distribution channel.
+
+When you combine the two, that is when you’re able to build an incredible [growth engine](https://fourweekmba.com/growth-engineering/) that will enable a company to establish a [scalable business model](https://fourweekmba.com/scalable-business-model/) built on solid moats!
+
+## **Key Highlights:**
+
+*   **Revenue Modeling Defined**: Revenue modeling involves creating a sustainable financial plan for generating income within a business model. It aids in analyzing existing digital businesses, reverse engineering them, and designing new digital ventures.
+*   **Distinguishing Revenue Model and Business Model**: While often used interchangeably, a revenue model and a [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")are not the same. A revenue model is a foundational element within a [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")that informs and influences various aspects of the business.
+*   **Netflix Case Study**: The example of Netflix demonstrates how changing a revenue model (adding an ad-based tier) impacts the entire business model. This shift requires considerations about the impact on the overall model, differences from subscriptions, scalability, margins, acquisition funnel, ecosystem players, and platform scalability.
+*   **Holistic Approach to Revenue Modeling**: Revenue modeling goes beyond just making money; it involves understanding how a new revenue stream integrates with the business model, impacting distribution, marketing, and financial aspects.
+*   **Importance of Asking Fundamental Questions**: When introducing a new revenue stream, it’s crucial to address fundamental questions about its effects on the overall business model, differences from existing streams, scalability, margins, and more.
+*   **Avenue into Business Model Design**: Revenue modeling serves as an entry point to designing a business model. It helps in reverse engineering businesses, accelerating experimentation with new revenue models, and facilitating the process of building or scaling a business.
+*   **Business Model Defined**: A [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")is a comprehensive framework that systematically creates long-term value for an organization by delivering value to customers and capturing value through monetization strategies. It guides understanding, design, and testing of business assumptions.
+*   **Revenue Model Defined**: A revenue stream is a foundational component of a business model, representing the economic value customers pay for products and services. It influences how a [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")functions and delivers value.
+*   **Symmetrical vs. Asymmetrical Business Models**: Asymmetrical models don’t directly monetize users but leverage user data and technology, often having a key customer pay to sustain the core asset. Google’s data-driven ad monetization is an example of an asymmetrical model.
+*   **Various Business Model Types**: Business models come in different types, such as scalability, incubator, pivot, freemium, open source, seed funding, cash flow, accessibility, blue ocean, churn, evangelist, growth hacking, MVP, leaner MVP, product-market fit, business engineering, and more.
+*   **Transitional Business Models**: Transitional models are used to enter markets, gain traction, and shape long-term scalability visions.
+*   **Revenue Streams Matrix**: Classification of revenue streams based on customer interactions and ownership of those interactions aids in revenue modeling.
+*   **Pricing Strategies**: Developing pricing models that align with customer needs and financial sustainability is an integral aspect of revenue modeling.
+*   **Considerations in Designing Business Models**: A holistic understanding of revenue modeling is crucial, as it influences distribution, marketing, financial models, and other key aspects of a business model.
+*   **Applying Holistic Approach to Business Growth**: Utilizing revenue modeling for designing innovative revenue strategies contributes to business growth and sustainability.
+
+## **Other Case Studies**
+
+| Company | Revenue Model | Case Study | Analysis |
+| --- | --- | --- | --- |
+| Netflix | Subscription-Based Model | Netflix’s subscription streaming service | Netflix relies on monthly subscription fees, providing access to a vast library of content with no ads. |
+| Spotify | Freemium Model | Spotify’s free and premium music streaming | Spotify offers both free ad-supported and premium ad-free subscriptions, generating revenue from premium users and advertisers. |
+| Amazon | E-commerce and Marketplace Model | Amazon’s online retail and third-party sellers | Amazon generates revenue through product sales, third-party seller fees, and Amazon Web Services (AWS). |
+| Google | Advertising Model | Google’s online advertising, AdWords, and AdSense | Google earns revenue by displaying ads on its search results pages and partner websites. |
+| Apple | Hardware and Ecosystem Model | Apple’s sale of hardware and services | Apple generates revenue from the sale of hardware (iPhone, Mac) and services (Apple Music, App Store). |
+| Airbnb | Commission Model | Airbnb’s commission from host and guest bookings | Airbnb earns a percentage from hosts and guests for each booking facilitated on its platform. |
+| Uber | Commission and Ride Fees Model | Uber’s commission from drivers and ride fees | Uber takes a commission from driver earnings and charges riders based on distance and time. |
+| LinkedIn | Subscription and Recruitment Model | LinkedIn’s premium subscriptions and job postings | LinkedIn generates revenue from premium subscriptions, talent solutions, and marketing solutions. |
+| Dropbox | Freemium and Subscription Model | Dropbox’s cloud storage and file-sharing | Dropbox offers free storage with premium subscriptions for additional features and space. |
+| Facebook (Meta) | Advertising and Data Monetization Model | Facebook and Instagram’s advertising and user data | Meta earns revenue by displaying targeted ads to users and monetizing user data. |
+| Etsy | Handmade and Artisanal Goods Marketplace | Etsy’s platform for artisans and crafters | Etsy provides a platform for artisans to sell their unique handmade products to a global audience. |
+| Upwork | Freelance Talent Marketplace | Upwork’s platform for freelancers and clients | Upwork connects businesses with freelance talent for various projects, spanning from writing to programming. |
+| eBay | Online Auction and Sales Marketplace | eBay’s platform for auctions and sales | eBay allows individuals and businesses to buy and sell a wide range of goods through auctions and direct sales. |
+| Alibaba Group | B2B and B2C E-commerce Marketplace | Alibaba’s e-commerce and wholesale platforms | Alibaba connects global buyers and sellers, facilitating trade and e-commerce transactions on a massive scale. |
+| Turo | Peer-to-Peer Car Rental | Turo’s platform for car owners and renters | Turo enables individuals to rent their vehicles to travelers, disrupting the traditional car rental industry. |
+| Fiverr | Freelance Services Marketplace | Fiverr’s platform for freelance services | Fiverr offers a marketplace for freelancers to offer a wide range of services, from graphic design to content writing. |
+| TaskRabbit | On-Demand Task and Service Marketplace | TaskRabbit’s platform for taskers and clients | TaskRabbit connects individuals with skilled taskers who can complete a variety of household and business tasks. |
+| OpenTable | Restaurant Reservation Marketplace | OpenTable’s platform for restaurant reservations | OpenTable allows users to book restaurant reservations and helps restaurants manage their tables efficiently. |
+| StockX | Sneaker and Collectibles Marketplace | StockX’s platform for sneakers and collectibles | StockX provides a marketplace for authenticated sneaker and collectible sales, ensuring transparency and trust. |
+| Poshmark | Fashion Resale Marketplace | Poshmark’s platform for fashion resale | Poshmark connects fashion enthusiasts to buy and sell gently used clothing and accessories. |
+| Thumbtack | Local Services Marketplace | Thumbtack’s platform for local service providers | Thumbtack helps users find and hire local service professionals, from plumbers to wedding photographers. |
+| HomeAway (Vrbo) | Vacation Rental Marketplace | HomeAway’s platform for vacation rentals | HomeAway offers a marketplace for vacation rentals, connecting travelers with property owners. |
+| Booking.com | Hotel and Accommodation Booking | Booking.com’s online travel agency platform | Booking.com enables travelers to book hotels and accommodations worldwide, serving as an intermediary between customers and hotels. |
+| Zillow | Real Estate Marketplace | Zillow’s platform for buying and selling homes | Zillow provides tools for home buyers, sellers, and renters, simplifying the real estate process. |
+| Freelancer.com | Freelance Job Marketplace | Freelancer.com’s platform for freelance jobs | Freelancer.com connects employers with freelancers to complete a wide range of projects, from software development to graphic design. |
+| Rover | Pet Services Marketplace | Rover’s platform for pet care services | Rover connects pet owners with pet sitters and walkers, offering a range of pet care services. |
+| 99designs | Design Services Marketplace | 99designs’ platform for design contests | 99designs hosts design contests, allowing businesses to receive custom designs from a global community of designers. |
+| WhatsApp | Subscription and In-App Purchases Model | WhatsApp’s subscription and in-app sticker purchases | WhatsApp offers a free messaging service with revenue generated from subscriptions and in-app purchases. |
+| Patreon | Membership and Crowdfunding Model | Patreon’s support for content creators | Patreon allows creators to offer exclusive content to paying members, generating income through memberships. |
+| Shopify | Subscription and E-commerce Model | Shopify’s e-commerce platform and subscription fees | Shopify offers e-commerce solutions and earns revenue through monthly subscription fees and transaction fees. |
+| HubSpot | Inbound Marketing and SaaS Model | HubSpot’s inbound marketing and SaaS services | HubSpot provides inbound marketing and sales software on a subscription basis, generating recurring revenue. |
+| Airbnb for Work | Corporate Travel and Service Fees Model | Airbnb for Work’s service fees for corporate travel | Airbnb for Work charges service fees for businesses booking accommodations and experiences. |
+| Coursera | Online Education and Certification Model | Coursera’s online courses and specialization certificates | Coursera offers courses for free or as part of a subscription, with revenue generated from paid certificates. |
+| Yelp | Advertising and Local Business Model | Yelp’s advertising and partnerships with local businesses | Yelp offers advertising and business solutions, generating revenue through partnerships. |
+| LinkedIn Talent Solutions | Recruitment and Subscription Model | LinkedIn’s recruitment tools and premium subscriptions | LinkedIn Talent Solutions provides tools for talent recruitment and generates revenue through premium subscriptions. |
+| Square | Payment Processing and Financial Services | Square’s payment processing and financial services | Square offers payment processing and financial services, earning revenue through transaction fees and subscriptions. |
+| Salesforce | CRM and Enterprise Software Model | Salesforce’s customer relationship management (CRM) | Salesforce generates revenue from its CRM software and cloud services for enterprises. |
+| Udemy | Online Learning and Course Sales Model | Udemy’s marketplace for online courses | Udemy allows instructors to sell courses, with revenue shared between the platform and instructors. |
+| GoFundMe | Crowdfunding and Platform Fees Model | GoFundMe’s crowdfunding platform and fees | GoFundMe facilitates fundraising campaigns and charges platform fees on donations. |
+| Shutterfly | Photo Printing and Personalized Products | Shutterfly’s photo books, gifts, and printing services | Shutterfly generates revenue by selling personalized photo products. |
+| Robinhood | Commission-Free Stock Trading Model | Robinhood’s commission-free stock and crypto trading | Robinhood offers commission-free trading and generates revenue through order flow payments. |
+| Salesforce Marketing Cloud | Marketing Automation Model | Salesforce Marketing Cloud’s marketing automation | Salesforce’s marketing automation tools generate revenue through subscription and usage fees. |
+| DoorDash | Food Delivery and Service Fees Model | DoorDash’s food delivery and service fees | DoorDash charges service fees to customers and restaurants for food delivery services. |
+| Expedia | Online Travel Booking and Commissions | Expedia’s online travel booking and commissions | Expedia earns revenue by facilitating online travel bookings and taking commissions from hotels and airlines. |
+| GitHub | Developer Tools and Enterprise Services | GitHub’s code hosting and collaboration platform | GitHub provides free and paid developer tools and earns revenue from enterprise subscriptions. |
+| SurveyMonkey | Survey and Data Insights Model | SurveyMonkey’s survey creation and data analysis | SurveyMonkey offers survey tools and generates revenue from premium plans and data insights. |
+| ZoomInfo | B2B Sales and Marketing Intelligence | ZoomInfo’s B2B sales and marketing intelligence | ZoomInfo offers B2B data and intelligence services, earning revenue through subscriptions and sales. |
+
+## What is revenue and business model?
+
+Most business people tend to confuse the revenue model with the [business model](https://fourweekmba.com/what-is-a-business-model/). While the revenue model informs a business model, those are two separate things. The revenue model is one of the building blocks of a business model. Yet a [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")comprises many other aspects such as distribution, cost structure, financial structure, and more.
+
+## What is revenue model example?
+
+Examples of revenue models that work on the Internet are ad-supported, subscription-based, consumption-based, and SaaS. Those revenue models help web companies to grow and scale their [business models](https://fourweekmba.com/what-is-a-business-model/).
+
+## What is the best revenue model?
+
+In the Inernet era, a revenue model that proved quite effective is the ad-supported business model, where companies like Google provide free tools to billions of people across the web. Those free tools are paid for by companies who advertise on Google. Google opened the way for many other companies to use a similar model to finance the web.
+
+## **Other Key Components of a Business Model**
+
+**[Value Proposition](https://fourweekmba.com/value-proposition-canvas/)**
+
+![Image 22: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+Your UVP is the exclusive feature or benefit you offer to your customers. It could be anything at all. If you offer a service, it could be “100% pay after satisfaction”. It could be a time factor offers. Say you provide a service that reviews CV. Your UVP could be “Get a revamped résumé in 24 hours”. This makes you stand out from every other person offering that service, as your unique offering is the ability to deliver in 24 hours. Your slogan could also be your UVP, as it automatically gives your audience what to expect from you. 
+
+**[Cost Structure](https://fourweekmba.com/cost-structure-business-model/)**
+
+![Image 23: cost-structure-business-model](blob:http://localhost/f4ca6d2baa6d145dc558eeb6e4d012d2)
+
+The cost structure is one of the building blocks of a business model. It represents how companies spend most of their resources to keep generating demand for their products and services. The cost structure together with revenue streams, help assess the operational scalability of an organization.
+
+**[Pricing Strategies](https://fourweekmba.com/pricing-strategies/)**
+
+![Image 24: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+A pricing strategy or model helps companies find the pricing formula in fits with their business models. Thus aligning the customer needs with the product type while trying to enable profitability for the company. A good pricing strategy aligns the customer with the company’s long-term financial sustainability to build a solid business model. 
+
+**[Financial Structure](https://fourweekmba.com/financial-structure/)**
+
+![Image 25: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+In corporate finance, the financial structure is how corporations finance their assets (usually either through debt or equity). For the sake of reverse engineering businesses, we want to look at three critical elements to determine the model used to sustain its assets: cost structure, profitability, and cash flow generation. 
+
+**[Technological Modeling](https://fourweekmba.com/technological-modeling/)**
+
+![Image 26: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+Technological modeling is a discipline to provide the basis for companies to sustain innovation, thus developing incremental products. While also looking at breakthrough innovative products that can pave the way for long-term success. In a sort of Barbell Strategy, technological modeling suggests having a two-sided approach, on the one hand, to keep sustaining continuous innovation as a core part of the business model. On the other hand, it places bets on future developments that have the potential to break through and take a leap forward. 
+
+**[Distribution Channels](https://fourweekmba.com/distribution-channels/)**
+
+![Image 27: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+A distribution channel is the set of steps it takes for a product to get in the hands of the key customer or consumer. Distribution channels can be direct or indirect. Distribution can also be physical or digital, depending on the kind of business and industry.
+
+**[Marketing Channels](https://fourweekmba.com/marketing-channels/)**
+
+![Image 28: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+A marketing channel represents the set of activities necessary to create a distribution for a product and make sure that the product is delivered in the hands of the right people and that the potential customer is satisfied with it. The marketing channel also needs to be aligned with the brand message of the company.
+
+## Key Takeaways
+
+*   Revenue modeling is a process of incorporating a sustainable financial model for revenue generation within a [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")design.
+*   I noticed over the years of research I've put into [business modeling](https://fourweekmba.com/what-is-a-business-model/) how pervasive the confusion between revenue and [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")is.
+*   Once you take into account the above, then, of course, you know that revenue modeling can be an avenue into a business model.
+*   For the sake of this guide, we'll look at a key distinction: symmetrical vs.
+*   For that matter, there might be as many [business models](https://fourweekmba.com/what-is-a-business-model/)as the companies we have in the marketplace.
+*   In many cases, platform [business models](https://fourweekmba.com/what-is-a-business-model/)success depends upon two key players:
+*   If there is information asymmetry, it means there is one of the parties knows more than the other side.
+
+## **Other Revenue Model Case Studies**
+
+**[BuzzFeed Business Model](https://fourweekmba.com/how-does-buzzfeed-make-money/)**
+
+![Image 29: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+BuzzFeed is an American digital media company founded by Jonah Peretti, Kenneth Lerer, and John S. Johnson III in 2006. BuzzFeed had a focus on viral content. BuzzFeed’s website relies on advertising to make money. Advertising revenue streams comprise display ads, video advertising, native advertising, affiliate marketing, and subscriptions via the BuzzFeed News service. 
+
+**[Farfetch Business Model](https://fourweekmba.com/farfetch-business-model/)**
+
+![Image 30: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+Farfetch is an online luxury fashion retail platform founded by Portuguese entrepreneur José Neves, a stalwart of the fashion industry since the 1990s, with the vision of allowing anyone to purchase clothing from high-end brands from cities like Paris and Milan, from the comfort of their home. The company makes money through commissions, fulfillment services, and wholesale distributions.
+
+**[How Does Revolut Make Money](https://fourweekmba.com/how-does-revolut-make-money/)**
+
+![Image 31: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+Revolut an English fintech company offering banking and investment services to consumers. Founded in 2015 by Nikolay Storonsky and Vlad Yatsenko, the company initially produced a low-rate travel card. Storonsky in particular was an avid traveler who became tired of spending hundreds of pounds on currency exchange and foreign transaction fees. The Revolut app and core banking account are free to use. Instead, money is made through a combination of subscription fees, transaction fees, perks, and ancillary services.
+
+**[eToro Business Model](https://fourweekmba.com/how-does-etoro-make-money/)**
+
+![Image 32: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+eToro specializes in social trading, multi-asset brokerage, online investing, and Bitcoin exchange. EToro has a similarly diverse revenue generation model with a diverse product range through fees applied to CFD and non-CFD trades. Overnight and weekend interest fee. Withdrawal fees and conversion fees.
+
+**[Oracle Business Model](https://fourweekmba.com/how-does-oracle-make-money/)**
+
+![Image 33: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+Oracle is a behemoth software company, founded in 1977 by Larry Ellison, Bob Miner, and Ed Oates. The company primarily followed the on-premise software model, but it mostly successfully transitioned to the cloud model. In fact, by 2020, cloud services represented most of its revenues. Indeed its lineup of software products comprises MySQL, Java, Middleware, Oracle Linux, and many others. 
+
+**[Zalando Business Model](https://fourweekmba.com/zalando-business-model/)**
+
+![Image 34: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+Zalando is a multi-national eCommerce company founded in 2008 by David Schneider and Robert Gentz, created under the name Ifansho, changed to Zalando as a reference to the Italian word zalare – or “making jokes”. Zalando generates revenues by purchasing stock and then selling it for a profit. Zalando also charges brands it partners with a commission for the privilege of selling on its platform. The commission Zalando collects on each sale is undisclosed. Zalando also collects advertising revenue from ads placed on its website and app.
+
+**[How Does E-Trade Make Money](https://fourweekmba.com/how-does-e-trade-make-money/)**
+
+![Image 35: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+E-Trade is a trading platform, allowing investors to trade common and preferred stocks, exchange-traded funds (ETFs), options, bonds, mutual funds, and futures contracts, acquired by Morgan Stanley in 2020 for $13 billion. E-Trade makes money through interest income, order flow, margin interests, options, future and bonds trading, and through other fees and service charges. 
+
+**[Tinder Business Model](https://fourweekmba.com/how-does-tinder-make-money/)**
+
+![Image 36: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+Tinder is among the most popular dating apps. Initially named MatchBox, it leveraged a “double opt-in” mechanism that helped remove the initial friction of having to meet strangers. Later on, the product was renamed Tinder. The company (now parts of the Match Group) makes money via its main subscription plans and premium features like boosts and super likes.
+
+**[ClassPass Business Model](https://fourweekmba.com/classpass-business-model/)**
+
+![Image 37: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+ClassPass is a North American fitness class provider using a flat-rate monthly subscription model. ClassPass primarily makes money via a subscription model leveraging five main plans, ranging from $15/month to $199/month. It also provides enterprise services to large companies like Under Armour, Morgan Stanley, and Google. Besides, ClassPass charges a cancellation fee of $15 if a cancellation is made within 12 hours of the class start time.
+
+**[Reddit Business Model](https://fourweekmba.com/how-does-reddit-make-money/)**
+
+![Image 38: how-does-reddit-make-money](blob:http://localhost/d6acab5993c03c27fbaf38a748df9f98)
+
+Reddit is a social news and discussion website that also rates web content. The platform was created in 2005 after founders Alexis Ohanian and Steve Huffman met venture capitalist Paul Graham and pitched the company as the “front page of the internet.” Reddit makes money primarily via advertising. It also offers premium membership plans. 
+
+**Read Also: [Amazon Business Model](https://fourweekmba.com/amazon-business-model/), [Google Business Model](https://fourweekmba.com/google-business-model/), [Netflix Business Model](https://fourweekmba.com/how-does-netflix-make-money/), [Airbnb Business Model](https://fourweekmba.com/how-does-airbnb-make-money-airbnb-business-model-in-a-nutshell/), [Spotify Business Model](https://fourweekmba.com/spotify-business-model/), [Dropbox Business Model](https://fourweekmba.com/dropbox-business-model/).**
+
+**Other business resources:**
+
+*   [What Is Business Model Innovation](https://fourweekmba.com/business-model-innovation/)
+*   [What Is a Business Model](https://fourweekmba.com/what-is-a-business-model/)
+*   [What Is A Heuristic](https://fourweekmba.com/heuristic)
+*   [What Is Bounded Rationality](https://fourweekmba.com/bounded-rationality/)
+*   [What Is Business Development](https://fourweekmba.com/business-development/)
+*   [What Is Business Strategy](https://fourweekmba.com/business-strategy/)
+*   [What is Blitzscaling](https://fourweekmba.com/blitzscaling-business-model-innovation-canvas/)
+*   [What Is a Value Proposition](https://fourweekmba.com/value-proposition-canvas/)
+*   [What Is a Lean Startup Canvas](https://fourweekmba.com/lean-startup-canvas/)
+*   [What Is Market Segmentation](https://fourweekmba.com/market-segmentation/)
+*   [What Is a Marketing Strategy](https://fourweekmba.com/marketing-strategy/)
+*   [What is Growth Hacking](https://fourweekmba.com/what-is-growth-hacking/)
+
+What are the key components of Revenue Models: The Advanced Guide To Revenue Modeling?
+The key components of Revenue Models: The Advanced Guide To Revenue Modeling include Netflix, Spotify, Amazon, Google, Apple. Netflix: Subscription-Based Model Spotify: Freemium Model
+
+Why is Revenue Models: The Advanced Guide To Revenue Modeling important for business strategy?
+I noticed over the years of research I’ve put into [business modeling](https://fourweekmba.com/what-is-a-business-model/) how pervasive the confusion between revenue and [business model](https://fourweekmba.com/what-is-a-business-model/ "business model ")is.
+
+How do you apply Revenue Models: The Advanced Guide To Revenue Modeling in practice?
+Which is fine as long as it doesn’t limit the understanding of what you can do within a business model.
+
+What are the advantages and limitations of Revenue Models: The Advanced Guide To Revenue Modeling?
+Indeed, a revenue model actually does inform the business model, and it often influences it from the foundation.

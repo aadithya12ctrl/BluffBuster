@@ -1,0 +1,102 @@
+Title: This edtech startup is helping 1 million+ tutors across India teach online for free
+
+URL Source: https://yourstory.com/2021/06/edtech-startup-teachmint-helping-1-million-tutors-free-platform
+
+Published Time: 2021-06-29T00:10:00.000Z
+
+Markdown Content:
+The pandemic posed a huge challenge to stakeholders of the Indian education system, especially individual tutors who were used to the offline setup.
+
+To enable them to continue teaching online without having to deal with fragmented and complex digital tools, Teachmint built a **SaaS-based mobile-first end-to-end solution**, which allows them to not only host and record their classes, but also hand out assignments, take attendance, and more.
+
+Launched in early 2020, Bengaluru-based startup Teachmint is the brainchild of IIT alums **Mihir Gupta, Payoj Jain, Divyansh Bordia, and Anshuman Kumar**. The four have executive experience at **OYO , McKinsey, Swiggy , and Roposo**, and were recently featured in **Forbes 30 under 30 Asia list**.
+
+Get connected to Teachmint![Image 1: ys-connect](https://yourstory.com/icons/ys_connect_icon.svg)
+
+While **Payoj** leads product, **Diyansh** heads the Growth and Operations team, and **Anshuman** leads tech. **Mihir** looks at overall verticals along with the core teams.
+
+![Image 2: Founding team at Teachmint](https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagerduv-1620190523487.jpg?fm=png&auto=format)
+
+Founding team at Teachmint
+
+## A simple but ‘viral’ start
+
+Payoj, who has been involved in his family's CBSE-affiliated school located in a remote area in Madhya Pradesh, was aware of the on-ground challenges educators face without easy access to tech.
+
+“We were looking at edtech for quite some time. Then, with the lockdown unfolding, all tutors we knew began struggling to teach online using disconnected solutions. Conducting classes on Zoom, Google Meet, Facebook Live; managing communications over WhatsApp; conducting assessments over Google Forms,” **Mihir, Co-founder and CEO of Teachmint**, tells _YourStory_.
+
+Get connected to Teachmint![Image 3: ys-connect](https://yourstory.com/icons/ys_connect_icon.svg)
+
+Realising how difficult it is to coordinate across these disconnected tools, the four launched **Teachmint with a simple Android app in April 2020**. A tutor could simply download the APK on their phone, generate links to their classroom, send it to their students, and students could also install the same app to join these live classes.
+
+The app allowed tutors to hand out assessments to their students, automate their workflows like taking attendance, creating logs, etc., and even share study materials.
+
+> According to Mihir, even before listing on Google Play Store, the app saw a lot of virality within the tutor communities as its efficacy started getting circulated among them.
+
+“Through word of mouth, by the end of 10 days or so, there were hundreds of tutors already using the application, onboarding students trying live classes on the platform. That is when we realised that we are solving a critical problem, and started looking at it from a much broader perspective,” he adds.
+
+Seeing that almost 75 percent of Teachmint tutors prefer to take their live classes on their mobile phones and around 95 percent of students attend these classes on their mobile phones as well, the team decided to be a mobile-first product.
+
+In fact, in April 2021, Rajkummar Rao was roped in as the "nationwide celebrity endorser" to leads the startup's #TeachmintPeTeachingAasanHai campaign. The actor played a science tutor in an ad film, which was aimed at highlighting the ease of going digital with the Teachmint App.
+
+A web version of the app was launched in July 2020 that the solution was available for the web, and it's even available for iOS devices now.
+
+![Image 4: Teachmint snapshot](https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/CopyofStartupSnapshotRevvSales-1624886227971.jpg?fm=png&auto=format&w=800)
+
+Image Credits: YS Design Team
+
+## Made in India for every nook and cranny
+
+Teachmint is a horizontal product, built for teachers from all walks of life — **K12, hobbies, fitness** etc.
+
+The platform, built entirely in-house for India, has been customised keeping varying conditions in mind like low data bandwidth.
+
+> It’s free for tutors and has a focus on regional customisation — available in 10 Indian languages other than English.
+
+According to Mihir, this makes Teachmint the only vernacular video conferencing app in India, with even the video solution and instructions available in all 11 languages.
+
+Built intuitively for easy use, the startup has a support team of 20 people in case a tutor still needs hand-holding with the app functions.
+
+## How it works
+
+Teacher using the app can create and share a unique link for their classroom through messaging applications and social media. Students have to click on this link to enrol and join.
+
+To generate more demand, tutors also have the option to create white-labelled websites through Teachmint that list all the courses and demo lectures conducted by the teacher.
+
+> Once enrolled in the class, students can attend 2-way live interactive classes hosted on the proprietary video platform.
+
+The app’s live class environment is been designed with features like automatic attendance, class recording, whiteboard session, automated notes creation, public streaming, and other controls.
+
+Both tutors and students are connected 24x7 through chat and other communication tools provided on the application itself. Tutors can also directly collect fees through multiple modes using payment facilities provided by the startup.
+
+![Image 5: Screenshot of Teachmint app feature](https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Untitleddesign-1624885682645.png?fm=png&auto=format&w=800)
+
+Rajkummar Rao was roped in as the "nationwide celebrity endorser" to leads the startup's #TeachmintPeTeachingAasanHai campaign.
+
+The platform can digitise offline content like study material, assignments, and notes, and conduct subjective as well as automated MCQ assessments.
+
+Teachers can also record their lessons and bundle them to sell as a completely independent recorded course. According to Mihir, over **5,00,000 recorded lecture repositories** have already been created on the platform.
+
+## Early traction and revenue model
+
+The platform has seen rapid adoption among tutors. At present, it serves over one million teachers and covers users in more than 1,500 cities and towns from Srinagar in Jammu and Kashmir to Port Blair in Andaman and Nicobar Islands.
+
+The startup’s data claims that more than 90 percent of the 1 million+ tutors using the platform have at least some students that are outside of their immediate city.
+
+> Teachmint has consistently been among the top five education apps on Google Play Store in India among the likes of BYJU’S and Unacademy. Mihir claims that the startup has no direct competitors in India. Indirect competitors include Proctor, Classpro, eduZilla, SkoolApp, Classplus.
+
+So far, the platform has not generated any revenue. Mihir says the team has been focused on ensuring that more teachers are able to adopt the platform. On usage, the startup claims to have seen 200 percent month on month growth for the past few months.
+
+“We will be gradually creating more paid options in lines of subscription service, as well as business enablement solutions for tutors to generate more demand. But the basic solution will always remain free for teachers and students. Because ultimately, classroom digitisation is needed everywhere,” he adds.
+
+## Funding and road ahead
+
+Teachmint is the fastest edtech startup in India to **raise $20 million** — within less than a year since inception, claims the entrepreneur. It has raised three rounds of funding so far.
+
+In May 2021, the startup [**raised $16.5 million**](https://yourstory.com/2021/05/funding-edtech-startup-teachmint-raises-165-million/amp) (Rs 123 crore) in Series A from Learn Capital, with participation from CM Ventures and existing investors Lightspeed and Better Capital. This was the first major lead investment in India by Learn Capital, which has backed the likes of **Coursera, Udemy, Brainly**.
+
+At the time of the funding, **Vinit Sukhija, Partner at Learn Capital**, said,_"_ From the Learn Capital team’s first meeting with Teachmint’s co-founders several months ago, it was clear that their collective team had meticulously architected an end-to-end, multi-modal, and best-in-class solution enabling teachers in India to instantly and seamlessly digitise their classrooms. Now, with over 10,00,000 teachers, Teachmint has become India’s leading online teaching platform. The entire Learn Capital team is grateful to have the opportunity to partner with the Teachmint team as it progresses towards the company’s vision of democratising online education in India and beyond._"_
+
+Going forward, the startup also plans to invest in adding more interactive features to the platform, and adding an administrative layer to it, which will enable it to form B2B partnerships with institutes.
+
+And with rapid global digital adoption on all fronts, Teachmint sure has a lot of ground to cover.

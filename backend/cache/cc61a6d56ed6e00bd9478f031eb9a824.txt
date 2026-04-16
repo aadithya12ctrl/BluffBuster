@@ -1,0 +1,827 @@
+Title: The State of AI in the Enterprise - 2026 AI report
+
+URL Source: https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html
+
+Markdown Content:
+# The State of AI in the Enterprise - 2026 AI report | Deloitte US
+
+Link opens in a new tab opens in new window
+
+[Skip to main content](javascript:void(0))
+
+[![Image 7: deloitte_logo](https://www.deloitte.com/content/dam/assets-shared/logos/svg/a-d/deloitte.svg)![Image 8: deloitte_logo](https://www.deloitte.com/content/dam/assets-shared/logos/png/a-d/deloitte-print.png)](https://www.deloitte.com/us/en.html)
+
+*   [Who we are](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+
+    *   [Overview](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Governance](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Recognition](https://www.deloitte.com/us/en/careers/deloitte-life/awards-and-recognition.html?icid=top_awards-and-recognition)
+    *   [Newsroom](https://www.deloitte.com/us/en/about/recognition/news.html?icid=top_news)
+    *   [Contact Us](https://www.deloitte.com/us/en/contact/contact-us.html?icid=top_contact-us)
+
+    *   [About Deloitte](https://www.deloitte.com/us/en/about.html?icid=top_about)
+    *   [Our shared values](https://www.deloitte.com/us/en/about/articles/shared-values.html?icid=top_shared-values)
+    *   [Facts & figures](https://www.deloitte.com/us/en/about/story/facts-and-figures.html?icid=top_facts-and-figures)
+
+    *   [Network, brands & alliances](https://www.deloitte.com/us/en/about/governance/network-brand-alliances.html?icid=top_network-brand-alliances)
+    *   [Transparency report](https://www.deloitte.com/us/en/services/audit-assurance/articles/transparency-report.html?icid=top_transparency-report)
+
+*   [What we do](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+
+    *   [Overview](https://www.deloitte.com/us/en/what-we-do.html?icid=top_what-we-do)
+    *   [Case studies](https://www.deloitte.com/us/en/what-we-do/content/client-stories-and-successes.html?icid=top_client-stories-and-successes)
+    *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Industries](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Alliances](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+
+[![Image 9](https://media.deloitte.com/is/image/deloitte/BDA-hub-hero-v2-2:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off) ### Blockchain & Digital Assets Service](https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html)
+
+[![Image 10](https://media.deloitte.com/is/image/deloitte/BDA-hub-hero-v2-2:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off) ### Blockchain & Digital Assets Service](https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html)
+
+    *   [AI & Engineering](https://www.deloitte.com/us/en/services/consulting/services/engineering-ai-data.html?icid=top_/content/websites/us/en/services/consulting/services/engineering-ai-data)
+    *   [Assurance](https://www.deloitte.com/us/en/services/audit-assurance/services/assurance.html?icid=top_assurance)
+    *   [Audit](https://www.deloitte.com/us/en/services/audit-assurance.html?icid=top_audit)
+    *   [Business Process Solutions](https://www.deloitte.com/us/en/services/tax/services/business-process-solutions.html?icid=top_business-process-solutions-overview)
+    *   [Customer](https://www.deloittedigital.com/us/en.html)
+    *   [Cyber](https://www.deloitte.com/us/en/services/consulting/services/cyber.html?icid=top_cyber-risk)
+    *   [Deloitte Private](https://www.deloitte.com/us/en/services/deloitte-private.html?icid=top_deloitte-private)
+    *   [Direct Tax](https://www.deloitte.com/us/en/services/tax/services/direct-tax.html?icid=top_direct-tax)
+    *   [Enterprise Performance](https://www.deloitte.com/us/en/services/consulting/services/enterprise-technology-performance.html?icid=top_enterprise-technology-performance)
+    *   [Finance](https://www.deloitte.com/us/en/what-we-do/capabilities/finance-transformation/services/finance-transformation-services-offerings.html?icid=top_finance-transformation-services-offerings)
+    *   [Finance Transformation](https://www.deloitte.com/us/en/services/consulting/services/finance-transformation.html?icid=top_finance-transformation)
+    *   [Global Employer Services](https://www.deloitte.com/us/en/services/tax/services/global-employer-services.html?icid=top_global-employer-service)
+    *   [Human Capital](https://www.deloitte.com/us/en/services/consulting/services/human-capital.html?icid=top_human-capital)
+    *   [Indirect Tax](https://www.deloitte.com/us/en/services/tax/services/indirect-tax.html?icid=top_indirect-tax)
+    *   [Legal Business Services](https://www.deloitte.com/us/en/services/tax/services/legal-business.html?icid=top_legal-business)
+    *   [M&A and Restructuring Services](https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/services/mergers-acquisitions-restructuring-services.html?icid=top_mergers-acquisitions-restructuring-services)
+    *   [Operate](https://www.deloitte.com/us/en/services/consulting/services/operate-services.html?icid=top_operate-services)
+    *   [Regulatory, Risk & Forensic](https://www.deloitte.com/us/en/services/consulting/services/risk-regulatory-forensic.html?icid=top_deloitte-forensic)
+    *   [Strategy & Transactions](https://www.deloitte.com/us/en/services/consulting/services/strategy-transactions.html?icid=top_strategy-transactions)
+    *   [Sustainability](https://www.deloitte.com/us/en/issues/climate/sustainability-and-climate.html?icid=top_/content/websites/us/en/issues/climate/sustainability-and-climate)
+    *   [Tax Technology Consulting](https://www.deloitte.com/us/en/services/tax/services/technology-consulting.html?icid=top_technology-consulting)
+    *   [All services](https://www.deloitte.com/us/en/services.html?icid=top_services)
+
+[![Image 11](https://media.deloitte.com/is/image/deloitte/BDA-hub-hero-v2-2:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off) ### Blockchain & Digital Assets Service](https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html)
+
+    *   [IndustryAdvantageᵀᴹ](https://www.deloitte.com/us/en/industries/industry-advantage-business-transformation.html?icid=top_industry-advantage-business-transformation)
+    *   [Consumer](https://www.deloitte.com/us/en/industries/consumer/about.html?icid=top_about)
+    *   [Energy, Resources & Industrials](https://www.deloitte.com/us/en/industries/energy/about.html?icid=top_about)
+    *   [Financial Services](https://www.deloitte.com/us/en/industries/financial-services/about.html?icid=top_about)
+    *   [Government & Public Services](https://www.deloitte.com/us/en/industries/government-public/about.html?icid=top_about)
+    *   [Life Sciences & Health Care](https://www.deloitte.com/us/en/industries/life-sciences-health-care/about.html?icid=top_about)
+    *   [Technology, Media & Telecommunications](https://www.deloitte.com/us/en/industries/tmt/about.html?icid=top_about)
+
+[![Image 12](https://media.deloitte.com/is/image/deloitte/BDA-hub-hero-v2-2:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off) ### Blockchain & Digital Assets Service](https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html)
+
+    *   [AWS](https://www.deloitte.com/us/en/alliances/aws.html?icid=top_aws)
+    *   [Google](https://www.deloitte.com/us/en/alliances/google.html?icid=top_google)
+    *   [Oracle](https://www.deloitte.com/us/en/alliances/oracle.html?icid=top_oracle)
+    *   [Salesforce](https://www.deloitte.com/us/en/alliances/salesforce.html?icid=top_salesforce)
+    *   [SAP](https://www.deloitte.com/us/en/alliances/sap.html?icid=top_sap)
+    *   [ServiceNow](https://www.deloitte.com/us/en/alliances/servicenow.html?icid=top_servicenow)
+    *   [Workday](https://www.deloitte.com/us/en/alliances/workday.html?icid=top_workday)
+    *   [All Alliances](https://www.deloitte.com/us/en/alliances/deloitte-alliances.html?icid=top_deloitte-alliances)
+
+[![Image 13](https://media.deloitte.com/is/image/deloitte/BDA-hub-hero-v2-2:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off) ### Blockchain & Digital Assets Service](https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html)
+
+*   [Our Thinking](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+
+    *   [Overview](https://www.deloitte.com/us/en/our-thinking.html?icid=top_our-thinking)
+    *   [Industry thinking](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Deloitte Insights](https://www.deloitte.com/us/en/insights.html?icid=top_insights)
+    *   [Dbriefs](https://www.deloitte.com/us/en/dbriefs-webcasts/upcoming-webcasts.html?icid=top_upcoming-webcasts)
+
+    *   [Automotive](https://www.deloitte.com/us/en/industries/automotive/about.html?icid=top_about)
+    *   [Retail, Wholesale & Distribution](https://www.deloitte.com/us/en/industries/retail/about.html?icid=top_about)
+    *   [Transportation, Hospitality & Services](https://www.deloitte.com/us/en/industries/transportation/about.html?icid=top_about)
+    *   [Energy & Chemicals](https://www.deloitte.com/us/en/industries/energy-chemicals/about.html?icid=top_about)
+    *   [Industrial Products & Construction](https://www.deloitte.com/us/en/industries/industrial-construction/about.html?icid=top_about)
+    *   [Mining & Metals](https://www.deloitte.com/us/en/industries/mining-metals/about.html?icid=top_about)
+    *   [Power, Utilities & Renewables](https://www.deloitte.com/us/en/industries/power-utilities-renewables/about.html?icid=top_about)
+    *   [Banking & Capital Markets](https://www.deloitte.com/us/en/industries/banking-capital-markets/about.html?icid=top_about)
+    *   [Insurance](https://www.deloitte.com/us/en/industries/insurance/about.html?icid=top_about)
+    *   [Investment Management & Private Equity](https://www.deloitte.com/us/en/industries/investment-management/about.html?icid=top_about)
+    *   [Real Estate](https://www.deloitte.com/us/en/industries/real-estate/about.html?icid=top_about)
+    *   [Government & Public Services](https://www.deloitte.com/us/en/industries/government-public/about.html?icid=top_about)
+    *   [Health Care](https://www.deloitte.com/us/en/industries/health-care/about.html?icid=top_about)
+    *   [Life Sciences](https://www.deloitte.com/us/en/industries/life-sciences/about.html?icid=top_about)
+    *   [Technology](https://www.deloitte.com/us/en/industries/technology/about.html?icid=top_about)
+    *   [Media & Entertainment](https://www.deloitte.com/us/en/industries/tmt/about/media-entertainment.html?icid=top_media-entertainment)
+    *   [Semiconductor](https://www.deloitte.com/us/en/industries/tmt/about/semiconductor-industry.html?icid=top_semiconductor-industry)
+    *   [Sports](https://www.deloitte.com/us/en/industries/tmt/about/sports-industry.html?icid=top_sports-industry)
+    *   [Telecommunications](https://www.deloitte.com/us/en/industries/tmt/about/telecom-industry.html?icid=top_telecom-industry)
+    *   [Interactive Gaming](https://www.deloitte.com/us/en/industries/tmt/about/interactive-gaming.html?icid=top_interactive-gaming)
+
+*   [Careers](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+
+    *   [Careers home](https://www.deloitte.com/us/en/careers/careers.html?icid=top_careers)
+    *   [Job search](https://apply.deloitte.com/)
+    *   [Students & early careers](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Experienced professionals](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Business areas](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Life at Deloitte](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Alumni](https://www.deloitte.com/us/en/careers/alumni.html?icid=top_alumni)
+
+    *   [Overview](https://www.deloitte.com/us/en/careers/students-early-careers.html?icid=top_students-early-careers)
+    *   [Internships](https://www.deloitte.com/us/en/careers/internships.html?icid=top_internships)
+
+    *   [Overview](https://www.deloitte.com/us/en/careers/experienced-hires.html?icid=top_experienced-hires)
+    *   [Contractors](https://www.deloitte.com/us/en/careers/deloitte-open-talent.html?icid=top_deloitte-open-talent)
+    *   [Executives](https://www.deloitte.com/us/en/careers/executives.html?icid=top_executives)
+    *   [Expanded programs](https://www.deloitte.com/us/en/careers/additional-opportunities.html?icid=top_additional-opportunities)
+
+    *   [Audit & Assurance](https://www.deloitte.com/us/en/careers/join-deloitte/audit-careers.html?icid=top_audit-careers)
+    *   [Consultative Offerings](https://www.deloitte.com/us/en/careers/join-deloitte/consultative-offerings-careers.html?icid=top_consultative-offerings-careers)
+    *   [Internal Services](https://www.deloitte.com/us/en/careers/join-deloitte/internal-services-careers.html?icid=top_internal-services-careers)
+    *   [Tax](https://www.deloitte.com/us/en/careers/join-deloitte/tax-careers.html?icid=top_tax-careers)
+    *   [Government & Public Services](https://www.deloitte.com/us/en/careers/join-deloitte/government-and-public-services-careers.html?icid=top_government-and-public-services-careers)
+    *   [US Delivery Center](https://www.deloitte.com/us/en/careers/join-deloitte/us-delivery-center-careers.html?icid=top_us-delivery-center-careers)
+
+    *   [Overview](https://www.deloitte.com/us/en/careers/life-at-deloitte.html?icid=top_life-at-deloitte)
+    *   [Growth & development](https://www.deloitte.com/us/en/careers/deloitte-life/growth-and-development.html?icid=top_growth-and-development)
+    *   [Benefits](https://www.deloitte.com/us/en/careers/deloitte-life/thriving-together-well-being.html?icid=top_thriving-together-well-being)
+    *   [Awards](https://www.deloitte.com/us/en/careers/deloitte-life/awards-and-recognition.html?icid=top_awards-and-recognition)
+
+*   [Who we are](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Main menu](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Who we are](https://www.deloitte.com/us/en/about.html?icid=top_about)
+    *   [Overview](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Who we are](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Overview](https://www.deloitte.com/us/en/about.html?icid=top_about)
+        *   [About Deloitte](https://www.deloitte.com/us/en/about.html?icid=top_about)
+        *   [Our shared values](https://www.deloitte.com/us/en/about/articles/shared-values.html?icid=top_shared-values)
+        *   [Facts & figures](https://www.deloitte.com/us/en/about/story/facts-and-figures.html?icid=top_facts-and-figures)
+
+    *   [Governance](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Who we are](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Governance](https://www.deloitte.com/us/en/about/governance.html?icid=top_governance)
+        *   [Network, brands & alliances](https://www.deloitte.com/us/en/about/governance/network-brand-alliances.html?icid=top_network-brand-alliances)
+        *   [Transparency report](https://www.deloitte.com/us/en/services/audit-assurance/articles/transparency-report.html?icid=top_transparency-report)
+
+    *   [Recognition](https://www.deloitte.com/us/en/careers/deloitte-life/awards-and-recognition.html?icid=top_awards-and-recognition)
+    *   [Newsroom](https://www.deloitte.com/us/en/about/recognition/news.html?icid=top_news)
+    *   [Contact Us](https://www.deloitte.com/us/en/contact/contact-us.html?icid=top_contact-us)
+
+*   [What we do](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Main menu](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [What we do](https://www.deloitte.com/us/en/services.html?icid=top_services)
+    *   [Overview](https://www.deloitte.com/us/en/what-we-do.html?icid=top_what-we-do)
+    *   [Case studies](https://www.deloitte.com/us/en/what-we-do/content/client-stories-and-successes.html?icid=top_client-stories-and-successes)
+    *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [What we do](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Services](https://www.deloitte.com/us/en/services.html?icid=top_services)
+        *   [AI & Engineering](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [AI & Engineering](https://www.deloitte.com/us/en/services/consulting/services/engineering-ai-data.html?icid=top_/content/websites/us/en/services/consulting/services/engineering-ai-data)
+            *   [AI & Data](https://www.deloitte.com/us/en/services/consulting/services/artificial-intelligence-and-data.html?icid=top_artificial-intelligence-and-data)
+            *   [Cloud Services](https://www.deloitte.com/us/en/services/consulting/services/cloud-consulting-services.html?icid=top_/content/websites/us/en/services/consulting/services/cloud-consulting-services)
+            *   [Engineering](https://www.deloitte.com/us/en/services/consulting/services/engineering.html?icid=top_cloud-engineering)
+            *   [Industry Solutions](https://www.deloitte.com/us/en/services/consulting/services/operations-industry-domain-solutions.html?icid=top_operations-transformation)
+
+        *   [Assurance](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Assurance](https://www.deloitte.com/us/en/services/audit-assurance/services/assurance.html?icid=top_assurance)
+            *   [Accounting, Controls & Reporting Advisory](https://www.deloitte.com/us/en/services/audit-assurance/services/accounting-reporting-assurance.html?icid=top_/content/websites/us/en/services/audit/services/accounting-reporting-assurance)
+            *   [Specialized Assurance & Sustainability](https://www.deloitte.com/us/en/services/audit-assurance/services/specialized-assurance-and-sustainability.html?icid=top_specialized-assurance-and-sustainability)
+
+        *   [Audit](https://www.deloitte.com/us/en/services/audit-assurance.html?icid=top_audit)
+        *   [Business Process Solutions](https://www.deloitte.com/us/en/services/tax/services/business-process-solutions.html?icid=top_business-process-solutions-overview)
+        *   [Customer](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Customer](https://www.deloittedigital.com/us/en.html)
+            *   [Overview](https://www.deloittedigital.com/us/en/work.html?icid=top_https://www.deloittedigital.com/us/en/work.html)
+            *   [Customer Strategy & Design](https://www.deloittedigital.com/us/en/capabilities/customer-commercial-strategy.html?icid=top_https://www.deloittedigital.com/us/en/capabilities/customer-commercial-strategy.html)
+            *   [Customer as a Service / Operate](https://www.deloittedigital.com/us/en/what-we-do/service.html?icid=top_https://www.deloittedigital.com/us/en/what-we-do/service.html)
+            *   [Marketing, Commerce & Product](https://www.deloittedigital.com/us/en/what-we-do/marketing.html?icid=top_https://www.deloittedigital.com/us/en/what-we-do/marketing.html)
+            *   [Sales & Service](https://www.deloittedigital.com/us/en/what-we-do/sales.html?icid=top_https://www.deloittedigital.com/us/en/what-we-do/sales.html)
+
+        *   [Cyber](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Cyber](https://www.deloitte.com/us/en/services/consulting/services/cyber.html?icid=top_cyber-risk)
+            *   [Cyber Defense & Resilience](https://www.deloitte.com/us/en/services/consulting/services/cyber-defense-resilience.html?icid=top_cyber-defense-resilience)
+            *   [Cyber Operate](https://www.deloitte.com/us/en/services/consulting/services/cybersecurity-managed-services.html?icid=top_cybersecurity-managed-services)
+            *   [Cyber Strategy & Transformation](https://www.deloitte.com/us/en/services/consulting/services/cyber-strategy-transformation.html?icid=top_cyber-strategy-transformation)
+            *   [Digital Trust & Privacy](https://www.deloitte.com/us/en/services/consulting/services/digital-trust-and-privacy.html?icid=top_digital-trust-and-privacy)
+            *   [Enterprise Security](https://www.deloitte.com/us/en/services/consulting/services/enterprise-security.html?icid=top_enterprise-security)
+            *   [Cyber AI](https://www.deloitte.com/us/en/services/consulting/services/ai-and-cybersecurity-solutions.html?icid=top_ai-and-cybersecurity-solutions)
+            *   [Platformization](https://www.deloitte.com/us/en/services/consulting/services/cybersecurity-platformization.html?icid=top_cybersecurity-platformization)
+
+        *   [Deloitte Private](https://www.deloitte.com/us/en/services/deloitte-private.html?icid=top_deloitte-private)
+        *   [Direct Tax](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Direct Tax](https://www.deloitte.com/us/en/services/tax/services/direct-tax.html?icid=top_direct-tax)
+            *   [Business Tax Services](https://www.deloitte.com/us/en/services/tax/services/business-tax.html?icid=top_business-tax)
+            *   [Washington National Tax](https://www.deloitte.com/us/en/services/tax/services/washington-national-tax.html?icid=top_washington-national-tax)
+            *   [Multistate Tax](https://www.deloitte.com/us/en/services/tax/services/multistate-tax-services.html?icid=top_multistate-tax-services)
+            *   [National Federal Tax Services](https://www.deloitte.com/us/en/services/tax/services/national-federal-tax-services.html?icid=top_national-federal-tax-services)
+            *   [International Tax](https://www.deloitte.com/us/en/services/tax/services/international-tax.html?icid=top_international-tax)
+            *   [Transfer Pricing](https://www.deloitte.com/us/en/services/tax/services/transfer-pricing.html?icid=top_transfer-pricing)
+            *   [Mergers & Acquisitions (Tax)](https://www.deloitte.com/us/en/services/tax/services/m-and-a-tax-services.html?icid=top_m-and-a-tax-services)
+
+        *   [Enterprise Performance](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Enterprise Performance](https://www.deloitte.com/us/en/services/consulting/services/enterprise-technology-performance.html?icid=top_enterprise-technology-performance)
+            *   [Emerging ERP Solutions](https://www.deloitte.com/us/en/services/consulting/services/emerging-erp-solutions.html?icid=top_emerging-erp-solutions)
+            *   [Enterprise Operations as a Service](https://www.deloitte.com/us/en/what-we-do/capabilities/operate.html?icid=top_operate)
+            *   [Oracle](https://www.deloitte.com/us/en/alliances/oracle.html?icid=top_oracle)
+            *   [SAP](https://www.deloitte.com/us/en/alliances/sap.html?icid=top_sap)
+            *   [ServiceNow](https://www.deloitte.com/us/en/alliances/servicenow.html?icid=top_servicenow)
+            *   [Supply Chain & Network Operations](https://www.deloitte.com/us/en/services/consulting/services/supply-chain-network-operations.html?icid=top_supply-chain)
+
+        *   [Finance](https://www.deloitte.com/us/en/what-we-do/capabilities/finance-transformation/services/finance-transformation-services-offerings.html?icid=top_finance-transformation-services-offerings)
+        *   [Finance Transformation](https://www.deloitte.com/us/en/services/consulting/services/finance-transformation.html?icid=top_finance-transformation)
+        *   [Global Employer Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Global Employer Services](https://www.deloitte.com/us/en/services/tax/services/global-employer-services.html?icid=top_global-employer-service)
+            *   [GES Mobility](https://www.deloitte.com/us/en/services/tax/services/ges-mobility.html?icid=top_mobility-payroll-immigration)
+            *   [GES Reward](https://www.deloitte.com/us/en/services/tax/services/ges-reward.html?icid=top_ges-reward)
+
+        *   [Human Capital](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Human Capital](https://www.deloitte.com/us/en/services/consulting/services/human-capital.html?icid=top_human-capital)
+            *   [HR Strategy & Technology](https://www.deloitte.com/us/en/services/consulting/services/hr-strategy-technology.html?icid=top_hr-strategy-technology)
+            *   [Insights, Innovation & Operate](https://www.deloitte.com/us/en/services/consulting/services/insights-innovation-operate.html?icid=top_insights-innovation-operate)
+            *   [Organization, Workforce & Change](https://www.deloitte.com/us/en/services/consulting/services/workforce-transformation-services.html?icid=top_workforce-transformation-services)
+
+        *   [Indirect Tax](https://www.deloitte.com/us/en/services/tax/services/indirect-tax.html?icid=top_indirect-tax)
+        *   [Legal Business Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Legal Business Services](https://www.deloitte.com/us/en/services/tax/services/legal-business.html?icid=top_legal-business)
+            *   [Contract Lifecycle Mangement](https://www.deloitte.com/us/en/services/tax/services/unlocking-value-contract-lifecycle-management.html?icid=top_unlocking-value-contract-lifecycle-management)
+            *   [Legal Entity Management](https://www.deloitte.com/us/en/services/tax/services/legal-entity-management-services.html?icid=top_legal-entity-management-services)
+            *    Legal Management Consulting 
+
+        *   [M&A and Restructuring Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [M&A and Restructuring Services](https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/services/mergers-acquisitions-restructuring-services.html?icid=top_mergers-acquisitions-restructuring-services)
+            *   [M&A and Restructuring](https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/services/mergers-acquisitions-restructuring-services.html?icid=top_mergers-acquisitions-restructuring-services)
+            *   [M&A](https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/services/mergers-and-acquisitions.html?icid=top_mergers-and-acquisitions)
+            *   [Restructuring](https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/services/restructuring-m-and-a.html?icid=top_restructuring-m-and-a)
+            *   [M&A for Private Equity](https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/services/private-equity-services.html?icid=top_private-equity-services)
+            *   [M&A Sustainable Infrastructure](https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/services/sustainable-infrastructure-m-and-a-strategy.html?icid=top_sustainable-infrastructure-m-and-a-strategy)
+
+        *   [Operate](https://www.deloitte.com/us/en/services/consulting/services/operate-services.html?icid=top_operate-services)
+        *   [Regulatory, Risk & Forensic](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Regulatory, Risk & Forensic](https://www.deloitte.com/us/en/services/consulting/services/risk-regulatory-forensic.html?icid=top_deloitte-forensic)
+            *   [Forensic, Discovery, & Financial Crime](https://www.deloitte.com/us/en/services/consulting/services/forensic-discovery-financial-crime.html?icid=top_forensic-discovery-financial-crime)
+            *   [Regulatory & Financial Risk](https://www.deloitte.com/us/en/services/consulting/services/regulatory-financial-risk.html?icid=top_regulatory-legal)
+
+        *   [Strategy & Transactions](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Strategy & Transactions](https://www.deloitte.com/us/en/services/consulting/services/strategy-transactions.html?icid=top_strategy-transactions)
+            *   [Infrastructure & Real Estate](https://www.deloitte.com/us/en/services/consulting/services/infrastructure-real-estate.html?icid=top_infrastructure-real-estate)
+            *   [Mergers & Acquisitions](https://www.deloitte.com/us/en/services/consulting/services/mergers-acquisitions.html?icid=top_mergers-acquisitions)
+            *   [Performance Improvement & Restructuring](https://www.deloitte.com/us/en/services/consulting/services/restructuring-turnaround-cost-transformation.html?icid=top_restructuring-turnaround-cost-transformation)
+            *   [Strategy](https://www.deloitte.com/us/en/services/consulting/services/strategy-business-design.html?icid=top_strategy-business-design)
+            *   [Sustainability Strategy](https://www.deloitte.com/us/en/services/consulting/services/sustainability.html?icid=top_sustainability)
+            *   [Valuation & Modeling](https://www.deloitte.com/us/en/services/consulting/services/valuation-modeling.html?icid=top_valuation-modeling)
+
+        *   [Sustainability](https://www.deloitte.com/us/en/issues/climate/sustainability-and-climate.html?icid=top_/content/websites/us/en/issues/climate/sustainability-and-climate)
+        *   [Tax Technology Consulting](https://www.deloitte.com/us/en/services/tax/services/technology-consulting.html?icid=top_technology-consulting)
+        *   [All services](https://www.deloitte.com/us/en/services.html?icid=top_services)
+
+    *   [Industries](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [What we do](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Industries](https://www.deloitte.com/us/en/industries.html?icid=top_Industries)
+        *   [IndustryAdvantageᵀᴹ](https://www.deloitte.com/us/en/industries/industry-advantage-business-transformation.html?icid=top_industry-advantage-business-transformation)
+        *   [Consumer](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Industries](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Consumer](https://www.deloitte.com/us/en/industries/consumer/about.html?icid=top_about)
+            *   [Automotive](https://www.deloitte.com/us/en/industries/automotive/about.html?icid=top_about)
+            *   [Consumer Products](https://www.deloitte.com/us/en/industries/consumer-products/about.html?icid=top_about)
+            *   [Retail, Wholesale & Distribution](https://www.deloitte.com/us/en/industries/retail/about.html?icid=top_about)
+            *   [Transportation, Hospitality & Services](https://www.deloitte.com/us/en/industries/transportation.html?icid=top_transportation)
+
+        *   [Energy, Resources & Industrials](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Industries](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Energy, Resources & Industrials](https://www.deloitte.com/us/en/industries/energy/about.html?icid=top_about)
+            *   [Energy & Chemicals](https://www.deloitte.com/us/en/industries/energy-chemicals/about.html?icid=top_about)
+            *   [Industrial Products & Construction](https://www.deloitte.com/us/en/industries/industrial-construction/about.html?icid=top_about)
+            *   [Mining & Metals](https://www.deloitte.com/us/en/industries/mining-metals/about.html?icid=top_about)
+            *   [Power, Utilities & Renewables](https://www.deloitte.com/us/en/industries/power-utilities-renewables/about.html?icid=top_about)
+
+        *   [Financial Services](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Industries](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Financial Services](https://www.deloitte.com/us/en/industries/financial-services/about.html?icid=top_about)
+            *   [Banking & Capital Markets](https://www.deloitte.com/us/en/industries/banking-capital-markets/about.html?icid=top_about)
+            *   [Insurance](https://www.deloitte.com/us/en/industries/insurance/about.html?icid=top_about)
+            *   [Investment Management & Private Equity](https://www.deloitte.com/us/en/industries/investment-management/about.html?icid=top_about)
+            *   [Real Estate](https://www.deloitte.com/us/en/industries/real-estate/about.html?icid=top_about)
+
+        *   [Government & Public Services](https://www.deloitte.com/us/en/industries/government-public/about.html?icid=top_about)
+        *   [Life Sciences & Health Care](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Industries](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Life Sciences & Health Care](https://www.deloitte.com/us/en/industries/life-sciences-health-care/about.html?icid=top_about)
+            *   [Health Care](https://www.deloitte.com/us/en/industries/health-care/about.html?icid=top_about)
+            *   [Life Sciences](https://www.deloitte.com/us/en/industries/life-sciences/about.html?icid=top_about)
+
+        *   [Technology, Media & Telecommunications](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Industries](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+            *   [Technology, Media & Telecommunications](https://www.deloitte.com/us/en/industries/tmt/about.html?icid=top_about)
+            *   [Technology](https://www.deloitte.com/us/en/industries/technology/about.html?icid=top_about)
+            *   [Media & Entertainment](https://www.deloitte.com/us/en/industries/tmt/about/media-entertainment.html?icid=top_media-entertainment)
+            *   [Semiconductor](https://www.deloitte.com/us/en/industries/tmt/about/semiconductor-industry.html?icid=top_semiconductor-industry)
+            *   [Sports](https://www.deloitte.com/us/en/industries/tmt/about/sports-industry.html?icid=top_sports-industry)
+            *    Telecommunications 
+            *   [Interactive Gaming](https://www.deloitte.com/us/en/industries/tmt/about/interactive-gaming.html?icid=top_interactive-gaming)
+
+    *   [Alliances](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [What we do](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Alliances](https://www.deloitte.com/us/en/alliances/deloitte-alliances.html?icid=top_deloitte-alliances)
+        *   [AWS](https://www.deloitte.com/us/en/alliances/aws.html?icid=top_aws)
+        *   [Google](https://www.deloitte.com/us/en/alliances/google.html?icid=top_google)
+        *   [Oracle](https://www.deloitte.com/us/en/alliances/oracle.html?icid=top_oracle)
+        *   [Salesforce](https://www.deloitte.com/us/en/alliances/salesforce.html?icid=top_salesforce)
+        *   [SAP](https://www.deloitte.com/us/en/alliances/sap.html?icid=top_sap)
+        *   [ServiceNow](https://www.deloitte.com/us/en/alliances/servicenow.html?icid=top_servicenow)
+        *   [Workday](https://www.deloitte.com/us/en/alliances/workday.html?icid=top_workday)
+        *   [All Alliances](https://www.deloitte.com/us/en/alliances/deloitte-alliances.html?icid=top_deloitte-alliances)
+
+*   [Our Thinking](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Main menu](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Our Thinking](https://www.deloitte.com/us/en/our-thinking.html?icid=top_our-thinking)
+    *   [Overview](https://www.deloitte.com/us/en/our-thinking.html?icid=top_our-thinking)
+    *   [Industry thinking](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Our Thinking](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Industry thinking](https://www.deloitte.com/us/en/our-thinking/industry-thinking.html?icid=top_industry-thinking)
+        *   [Automotive](https://www.deloitte.com/us/en/industries/automotive/about.html?icid=top_about)
+        *   [Retail, Wholesale & Distribution](https://www.deloitte.com/us/en/industries/retail/about.html?icid=top_about)
+        *   [Transportation, Hospitality & Services](https://www.deloitte.com/us/en/industries/transportation/about.html?icid=top_about)
+        *   [Energy & Chemicals](https://www.deloitte.com/us/en/industries/energy-chemicals/about.html?icid=top_about)
+        *   [Industrial Products & Construction](https://www.deloitte.com/us/en/industries/industrial-construction/about.html?icid=top_about)
+        *   [Mining & Metals](https://www.deloitte.com/us/en/industries/mining-metals/about.html?icid=top_about)
+        *   [Power, Utilities & Renewables](https://www.deloitte.com/us/en/industries/power-utilities-renewables/about.html?icid=top_about)
+        *   [Banking & Capital Markets](https://www.deloitte.com/us/en/industries/banking-capital-markets/about.html?icid=top_about)
+        *   [Insurance](https://www.deloitte.com/us/en/industries/insurance/about.html?icid=top_about)
+        *   [Investment Management & Private Equity](https://www.deloitte.com/us/en/industries/investment-management/about.html?icid=top_about)
+        *   [Real Estate](https://www.deloitte.com/us/en/industries/real-estate/about.html?icid=top_about)
+        *   [Government & Public Services](https://www.deloitte.com/us/en/industries/government-public/about.html?icid=top_about)
+        *   [Health Care](https://www.deloitte.com/us/en/industries/health-care/about.html?icid=top_about)
+        *   [Life Sciences](https://www.deloitte.com/us/en/industries/life-sciences/about.html?icid=top_about)
+        *   [Technology](https://www.deloitte.com/us/en/industries/technology/about.html?icid=top_about)
+        *   [Media & Entertainment](https://www.deloitte.com/us/en/industries/tmt/about/media-entertainment.html?icid=top_media-entertainment)
+        *   [Semiconductor](https://www.deloitte.com/us/en/industries/tmt/about/semiconductor-industry.html?icid=top_semiconductor-industry)
+        *   [Sports](https://www.deloitte.com/us/en/industries/tmt/about/sports-industry.html?icid=top_sports-industry)
+        *   [Telecommunications](https://www.deloitte.com/us/en/industries/tmt/about/telecom-industry.html?icid=top_telecom-industry)
+        *   [Interactive Gaming](https://www.deloitte.com/us/en/industries/tmt/about/interactive-gaming.html?icid=top_interactive-gaming)
+
+    *   [Deloitte Insights](https://www.deloitte.com/us/en/insights.html?icid=top_insights)
+    *   [Dbriefs](https://www.deloitte.com/us/en/dbriefs-webcasts/upcoming-webcasts.html?icid=top_upcoming-webcasts)
+
+*   [Careers](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Main menu](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+    *   [Careers](https://www.deloitte.com/us/en/careers.html?icid=top_careers)
+    *   [Careers home](https://www.deloitte.com/us/en/careers/careers.html?icid=top_careers)
+    *   [Job search](https://apply.deloitte.com/)
+    *   [Students & early careers](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Careers](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Students & early careers](https://www.deloitte.com/us/en/careers/students-early-careers.html?icid=top_students-early-careers)
+        *   [Overview](https://www.deloitte.com/us/en/careers/students-early-careers.html?icid=top_students-early-careers)
+        *   [Internships](https://www.deloitte.com/us/en/careers/internships.html?icid=top_internships)
+
+    *   [Experienced professionals](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Careers](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Experienced professionals](https://www.deloitte.com/us/en/careers/experienced-hires.html?icid=top_experienced-hires)
+        *   [Overview](https://www.deloitte.com/us/en/careers/experienced-hires.html?icid=top_experienced-hires)
+        *   [Contractors](https://www.deloitte.com/us/en/careers/deloitte-open-talent.html?icid=top_deloitte-open-talent)
+        *   [Executives](https://www.deloitte.com/us/en/careers/executives.html?icid=top_executives)
+        *   [Expanded programs](https://www.deloitte.com/us/en/careers/additional-opportunities.html?icid=top_additional-opportunities)
+
+    *   [Business areas](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Careers](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Business areas](https://www.deloitte.com/us/en/careers/careers.html?icid=top_careers)
+        *   [Audit & Assurance](https://www.deloitte.com/us/en/careers/join-deloitte/audit-careers.html?icid=top_audit-careers)
+        *   [Consultative Offerings](https://www.deloitte.com/us/en/careers/join-deloitte/consultative-offerings-careers.html?icid=top_consultative-offerings-careers)
+        *   [Internal Services](https://www.deloitte.com/us/en/careers/join-deloitte/internal-services-careers.html?icid=top_internal-services-careers)
+        *   [Tax](https://www.deloitte.com/us/en/careers/join-deloitte/tax-careers.html?icid=top_tax-careers)
+        *   [Government & Public Services](https://www.deloitte.com/us/en/careers/join-deloitte/government-and-public-services-careers.html?icid=top_government-and-public-services-careers)
+        *   [US Delivery Center](https://www.deloitte.com/us/en/careers/join-deloitte/us-delivery-center-careers.html?icid=top_us-delivery-center-careers)
+
+    *   [Life at Deloitte](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Careers](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+        *   [Life at Deloitte](https://www.deloitte.com/us/en/careers/life-at-deloitte.html?icid=top_life-at-deloitte)
+        *   [Overview](https://www.deloitte.com/us/en/careers/life-at-deloitte.html?icid=top_life-at-deloitte)
+        *   [Growth & development](https://www.deloitte.com/us/en/careers/deloitte-life/growth-and-development.html?icid=top_growth-and-development)
+        *   [Benefits](https://www.deloitte.com/us/en/careers/deloitte-life/thriving-together-well-being.html?icid=top_thriving-together-well-being)
+        *   [Awards](https://www.deloitte.com/us/en/careers/deloitte-life/awards-and-recognition.html?icid=top_awards-and-recognition)
+
+    *   [Alumni](https://www.deloitte.com/us/en/careers/alumni.html?icid=top_alumni)
+
+*   GLOBAL - EN
+*   [Let's Connect](https://www.deloitte.com/us/en/contact/contact-us.html?icid=top_contact-us)
+
+*   Search   
+*   GLOBAL - EN
+*   [](https://www.deloitte.com/us/en/contact/contact-us.html?icid=top_contact-us)
+*   [](https://my.deloitte.com/?site=us-en "Join My Deloitte")
+*   ![Image 14](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html)[![Image 15](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html)](https://my.deloitte.com/index.html#/dashboard)
+    *   [Dashboard](https://my.deloitte.com/index.html#/dashboard?requestedBy=dcom&pullDown=true&site=us-en)
+    *   [Content feed](https://my.deloitte.com/index.html#/feed?requestedBy=dcom&pullDown=true&site=us-en)
+    *   [Subscriptions](https://my.deloitte.com/index.html#/subscriptions?requestedBy=dcom&pullDown=true&site=us-en)
+    *   [Profile/Interests](https://my.deloitte.com/index.html#/profile?requestedBy=dcom&pullDown=true&site=us-en)
+    *   [Account settings](https://my.deloitte.com/index.html#/account-settings?requestedBy=dcom&pullDown=true&site=us-en)
+    *   Log out
+
+[Main Menu](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+
+![Image 16](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html)
+
+Select your location
+
+Clear
+
+No results found
+
+ Welcome to Deloitte 
+
+If we have selected the wrong experience for you, please change it above.
+
+# The
+
+State
+
+of
+
+AI
+
+in
+
+the
+
+Enterprise
+
+## Deloitte's
+
+2026
+
+AI
+
+report
+
+tracking
+
+adoption
+
+and
+
+impact
+
+[Download the report](https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2026/state-of-ai-2026.pdf)
+
+### The untapped edge
+
+Organizations today stand at the untapped edge of AI's potential. Our 2026 AI report reveals that success hinges on the ability to move boldly from ambition to activation.
+
+[Download the report](https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2026/state-of-ai-2026.pdf)
+
+[Download the report](https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2026/state-of-ai-2026.pdf)
+*   [Key findings](javascript:void(0))
+*   [FAQ](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#soai-faq)
+*   [Industry cuts](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#soai-adoption-grid)
+*   [Contact](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#soai-leadership)
+
+*   [Scaling](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+*   [Reimagination](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+*   [AI fluency](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+*   [Sovereign AI](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+*   [Agentic AI](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+*   [Physical AI](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+*   [Readiness](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html#)
+
+## Key findings from this year's AI report
+
+## Key findings from this year's AI report
+
+### 1. Moving from pilot to scale as access expands
+
+Enterprise AI adoption grows
+
+Worker access to AI rose by 50% in 2025, and expectations for scale are high: the number of companies with ≥40% projects in production is set to double in six months.
+
+### 2. Productivity vs. reimagination
+
+Expanding possibilities at the edge
+
+AI is delivering on efficiency and productivity, and twice as many leaders as last year are reporting transformative impact. But just 34% are truly reimagining the business.
+
+### 3. AI fluency over role redesign
+
+AI workforce impact remains low
+
+The AI skills gap is seen as the biggest barrier to integration, and education—not role or workflow redesign—was the No. 1 way companies adjusted their talent strategies due to AI.
+
+### 4. Where is as crucial as what
+
+Sovereign AI = context + capability
+
+Sovereign AI is when a country—and companies within it—deploy AI under their own laws, infrastructure, and data. It's not just about ownership. It's about strategic independence.
+
+### 5. AI agents outpace their guardrails
+
+The oncoming surge in agentic AI
+
+Agentic AI usage is poised to rise sharply in the next two years, but oversight is lagging: Only one in five companies has a mature model for governance of autonomous AI agents.
+
+### 6. Physical AI's fast-growing footprint
+
+Gaining traction by 22 percentage points in two years
+
+More than half of companies (58%) report at least limited use of physical AI today, and that figure is set to reach 80% in two years—with Asia Pacific leading in early implementation.
+
+### 7. Strategically ready, operationally unsure
+
+Exploring the AI preparedness gap
+
+Compared to last year, more companies (42%) believe their strategy is highly prepared for AI adoption—but they feel less prepared in terms of infrastructure, data, risk, and talent.
+
+## What's _top of mind_ when it comes to AI in the enterprise?
+
+As they turn the corner to scale, leaders are asking about ROI, safe and ethical practices, workforce readiness, and tactical, go-to-market moves. Here are some of their most common questions about digital transformation with AI.
+
+What does AI do for business?
+Digital transformation with AI can yield a variety of benefits for businesses, from cost savings to service delivery. Improving productivity and efficiency top the list of benefits achieved from enterprise AI adoption so far, with two-thirds (66%) of organizations reporting gains. Other benefits organizations reported achieving include:
+
+*   Enhancing insights and decision-making (53%)
+*   Reducing costs (40%)
+*   Enhancing client/customer relationships (38%)
+*   Improving products/services and fostering innovation (20%)
+*   Increasing revenue (20%)
+
+Revenue growth largely remains an aspiration, with 74% of organizations hoping to grow revenue through their AI initiatives in the future compared to just 20% that are already doing so. These numbers suggest AI is on the verge of breaking out and delivering a wide range of benefits that go far beyond efficiency and productivity improvements. Ultimately, however, success with AI isn't just about boosting efficiency or even growing revenue. It's about achieving strategic differentiation and a lasting competitive edge in the marketplace.
+
+How is AI transforming business functions?
+One-third (34%) of surveyed organizations are starting to use AI to deeply transform—creating new products and services or reinventing core processes or business models. Another third (30%) are redesigning key processes around AI. The remaining third (37%) are using AI at a more surface level, with little or no change to existing processes. While each are capturing productivity and efficiency gains, only the first group are truly reimagining their businesses rather than optimizing what already exists.
+
+Additionally, different types of AI technologies yield different expectations for impact.
+
+**Generative AI (GenAI):** The areas of GenAI that leaders believe will have the most impactful effects on their industries are:
+
+*   Search and knowledge management
+*   Virtual assistants/chatbots
+*   Content generation
+
+**Agentic AI:** While agentic AI is expected to have the highest impact in customer support, use cases for supply chain management, R&D, knowledge management, and cybersecurity are also seen as having high potential. The enterprises we interviewed are already deploying autonomous AI agents across diverse functions:
+
+*   A financial services company is building agentic workflows to automatically capture meeting actions from video conferences, draft communications to remind participants of their commitments, and track follow-through.
+*   An air carrier is using AI agents to help customers complete the most common transactions, such as rebooking a flight or rerouting bags, freeing up time for human agents to address more complex matters.
+*   A manufacturer is using AI agents to support new product development initiatives, leveraging AI to find the optimal balance between competing objectives such as cost and time-to-market.
+*   In the public sector, AI agents are being used to cover workforce shortages, partnering with human workers to complete key processes.
+
+**Physical AI:** Physical AI applications span a wide range of industrial and commercial settings. Common use cases for physical AI include:
+
+*   collaborative robots (cobots) on assembly lines
+*   Inspection drones with automated response capabilities
+*   Robotic picking arms
+*   Autonomous forklifts
+
+Adoption is especially advanced in manufacturing, logistics, and defense, where robotics, autonomous vehicles, and drones are already reshaping operations.
+
+How do I manage AI model governance, data, and regulation?
+As AI moves from experimentation to deployment, governance is the difference between scaling successfully and stalling out. Enterprises where senior leadership actively shapes AI governance achieve significantly greater business value than those delegating the work to technical teams alone. True governance makes oversight everyone's role, embedding it into performance rubrics so that as AI handles more tasks, humans take on active oversight.
+
+Autonomous systems also heighten needs for data and cybersecurity governance. Organizations need to define where humans should remain in control, how automated decisions are audited, and which records of system behavior should be retained.
+
+In terms of regulation, effective governance integrates with existing risk and oversight structures, not parallel "shadow" functions. It focuses on identifying high-risk applications, enforcing responsible design practices, and ensuring independent validation where appropriate. Leading organizations proactively monitor evolving legal requirements and build systems that can demonstrate safety, fairness, and compliance.
+
+On the data front, legacy data and infrastructure architectures cannot power real-time, autonomous AI. As AI capabilities extend beyond software into devices, machinery, and edge locations, organizations need to evaluate if their technology foundations are ready to support potential physical AI deployments. Modernization should create a "living" AI backbone: an organization-wide, real-time system that adapts dynamically to business and regulatory change. Key ideas covered in the report:
+
+*   Leaders are enabling modular, cloud-native platforms that securely connect, govern, and integrate all data types. They break down silos with domain-owned data products and embed privacy, sovereignty, and security-by-design, while enforcing enterprise standards for quality, interoperability, and lineage.
+*   A unified, trusted data strategy is indispensable. Forward-thinking organizations converge operational, experiential, and external data flows and invest in evolving platforms that anticipate needs of emerging AI.
+
+AI change management: How do I prepare my workforce for AI?
+According to the leaders surveyed, insufficient worker skills are the biggest barrier to integrating AI into existing workflows. These are the top ways organizations are adjusting AI talent strategy:
+
+*   Educating the broader workforce to raise overall AI fluency (53%)
+*   Designing and implementing upskilling and reskilling strategies (48%) 
+*   Assessing target talent acquisition levels and hiring specialized talent to drive AI initiatives (36%)
+*   Redesigning career paths and career mobility strategies (33%)
+*   Assessing changes to the anticipated supply and demand of skills (30%)
+*   Providing performance-based incentives for leveraging AI (30%)
+*   Combining or reimagining organizations based on new patterns resulting from AI usage (30%)
+*   Measuring worker trust and engagement (30%)
+*   Changing the balance between full-time, contract, and gig workers (19%)
+
+While most are focused on educating employees, far fewer are re-architecting roles, workflows, and career paths. The most successful organizations reimagine jobs to seamlessly combine human strengths and AI capabilities, ensuring both aspects are used to their fullest potential. New roles—AI operations managers, human-AI interaction specialists, quality stewards, and others—signal a deeper shift: AI is now a structural component of how work is organized. Advanced organizations streamline workflows that AI can execute end-to-end, while humans focus on judgment, exception handling, and strategic oversight. The goal isn't replacing humans or merely assisting them, but creating complementary working partnerships between humans and AI—where the combined output exceeds what either could achieve alone.
+
+Organizational structures are beginning to flatten as AI absorbs routine execution tasks. Some companies are merging technology and people-leadership functions to ensure that systems and workforce design evolve together. The pace or AI change management varies by industry, but the direction is consistent: roles, skills, and career paths should be rebuilt, not simply adjusted. Organizations must redesign work holistically rather than layering AI onto legacy processes.
+
+## Enterprise AI adoption by _industry_
+
+Trends and insights about AI in the enterprise vary from sector to sector, company to company. Get a tailored snapshot of your industry to understand where AI is making the biggest impact in your industry.
+
+### Consumer
+
+[Download](https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2026/StateofAI-consumer.pdf)
+
+### Energy, Resources & Industrials
+
+[Download](https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2026/StateofAI-ERI.pdf)
+
+### Financial Services
+
+[Download](https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2026/StateofAI-Financial-Services.pdf)
+
+### Technology, Media & Telecommunications
+
+[Download](https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2026/StateofAI-TMT.pdf)
+
+### Life Sciences & Health Care
+
+[Download](https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2026/StateofAI-LSHC.pdf)
+
+## More insights about the state of AI
+
+### The Deloitte AI Institute
+
+We collaborate with academic groups, startups, entrepreneurs, innovators, mature AI product leaders, and visionaries to explore AI risks, policies, ethics, and use cases.
+
+[Learn more](https://www.deloitte.com/us/en/services/consulting/content/advancing-human-ai-collaboration.html)
+
+### Press release
+
+Organizations in 2026 are standing at the untapped edge of AI's true potential, survey finds.
+
+[Get the full story](https://www.deloitte.com/us/en/about/press-room/state-of-ai-report-2026.html)
+
+### Pulse Check
+
+A survey series chronicling the latest AI developments, perspectives, and predictions.
+
+[Discover insights](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/blogs/pulse-check-series-latest-ai-developments.html)
+
+### The AI Dossier
+
+A collection of more than 80 high-impact use cases organized by industry, function, and AI type.
+
+[Explore use cases](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/ai-use-cases.html)
+
+### Agentic enterprise 2028
+
+A blueprint for savings, job creation, and growth through agentic AI over the next three years.
+
+[Read the report](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/articles/agentic-ai-enterprise-2028.html)
+
+![Image 17: State of AI report page 1](https://www.deloitte.com/content/dam/html/us/2025/consulting/state-of-ai-in-the-enterprise-ai-avatar/img/state-of-ai-report-page-1.jpg)
+
+![Image 18: State of AI report page 2](https://www.deloitte.com/content/dam/html/us/2025/consulting/state-of-ai-in-the-enterprise-ai-avatar/img/state-of-ai-report-page-2.jpg)
+
+![Image 19: State of AI report page 3](https://www.deloitte.com/content/dam/html/us/2025/consulting/state-of-ai-in-the-enterprise-ai-avatar/img/state-of-ai-report-page-3.jpg)
+
+![Image 20: State of AI report page 1](https://www.deloitte.com/content/dam/html/us/2025/consulting/state-of-ai-in-the-enterprise-ai-avatar/img/state-of-ai-report-page-1.jpg)
+
+![Image 21: State of AI report page 2](https://www.deloitte.com/content/dam/html/us/2025/consulting/state-of-ai-in-the-enterprise-ai-avatar/img/state-of-ai-report-page-2.jpg)
+
+![Image 22: State of AI report page 3](https://www.deloitte.com/content/dam/html/us/2025/consulting/state-of-ai-in-the-enterprise-ai-avatar/img/state-of-ai-report-page-3.jpg)
+
+## About the _State of AI_ report
+
+### _The State of AI in the Enterprise_ is a research series by the Deloitte AI Institute™ exploring trends, practices, and challenges in scaling AI.
+
+[Download the 2026 report](https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2026/state-of-ai-2026.pdf)
+
+[Download previous report](https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/campaigns/2025/us-state-of-gen-ai-2024-q4.pdf)
+
+**Methodology:** To obtain a global view of how AI is being adopted by organizations on the leading edge of AI, Deloitte surveyed 3,235 leaders between August and September 2025. Respondents were senior leaders in their organizations and included board and C-suite members, and those at the president, vice president and director levels. The survey sample was split equally between IT and line of business leaders. Twenty four countries were represented. Download report for full methodology.
+
+**Source:** Deloitte's State of AI in the Enterprise 2024-2026 reports and associated research.
+
+## The state of AI is evolving quickly—don't miss a thing.
+
+[Stay updated](https://lp.response.deloitte.com/aiinstitutemonthly)
+
+## Business leadership
+
+[![Image 23](https://www.deloitte.com/content/dam/html/us/2025/consulting/state-of-ai-in-the-enterprise-ai-avatar/img/leadership/beena-ammanath-1.png) Beena Ammanath Executive Director, Global Deloitte AI Institute](https://www.deloitte.com/us/en/about/people/profiles.beena-ammanath%2B20705a5e.html)[](https://www.linkedin.com/in/bammanath/)
+
+[![Image 24](https://www.deloitte.com/content/dam/html/us/2025/consulting/state-of-ai-in-the-enterprise-ai-avatar/img/leadership/jim-rowan.png) Jim Rowan US Head of AI at Deloitte](https://www.deloitte.com/us/en/about/people/profiles.jim-rowan%2Bfc5f7714.html)[](https://www.linkedin.com/in/jim-rowan-2183a08)
+
+[![Image 25](https://www.deloitte.com/content/dam/html/us/2025/consulting/state-of-ai-in-the-enterprise-ai-avatar/img/leadership/costi-perricos.png) Costi Perricos Global GenAI Business Leader](https://www.deloitte.com/us/en/about/people/profiles.costi-perricos%2Bde64b4be.html)[](https://www.linkedin.com/in/costi-perricos-3078864/)
+
+[![Image 26](https://www.deloitte.com/content/dam/html/us/2025/consulting/state-of-ai-in-the-enterprise-ai-avatar/img/leadership/nitin-mittal.png) Nitin Mittal Global AI Leader](https://www.deloitte.com/us/en/about/people/profiles.nitin-mittal%2B5bfe6c82.html)[](https://www.linkedin.com/pub/nitin-mittal/0/5b2/b41)
+
+### Let's connect
+
+*   [About Deloitte](https://www.deloitte.com/us/en/about.html?icid=bn_about)
+*   [Contact us](https://www.deloitte.com/us/en/contact/contact-us.html?icid=bn_contact-us)
+*   [Submit RFP](https://www.deloitte.com/us/en/contact/rfp.html?icid=bn_rfp)
+*   [Newsroom](https://www.deloitte.com/us/en/about/recognition/news.html?icid=bn_news)
+*   [View locations](https://www.deloitte.com/us/en/offices/us-locations.html?icid=bn_office-locator)
+
+#### What we do
+
+*   [Case studies](https://www.deloitte.com/us/en/what-we-do/content/client-stories-and-successes.html?icid=bn_client-stories-and-successes)
+*   [Services](https://www.deloitte.com/us/en/what-we-do.html?icid=bn_what-we-do)
+*   [Industries](https://www.deloitte.com/us/en/industries.html?icid=bn_Industries)
+*   [Alliances](https://www.deloitte.com/us/en/alliances/deloitte-alliances.html?icid=bn_deloitte-alliances)
+
+#### Our thinking
+
+*   [Overview](https://www.deloitte.com/us/en/our-thinking.html?icid=bn_our-thinking)
+*   [Deloitte Insights](https://www.deloitte.com/us/en/insights.html?icid=bn_insights)
+*   [Dbriefs](https://www.deloitte.com/us/en/dbriefs-webcasts/upcoming-webcasts.html?icid=bn_upcoming-webcasts)
+
+#### Careers
+
+*   [Careers home](https://www.deloitte.com/us/en/careers/careers.html?icid=bn_careers)
+*   [Job Search](https://www.deloitte.com/us/en/careers/job-search.html)
+*   [Alumni](https://www.deloitte.com/us/en/careers/alumni.html?icid=bn_alumni)
+
+##### Follow us
+
+*   [](https://x.com/deloitteus)
+*   [](https://www.linkedin.com/company/deloitte/)
+*   [](https://www.youtube.com/user/DeloitteLLP)
+*   [](http://www.glassdoor.com/Overview/Working-at-Deloitte-EI_IE2763.11,19.htm)
+*   [](https://www.instagram.com/lifeatdeloitteus/)
+
+*   [Terms of Use](https://www.deloitte.com/us/en/legal/terms-of-use.html?icid=bn_terms-of-use)
+*   [Privacy](https://www.deloitte.com/us/en/legal/privacy/privacy-index.html?icid=bn_privacy-index)
+*   [Data Privacy Framework](https://www.deloitte.com/us/en/legal/privacy/data-privacy-framework.html?icid=bn_data-privacy-framework)
+*   [Cookie Notice](https://cookienotice.deloitte.com/)
+*   [Cookie Settings](javascript:void(0);)
+*   [Legal information for Job Seekers](https://www.deloitte.com/us/en/legal/join-deloitte-legal-information-for-job-seekers.html?icid=bn_join-deloitte-legal-information-for-job-seekers)
+*   [Labor Condition Applications](https://www.deloitte.com/us/en/about/content/labor-condition-applications.html?icid=bn_labor-condition-applications)
+*   [Do Not Sell or Share My Personal Information](https://www.deloitte.com/us/en/legal/privacy/do-not-sell-my-personal-information.html?icid=bn_do-not-sell-my-personal-information)
+
+© 2026.See [Terms of Use](https://www.deloitte.com/us/en/legal/legal.html) for more information.
+
+Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee ("DTTL"), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as "Deloitte Global") does not provide services to clients. In the United States, Deloitte refers to one or more of the US member firms of DTTL, their related entities that operate using the "Deloitte" name in the United States and their respective affiliates. Certain services may not be available to attest clients under the rules and regulations of public accounting. Please see [www.deloitte.com/about](https://www.deloitte.com/us/en/about/governance/network-brand-alliances/about-the-network.html) to learn more about our global network of member firms.
+
+![Image 27](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html)
+
+## Here’s how we use cookies
+
+Deloitte uses strictly necessary cookies and similar technologies to operate this website and to provide you with a more personalized user experience. In addition to strictly necessary cookies, Deloitte uses optional cookies to enhance and personalize your experience, analyze site usage and traffic sources to understand how visitors engage with our website, deliver relevant content or advertisements, and facilitate data sharing with analytics and advertising providers. When you arrived at this website, Deloitte may have placed strictly necessary cookies and optional analytics cookies on your device. 
+
+ By clicking "Accept all optional cookies", you agree to the placement of optional cookies on your device. You can manage your cookie preferences or withdraw your consent to the use of optional cookies at any time by clicking "Tailor your cookie preferences". If you disable and withdraw your consent to the use of optional analytics cookies, Deloitte will not continue to receive data from the optional analytics cookies placed when you arrived at the website. Depending on your selected cookie preferences, the full functionality or personalized user experience of this website may not be available.
+
+ Learn more by visiting[Deloitte's Cookie Notice.](https://cookienotice.deloitte.com/)
+
+Accept all optional cookies Decline all optional cookies
+
+Tailor your cookie preferences
+
+![Image 28: Company Logo](https://cdn.cookielaw.org/logos/943e56a6-c554-47c1-8ad7-a96fce0e14b8/a9f4f939-49ab-4ac3-bbd2-308fe9ab781c/c694c743-6c34-43e6-b559-5373b28badb7/2.2_Deloitte_Logo.png)
+
+Opt-Out Request Honored
+
+## Privacy preference center
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change your default settings. 
+
+[Cookie Notice](https://cookienotice.deloitte.com/)
+
+### Manage consent preferences
+
+#### Strictly necessary cookies
+
+Always active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences or filling in forms.
+
+Cookies Details
+
+#### Analytics and performance cookies
+
+- [x] Analytics and performance cookies Active
+
+These cookies allow us to track analytics by counting visits and traffic sources so we can measure and improve the performance of our website. They may be set by us or by third party providers to help us to know which pages are the most and least popular and see how visitors move around the website.
+
+Cookies Details
+
+#### Functional cookies
+
+- [x] Functional cookies Inactive
+
+These cookies enable the website to provide enhanced functionality and personalization based on your interaction with the website. They may be set by us or by third party providers whose services we have added to our pages.
+
+Cookies Details
+
+#### Advertising and targeting cookies
+
+- [x] Advertising and targeting cookies Inactive
+
+These cookies may be set through our site by our advertising partners. They may be used by those partners to build a profile of your interests and show you relevant advertisements on other websites.
+
+Cookies Details
+
+### Cookie List
+
+Clear
+
+*   - [x] checkbox label label 
+
+Apply Cancel
+
+Consent Leg.Interest
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+Confirm choices
+
+[![Image 29: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)

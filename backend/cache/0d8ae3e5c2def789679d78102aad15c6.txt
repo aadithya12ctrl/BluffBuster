@@ -1,0 +1,170 @@
+Title: What is EdTech and What it Holds for Education and Startups?
+
+URL Source: https://www.techuz.com/blog/what-is-edtech-and-what-it-holds-for-education-and-startups/
+
+Published Time: 2018-11-30T18:22:23+05:30
+
+Markdown Content:
+Educational Technology or EdTech was started as an experiment in the mid-sixties by Stanford University professors. The concept here was simple – teach arithmetic and spellings to elementary school students using computers. And this was even before the internet was introduced.
+
+Almost six decades later, employing the reach of the internet, modern devices and highly sophisticated software, its purview of possibility is nothing less than unfathomable. Here in this blog, we’ll discuss what exactly is EdTech and what it holds for the education, society and business.
+
+Defining EdTech can be elusive because of its vast use case and constant evolution of technology from time to time. However, it’s not the technology but the aim that defines the true essence of EdTech – utilizing technological resources to improve the education system, pedagogy and ultimately enhancing the learners’ performance.
+
+Or as [Investopedia defines](https://www.investopedia.com/terms/e/edtech.asp):
+
+_“EdTech refers to software designed to enhance teacher-led learning in classrooms and improve students’ education outcomes. EdTech is in the early stages of development but it shows promise as a method of customizing the curriculum for a student’s ability level by introducing and reinforcing new content at a pace the student can handle. EdTech is a portmanteau of “education” and “technology.”_
+
+Let me give you some examples to make things more clear.
+
+## **Some Good Examples of EdTech**
+
+##### **AI and Machine Learning**
+
+Artificial Intelligence has already made its mark to boost efficiency and productivity in different industries. Even education is one of them.
+
+One of the issues that teachers and educators have been facing for years is providing individual attention to the students in a class of many.
+
+Every student in the class has different learning patterns and even a different pace of grasping things. But since we have been following the traditional model of one-size-fits-all education, individual learning is neglected. Here, artificial intelligence and machine learning have solved the problem. AI enables teachers to understand the learning pattern of each student and tailor the learning experience for maximum efficiency.
+
+###### Suggested Read[The World of AI (Artificial Intelligence) Driven Applications](https://www.techuz.com/blog/the-world-of-ai-driven-mobile-applications/)
+
+In [one of the articles](https://inc42.com/resources/technology-indian-education/), Zishaan Hayath, founder and CEO of [Toppr](https://www.toppr.com/)explains – “By leveraging evolved multimedia formats, platforms are allowing students to grasp academic concepts better. The use of machine learning and artificial intelligence gives them the ability to adopt a personalized approach that considers individual unique learning patterns to further enhance a student’s learning experience.”
+
+Thus, Artificial Intelligence has made it possible to understand the learning and thinking skills of the students in a better way and provide a customized learning approach rather than imposing a general one.
+
+##### **AR/VR**
+
+Remember the days when students used to understand human anatomy or botany diagrams with 2D pictures? I bet many teachers had put their best efforts to explain these by drawing it on the blackboard.
+
+Well, guess what? Learning these complex things is becoming easier with AR and VR, making things better for both students and as well as teachers.
+
+Although AR/VR are are still in its infancy, its [applications and impact on different industries](https://e27.co/beyond-gaming-6-potentially-disruptive-uses-augmented-reality-20181030/) including education is momentous. When talking about the EdTech, we generally use the cliched phrase – “EdTech is talking education beyond classrooms and blackboard”. Virtual reality is manifesting the statement in literal terms.
+
+History classes would no longer be limited to just reading the textbooks, instead, with VR, students can immerse themselves and live the history itself. Even medical students can now practice complex surgery with VR stimulators and the same goes with engineering and dangerous onsite tours.
+
+Many firms are working on it, EON Reality is one of them. [Check their website](https://www.eonreality.com/applications/augmented-virtual-reality-education/)to know how students can explore the tomb of Tutankhamun or simulate ophthalmic training and more.
+
+_(Application to train medical students for a thyroid biopsy procedure – EON Reality)_
+
+##### **Gamification**
+
+![Image 1: Edtech Gamefiled Platform GetLitt](https://www.techuz.com/blog/wp-content/uploads/2018/11/Edtech_Gamefied-platform-GetLitt.png)
+
+Gamification refers to incorporating gaming principles, elements and experience in a non-gaming activity or domain to improve the user engagement and productivity. Researches have shown that gamification has a positive impact on users. And the same can be applied in educational activities that students find boring and stressful.
+
+Gamified visuals along with gaming principles like reward systems, levels, earning experience points and social collaboration can improve the engagement and retention of the students.
+
+There are numerous applications and platforms using the same principle. For example, a platform named CueMath is helping children learn math concepts, aptitude and reasoning fluidly with gamified visual of the problems.
+
+Another great example of gamification is [one our client – GetLitt](https://www.techuz.com/portfolio/getlitt/), a gamified book reading platform to encourage reading habits among children. Our designers and developers have incorporated the game-like features that motivate the children to read books and makes the learning fun. We have incorporated features such as:
+
+– Rewards on accomplishment – badges and points
+
+– Connect with compeer readers
+
+– Unlocking levels with each achievement
+
+– Quirky characters and adventure stories to pique interests
+
+_([GetLitt](https://www.getlitt.co/) – Gamified book reading platform)_
+
+##### **Cloud Technology**
+
+If you are a Rocky series fan just like me, you would obviously relate to the cloud scene from the movie Creed. It shows cloud technology is pretty widespread these days.
+
+We all use it for storing files, streaming music, videos and more. It has also revolutionized many industries – from bringing down IT costs and providing scalability to companies and startups to changing the way music was consumed and dispensed. It has even changed education.
+
+Cloud provides several perks to learners as wells as educators such as better accessibility, affordable and flexibility.
+
+Talking about flexibility, students are experiencing flexibility in education at a whole new level. Need lecture notes from the desktop in class? It’s available on multiple devices. Need some literature and resources from the college library? No need to visit there, it’s all there on the cloud.
+
+Even for educational institutions such as schools, colleges and universities, cloud technology provides easy management of data and saves a large amount of time and money.
+
+##### **Mobile Learning**
+
+The mobile shipment has crossed the two billion mark and will continue to grow in the years to come. What else we see growing along with it are the mobile learning platforms.
+
+And it makes sense because employing the device that is ubiquitous and almost always used can serve as a mobile tutor or an archive of resources.
+
+The list of mobile learning apps in app stores is never-ending. From language tutor apps like [ELSA](https://www.elsaspeak.com/home)that helps you develop your English speaking skills to apps like [Socratic](https://socratic.org/) assisting kids to solve the assignments.
+
+And then there is another sphere of apps such as Udemy, Coursera, Udacity and more that caters metric tons of certified courses ranging from programming, designing, cooking, photography, literature to philosophy.
+
+Whether it be using AI to analyze the student’s pain points or using the immersive experience to providing a better comprehension of the subject, EdTech holds immense potential for the education.
+
+## **Why EdTech is important?**
+
+EdTech is more than merely changing the education material from books to digital form. In fact, it is enhancing the age-old education system by improving the pedagogy and learning process that ultimately results enhancing the human race.
+
+##### **Making Learning a Lifelong Process**
+
+The concept of acquiring knowledge at school and applying it at the workplace seems to be obsolete. The reason being – learning is not something to be left behind after completion of school or college but it is a lifelong process. In fact, in this rapidly changing competitive world, irrespective of age, it becomes imperative to keep on updating your skill sets.
+
+And EdTech is making this concept of continuous learning possible. Whether it be updating knowledge and skills for better employability, casual learning for hobbies and personal interest or even reskilling for a career change Edtech is at the disposal.
+
+[A report by KPMG and Google](https://home.kpmg.com/in/en/home/insights/2017/05/internet-online-education-india.html) states online education is the primary source of learning between the age group 21 to 50+.
+
+![Image 2: education system in india](https://www.techuz.com/blog/wp-content/uploads/2018/11/Life-Long-Learning.png)
+
+_(Online education being used for learning – Reskilling, corporate training, and hobbies. Source – KPMG)_
+
+##### **Bringing Down the Cost**
+
+The cost of education has massively increased these days. And the cost of textbooks is contributing a major part in it.
+
+According to [US Bureau of Labor Statistics](https://www.bls.gov/opub/ted/2016/college-tuition-and-fees-increase-63-percent-since-january-2006.htm), the cost of textbook rose by 88% between 2006 and 2016, which way more compared to increase in tuition fees and housing cost, i.e. 63% and 50% respectively.
+
+![Image 3: Consumer Price Index for tuition fees, college textbooks housing at school between 2006 and 2016](https://www.techuz.com/blog/wp-content/uploads/2018/11/chart-990x1024.png)
+
+_(Consumer Price Index for tuition fees, college textbooks housing at school between 2006 and 2016)_
+
+A survey by [Cengage](https://www.insidehighered.com/news/2018/07/26/students-sacrifice-meals-and-trips-home-pay-textbooks), an EdTech firm, revealed that on an average a student in the US spends $1,200 annually on textbooks. The same survey also reported that 43 percent of students have skipped meals and 31 percent registered for fewer classes to save money for the books.
+
+This cost can be brought down with digital course materials. These digital resources not only saves cost on publishing but also allow far-reaching distribution among learners. Moreover, digital resources are easy to update and revise.
+
+EdTech has also enabled students to attend the classroom remotely as many colleges have adopted virtual learning. This further reduces the cost of the commute for the students and even space for the collages.
+
+Technology is playing a major part in bringing down the cost of ever-increasing education. Whether it be the cost of delivering education or cost of building the school or colleges itself.
+
+##### **Democratizing Education**
+
+One of the most noteworthy benefits of EdTech is that it is democratizing the education. Ages ago, a good education was something available to royalties or a certain wealthy class of society.
+
+Since then, we have put many efforts to enable access to a high quality of education to everyone. However, still, the wealth and geographical location are breeding the same discrimination. Schools in a remote village have an inferior education compared to that of a well-funded one in a developed city area.
+
+EdTech holds the potential to change this. With EdTech, a high standard of education can be catered everywhere. The schools in underdeveloped regions of Africa can have the same level of educational content as available for the renowned school in developed countries. And even the online platforms and mobile learning apps can provide certified courses from reputed universities.
+
+## **What EdTech Holds for Start-ups?**
+
+Edtech is getting enormous. Enormous not only in terms of influence on education but also in terms of money.
+
+The [global EdTech and e-learning market](https://www.statista.com/topics/3115/e-learning-and-digital-education/) is projected to grow at 5.08 percent CAGR by 2022 making the total worth a whopping $243 billion. Yes, that’s $243 billion, a billion with a ‘b’.
+
+Observing this massive growth even the investors are lured to fund EdTech startups. The global EdTech Investment in 2017 reached [skyrocketing $9.5 billion](https://www.bizjournals.com/seattle/prnewswire/press_releases/Washington/2018/01/09/MN83840) funding 813 EdTech companies. In 2018 EdTech shattered its previous records with [$8.24 billion](https://markets.businessinsider.com/news/stocks/global-edtech-investments-shatter-records-in-the-first-half-of-2018-1027347829) in investment in the first half itself, funding a total of 437 companies.
+
+EdTech companies seem to fit in the shoes of the Uber and Airbnb, to be the next unicorn startups. China-based education startup Yuanfudao is reported to raise a whopping $250 million from Tencent.
+
+Even the Indian EdTech giant BYJU is in talks to raise $200-300 million in funding from General Atlantic and Temasek Holdings.
+
+The reason for this exponential growth? High demand of the EdTech products.
+
+The number of [K-12 students in Asia](http://www.ejinsight.com/20150223-edtech-in-asia-time-in-now/) is 600 million. An average family in Asia spends 40 percent of the total income on education-related product and service.
+
+As per the report by KPMG, in India alone, 280 million students are expected to enroll in schools by 2021. This means that there will be high demand for primary and secondary online supplemental education.
+
+But it’s not just the students, even working professionals consists of a large amount of user base. These professionals have surged the demand of reskilling and online certificate category.
+
+There’s an unfathomable pool of opportunity in the market and if there’s a good time to penetrate – it’s now.
+
+## Wondering How to Get Started?
+
+If you are an entrepreneur looking to play your part in enhancing the education, it’s obvious that you’ll need a technical partner, a mobile and [web development company](https://www.techuz.com/web-development/) to develop your state of the art software and resources. And Techuz can help you with all your project needs from design to development, testing, deployment and beyond. Feel free to [contact us](https://www.techuz.com/contact-us/) for any queries.
+
+![Image 4: Goldy Benedict](https://www.techuz.com/blog/wp-content/uploads/2017/10/0000001.png-1-150x150.jpg)
+
+### Goldy Benedict
+
+Content Marketing Manager
+
+I'm Goldy Benedict, a seasoned copywriter and content marketer with over 5 years of expertise in amplifying brands through SEO and strategic content. At Techuz, as a Content Marketing Manager, I spearheaded brand expansion by devising effective content strategies across diverse sectors including edtech, job market, health, and gaming.

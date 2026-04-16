@@ -1,0 +1,52 @@
+Title: What Are Food Miles?
+
+URL Source: https://www.ecowatch.com/food-miles-supply-transportation.html
+
+Published Time: 2022-03-23T16:31:21-04:00
+
+Markdown Content:
+A big rig semi truck transports boxes of pears. vitpho / iStock / Getty Images Plus
+
+Food travels long distances – sometimes hundreds or thousands of miles – to reach our plates. Mapping the trajectory of many processed foods is to draw zig-zags across the globe, connecting faraway fields, factories, distribution centers, and store shelves.
+
+The concept of “food miles” was created in the 1990s to warn consumers of the connection between long-distance food transportation and mounting global carbon emissions. Recent estimates figure that, in the U.S., processed food typically travels over 1,300 miles and fresh produce over 1,500 miles before it’s consumed. Ultimately, the further food travels, the more fossil fuels are needed, which in turn results in more greenhouse gas emissions that [fuel climate change](https://www.ecowatch.com/climate-change-food-production-2640810845.html).
+
+Just 10 companies – among them Nestlé, Mondolez, and Unilever – control almost all large food and beverage companies in the world. This [concentration of food suppliers](https://www.ecowatch.com/corporate-food-system-us-hunger-2650404147.html) has left less room for small, local farmers, and means more and more of our food is transported across the country – or the globe – before being eaten. Take Iowa, for example: in 1870, 100% of all apples consumed in the state were also produced there. By the end of the 20 th century, however, only [15% of apples consumed were produced by Iowa farmers](https://attra.ncat.org/htmlpub/food-miles-background-and-marketing/).
+
+The globalization of our food supply has also allowed consumers to become accustomed to foods grown only in other regions – think of coffee, which isn’t grown anywhere in the contiguous U.S. – or out-of-season foods that must be transported from warmer climates. Strawberries bought at a local farmers market during their summer growing season, for example, will have a lower food mileage than those shipped from California and purchased at a grocery store in December.
+
+Different methods have been employed over time to calculate food miles. The Weighted Average Source Distance (WASD) formula was developed by Annika Carlsson-Kanyama in 1997, and considers the weight of the transported food and the distance it travels from the place of production to the place of sale. To analyze foods with multiple ingredients – including many processed foods, like bread, packaged desserts, snacks, etc. – The Leopold Center for Sustainable Agriculture developed the Weighted Total Source Distance (WTSD) formula, which calculates the weight and distance traveled of each individual ingredient.
+
+## **How Are Food Miles Calculated?**
+
+The WASD and WTSD are helpful formulas, but the Weighted Average Emissions Ratio (WAER) formula – developed in 2004 by the nonprofit LifeCycles – also takes into account the greenhouse gas emissions associated with the mode of transportation employed. So, it’s not just the literal miles traveled that matters, but the means by which it’s transported.
+
+## **The Impact of Faraway Food**
+
+Both transportation and agriculture are major culprits in human-caused climate change. In the U.S., transportation accounts for the [largest share of national greenhouse gas emissions](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions#:~:text=The%20largest%20source%20of%20greenhouse,Greenhouse%20Gas%20Emissions%20and%20Sinks.), and, according to the IPCC, agriculture accounts for [one-fifth of all global CO2 emissions](https://www.ipcc.ch/srccl/). The U.S. food system alone consumes more energy than all of France annually.
+
+Within the food system itself, transportation comprises 14% of all energy used, but greenhouse gas emissions are also related to where the food was produced: The Leopold Center found that conventionally-sourced food uses [4 to 17 times more fuel than local food](https://dr.lib.iastate.edu/entities/publication/51ef6421-3062-487f-af1a-29125328f7a5), and produces 5 to 17 times more CO2. For processed foods, the impact is even larger. Think of a frozen lasagna: the wheat for the pasta might be grown in Kansas, the tomatoes and spinach for the sauce in California, the beef raised in Texas, and the cheese made in Wisconsin. Some of these materials might even need to be transported from the farm to another location to be processed – like the wheat to be made into sheets of lasagna noodles – then to the factory to be assembled, packaged, and finally shipped to grocery stores.
+
+Food miles also take into account the [mode of transportation](https://ourworldindata.org/food-transport-by-mode) used – by water, road, rail, or air, in order of efficiency – which are not all created equal; transporting food by plane creates 50% more greenhouse gas emissions than food transported by sea. A [2005 study](https://library.uniteddiversity.coop/Food/DEFRA_Food_Miles_Report.pdf) found that while air transportation only accounts for 1% of food transportation in the UK, it is responsible for 11% of the country’s emissions.
+
+Food mileage should also include how the food is procured by the customer. In our car-based society, where car-ownership rates by household have remained [above 90% for a decade](https://www.nature.com/articles/s41893-021-00731-5), many shoppers drive to a store to purchase their groceries. In 2015, researchers found that the median distance to the nearest food store for Americans was 0.9 miles, and that [40% of the population lived further than 1 mile from a food store](https://www.ers.usda.gov/amber-waves/2019/june/us-shoppers-access-to-multiple-food-stores-varies-by-region/#:~:text=The%20researchers%20found%20that%20in,mile%20from%20a%20food%20store.), necessitating a car for many people in order to do their shopping.
+
+## **Debate Over Food Miles**
+
+Climate and agricultural scientists don’t all agree on the benefits or accuracy of food miles when determining the environmental impact of food products.
+
+Many argue that this metric doesn’t take into account the whole carbon footprint of an item, or its non-emissions-related environmental impacts during production, like pesticide use, water pollution, or farmers’ rights. “Working out carbon footprints is horribly complicated,” said African agriculture expert professor Gareth Edwards-Jones of Bangor University in an [interview with The Guardian](https://www.theguardian.com/environment/2008/mar/23/food.ethicalliving). “It is not just where something is grown and how far it has to travel, but also how it is grown, how it is stored, how it is prepared.”
+
+Local food is often espoused as the greener option, but this isn’t always true. For example, the energy needed to heat a greenhouse in the Northeast to grow tomatoes in the winter might actually be a more carbon-intensive process than shipping the tomatoes from California. A Swedish study found that tomatoes imported to Sweden from Spain were actually less energy-intensive than those grown locally in greenhouses.
+
+Some companies and organizations have instead begun using the [Life Cycle Assessment (LCA) method](https://www.sciencedirect.com/science/article/pii/S2590332219301289) to analyze the impact of their product. This method takes into account all stages in the life cycle of the product, from production, to processing, to packaging, to transportation, to disposal. The analysis goes beyond carbon emissions and considers other environmental factors like air and water pollution, use of natural resources, and impacts on human health.
+
+## **How to Reduce Food Miles**
+
+While the benefit of food miles might be contested, lowering your environmental impact with your food choices is always beneficial.
+
+To find the food miles of your favorite products, use this [food miles calculator](https://www.foodmiles.com/), or research where the product comes from. It might be unrealistic to expunge all faraway foods from your diet – given expense and convenience – but some items might be replaceable with local alternatives. Consider joining a CSA to get fresh produce from nearby farms at regular intervals, or shopping from local producers at a farmers market. Better yet, [grow your own food](https://www.ecowatch.com/vegetable-gardening-in-small-spaces.html)! The only food miles to calculate will be the distance from your backyard or front stoop to your kitchen.
+
+Eating [seasonal produce](https://snaped.fns.usda.gov/seasonal-produce-guide) will also ensure that your produce wasn’t shipped across the country to reach your plate. While you can’t always know if something was transported by plane, many perishables that need to be eaten quickly after harvesting are – like berries – so refraining from eating these products until they’re in season will cut down on air transport.
+
+Beyond food miles, minimize your impact by cutting down on food-related emissions in other ways. [Limiting or cutting out meat](https://www.ecowatch.com/how-to-eat-less-meat-2656045481.html) and dairy is among the most impactful of changes, as [57% of emissions from food production](https://www.nature.com/articles/s43016-021-00358-x#:~:text=Global%20GHG%20emissions%20from%20the,and%2014%25%20to%20other%20utilizations) are attributed to animal-based food (including the production of livestock feed). Going fully vegan or vegetarian is great, but not imperative; just reducing animal products in your diet makes a difference. Lastly, instead of tossing food scraps in the trash, [compost them at home](https://www.ecowatch.com/apartment-composting-guide-2652675763.html) to keep organic waste out of landfills.

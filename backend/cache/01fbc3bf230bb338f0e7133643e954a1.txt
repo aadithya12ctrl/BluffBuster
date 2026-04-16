@@ -1,0 +1,94 @@
+Title: 8 startups reshaping the global food system
+
+URL Source: https://agfundernews.com/8-global-startups-reshaping-the-global-food-system
+
+Published Time: 2021-05-05T09:00:19+00:00
+
+Markdown Content:
+_Editor’s note: This post is part of a collaboration with[F&A Next](http://www.fanext.com/), an[AgFunder Network Partner](https://agfundernews.com/agfunder-network-partners). F&A Next was founded by[Anterra Capital](http://www.anterracapital.com/),[StartLife](https://start-life.nl/),[Rabobank](https://www.rabobankamerica.com/), and[Wageningen University & Research](https://www.wur.nl/en.htm)._
+
+_F&A Next is a platform dedicated to connecting food and agriculture startups to investors, serving as a springboard to greater innovation and a better deal for all. It organizes an annual conference in May, which will be virtual again in 2021. Throughout the day, the forum will showcase eight of the “Next Heroes” startups in agrifoodtech._ _Find out more [here](https://www.fanext.com/), and read about last year’s event[here](https://agfundernews.com/sexy-supply-chain-tech-a-next-2020.html). Apply the code**AFN-FaNext21**to benefit from a 25% discount!_
+
+* * *
+
+When things got tough in 2020, innovators got going. And investors noticed.
+
+Agrifoodtech innovation and investing had a breakout year last year, raking in more than $30 billion. Early-stage ventures did particularly well: dollars committed was up 10% and deal count was up 15% from 2019.
+
+Showcasing the range of agrifoodtech innovators who toiled away in spite of the pandemic (and even started their businesses amid a global lockdown), eight startups will present their products and ideas at F&A Next’s virtual summit on May 26.Their solutions, which address food waste, remote sensing, new sources of nutrients and proteins, and more, exemplify the creativity and ingenuity that has global investors eager to place their bets on the agrifoodtech sector at large.
+
+Here’s a sneak peak at who they are.
+
+#### **BiomilQ**
+
+US-based [BiomilQ](https://www.biomilq.com/) has been in the cellular foods game for a long time. But it isn’t making burgers or fish fillets. It’s making lab-grown human breast milk. Many women aren’t able to breast feed, and their most available alternative is bottle-based formula made of cow, goat or plant-based milks. Those don’t have the same nutrients as the milk that mothers produce.
+
+The women-led company closed a $3.5 million seed round last summer and grew its team from two to 15, at the height of global lockdowns. BiomilQ has since been working to optimize its cell culture media and characterize mammary cells. Founder Michelle Egger says the company has also made advances in reducing its production costs. The company is committed to making a product that is affordable for mothers of all income levels.
+
+The company is eying 2022 as a milestone year, says Egger. “We are constructing our own manufacturing plant and look forward to creating product at scale that can enter regulatory safety testing.”
+
+In the meantime, BiomilQ is engaged in consumer education to teach parents about lab-grown breast milk. “Most parents and incredibly open to the product and category of human milk, but we know there is a lot of unscientific information out there that muddles the discussion,” Egger says.
+
+#### **Ful Foods**
+
+The founders of Netherlands-based [**Ful Foods**](https://fulfoods.com/) had an idea for harnessing nutrient-rich, climate-friendly microalgae into a range of food and beverage products—ones that actually tasted good. And pandemic be damned, the three women launched Ful last year, starting with a small range of citrusy beverages that stand out for their distinct, naturally blue color.
+
+Ful has a much bigger mission than being a healthy food and beverage company; it’s looking to have a positive environmental impact. Microalgae is one of the most efficient sources for carbon capture on the planet. Ful’s production process enables the company to remove more carbon than it emits, making its products carbon negative. Amid the recent boom in corporate carbon neutrality pledges, Ful founder Julia Streuli says a low-carbon footprint is part of the business’s core design.
+
+“Our vision is to achieve this low-carbon footprint through the way we produce our products rather than relying on offsets,” she explains. “Taking into account our whole value chain (transportation, packaging), this is a very ambitious goal and can be achieved only in collaboration with other key players in our value chain.”
+
+Ful is also now working to identify future high-value applications for its raw microalgae material outside of the food and beverage domain.
+
+#### **Habitual**
+
+Treatment for type-2 diabetes and its outcomes comes with a $1 trillion annual healthcare bill worldwide. “We now know that the disease is reversible in up to 60% of people,” says Napala Pratini, founder of UK-based [**Habitual**](https://www.tryhabitual.com/).
+
+Habitual is on a mission to do just that, but combining nutritional treatment with digital therapeutics to help people with type 2 and pre-diabetes reach and maintain disease remission. Its platform offers expert support, meal kits, meal planning, guidance for long-term behavioral lifestyle changes.
+
+Pratini launched Habitual with co-founder Ian Braithwaite, whom she met working on diabetes remission research. “We worked firsthand with patients and were inspired to bring the life-changing results we observed to the hundreds of millions of people who are in need of them,” she says.
+
+Habitual is working against what Pratini calls “an incredibly difficult, obesogenic food environment.” In short, most of the food people consume day to day—particularly industrially-made products packed with refined sugar—aren’t designed to support human health and wellbeing. Habitual’s place is supporting healthy lifestyles and nutrition focuses on helping patients “develop the knowledge, self-efficacy, and resilience to make healthier choices in an environment that’s working against us,” Pratini explains.
+
+#### **PlanetWatchers**
+
+UK-based [**PlanetWatchers**](https://www.planetwatchers.com/) uses synthetic aperture radar (SAR) to monitor and analyze planting operations, cover crops, acreage, crop classification and large-scale weather events throughout the agriculture sector’s crop cycle. “PlanetWatchers SAR analysis provides fast and accurate insight that cannot be achieved through the use of optical data,” explains PlanetWatchers CEO Dominic Edmunds.
+
+The company says that unlike other forms of remote sensing, its SAR imagery can be captured in any weather conditions, night and day, and is suitable for large scale monitoring. Adds Edmunds, “PlanetWatchers can process SAR data into commercial analysis within a single hour.Supported by historical analysis, we can provide comparative multi-year analysis to support ‘in-season’ decision making.”
+
+For example, when the US state of Iowa was struck by a derecho in August last year, PlanetWatchers says it was able to assess the extent of the damage—affecting 1.25 million acres of crops, mostly corn—“within an hour, without ever visiting the fields.”
+
+#### **Provectus Algae**
+
+Amid the boom in consumer demand for natural and sustainable products, Australia-based [Provectus Algae](https://provectusalgae.com/) is focusing on, well… algae. The biotech firm serves as a discovery, engineering and commercialization platform for the climate-friendly resource.
+
+Provectus Algae uses precision photosynthesis and gene engineering to naturally synthesizes molecules using light to control biology. “Proprietary hardware, software and machine learning come together to accelerate nature in a way never imagined before,” explains Provectus Algae’s head of strategy Martin Asher.
+
+The company’s goal is to “deliver the most sustainable, flexible and scalable synthetic biology platform to date,” he adds. “New technologies are required to drive forward the next industrial revolution of bio-manufacturing.”
+
+Provectus Algae has raised $3.6 million to ramp up. Its team of 20 is currently partnering with a food and beverage ingredients supplier to develop specialty food flavoring. The company expects to double its team in the next 18 months and expand from a 20,000-liter-capacity facility into one that’s 10 times as large.
+
+#### **SAIA**
+
+The Netherlands is known worldwide for its high-tech greenhouses. (How else does such a small country become the second largest exporter of fresh food?) Netherlands-based [SAIA Agrobotics](https://www.saia-agrobotics.com/) is working to help growers accelerate the adoption of indoor farming by providing harvesting and crop handling services for greenhouse users.
+
+“Quality labour in fresh food production is globally increasingly hard to come by,” says SAIA CEO Ruud Barth. “This is becoming a bottleneck to meeting the rising [food] demand from a growing middle class and population.”
+
+Agriculture’s intensifying challenge with the availability of labor came to a head amid the pandemic, causing temporary disruptions in some parts the global food supply chain. “Robotics and autonomous growing through artificial intelligence will make scaling [indoor farming] possible such that every nation can have local food security” in a climate-friendly way, predicts Barth.
+
+SAIA, which operates from Wageningen University & Research, the Netherlands’ “Food Valley,” is working to validate its key technologies and hopes to introduce several pilot projects in the Netherlands and elsewhere in the next 18 months.
+
+#### **Smartwyre**
+
+Agricultural value chains the world over are notoriously fragmented and opaque. US-based [Smartwyre](https://www.smartwyre.com/) is working to improve efficiency by helping manufacturers, distributors and retailers of agricultural inputs, such as seeds, fertilizers and chemicals, to connect with customers and boost profit margins while protecting sensitive pricing information.
+
+The company claims its cloud-based software can help companies boost profits by 5% and reduce pricing errors by up to 75%. Smartwyre CEO John Brubaker says most of the company’s operations are in the US currently, with early projects in the UK, France and Brazil.
+
+#### **Solublue**
+
+Forty percent of grown food is wasted worldwide. Fifty percent of single-use plastics and 91% of all unrecycled plastic ends up in landfills, incinerators, or leaches into soil and water systems. UK-based [Solublue](https://solublue.com/) is tackling both problems with a sustainable plastic alternative that extends foods’ shelf-life.
+
+Solublue’s packaging is a seaweed-based material that “is bio-digestible, making it safe for marine life, and home compostable, biodegrading as quickly as the food it contains,” explains Solublue CEO Ayca Dundar.
+
+“Not only does our packaging extend shelf life, in SoluBlue packaging, food gradually dries over months, providing a second life for fresh food in cooking, or as animal feed,” Dundar adds.
+
+Solublue says its packaging technology is highly scalable and commercializable. It’s now testing that out through pilot production research that will allow the company to trial its material with customers in the food sector.

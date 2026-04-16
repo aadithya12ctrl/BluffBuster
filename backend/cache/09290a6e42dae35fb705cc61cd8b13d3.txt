@@ -1,0 +1,143 @@
+Title: What is marketplace commission (take rate?)
+
+URL Source: https://www.sharetribe.com/marketplace-glossary/commission-take-rate/
+
+Markdown Content:
+## Definition of commission (or take rate)
+
+Marketplace take rate or marketplace commission is the percentage of sales a marketplace charges for facilitating the transaction between a buyer and a seller. It can range from 0% to 50% or more, depending on the industry, type of sale, and geography, among other factors.
+
+Commissions represent the share earned by the marketplace for providing services such as platform usage, transaction processing, customer support, and marketing.
+
+Setting a balanced take rate lets [marketplace admins](https://www.sharetribe.com/marketplace-glossary/admin/) generate revenue while ensuring they provide more value for both buyers and sellers than what they charge. Your take rate directly influences various aspects of your business and growth strategy, including your scalability, user acquisition, and competitive positioning.
+
+Learn more marketplace lingo in our complete [marketplace glossary](https://www.sharetribe.com/marketplace-glossary/).
+
+## Why commission is the most popular marketplace business model
+
+At Sharetribe, we've [studied how the best-performing global marketplaces make money](https://www.sharetribe.com/academy/how-top-100-marketplaces-monetize/). We found that charging a take rate/commission is the most popular among them.
+
+The reason why commission is so popular is that it works for all sides of the marketplace: the sellers, the buyers, and the marketplace owner.
+
+Users only pay you when they get value themselves. Before that, using the platform is free. There's low risk for them to join, and if your pricing strategy is well-planned (we'll discuss this later in this article), they receive more value from your marketplace than what they pay.
+
+Commission is usually the most lucrative business model for a marketplace founder. You get a piece of all the value -- GMV -- that passes through your marketplace. And as you grow, your commission profits do, too. For the same reason, take rate is also a very scalable business model.
+
+Finally, the flexibility in how a take rate is defined and which side is charged makes the model adaptable across niches and audience types. More on that next.
+
+### Fixed vs. percentage-based take rates
+
+A marketplace can adopt two broad types of marketplace take rate models: fixed and percentage-based (also known as tiered). Some marketplaces use both.
+
+A fixed commission model charges a set fee for each transaction, regardless of the transaction amount. This means that the commission remains constant regardless of whether the transaction value is high or low. As you'll see in the examples below, Amazon charges a fixed commission on its platform.
+
+The percentage-based take rate model charges a fee that is calculated as a percentage of the transaction value. The commission amount increases or decreases proportionally with the transaction amount.
+
+An example of a percentage-based take rate is Airbnb, which charges both standard and premium prices for its services. The take rate changes based on the services the parties choose.
+
+Some marketplaces may have a combination of both. So, a percentage of sales is charged on top of a fixed commission. For example, Etsy charges sellers a flat fee for each [marketplace listing](https://www.sharetribe.com/marketplace-glossary/listing/) on the platform, along with a marketplace transaction fee (which includes a percentage of the sale price and a fixed fee).
+
+### Seller vs buyer take rate
+
+Another thing to know about marketplace take rates is that commissions can be applied on both sides, the buyer and the seller.
+
+Buyer take rate refers to the commission or fee charged to the buyer for using the marketplace platform to make a purchase. It is typically calculated as a percentage of the total transaction value.
+
+Seller take rate is the commission or fee charged to the seller for selling products or services on the marketplace platform. It is typically calculated as a percentage of the total transaction value or the sale price of the item.
+
+Some marketplaces apply take rates on sellers only. Some charge both buyers and sellers.
+
+Generally speaking, if your marketplace is demand-constrained (once there are enough customers, providers will come), you should charge sellers. Most online marketplaces follow this model, and the sellers pay the fees 90% of the time. Once you gain traction, you may start charging both buyers and sellers, as Airbnb does, for example.
+
+### Take rate, commission, or service fee?
+
+While most of today's successful marketplaces charge a commission, how they communicate that commission varies greatly. Instead of "take rate" or commission, many marketplaces use terms like booking fee and service fee. Other common marketing names for commission are transaction fee, handling fee, processing fee, convenience fee, and platform fee.
+
+The name usually reflects the type of service or value the marketplace offers and other marketing and communications considerations.
+
+Moreover, as we've found in our [research](https://www.sharetribe.com/academy/how-top-100-marketplaces-monetize/#word-choice-and-transparency-as-a-part-of-monetization-strategy), some marketplaces seem to be deliberately vague about their fee structure and the exact rates they charge. We found this to be especially true for service marketplaces like freelance and micro jobs platforms.
+
+If this is the case in the niche you're targeting, it can be a real competitive advantage if you can be transparent about your pricing.
+
+## Example of marketplace take rates
+
+#### Amazon
+
+Arguably the biggest marketplace, Amazon charges [$0.99 per item sold](https://sell.amazon.com/pricing) on its platform. Sellers who use Amazon's Fulfillment by Amazon (FBA) service pay additional fees for storage, picking, packing, and shipping.
+
+#### eBay
+
+eBay is another popular online marketplace that operates on fee structure that combines a take rate with additional revenue streams. Sellers on eBay are charged an [insertion fee](https://www.ebay.com/sellercenter/selling/seller-fees) for listing an item and then a final "value fee" (yet another name for what, in practice, is a take rate) when the item is sold. The final value fee is typically around 10% of the total transaction value.
+
+#### Etsy
+
+Etsy is an online marketplace focused on handcrafted artwork, merchandise, and unique vintage goods. The marketplace [charges](https://help.etsy.com/hc/en-us/articles/360035902374-Etsy-Fee-Basics?segment=selling) 6.5% of the total sale amount, including the product price, shipping cost, and gift wrapping (if applicable). This is the most direct fee sellers pay on each sale. Considering additional fees like payment processing (typically 3-4.5% + $0.25 in the US) and listing fees ($0.20 per listing), the total take rate can be higher, as much as 11%.
+
+#### Airbnb
+
+The peer-to-peer accommodation marketplace charges both buyers and sellers to use its platform. It charges sellers or hosts a service fee, which is typically [around 3%](https://www.airbnb.co.in/help/article/1857) for most bookings. Additionally, buyers or guests are charged a guest service fee, which can range from 0% to 20% of the booking subtotal. Airbnb may also employ dynamic pricing strategies that adjust the commission rate based on factors such as demand, seasonality, and property location. This makes its commission model flexible.
+
+#### Uber
+
+The ridesharing and cab ordering marketplace takes around [25% to 30%](https://thewire.in/labour/uber-drivers-pay-exploitation) of the total fare paid by the passenger, while the remaining amount goes to the driver. In addition to standard rides, Uber offers premium services such as UberX, UberXL, Uber Black, and Uber SUV, which may incur higher fares and commission rates.
+
+#### Fiverr
+
+One of the biggest freelancing marketplaces, Fiverr, charges both sides. Buyers are charged a [5.5% service fee](https://help.fiverr.com/hc/en-us/articles/360010558038-How-Fiverr-works#) on all orders they place. This fee applies to the entire purchase amount, including any gig extras and tips added to the base price. The sellers, on the other side, are required to shell out [20% of their earnings](https://community.fiverr.com/forums/topic/301405-fiverrs-20-cut-is-too-high/) on each order. This means a seller keeps $8 out of every $10 they earn.
+
+## What is the average marketplace take rate?
+
+Based on our study[of the top 100 online marketplaces](https://www.sharetribe.com/academy/how-top-100-marketplaces-monetize/), the average marketplace take rate is between 10% and 30%.
+
+However, the range within the marketplaces represented varied from a few percent to 95%.
+
+So, if you're looking to benchmark, it's better to study take rates in your niche to get a clearer picture. [In this table](https://airtable.com/app3h0gcJZKLxlfww/shrfVbqdMQf36wLjy/tblhgvM1eOWCZMen0), you can access the raw data on the 100 marketplaces we studied and filter the results to find the most useful benchmarks for you.
+
+## How to calculate a marketplace take rate
+
+Calculating the marketplace take rate involves determining the percentage of transaction value retained by the platform as revenue.
+
+The formula for calculating the take rate is straightforward:
+
+**Take Rate (%) = (Revenue / Transaction Value) x 100**
+
+For example, if a marketplace charges a $10 fee on a $100 transaction, the take rate would be calculated as follows:
+
+**Take Rate = ($10 / $100) x 100 = 10%**
+
+So, use the formula to calculate the take rate for your platform or any other marketplace.
+
+## What impacts the marketplace take rate?
+
+Several factors influence the marketplace take rate. Some of the primary factors are:
+
+1.   Marginal cost -- How much money are your customers making on your platform? This is arguably the biggest factor that determines the marketplace's take rate. In marketplaces like ride-sharing and food delivery, there's very little profit margin for sellers. In contrast, segments like stock photos or online services have rather high seller margins. That's why ride-sharing and food-delivery marketplaces [tend to have lower take rates than marketplaces for digital goods and services](https://airtable.com/app3h0gcJZKLxlfww/shrfVbqdMQf36wLjy/tblhgvM1eOWCZMen0).
+2.   Competition -- In the world of online marketplaces, competition among platforms can influence commission rates. When multiple marketplaces vie for the same sellers and buyers, they may lower their fees to attract more users. For example, Uber and Lyft once engaged in a battle to offer the lowest rates and biggest incentives to use their platforms. In general, more competitors mean lower commissions charged by everyone.
+3.   Network effects -- Have you noticed how some marketplaces seem to be difficult to disrupt by competitors? That's the magic of [network effects](https://www.sharetribe.com/marketplace-glossary/network-effects/). When a platform reaches critical mass, it becomes more valuable to users, attracting even more users in a virtuous cycle. Marketplaces with strong network effects can charge higher commission rates because sellers and buyers are willing to pay for access to a large and active user base.
+4.   Seller differentiation -- There are often various types of sellers: some are professionals with multiple daily transactions, while others might only make a sale once or twice a year. Many marketplaces offer different pricing tiers for different types of sellers, or charge the same fee but offer power sellers additional services.
+5.   Transaction size and volume -- Larger transactions and higher volumes typically mean more revenue. As a result, some platforms offer tiered commission structures where larger transactions or higher volumes result in lower commission rates. It's like a reward for doing more business---everyone wins!
+6.   Quality vs quantity -- Some marketplaces focus on high quality, curate their supply carefully and offer value through additional services. These platforms usually charge higher fees. On the other hand, you might aim at a large quantity of users, in which case you'll want to keep your margins low to get the masses on board.
+7.   Who is being charged? -- In certain marketplaces, one side benefits more and is, therefore, willing to pay a greater share. In B2C marketplaces, it's usually the sellers who need the buyers more, rather than the other way around. This dynamic can influence the take rate.
+
+## How to find the right pricing for your marketplace
+
+Many founders assume the best approach to take rate is charging the maximum possible commission. But that is not true. In fact, depending on the sector, it can backfire big time.
+
+We have a thorough article on [how to define your ideal take rate](https://www.sharetribe.com/academy/how-to-set-pricing-in-your-marketplace/).
+
+To summarize those points, here's what you should know when finding the right pricing for your marketplace:
+
+*   Your marketplace's position in terms of the seven factors discussed above: marginal costs, distribution channels, network effect, provider differentiation, transaction size, and volume, quality vs quantity, and who pays the bill.
+*   Take as little as you need. High pricing becomes a source of friction because if you charge too much from sellers, they'll be forced to increase their pricing. And if users feel you're extracting more value than you're providing, they'll be tempted to [circumvent your payment system](https://www.sharetribe.com/academy/how-to-discourage-people-from-going-around-your-payment-system/) -- or take their business elsewhere. .
+*   You can change your pricing model later. Take rate is not a fixed component. You can always change your take rate percentage or model as the marketplace evolves.
+*   It's easier to lower the price than to raise it later. Remember, it's hard to charge more later for the same services. So, you need to add value to increase your take rate.
+
+## Key takeaways
+
+*   Marketplace commission and marketplace take rate are defined as the fee a marketplace charges to facilitate a transaction between a buyer and seller.
+*   There are broadly two types of take rates: a fixed fee and a fee based on a percentage of the transaction amount.
+*   Many marketplaces provide additional services that are charged on top of existing commissions.
+*   The average take rate for online marketplaces is 10% to 30%.
+*   Most online marketplaces charge sellers, but at times, they may charge both sides or the buyer side only.
+*   When determining the take rate, it's important to look at the competition and the value you provide to both sides.
+*   It's a good business practice to be explicit and transparent when it comes to take rates.

@@ -1,0 +1,117 @@
+Title: The Google Mafia Map: 1,200+ startups founded by ex-Googlers — and the 10 you should know about
+
+URL Source: https://www.cbinsights.com/research/google-mafia-map/
+
+Published Time: 2023/12/08
+
+Markdown Content:
+In 2017, 8 [Google](https://www.cbinsights.com/investor/google) researchers published a paper introducing a [new neural network architecture called the “Transformer”](https://www.cbinsights.com/research/google-transformer-startups-openai/) that could better understand and generate human language. The Transformer paper was a major breakthrough in the field of natural language processing, and it helped to enable more advanced language models, like the ones being developed by [OpenAI](https://www.cbinsights.com/company/openai).
+
+Most of the researchers behind this paper have gone on to found companies and raise significant financing, often at large valuations. For example, members of this group have founded genAI unicorns [Cohere](https://www.cbinsights.com/company/cohere-3), [Character.AI](https://www.cbinsights.com/company/characterai), and [Adept](https://www.cbinsights.com/company/adept-3).
+
+Other impressive former Google employees — i.e., members of its alumni network, or “mafia” — are founding companies in areas ranging from fintech to entertainment tech to workplace automation.
+
+Highlights from the Google Mafia include:
+
+*   **1,231 companies have been founded by ex-Google employees since 2018****:** These companies have raised a combined $22B in total disclosed equity funding. More than 800 of them have received venture capital backing, recording an average total funding of $26M and a median total funding of $5M.
+*   **21 Google mafia-founded startups have reached unicorn status in the last 5 years:**Startups that have joined the $1B+ valuation club include Adept and [Inflection AI](https://www.cbinsights.com/company/inflection-ai).
+*   **58 startups founded by former Google employees have exited since 2018:** Of these startups, 56 have been acquired.
+*   **Andreessen Horowitz is the Google mafia’s most active VC investor:** The VC has invested in 46 Google alum-founded companies since 2018, including Character.AI and [Mem](https://www.cbinsights.com/company/mem-1). Alumni Ventures and Soma Capital follow close behind, as they have invested in 36 and 35 Google mafia-founded companies, respectively.
+
+Using the CB Insights Mosaic algorithm, we evaluated the management team strength of Google alum-founded companies to identify 10 key early-stage players.
+
+[![Image 1: The Google Mafia Map: 10 Google alum-founded early-stage startups with impressive management teams](https://research-assets.cbinsights.com/2023/12/05151110/GoogleMafia-Top10-122023-2-987x1024.png)](https://research-assets.cbinsights.com/2023/12/05151110/GoogleMafia-Top10-122023-2.png)
+
+_This list consists of VC-backed, early-stage (seed and Series A) companies founded by former Google leaders. All companies on the list have raised funding since 2022. They are listed in descending order by Management Mosaic score._
+
+_Management Mosaic scores are as of 10/24/23 — data is dynamic and scores on company profiles may have changed._
+
+_You can_[_learn more about Mosaic here_](https://www.cbinsights.com/mosaic-score/)_and in our_[_whitepaper_](https://www.cbinsights.com/research-startup-health-prediction)_._
+
+* * *
+
+#### [**DYME.EARTH**](https://www.cbinsights.com/company/dymeearth)
+
+##### **Management Mosaic score: 970**
+
+Dyme.Earth offers eco-friendly rewards and loyalty programs. The company receives rebates when consumers make purchases using the Dyme Chrome extension, a linked credit card, or a Dyme-issued gift card. It then invests these commissions into forestry and solar projects centered around reducing emissions in the US.
+
+Founder and CEO [Sunil Chandra](https://app.cbinsights.com/profiles/p/MxzNK/Current) was previously a vice president at Google, managing global talent acquisition and operations.
+
+#### [**REVERENCE**](https://www.cbinsights.com/company/reverence)
+
+##### **Management Mosaic score: 970**
+
+Reverence is a workforce management platform for healthcare providers. It helps them optimize scheduling and gain insight into staff performance.
+
+Before founding Reverence, [Lee Teslik](https://app.cbinsights.com/profiles/p/lpZkP/Current) served as the head of strategy for ad platforms and display media at Google for 5 years.
+
+#### [**AUDIOSHAKE**](https://www.cbinsights.com/company/audioshake)
+
+##### **Management Mosaic score: 960**
+
+AudioShake is an AI startup that caters to the music industry. It helps artists, film studios, and music labels split music into stems and instrumentals to support sync licensing, localization, mixing, and other use cases.
+
+Co-founder and CEO [Jessica Powell](https://app.cbinsights.com/profiles/p/zgVr5/Current) spent over 10 years in individual contributor and manager roles at Google. She eventually served as the VP of communications & public affairs.
+
+#### [**TRUST LAB**](https://www.cbinsights.com/company/trust-lab)
+
+##### **Management Mosaic score: 960**
+
+Trust Lab offers an end-to-end online safety and compliance platform powered by AI. The startup enables social media firms, governmental entities, and other enterprises to monitor online activity and identify harmful and illegal content. It also helps enterprises maintain regulatory compliance and auto-generate transparency reports.
+
+The startup was co-founded by [Tom Siegel](https://app.cbinsights.com/profiles/p/2Re2G) (former VP of trust & safety at Google),[Shankar Ponnekanti](https://app.cbinsights.com/profiles/p/qrNlZ/Current) (former Google engineer), and [Benji Loney](https://app.cbinsights.com/profiles/p/X4e3q) (former policy & operations lead at YouTube). While at Google, Siegel oversaw the development of enforcement systems, policy standards, and escalation management and risk mitigation solutions.
+
+#### [**RELAY**](https://www.cbinsights.com/company/collab-ai)
+
+##### **Management Mosaic score: 960**
+
+Relay is a workflow automation startup. Enterprises can use its solutions to automate HR tasks — e.g., candidate outreach, interviewing, and onboarding — as well as sales and customer support functions, such as email correspondence.
+
+CEO and founder [Jacob Bank](https://app.cbinsights.com/profiles/p/DwmYm/Current) was formerly a director of product management at Google, where he worked on Gmail, Google Calendar, Google Chat, the Google Workspace Developer Platform, and eventually the consumer shopping experience.
+
+#### [**BLUESKY**](https://www.cbinsights.com/company/bluesky-2)
+
+##### **Management Mosaic score: 940**
+
+Bluesky offers a data cloud efficiency platform that enhances enterprise visibility into data cloud workloads, generates insights on resource utilization, detects cost anomalies, and offers real-time data monitoring.
+
+Co-founder and CEO [Mingsheng Hong](https://app.cbinsights.com/profiles/p/Wyz2o/Current) previously served as the head of engineering (ML runtime) at Google. He built out runtime components for TensorFlow and Jax to support accelerator devices (e.g., TPU, GPU, CPU) across training and serving.
+
+#### [**VECTARA**](https://www.cbinsights.com/company/vectara)
+
+##### **Management Mosaic score: 930**
+
+Generative AI startup Vectara is building a B2B search service, selling its tech to enterprises that want to improve search experiences for their users.
+
+The startup was co-founded by former VP of developer relations at Google Cloud [Amr Awadallah](https://app.cbinsights.com/profiles/p/o74Kn) and ex-Google senior software engineers [Amin Ahmad](https://app.cbinsights.com/profiles/p/Lav2V) and [Tallat Shafaat](https://app.cbinsights.com/profiles/p/lVRBe).
+
+#### [**ARTA**](https://www.cbinsights.com/company/arta-finance)
+
+##### **Management Mosaic score: 900**
+
+Wealth management startup Arta is a “digital family office” that offers financial planning services. It allows users to access private market investment strategies and AI-powered public investment portfolios.
+
+The startup was founded by 6 ex-Google leaders, many of whom worked on Google Payments. Arta co-founder and CEO [Caesar Sengupta](https://app.cbinsights.com/profiles/p/zPb92) was VP and general manager of Google Payments and the Next Billion Users (NBU) initiative, while Arta co-founder [David Shapiro](https://app.cbinsights.com/profiles/p/wPnRK) served as NBU’s chief business officer.
+
+Other Arta co-founders with Google Payments experience include [Edward Chiang](https://app.cbinsights.com/profiles/p/rkLLj) (former director of product management) as well as [Charles Dong](https://app.cbinsights.com/profiles/p/4Be23) (former head of growth and PM lead).
+
+The final 2 Arta co-founders with past leadership experience at Google include former engineering director [Mark Striebeck](https://app.cbinsights.com/profiles/p/RyQQP) and VP of payment ecosystems [Felix Lin](https://app.cbinsights.com/profiles/p/blepO/Former).
+
+#### [**SIZZLE**](https://www.cbinsights.com/company/sizzle-1)
+
+##### **Management Mosaic score: 860**
+
+Sizzle is a platform that uses AI to extract highlights from streaming or gaming sessions. Streamers can edit videos on Sizzle and share them across social platforms like X (fka Twitter) and TikTok.
+
+Co-founder [Vijay Koduri](https://app.cbinsights.com/profiles/p/99wyA/Current) was formerly the head of marketing for Google Enterprise Search and Wallet & Offers.
+
+#### [**GOODTRUST**](https://www.cbinsights.com/company/goodtrust)
+
+##### **Management Mosaic score: 850**
+
+GoodTrust is an estate planning startup that allows families to establish and store a number of records, including wills, funeral directives, and healthcare directives.
+
+Before founding GoodTrust, [Rikard Steiber](https://app.cbinsights.com/profiles/p/Qpo9p/Current) served as a global marketing director at Google. His GoodTrust co-founder [Daniel Sieberg](https://app.cbinsights.com/profiles/p/lV4qO/Current) also has experience at Google, serving as a group product marketing manager (GPMM).
+
+_If you aren’t already a client, [sign up for a free trial](https://app.cbinsights.com/signup?utm\_source=research&utm\_medium=report&utm\_campaign=marketing&utm\_term=trial\_signup&utm\_content=/research/google-mafia-map/) to learn more about our platform._

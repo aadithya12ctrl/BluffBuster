@@ -1,0 +1,524 @@
+Title: Oktoberfest: Using Attendee Insights to Drive Impactful Marketing Campaigns
+
+URL Source: https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns
+
+Published Time: 2024-10-14T00:00:00.000Z
+
+Markdown Content:
+# Oktoberfest: Using Attendee Insights to Drive Impactful Marketing Campaigns
+
+![Image 5: logo](blob:http://localhost/4eb6460ab93a7ae1978320dda45af1eb)
+
+[](https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2)
+
+*   [Consent](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+*   [Details](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+*   [[#IABV2SETTINGS#]](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+*   [About](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+Azira cares about your privacy
+
+We use cookies and similar technologies as necessary for our website to function. We also use them to tailor your experience, understand how visitors use our site, assist in marketing efforts, and personalize content. You may disallow the use of optional cookies by clicking on the second or third choice below. If you are in the European Economic Area, Switzerland or the United Kingdom and you make no selection, we will use necessary cookies only. View our privacy policy for more information on our data collection practices. 
+
+[#GPC_BANNER_ICON#]
+
+[#GPC_TOAST_TEXT#]
+
+Consent Selection
+
+**Operations** 
+
+- [x] 
+
+**Preferences** 
+
+- [x] 
+
+**Statistics** 
+
+- [x] 
+
+**Marketing** 
+
+- [x] 
+
+[Show details](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+Details
+
+*   
+Operations 22- [x]    Operations cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. 
+
+    *   [Cookiebot 2](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 6: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.cookiebot.com/goto/privacy-policy/ "Learn more about this provider Cookiebot's privacy policy - opens in a new window")**CookieConsent[x2]**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [HubSpot 2](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 7: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "Learn more about this provider HubSpot's privacy policy - opens in a new window")**cookietest[x2]**This cookie is used to determine if the visitor has accepted the cookie consent box.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [LinkedIn 2](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 8: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**bcookie**Used in order to detect spam and improve the website's security. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **li_gc**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+    *   [Soundcloud 1](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 9: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://soundcloud.com/pages/privacy "Learn more about this provider Soundcloud's privacy policy - opens in a new window")**datadome**Used in context with the website's BotManager. The BotManager detects, categorizes and compiles reports on potential bots trying to access the website.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [TrustArc 4](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 10: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.trustarc.com/privacy-policy/ "Learn more about this provider TrustArc's privacy policy - opens in a new window")**AWSALBAPP-0**This cookie is used in context with load balancing - This optimizes the response rate between the visitor and the site, by distributing the traffic load on multiple network links or servers. **Maximum Storage Duration**: 7 days**Type**: HTTP Cookie  **AWSALBAPP-1**This cookie is used in context with load balancing - This optimizes the response rate between the visitor and the site, by distributing the traffic load on multiple network links or servers. **Maximum Storage Duration**: 7 days**Type**: HTTP Cookie  **AWSALBAPP-2**This cookie is used in context with load balancing - This optimizes the response rate between the visitor and the site, by distributing the traffic load on multiple network links or servers. **Maximum Storage Duration**: 7 days**Type**: HTTP Cookie  **AWSALBAPP-3**This cookie is used in context with load balancing - This optimizes the response rate between the visitor and the site, by distributing the traffic load on multiple network links or servers. **Maximum Storage Duration**: 7 days**Type**: HTTP Cookie   
+    *   [azira.com business.azira.com hsforms.com zoominfo.com 5](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)**_cfuvid[x5]**This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. **Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [business.azira.com hubapi.com player.vimeo.com 4](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)**__cf_bm[x4]**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [ip2org-ext.zi-ext.com 1](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)**visitorId**Preserves users states across page requests.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [widget.sndcdn.com 1](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)**sc_anonymous_id**Used in context with the 3D-view-function on the website.**Maximum Storage Duration**: 10 years**Type**: HTTP Cookie   
+
+*   
+Preferences 4- [x]    Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in. 
+
+    *   [HubSpot 1](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 11: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "Learn more about this provider HubSpot's privacy policy - opens in a new window")**messagesUtk**Stores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter. **Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+    *   [LinkedIn 1](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 12: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**lidc**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [datawrapper.dwcdn.net 2](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)**#/datawrapper.gif[x2]**Counts the total number of views for embedded visualizations.**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+
+*   
+Statistics 9- [x]    Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously. 
+
+    *   [Google 2](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 13: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+**_ga**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie  **_ga_#**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie   
+    *   [HubSpot 4](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 14: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "Learn more about this provider HubSpot's privacy policy - opens in a new window")**__hssc**Identifies if the cookie data needs to be updated in the visitor's browser.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **__hssrc**Used to recognise the visitor's browser upon reentry on the website.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__hstc**Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **hubspotutk**Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+    *   [Soundcloud 1](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 15: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://soundcloud.com/pages/privacy "Learn more about this provider Soundcloud's privacy policy - opens in a new window")**number(#)**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [azira.com 2](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)**ziwsSession**Collects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **ziwsSessionId**Collects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+
+*   
+Marketing 17- [x]    Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. 
+
+    *   [HubSpot 1](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 16: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "Learn more about this provider HubSpot's privacy policy - opens in a new window")**__ptq.gif**Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [Soundcloud 2](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 17: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://soundcloud.com/pages/privacy "Learn more about this provider Soundcloud's privacy policy - opens in a new window")**dd_testcookie**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **ddSession_datadome**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [YouTube 13](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 18: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider YouTube's privacy policy - opens in a new window")**__Secure-BUCKET**Pending**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **__Secure-ROLLOUT_TOKEN**Pending**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **__Secure-YEC**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__Secure-YNID**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **LAST_RESULT_ENTRY_KEY**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **LogsDatabaseV2:V#||LogsRequestsStore**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **ServiceWorkerLogsDatabase#SWHealthLog**Necessary for the implementation and functionality of YouTube video-content on the website. **Maximum Storage Duration**: Persistent**Type**: IndexedDB  **TESTCOOKIESENABLED**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **VISITOR_INFO1_LIVE**Pending**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **YSC**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **yt-icons-last-purged**Necessary for the implementation and functionality of YouTube video-content on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **ytidb::LAST_RESULT_ENTRY_KEY**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **YtIdbMeta#databases**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+    *   [azira.com 1](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)**_gcl_ls**Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+
+*   Unclassified 9 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.  
+
+    *   [ZoomInfo 3](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)[Learn more about this provider![Image 19: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.zoominfo.com/legal/privacy-policy "Learn more about this provider ZoomInfo's privacy policy - opens in a new window")**_zitok[x2]**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **ziScriptSession**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [azira.com 1](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)**unifiedScriptVerified**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [azira.com business.azira.com 2](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)**hs-cta-interactions#cta[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+    *   [cdn.jsdelivr.net 3](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)**681c03588e35f97c74427c1f#pages**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **colorThemes_data**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **colorThemes_publishDate**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+
+[Cross-domain consent 2](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+Your consent applies to the following domains:
+
+List of domains your consent applies to:[business.azira.com](https://business.azira.com/)[azira.com](https://azira.com/)
+
+Cookie declaration last updated on 4/9/26 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot")
+
+[#IABV2_TITLE#]
+
+[#IABV2_BODY_INTRO#]
+
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+
+[#IABV2_BODY_PREFERENCE_INTRO#]
+
+[#IABV2_LABEL_PURPOSES#]
+
+[#IABV2_BODY_PURPOSES_INTRO#]
+
+[#IABV2_BODY_PURPOSES#]
+
+[#IABV2_LABEL_FEATURES#]
+
+[#IABV2_BODY_FEATURES_INTRO#]
+
+[#IABV2_BODY_FEATURES#]
+
+[#IABV2_LABEL_PARTNERS#]
+
+[#IABV2_BODY_PARTNERS_INTRO#]
+
+[#IABV2_BODY_PARTNERS#]
+
+About
+
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+
+Please state your consent ID and date when you contact us regarding your consent.
+
+- [x] 
+
+**Do not sell or share my personal information** 
+
+Allow all cookies Customize Allow selection Use necessary cookies only
+
+[The Azira logo, links to homepage](https://azira.com/)
+
+[Industries ![Image 20](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/682ca1102fe3c24e6dbb59b2_1a7baf3698b6bf06dda63fa196adb07a_Chevron%20Down.svg)](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[![Image 21](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/68da1afdd8e9cade2dcabfeb_automotive-icon.svg) Automotive](https://azira.com/industries/automotive)
+
+[![Image 22](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/68d6293747d0e7418aaa8d73_Menu-Hospitality-purple-lucide-Concierge-bell.svg) Hospitality](https://azira.com/industries/hospitality)
+
+[![Image 23](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/6881ccd8f59d04db63948083_Menu-Media-purple-lucide-megaphone.svg) Media](https://azira.com/industries/media)
+
+[![Image 24](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/6881ccb0cc17b11e8ccce343_Menu-Real-Estate-purple-lucide-building2.svg) Real Estate](https://azira.com/industries/real-estate)
+
+[![Image 25](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/6881cc928d32acf87c0c99bb_Menu-Restaurants-purple-lucide--utensils.svg) Restaurants](https://azira.com/industries/restaurants)
+
+[![Image 26](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/6881cc72293b222536076651_Menu-Retail-purple-lucide-store.svg) Retail](https://azira.com/industries/retail)
+
+[![Image 27](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/68da1b0ee04d54f2db2d8761_travel-icon.svg) Travel & Tourism](https://azira.com/industries/travel-tourism)
+
+[Technology ![Image 28](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/682ca1102fe3c24e6dbb59b2_1a7baf3698b6bf06dda63fa196adb07a_Chevron%20Down.svg)](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[![Image 29](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/6881cd9865dc2dfa635e20d5_Menu-Platform-purple-lucide-layers.svg) Platform](https://azira.com/technology/platform)[![Image 30](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/6881cdc8aa84c86ffa85799d_Menu-Data-purple-lucide-chart-network.svg) Data](https://azira.com/technology/data)[![Image 31](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/6881cdf20b548f8e5c6402c8_Menu-Privacy-purple-lucide-shield-user.svg) Privacy](https://azira.com/technology/privacy)
+
+[Resources ![Image 32](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/682ca1102fe3c24e6dbb59b2_1a7baf3698b6bf06dda63fa196adb07a_Chevron%20Down.svg)](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+Resource Center
+
+[![Image 33](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/686d6859f876995bec4eb488_lucide_book-down.svg) Resources](https://azira.com/resources)[![Image 34](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/686d6859f6dd43770fdb4730_lucide_calendar-check.svg) Upcoming Events & Webinars](https://azira.com/events)
+
+Newsroom
+
+[![Image 35](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/686d6859756a059a3264babd_lucide_newspaper.svg) Latest Articles and Press Releases](https://azira.com/newsroom)
+
+[About ![Image 36](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/682ca1102fe3c24e6dbb59b2_1a7baf3698b6bf06dda63fa196adb07a_Chevron%20Down.svg)](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[![Image 37](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/6881ce5a89bb11edee890397_Menu-Company-purple-Azira-bug.svg) Company](https://azira.com/about)[![Image 38](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/6881ce67a8d1676b2993192f_Menu-Leadership-purple-lucide_flag.svg) Leadership](https://azira.com/about#leadership)[![Image 39](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/6881ce8302d716f99d117672_Menu-Contact-purple_lucide_phone.svg) Contact Us](https://azira.com/about#contact-us)[![Image 40](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/6881ce8ebb8d1e32c541b971_Menu-Careers-purple-lucide_briefcase.svg) Careers](https://azira.com/about#careers)
+
+[Log In](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+Product Log In
+
+Choose the product you wish to log into
+
+[![Image 41: pinnacle login](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/683403cfcbd6d77637dad6ea_pinnacle-logo.e30b963a%201.svg) Pinnacle](https://pinnacle.azira.com/)[![Image 42: allspark login](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/683403614b859a6bcbda7426_allspark.svg)](https://getallspark.com/)
+
+Need Help?
+
+[Contact Us ![Image 43](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/68375a1f4b5d045ecec20c1e_Icon%20R%20(2).svg)![Image 44](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427cd6_Chevron%20(white).svg)![Image 45](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/68375a1f4b5d045ecec20c1e_Icon%20R%20(2).svg)](mailto:support@azira.com?subject=Azira%20Product%20Login)
+
+Full documentation in Finsweet's [Attributes docs](https://www.finsweet.com/attributes/modal).
+
+En
+
+![Image 46](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/682ca1102fe3c24e6dbb59b2_1a7baf3698b6bf06dda63fa196adb07a_Chevron%20Down.svg)
+
+[En](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns)
+
+[Fr](https://azira.com/fr)
+
+![Image 47](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/687a87cd7ac69ca8ac1ddbd8_Icon%20L.svg)
+
+Search 
+
+[Talk to an Expert ![Image 48](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427cd6_Chevron%20(white).svg)![Image 49](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427cd6_Chevron%20(white).svg)![Image 50](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427cd6_Chevron%20(white).svg)](https://business.azira.com/demo)
+
+![Image 51](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427d07_Menu.svg)
+
+![Image 52](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427d0c_Plus%20(white).svg)
+
+Industries
+
+[Automotive](https://azira.com/industries/automotive)
+
+[Hospitality](https://azira.com/industries/hospitality)
+
+[Media](https://azira.com/industries/media)
+
+[Real Estate](https://azira.com/industries/real-estate)
+
+[Restaurants](https://azira.com/industries/restaurants)
+
+[Retail](https://azira.com/industries/retail)
+
+[Travel & Tourism](https://azira.com/industries/travel-tourism)
+
+Technology
+
+[Platform](https://azira.com/technology/platform)[Data](https://azira.com/technology/data)[Privacy](https://azira.com/technology/privacy)
+
+Resources
+
+Resource Center
+
+[Resources](https://azira.com/resources)[Upcoming Events & Webinars](https://azira.com/events)
+
+Newsroom
+
+[Latest Articles and Press Releases](https://azira.com/newsroom)
+
+About
+
+[Company](https://azira.com/about)[Leadership](https://azira.com/about#leadership)[Newsroom](https://azira.com/newsroom)[Contact Us](https://azira.com/about#contact-us)
+
+Solutions
+
+No items found.
+
+[Platform](https://azira.com/technology/data)
+
+Resources
+
+[Blog](https://azira.com/fr/ressources#blogs)[Cas clients](https://azira.com/fr/ressources#cas-clients)[Ressources](https://azira.com/resources)[Evénements](https://azira.com/events)
+
+Azira
+
+[L'entreprise](https://azira.com/about)[Carrières](https://azira.com/fr/a-propos#careers)[Salle de presse](https://azira.com/newsroom)[Nous contacter](https://azira.com/fr/a-propos#contact-us)
+
+[](https://azira.com/)
+
+![Image 53](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/6837f264ad14b4700f6ae8eb_Search.svg)
+
+En
+
+![Image 54](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/682ca1102fe3c24e6dbb59b2_1a7baf3698b6bf06dda63fa196adb07a_Chevron%20Down.svg)
+
+[En](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns)
+
+[Fr](https://azira.com/fr)
+
+[Log In](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+Product Log In
+
+Choose the product you wish to log into
+
+[![Image 55: pinnacle login](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/683403cfcbd6d77637dad6ea_pinnacle-logo.e30b963a%201.svg) Pinnacle](https://pinnacle.azira.com/)[![Image 56: allspark login](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/683403614b859a6bcbda7426_allspark.svg)](https://getallspark.com/)
+
+Need Help?
+
+[Contact Us ![Image 57](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/68375a1f4b5d045ecec20c1e_Icon%20R%20(2).svg)![Image 58](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427cd6_Chevron%20(white).svg)![Image 59](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/68375a1f4b5d045ecec20c1e_Icon%20R%20(2).svg)](mailto:support@azira.com?subject=Azira%20Product%20Login)
+
+Full documentation in Finsweet's [Attributes docs](https://www.finsweet.com/attributes/modal).
+
+[Request a Demo ![Image 60](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427cd6_Chevron%20(white).svg)![Image 61](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427cd6_Chevron%20(white).svg)![Image 62](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427cd6_Chevron%20(white).svg)](https://business.azira.com/demo)
+
+[![Image 63](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/682f6952a19e839f5635b2e1_Icon(1).svg) All Resources](https://azira.com/resources)
+
+# Tapping into Oktoberfest: Using Attendee Insights to Drive Impactful Marketing Campaigns
+
+Marketing Intelligence
+
+![Image 64: Tapping into Oktoberfest: Using Attendee Insights to Drive Impactful Marketing Campaigns](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/683e2b2ebb8d2a252b03504b_octoberfest-2.webp)
+
+![Image 65](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/682b9cf6ed7a0ffb99f08980_28162c54c60854b00be7b9a86bf56501_platform-hero-image.webp)
+
+Munich’s [Oktoberfest](https://www.oktoberfest.de/en) — drawing over 6 million attendees annually — is a global phenomenon. The festival's iconic beer tents, run by Munich's six major breweries, are a staple to the festivities celebrating Bavarian culture and beer. This year, the festival spanned 16 days at Theresienwiese, a 100-acre outdoor space, running from September 21 to October 6, 2024.
+
+With such massive footfall, Oktoberfest is not just a cultural celebration, but a lucrative marketing opportunity for brands across many industries. Whether you’re a new beer brand looking to build awareness, or a restaurant looking to draw in more diners, or a destination marketer, the massive crowds at Oktoberfest offer a prime opportunity for marketers to reach their target audiences.
+
+But what are the Oktoberfest attendees like, and where do they come from? And how can marketers leverage demographic data for promotions before, during, and after major events like Oktoberfest? Let’s take a look at how Azira’s global consumer behavior insights can help brands and agencies answer these questions.
+
+## How far did attendees travel to attend Oktoberfest?
+
+Azira’s data revealed that Oktoberfest attracted a local crowd, with 80% of attendees traveling from within Germany, and over 31% attending locally from the City of Munich where the event took place. A significant portion of attendees also traveled from Italy, France, and Austria. Approximately 1% of attendees traveled from the U.S., and of the U.S. visitors, California, Texas, and Hawaii were the top states they traveled from.
+
+![Image 66: octoberfest-2](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/683e2b2dbb8d2a252b034fd2_unnamed-4.webp)
+
+## What were the age and income demographics of attendees?
+
+From Gen Z’s to Millennials to Baby Boomers, the festival had a broad appeal with a nearly even distribution across generations. The significant presence of Baby Boomers, making up over 20% of attendees, might reflect the event's cultural and historical importance. Meanwhile, the strong turnout of Millennials and Gen Z’s likely reflects the festival's appeal as a lively celebration centered around beer and socializing.In terms of income, the largest group of attendees (32%) fell into the $30k-$74k range, indicating a strong middle-income presence. A smaller segment (19%) earned under $30k, while the remaining attendees had incomes of $75k or higher, indicating a wide range of economic backgrounds among festival-goers.
+
+## How many attendees visited multiple days?
+
+According to Azira’s insights, the majority of attendees (70%) chose to experience the celebration in a single day. Saturdays and Sundays were the highest days for visitation, with the second weekend (September 28-29) and final weekend (October 5-6) drawing the largest crowds.
+
+![Image 67: octoberfest-2](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/683e2b2dbb8d2a252b034fcc_visitation-trend.webp)
+
+## What routes did attendees take to and from the festival grounds?
+
+Azira’s heat mapping capabilities identified the busiest routes to and from the festival grounds. The route to Munich Central Station showed significant foot traffic, indicating that many attendees relied on public transit to reach the festival. With this information, marketers can create highly targeted campaigns tailored to attendee movement patterns, allowing them to connect with their audience at the right place and with the right message.
+
+![Image 68: octoberfest-2](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/683e2b2dbb8d2a252b034fcf_unnamed-1.webp)
+
+## What attractions did attendees frequent most?
+
+With Azira’s heat map, marketers can also identify which attractions were the most or least frequented. From the map below, the areas in red indicate where attendees spent the most time. This year, [Schottenhamel Festhalle](https://www.oktoberfest.de/en/bierzelte/grosse-zelte/schottenhamel-festhalle), [Augustiner Festhalle](https://www.oktoberfest.de/en/beer-tents/big-tents/augustiner-festhalle), and [Festzelt Pschorr Braurosl](https://www.oktoberfest.de/bierzelte/grosse-zelte/pschorr-braeurosl) were some of the most frequented beer tents.
+
+![Image 69](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/683e2b2dbb8d2a252b034fd5_unnamed-1-1.webp)
+
+Analyzing major events like Oktoberfest can significantly improve targeted marketing strategies. With Azira’s insights, destinations, brands and agencies can gain a clear understanding of attendee demographics, travel behaviors, and movement patterns. This information allows marketers to design highly relevant campaigns that effectively engage specific audience segments, ensuring they reach their target audiences when it matters most.
+
+##### Learn more about how Azira’s consumer behavior insights can be used by marketing teams, media agencies, and research analysts [here](https://azira.com/industries/media).
+
+![Image 70: Veronica Puistonen](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/6920fa3b99fcfd6b13081968_1758679970473.jpeg)
+
+Veronica Puistonen
+
+Content Marketing Manager
+
+October 13, 2024
+
+Share:
+
+[![Image 71](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/6844af970fefebdd76a7bd3b_famicons_logo-linkedin.svg) share on linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fazira.com%2Fblogs%2Ftapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns)
+
+[Explore More](https://azira.com/resources)
+
+## Related posts
+
+Chip
+
+[![Image 72: Beyond the Terminal: How Azira’s Airport Insights Turn Traveler Behavior Into Smarter Digital Advertising](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/698c58d888ea9afe82424dc7_beyond-the-terminal-how-aziras-airport-insights-turn-traveler-behavior.webp) This is some text inside of a div block.](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+![Image 73: Beyond the Terminal: How Azira’s Airport Insights Turn Traveler Behavior Into Smarter Digital Advertising](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/698c58d888ea9afe82424dc7_beyond-the-terminal-how-aziras-airport-insights-turn-traveler-behavior.webp)
+
+This is some text inside of a div block.
+
+### Beyond the Terminal: How Azira’s Airport Insights Turn Traveler Behavior Into Smarter Digital Advertising
+
+[See More ![Image 74](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/68375a1f4b5d045ecec20c1e_Icon%20R%20(2).svg)![Image 75](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427cd6_Chevron%20(white).svg)![Image 76](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/68375a1f4b5d045ecec20c1e_Icon%20R%20(2).svg)](https://azira.com/blogs/beyond-the-terminal-how-aziras-airport-insights-turn-traveler-behavior-into-smarter-digital-advertising)
+
+Chip
+
+[![Image 77: Azira in Action: 6 Digital Ad Campaigns that Drove Real-World Visitation for Attractions, Cruises, and Airports](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/69806eb3908591cf3fab1fd5_azira-in-action-6-digital-ad-campaigns-that-drove-real-world-visitation.webp) This is some text inside of a div block.](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+![Image 78: Azira in Action: 6 Digital Ad Campaigns that Drove Real-World Visitation for Attractions, Cruises, and Airports](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/69806eb3908591cf3fab1fd5_azira-in-action-6-digital-ad-campaigns-that-drove-real-world-visitation.webp)
+
+This is some text inside of a div block.
+
+### Azira in Action: 6 Digital Ad Campaigns that Drove Real-World Visitation for Attractions, Cruises, and Airports
+
+[See More ![Image 79](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/68375a1f4b5d045ecec20c1e_Icon%20R%20(2).svg)![Image 80](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427cd6_Chevron%20(white).svg)![Image 81](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/68375a1f4b5d045ecec20c1e_Icon%20R%20(2).svg)](https://azira.com/blogs/azira-in-action-6-digital-ad-campaigns-that-drove-real-world-visitation-for-attractions-cruises-and-airports)
+
+Chip
+
+[![Image 82: Do Super Bowl Ads Drive Restaurant Visits? What Azira’s QSR Data Reveals](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/697850a92c42bf838913312d_do-super-bowl-ads-drive-restaurant-visits-what-aziras-qsr-data-reveals.webp) This is some text inside of a div block.](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+![Image 83: Do Super Bowl Ads Drive Restaurant Visits? What Azira’s QSR Data Reveals](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/697850a92c42bf838913312d_do-super-bowl-ads-drive-restaurant-visits-what-aziras-qsr-data-reveals.webp)
+
+This is some text inside of a div block.
+
+### Do Super Bowl Ads Drive Restaurant Visits? What Azira’s QSR Data Reveals
+
+[See More ![Image 84](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/68375a1f4b5d045ecec20c1e_Icon%20R%20(2).svg)![Image 85](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/681c03588e35f97c74427cd6_Chevron%20(white).svg)![Image 86](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/68375a1f4b5d045ecec20c1e_Icon%20R%20(2).svg)](https://azira.com/blogs/do-super-bowl-ads-drive-restaurant-visits-what-aziras-qsr-data-reveals)
+
+[The Azira logo, links to homepage](https://azira.com/)
+
+[LinkedIn ![Image 87](https://cdn.prod.website-files.com/681c03588e35f97c74427cad/6844bd614c1fd5848cf60852_brandl.svg)](https://www.linkedin.com/company/azira-llc/)
+
+Industries
+
+[Automotive](https://azira.com/industries/automotive)
+
+[Hospitality](https://azira.com/industries/hospitality)
+
+[Media](https://azira.com/industries/media)
+
+[Real Estate](https://azira.com/industries/real-estate)
+
+[Restaurants](https://azira.com/industries/restaurants)
+
+[Retail](https://azira.com/industries/retail)
+
+[Travel & Tourism](https://azira.com/industries/travel-tourism)
+
+No items found.
+
+Technology
+
+[Platform](https://azira.com/technology/platform)
+
+[Data](https://azira.com/technology/data)
+
+[Privacy](https://azira.com/technology/privacy)
+
+Resources
+
+[Resources](https://azira.com/resources)
+
+[Events & Webinars](https://azira.com/events)
+
+About
+
+[Company](https://azira.com/about)
+
+[Leadership](https://azira.com/about#leadership)
+
+[Newsroom](https://azira.com/newsroom)
+
+[Contact Us](https://azira.com/about#contact-us)
+
+[Careers](https://azira.com/about#careers)
+
+Associations
+
+*   ![Image 88: iab-memberseal](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/691ffdef870bbc8b6345af64_iab-memberseal-white-1.svg)
+*   ![Image 89: NAI-Logo](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/692000b9ceee3daaffdd626e_NAI-Logo.webp)
+*   [![Image 90: TRUSTe](https://hostedseal.trustarc.com/privacy-seal/seal?rid=79c90252-7a59-4f23-8681-9180af7a58de)](https://privacy.trustarc.com/privacy-seal/validation?rid=79c90252-7a59-4f23-8681-9180af7a58de)  
+
+Menu Item
+
+[Azira Measurement](https://azira.com/solutions/azira-measurement)
+
+[Azira Campaigns](https://azira.com/solutions/azira-campaigns)
+
+[Azira Audience](https://azira.com/solutions/azira-audience)
+
+[Azira Insights](https://azira.com/solutions/azira-insights)
+
+Menu Item
+
+[Hospitality](https://azira.com/industries/hospitality)
+
+[Automotive](https://azira.com/industries/automotive)
+
+[Travel & Tourism](https://azira.com/industries/travel-tourism)
+
+[Retail](https://azira.com/industries/retail)
+
+[Restaurants](https://azira.com/industries/restaurants)
+
+[Real Estate](https://azira.com/industries/real-estate)
+
+[Media](https://azira.com/industries/media)
+
+Title Item
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+Title Item
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+[Menu Item](https://azira.com/blogs/tapping-into-oktoberfest-using-attendee-insights-to-drive-impactful-marketing-campaigns#)
+
+Associations
+
+*   ![Image 91: iab-memberseal](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/691ffdef870bbc8b6345af64_iab-memberseal-white-1.svg)
+*   ![Image 92: NAI-Logo](https://cdn.prod.website-files.com/681c03588e35f97c74427c1f/692000b9ceee3daaffdd626e_NAI-Logo.webp)
+*   [![Image 93: TRUSTe](https://hostedseal.trustarc.com/privacy-seal/seal?rid=79c90252-7a59-4f23-8681-9180af7a58de)](https://privacy.trustarc.com/privacy-seal/validation?rid=79c90252-7a59-4f23-8681-9180af7a58de)  
+
+© Azira LLC 2025
+
+[Privacy Policy](https://azira.com/privacy-policy)
+
+[Brand Safety](https://azira.com/brand-safety)
+
+[Data Rights Request Form](https://submit-irm.trustarc.com/services/validation/0a80503b-1d56-4d50-a898-4377a0227dab)
+
+[Limit the Use of My Sensitive Personal Information](https://submit-irm.trustarc.com/services/validation/0a80503b-1d56-4d50-a898-4377a0227dab)
+
+[Terms & Conditions](https://azira.com/terms)

@@ -1,0 +1,52 @@
+Title: FactOrFake - AI Fact Checker
+
+URL Source: https://checkthisfact.com/
+
+Markdown Content:
+👋 Hi! I'm a donation based AI fact-checker. Ask me to verify any claim, statement, or news you've heard!
+
+Try: "Did X say..." or "Is it true that..."
+
+## How We Work
+
+### Built by Brothers, Powered by Community
+
+Two brothers built this fact-checking tool for friends and family. What started as a simple project to help our loved ones navigate misinformation has grown into something we're excited to share with everyone. 
+
+ This tool is **100% donation-based** and we rely entirely on users like you to keep it available.
+
+**Just $1 powers ~30 fact-checks.** If this helped you, help us keep the truth accessible for everyone. 🙏
+
+## How We Fact-Check
+
+### Government Sources First
+
+We prioritize official .gov websites, government agencies, and regulatory bodies for the most authoritative information.
+
+### Academic & Research Institutions
+
+We search .edu domains, research papers, and academic institutions for peer-reviewed and scholarly sources.
+
+### Reputable News & Organizations
+
+We cross-reference established news outlets, fact-checking organizations, and official institutional websites.
+
+### Smart Source Filtering
+
+Our AI automatically filters out social media, unreliable sources, and prioritizes credible, authoritative information.
+
+### Multi-Source Verification
+
+Every fact-check uses multiple independent sources to ensure accuracy and provide comprehensive verification.
+
+### Real-Time Search
+
+We perform live searches across the web to find the most current and relevant information for each query.
+
+### Multi-Language Search
+
+We search in multiple languages to gather international perspectives, ensuring a more comprehensive and globally-informed fact-check.
+
+### Fight Misinformation
+
+In today's information landscape, it's crucial to verify what you hear before sharing. Our AI helps you distinguish reliable information from misinformation, rumors, and fake news by searching only the most credible sources.

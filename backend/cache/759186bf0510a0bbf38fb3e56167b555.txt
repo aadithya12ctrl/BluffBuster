@@ -1,0 +1,261 @@
+Title: Event Management Platform & Event App | Agorify
+
+URL Source: https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips
+
+Published Time: 2022-07-08
+
+Markdown Content:
+# How to Increase Event Attendance: 6 Expert Tips
+
+![Image 8: logo](blob:http://localhost/4eb6460ab93a7ae1978320dda45af1eb)
+
+[](https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2)
+
+*   [Consent](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)
+*   [Details](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)
+*   [[#IABV2SETTINGS#]](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)
+*   [About](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)
+
+This website uses cookies
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. 
+
+[#GPC_BANNER_ICON#]
+
+[#GPC_TOAST_TEXT#]
+
+Consent Selection
+
+**Necessary** 
+
+- [x] 
+
+**Preferences** 
+
+- [x] 
+
+**Statistics** 
+
+- [x] 
+
+**Marketing** 
+
+- [x] 
+
+[Show details](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)
+
+Details
+
+*   
+Necessary 15- [x]    Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. 
+
+    *   [Cookiebot 1](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)[Learn more about this provider![Image 9: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.cookiebot.com/goto/privacy-policy/ "Learn more about this provider Cookiebot's privacy policy - opens in a new window")**CookieConsent**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [Google 6](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)[Learn more about this provider![Image 10: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+**test_cookie**Used to check if the user's browser supports cookies.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **_GRECAPTCHA**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **rc::a**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **rc::b**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: Session**Type**: HTML Local Storage  **rc::c**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: Session**Type**: HTML Local Storage  **rc::f**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [HubSpot 5](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)[Learn more about this provider![Image 11: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "Learn more about this provider HubSpot's privacy policy - opens in a new window")**cookietest**This cookie is used to determine if the visitor has accepted the cookie consent box.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **_cfuvid[x2]**This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__cf_bm[x2]**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [LinkedIn 2](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)[Learn more about this provider![Image 12: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**bcookie**Used in order to detect spam and improve the website's security. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **li_gc**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+    *   [agorify.com 1](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)**firebase-heartbeat-database#firebase-heartbeat-store**Used in order to detect spam and improve the website's security. **Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+
+*   
+Preferences 3- [x]    Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in. 
+
+    *   [HubSpot 1](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)[Learn more about this provider![Image 13: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "Learn more about this provider HubSpot's privacy policy - opens in a new window")**messagesUtk**Stores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter. **Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+    *   [LinkedIn 1](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)[Learn more about this provider![Image 14: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**lidc**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [agorify.com 1](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)**firebaseLocalStorageDb#firebaseLocalStorage**Facilitates the notification function within the chatbox, allowing the website’s support team to notify the user, when a reply has been given in the chatbox.**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+
+*   
+Statistics 4- [x]    Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously. 
+
+    *   [HubSpot 4](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)[Learn more about this provider![Image 15: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "Learn more about this provider HubSpot's privacy policy - opens in a new window")**__hssc**Identifies if the cookie data needs to be updated in the visitor's browser.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **__hssrc**Used to recognise the visitor's browser upon reentry on the website.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__hstc**Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **hubspotutk**Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+
+*   
+Marketing 30- [x]    Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. 
+
+    *   [Meta Platforms, Inc.3](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)[Learn more about this provider![Image 16: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.facebook.com/policy.php/ "Learn more about this provider  Meta Platforms, Inc.'s privacy policy - opens in a new window")**_fbp**Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.**Maximum Storage Duration**: 3 months**Type**: HTTP Cookie  **lastExternalReferrer**Detects how the user reached the website by registering their last URL-address.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **lastExternalReferrerTime**Detects how the user reached the website by registering their last URL-address.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Google 5](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)[Learn more about this provider![Image 17: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+**_ga**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie  **_ga_#**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie  **_gcl_au**Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. **Maximum Storage Duration**: 3 months**Type**: HTTP Cookie  **pagead/1p-user-list/#**Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.**Maximum Storage Duration**: Session**Type**: Pixel Tracker  **_gcl_ls**Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [HubSpot 3](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)[Learn more about this provider![Image 18: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "Learn more about this provider HubSpot's privacy policy - opens in a new window")**__ptq.gif**Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: Session**Type**: Pixel Tracker  **__hmpl**Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **HUBLYTICS_EVENTS_53**Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [YouTube 19](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)[Learn more about this provider![Image 19: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider YouTube's privacy policy - opens in a new window")**__Secure-ROLLOUT_TOKEN**Pending**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **__Secure-YEC**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__Secure-YNID**Pending**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **LAST_RESULT_ENTRY_KEY**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **LogsDatabaseV2:V#||LogsRequestsStore**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **remote_sid**Necessary for the implementation and functionality of YouTube video-content on the website. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **ServiceWorkerLogsDatabase#SWHealthLog**Necessary for the implementation and functionality of YouTube video-content on the website. **Maximum Storage Duration**: Persistent**Type**: IndexedDB  **TESTCOOKIESENABLED**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **VISITOR_INFO1_LIVE**Tries to estimate the users' bandwidth on pages with integrated YouTube videos.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **YSC**Registers a unique ID to keep statistics of what videos from YouTube the user has seen.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **yt-icons-last-purged**Necessary for the implementation and functionality of YouTube video-content on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **YtIdbMeta#databases**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **yt-remote-cast-available**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **yt-remote-cast-installed**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **yt-remote-connected-devices**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **yt-remote-device-id**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **yt-remote-fast-check-period**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **yt-remote-session-app**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **yt-remote-session-name**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+
+*   Other 1 Other cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.  
+
+    *   [agorify.com 1](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#)**hs-cta-interactions#cta**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+
+[Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]](https://agorify.com/blog/how-to-increase-event-attendance-6-expert-tips#) [#BULK_CONSENT_TITLE#]
+
+List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]
+
+Cookie declaration last updated on 3/16/26 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot")
+
+[#IABV2_TITLE#]
+
+[#IABV2_BODY_INTRO#]
+
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+
+[#IABV2_BODY_PREFERENCE_INTRO#]
+
+[#IABV2_LABEL_PURPOSES#]
+
+[#IABV2_BODY_PURPOSES_INTRO#]
+
+[#IABV2_BODY_PURPOSES#]
+
+[#IABV2_LABEL_FEATURES#]
+
+[#IABV2_BODY_FEATURES_INTRO#]
+
+[#IABV2_BODY_FEATURES#]
+
+[#IABV2_LABEL_PARTNERS#]
+
+[#IABV2_BODY_PARTNERS_INTRO#]
+
+[#IABV2_BODY_PARTNERS#]
+
+About
+
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+
+Learn more about who we are, how you can contact us and how we process personal data in our [Privacy Notice](https://agorify.com/privacy-notice).
+
+Please state your consent ID and date when you contact us regarding your consent.
+
+- [x] 
+
+**Do not sell or share my personal information** 
+
+Deny Allow selection Customize Allow all
+
+# Event Management Platform & Event App | Agorify
+
+[Agorify![Image 20: Agorify](https://agorify.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fagorify--logo-hq.edf56777.png&w=384&q=75)](https://agorify.com/)
+
+Open main menu
+
+Platform
+
+[Pricing](https://agorify.com/pricing)
+
+Resources
+
+[Contact sales](https://agorify.com/contact)[Get Started](https://admin.agorify.com/register)[Log in →](https://admin.agorify.com/login)
+
+# Tips How to Increase Event Attendance: 6 Expert Tips July 8, 2022
+
+![Image 21: Photo of attendees listening to a speaker](https://agorify.com/static/images/onsite-speaker-crowd.jpg)
+You are struggling to get more attendees for your next event? Well, you are not alone. The truth is that increasing event attendance continues to be an issue for many event organizers.
+
+Knowing the struggles that event organizers face in terms of how to increase event attendance, we've decided to list a few great strategies that can help you to boost your event attendance.
+
+Let's give it a read!
+
+## Create a great event site
+
+![Image 22: Photo of a Mac on a table](https://agorify.com/static/images/mac-on-table-1.jpg)
+Creating a great event site is vital to increasing event registrations. It should not only contain all the information that attendees need to attend the event, but it should also be exciting to visitors.
+
+One-page websites are ideal for this because they are simple to manage and contain key event information. Additionally, one-page websites are optimized for mobile devices. You should also create a simple information architecture and layout, including a navigation menu, search features, CTAs, images, and videos. Your audience will be more engaged when they're able to share and discuss the event's content with others.
+
+Another thing you should do to increase the event attendance is to link your social media accounts to your event website and post details on upcoming events and registration forms. This will encourage more people to register and get more information about your organization.
+
+## Use social media to increase event attendance
+
+![Image 23: Photo of mobile phone](https://agorify.com/static/images/phone-2.jpg)
+One of the most inexpensive forms of advertising is social media. You can use social media channels to create a buzz around your events even on an international level. To do this you should first create a social media marketing strategy to announce your event and strategically publish updates that include promotional messaging.
+
+You'll want to plan each month's content in advance to capitalize on the buzz-worthy moments. Early-bird discounts should be promoted months before the event starts, to create a urgency to purchase tickets before they will increase.
+
+After the event, engage with your attendees through social media. You can capture their interest in your content and even make them your fans. These fans may be the ones to become future sponsors or community leaders.
+
+Don't forget to create social media posts for each speaker that will present at your event. Sometimes people would attend your event just because they are curious to see in-person their favorite speaker! Oh, and make sure to tag the speakers! It should add extra organic reach.
+
+If you decide to run paid ads - then Facebook, Linkedin, and Twitter ads are the way to go. However, this doesn't mean that you should run ads on all three platforms. The important thing here is to know your target audience and which platform they are using the most.
+
+To do this, you should first analyze the attendees' data of your previous events, create an attendee persona, choose the right social media platform and optimize your ads accordingly.
+
+You can find more event marketing tips [here.](https://agorify.com/blog/top-11-event-marketing-tips-every-event-pro-should-know)
+
+## Offer early registration discounts
+
+![Image 24: Photo of a man holdinga a credit card](https://agorify.com/static/images/credit-card-pc-3.jpg)
+As already mentioned, using early bird registration to increase event attendance is a smart way to build a buzz around an event and create a sense of urgency to buy. By offering a discounted price to those who buy early, you encourage attendees to register early. You can promote early registration discounts both via social media, PPC (pay-per-click marketing), and email marketing.
+
+Offer early-bird discounts to members, subscribers, and repeat attendees. Limit the early bird registration period to one week or the first fifty registrants. If the early bird registration period is over, revamp your promotional copy and add more incentives for registrants to sign up early. If the discounts are only available for a limited time, this can make a big difference in event attendance.
+
+## Offer a discount code
+
+![Image 25: Photo of laptop with the text join us](https://agorify.com/static/images/join-us-pc-4.jpg)
+A discount code can help attendees save money on tickets which might inspire many of them to buy the event ticket. Make sure that the discount code has a clear call to action. Don't forget to include sharing functionality on social media channels.
+
+One more thing - offer a VIP package. Having a VIP package will make an event seem more valuable to attendees who are keener to receive VIP access to your event. At the same time, cheaper registrations will look like better deals for other attendees.
+
+### Use contests to boost your event attendance
+
+![Image 26: Photo of a hand resting on a Mac](https://agorify.com/static/images/hand-on-mac-5.jpg)
+Before your event, consider launching a pre-event contest that enables attendees to connect with each other. A contest with an exclusive prize will not only help you generate buzz and get more attendees, but it will also boost engagement and word-of-mouth promotions for your event. To maximize the potential of your contest, promote it on multiple social media channels, and use the hashtag of the event to increase your competition's exposure.
+
+You can also use a contest to identify which audience members are most interested in your event. When choosing a contest prize, make sure to include an opt-in for lead generation. [Email](https://contactout.com/blog/canada-email-leads-list-building-tools/) is one of the most powerful drivers of digital marketing conversions, so it makes sense to use email to leverage your list of hot leads.
+
+Creating a giveaway or promotion with an exclusive discount code for potential attendees is an excellent way to attract traffic and spark interest in an event. You can also partner with a vendor to offer promo codes for attendees. Make sure to keep the contest simple and easy to remember!
+
+### Create a great event experience
+
+![Image 27: Photo of attendees listening to a speaker](https://agorify.com/static/images/close-up-speaker-stage.jpg)
+Last, but not least! Remember, you need to make sure that the people who attend your event are captivated by its content and experience. By creating a memorable event, attendees will remember it and return to it again.
+
+If you have a large number of past attendees, you can analyze their data to determine what components and sessions are most popular. By using reporting features, track registration numbers, and other metrics, you can identify where you are falling short.
+
+Finally, keep in mind that the purpose of events is to promote education and networking. In order to maximize these benefits, your event must be executed properly. If you achieve this, your audience will be satisfied with the event and return again next time.
+
+In addition, you can use a True Hybrid event platform and mobile event app such as [Agorify](https://agorify.com/) to enhance your event networking features, extend its lifecycle and deliver more value to your attendees.
+
+### To Wrap Up
+
+Increasing the event attendance has always been a struggle for event organizers. However, it is still not mission impossible. The idea is to improve your marketing strategy, offer them value and deliver them more than they expected. This will ultimately will make them come back to your events again and even recommend them to other people.
+
+It is also important to analyze your data from your previous events and to see where you lack improvement the most. Remember, there is always space for improvement!
+
+Oh, and of course, having a True Hybrid Event management platform and mobile event app such as ours can definitely take your events to a whole new level. To learn more about how it works, talk to our event experts.
+
+![Image 28](https://agorify.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fagorify--logo-hq.edf56777.png&w=1080&q=75)
+
+[Get Started](https://admin.agorify.com/register)[Log in →](https://admin.agorify.com/login)
+
+[Facebook](https://www.facebook.com/agorify/)[Instagram](https://www.instagram.com/agorifyhq/)[X](https://twitter.com/agorifyab)[LinkedIn](https://www.linkedin.com/company/agorify/)[YouTube](https://www.youtube.com/@agorify)
+
+### Platform
+
+*   [Onsite badge printing](https://agorify.com/check-in-badge-printing)
+*   [Lead retrieval](https://agorify.com/lead-retrieval)
+*   [Meeting scheduler](https://agorify.com/meeting-scheduler)
+*   [Registration & ticketing](https://agorify.com/sell-tickets)
+
+### Free Tools
+
+*   [Event app](https://agorify.com/event-app)
+*   [Badge Creator](https://agorify.com/event-badges)
+*   [Agenda Builder](https://agorify.com/agenda-builder)
+
+### Resources
+
+*   [Pricing](https://agorify.com/pricing)
+*   [Help center](https://agorify.zendesk.com/hc/en-us)
+*   [Case study](https://agorify.com/case-study)
+*   [Webinars](https://agorify.com/webinars)
+
+### Company
+
+*   [About](https://agorify.com/about)
+*   [Blog](https://agorify.com/blog)
+*   [Privacy](https://agorify.com/privacy-notice)
+
+© 2024 Agorify AB. All rights reserved.

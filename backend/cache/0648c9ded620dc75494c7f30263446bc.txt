@@ -1,0 +1,1431 @@
+Title: February 12, 2026 - 10-Q: Quarterly report [Sections 13 or 15(d)] | Grace Therapeutics, Inc. (GRCE)
+
+URL Source: https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm
+
+Markdown Content:
+* * *
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+* * *
+
+(Mark One)
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended December 31, 2025
+
+or
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from to
+
+Commission file number: 001-35776
+
+* * *
+
+Grace Therapeutics, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+State of Delaware 98-1359336
+(State or other jurisdiction of incorporation or organization)(I.R.S. Employer Identification Number)
+
+103 Carnegie Center Suite 300
+
+Princeton, New Jersey 08540
+
+(Address of principal executive offices, including zip code)
+
+609-322-1602
+
+(Registrant’s telephone number, including area code)
+
+* * *
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s)Name of each exchange on which
+
+registered
+Common Stock, par value $0.0001 per share GRCE Nasdaq
+Stock Market
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer☐Accelerated filer☐
+Non-accelerated filer☒Smaller reporting company☒
+Emerging growth company☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+The number of outstanding shares of common stock of the registrant, par value per share of $0.0001, as of February 12, 2026, was 15,474,026.
+
+* * *
+
+GRACE THERAPEUTICS, INC.
+
+QUARTERLY REPORT ON FORM 10-Q
+
+For the Quarter Ended December 31, 2025
+
+Table of Contents
+Page
+PART I. FINANCIAL INFORMATION
+
+Item 1.[Financial Statements](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Financial_Information)5
+
+Item 2.[Management’s Discussion and Analysis of Financial Condition and Results of Operations](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Managements_Discussion_and_Analysis_of_Financial_Condition_and_Results_of_Operations)21
+
+Item 3.[Quantitative and Qualitative Disclosures About Market Risk](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Quantitative_and_Qualitative_Disclosures_About_Market_Risk)37
+
+Item 4.[Controls and Procedures](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Controls_and_Procedures)37
+
+PART II. OTHER INFORMATION
+
+Item 1.[Legal Proceedings](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Legal_Proceedings)37
+
+Item 1A.[Risk Factors](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Risk_Factors)38
+
+Item 2.[Unregistered Sales of Equity Securities and Use of Proceeds](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Unregistered_Sales_of_Equity_Securities_and_Use_of_Proceeds)38
+
+Item 3.[Defaults Upon Senior Securities](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Defaults_upon_Senior_Securities)38
+
+Item 4.[Mine Safety Disclosures](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Mine_Safety_Disclosures)38
+
+Item 5.[Other Information](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Other_Information)38
+
+Item 6.[Exhibits](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Exhibits)38
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This quarterly report contains information that may be forward-looking statements within the meaning of U.S. federal securities laws and forward-looking information within the meaning of Canadian securities laws, both of which we refer to in this quarterly report as forward-looking information. Forward-looking statements can be identified by the use of terms such as “may,” “will,” “should,” “expect,” “plan,” “anticipate,” “believe,” “intend,” “estimate,” “predict,” “potential,” “continue” or other similar expressions concerning matters that are not statements about historical facts. Forward-looking statements in this quarterly report include, among other things, information, or statements about:
+
+●
+
+our ability to build a late-stage pharmaceutical company focused in rare and orphan diseases and on developing and commercializing products that improve clinical outcomes using our novel drug delivery technologies;
+
+●
+
+our ability to apply new proprietary formulations to existing pharmaceutical compounds to achieve enhanced efficacy, faster onset of action, reduced side effects, and more convenient drug delivery that can result in increased patient compliance;
+
+●
+
+the potential for our drug candidates to receive orphan drug designation and exclusivity from the U.S. Food and Drug Administration (“FDA”) or regulatory approval under the Section 505(b)(2) regulatory pathway under the Federal Food, Drug and Cosmetic Act (“FDCA”);
+
+●
+
+the future prospects of our GTx-104 drug candidate, including but not limited to GTx-104’s potential to be administered to improve the management of hypotension in patients with aneurysmal subarachnoid hemorrhage (“aSAH”); the ability of GTx-104 to achieve a pharmacokinetic (“PK”) and safety profile similar to the oral form of nimodipine; GTx-104’s potential to provide improved bioavailability; GTx-104’s potential to achieve pharmacoeconomic benefit over the oral form of nimodipine; and the timing and ability to receive FDA approval for marketing GTx-104;
+
+●
+
+our plan to prioritize the development of GTx-104;
+
+2
+
+●
+
+our plan to maximize the value of our de-prioritized drug candidates, GTx-102 and GTx-101, including through potential development, licensing, or sale of those drug candidates;
+
+●
+
+the future prospects of our GTx-102 drug candidate, including but not limited to GTx-102’s potential to provide clinical benefits to decrease symptoms associated with Ataxia Telangiectasia; GTx-102’s potential ease of drug administration; the timing and outcomes of a Phase 3 efficacy and safety study for GTx-102; the timing of a new drug application ("NDA") filing for GTx-102 under Section 505(b)(2) of the FDCA; and the timing and ability to receive FDA approval for marketing GTx-102;
+
+●
+
+the future prospects of our GTx-101 drug candidate, including but not limited to GTx-101’s potential to be administered to postherpetic neuralgia (“PHN”) patients to treat the severe nerve pain associated with the disease; assumptions about the biphasic delivery mechanism of GTx-101, including its potential for rapid onset and continuous pain relief for up to eight hours; and the timing and outcomes of single ascending dose/multiple ascending dose and PK bridging studies, and a Phase 2 and Phase 3 efficacy and safety study; the timing of an NDA filing for GTx-101 under Section 505 (b)(2) of the FDCA; and the timing and ability to receive FDA approval for marketing GTx-101;
+
+●
+
+the quality of our clinical data, the cost and size of our development programs, expectations and forecasts related to our target markets and the size of our target markets; the cost and size of our commercial infrastructure and manufacturing needs in the United States, European Union, and the rest of the world; and our expected use of a range of third-party contract research organizations (“CROs”) and contract manufacturing organizations (“CMOs”) at multiple locations;
+
+●
+
+expectations and forecasts related to our intellectual property portfolio, including but not limited to the probability of receiving orphan drug exclusivity from the FDA for our leading pipeline drug candidates; our patent portfolio strategy; and outcomes of our patent filings and extent of patent protection;
+
+●
+
+our strategy, future operations, prospects, and the plans of our management with a goal to enhance shareholder value;
+
+●
+
+our need for additional financing, and our estimates regarding our operating runway and timing for future financing and capital requirements;
+
+●
+
+our expectations regarding our financial performance, including our costs and expenses, liquidity, and capital resources;
+
+●
+
+our projected capital requirements to fund our anticipated expenses; and
+
+●
+
+our ability to commercialize GTx-104 in the United States or establish strategic partnerships or commercial collaborations or obtain non-dilutive funding.
+
+Although the forward-looking statements in this quarterly report are based upon what we believe are reasonable assumptions, you should not place undue reliance on those forward-looking statements since actual results may vary materially from them.
+
+In addition, the forward-looking statements in this quarterly report are subject to a number of known and unknown risks, uncertainties and other factors, many of which are beyond our control, that could cause our actual results and developments to differ materially from those that are disclosed in or implied by the forward-looking statements, including, among others:
+
+●
+
+We are heavily dependent on the success of our lead drug candidate, GTx-104.
+
+3
+
+●
+
+Clinical development is a lengthy and expensive process with an uncertain outcome, and results of earlier studies and trials may not be predictive of future trial results. Failure can occur at any stage of clinical development.
+
+●
+
+We are subject to uncertainty relating to healthcare reform measures and reimbursement policies that, if not favorable to our drug candidates, could hinder or prevent our drug candidates’ commercial success.
+
+●
+
+If we are unable to establish sales and marketing capabilities or enter into agreements with third parties to market and sell our drug products, if approved, we may be unable to generate any revenue.
+
+●
+
+If we are unable to differentiate our drug products from branded reference drugs or existing generic therapies for similar treatments, or if the FDA or other applicable regulatory authorities approve products that compete with any of our drug products, our ability to successfully commercialize our drug products would be adversely affected.
+
+●
+
+Our success depends in part upon our ability to protect our intellectual property for our drug candidates.
+
+●
+
+Intellectual property rights do not necessarily address all potential threats to our competitive advantage.
+
+●
+
+We do not have internal manufacturing capabilities, and if we fail to develop and maintain supply relationships with various third-party manufacturers, or if such third parties fail to provide us with sufficient quantities of active pharmaceutical ingredients, excipients, or drug products, or fail to do so at acceptable quality levels or prices or fail to maintain or achieve satisfactory regulatory compliance, we may be unable to develop or commercialize our drug candidates.
+
+●
+
+Our contract manufacturers may encounter difficulties involving, among other things, production yields, regulatory compliance, quality control and quality assurance, as well as shortages of qualified personnel. Approval of our drug candidates could be delayed, limited, or denied if the FDA does not approve and maintain the approval of our contract manufacturer’s processes or facilities.
+
+●
+
+The design, development, manufacture, supply, and distribution of our drug candidates are highly regulated and technically complex.
+
+●
+
+The other risks and uncertainties identified in Item 1A. Risk Factors and Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for the year ended March 31, 2025.
+
+All of the forward-looking statements in this quarterly report are qualified by this cautionary statement. There can be no guarantee that the results or developments that we anticipate will be realized or, even if substantially realized, that they will have the consequences or effects on our business, financial condition, or results of operations that we anticipate. As a result, you should not place undue reliance on forward-looking statements. Except as required by applicable law, we do not undertake to update or amend any forward-looking statements, whether as a result of new information, future events or otherwise. All forward-looking statements are made as of the date of this quarterly report.
+
+We express all amounts in this quarterly report in thousands of U.S. dollars, except share and per share amounts or otherwise indicated. References to “$” are to U.S. dollars and references to “CAD$” are to Canadian dollars.
+
+Except as otherwise indicated, references in this quarterly report to “Grace,” “Grace Therapeutics,” “Acasti,” “the Company,” “we,” “us,” and “our” refer to Grace Therapeutics, Inc. (formerly known as Acasti Pharma Inc.) and its consolidated subsidiary.
+
+4
+
+PART I. FINANCIAL INFORMATION
+
+Item 1.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Financial Information")Financial Statements
+
+Unaudited Condensed Consolidated Financial Statements
+
+[Condensed Consolidated Balance Sheets](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Balance_Sheets)6
+
+[Condensed Consolidated Statements of Loss and Comprehensive Loss](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Comprehensive_Loss)7
+
+[Condensed Consolidated Statements of Stockholders’ Equity](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Stockholders_Equity)8
+
+[Condensed Consolidated Statements of Cash Flows](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Cash_Flows)9
+
+[Notes to the Unaudited Condensed Consolidated Financial Statements](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm#Notes)10
+
+5
+
+GRACE THERAPEUTICS, INC.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Balance Sheets")Condensed Consolidated Balance Sheets
+
+(Unaudited)
+
+December 31, 2025 March 31, 2025
+(Expressed in thousands except share data)$$
+Assets
+Current assets:
+Cash and cash equivalents 18,672 22,133
+Receivables 20 126
+Prepaid expenses 519 453
+Total current assets 19,211 22,712
+Equipment, net 11 15
+Intangible assets 41,128 41,128
+Goodwill 8,138 8,138
+Total assets 68,488 71,993
+
+Liabilities and Stockholders’ equity
+Current liabilities:
+Trade and other payables 1,284 1,930
+Total current liabilities 1,284 1,930
+
+Derivative warrant liabilities-1,141
+Deferred tax liability 2,312 2,312
+Total liabilities 3,596 5,383
+
+Commitments and contingencies (Note 10)
+
+Stockholders’ equity:
+Preferred stock, $
+
+0.0001
+par value per share;
+
+10,000,000
+authorized;
+
+none
+issued and outstanding as of December 31, 2025 and March 31, 2025——
+Common stock, $
+
+0.0001
+par value per share;
+
+100,000,000
+authorized;
+
+15,474,026
+and
+
+13,718,106
+shares issued and outstanding as of December 31, 2025 and March 31, 2025, respectively 1 1
+Additional paid-in capital 298,231 293,334
+Accumulated other comprehensive loss(6,038)(6,038)
+Accumulated deficit(227,302)(220,687)
+Total stockholders' equity 64,892 66,610
+Total liabilities and stockholders’ equity 68,488 71,993
+
+See accompanying notes to unaudited condensed consolidated financial statements.
+
+6
+
+GRACE THERAPEUTICS, INC.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Comprehensive Loss")Condensed Consolidated Statements of Loss and Comprehensive Loss
+
+(Unaudited)
+
+Three months ended Nine months ended
+December 31, 
+
+ 2025 December 31, 
+
+ 2024 December 31, 
+
+ 2025 December 31, 
+
+ 2024
+(Expressed in thousands, except share and per share data)
+$$$$
+
+Operating expenses
+Research and development expenses, net of government assistance(462)(2,194)(1,985)(7,877)
+General and administrative expenses(1,987)(1,510)(6,082)(5,619)
+Loss from operating activities(2,449)(3,704)(8,067)(13,496)
+
+Foreign exchange gain(loss)4(16)5(11)
+Change in fair value of derivative warrant liabilities(40)(1,178)900 578
+Interest and other income, net 170 138 547 544
+Total other income (loss), net 134(1,056)1,452 1,111
+Loss before income tax recovery(2,315)(4,760)(6,615)(12,385)
+
+Income tax benefit—605—2,181
+
+Net loss and total comprehensive loss(2,315)(4,155)(6,615)(10,204)
+
+Basic and diluted loss per share(0.14)(0.36)(0.41)(0.89)
+
+Weighted-average number of shares outstanding 16,933,620 11,506,234 16,262,111 11,506,234
+
+See accompanying notes to unaudited condensed consolidated financial statements.
+
+7
+
+GRACE THERAPEUTICS, INC.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Stockholders’ Equity")Condensed Consolidated Statements of Stockholders’ Equity
+
+(Unaudited)
+
+Common stock
+(Expressed in thousands, except share and per share data)Number Amount Additional
+
+paid-in
+
+capital Accumulated
+
+other
+
+comprehensive
+
+loss Accumulated
+
+deficit Total
+
+stockholders'
+
+equity
+$$$$$
+Balance, March 31, 2025 13,718,106 1 293,334(6,038)(220,687)66,610
+Issuance of common stock upon cashless exercise of pre-funded warrants 110,456—————
+Net loss————(3,362)(3,362)
+Stock-based compensation——302——302
+Balance at June 30, 2025 13,828,562 1 293,636(6,038)(224,049)63,550
+Issuance of common shares in connection with exercise of pre-funded warrants 300,000—————
+Net loss(938)(938)
+Stock-based compensation 206 206
+Balance at September 30, 2025 14,128,562 1 293,842(6,038)(224,987)62,818
+Net loss(2,315)(2,315)
+Stock-based compensation 108 108
+Issuance of common shares in connection with exercise of common warrants 1,345,464—4,281——4,281
+Balance at December 31, 2025 15,474,026 1 298,231(6,038)(227,302)64,892
+
+Common stock
+(Expressed in thousands, except share and per share data)Number Amount Additional
+
+paid-in
+
+capital Accumulated
+
+other
+
+comprehensive
+
+loss Accumulated deficit Total
+
+stockholders'
+
+equity
+$$$$$
+Balance, March 31, 2024 9,399,404 1 278,899(6,038)(211,119)61,743
+Issuance of common stock upon cashless exercise of pre-funded warrants 740,457—————
+Net loss————(2,617)(2,617)
+Stock-based compensation——238——238
+Balance at June 30, 2024 10,139,861 1 279,137(6,038)(213,736)59,364
+Net loss(3,432)(3,432)
+Stock-based compensation 202 202
+Balance at September 30, 2024 10,139,861 1 279,339(6,038)(217,168)56,134
+Net loss————(4,155)(4,155)
+Stock-based compensation——160——160
+Balance at December 31, 2024 10,139,861 1 279,499(6,038)(221,323)52,139
+
+See accompanying notes to unaudited condensed consolidated financial statements.
+
+8
+
+GRACE THERAPEUTICS, INC.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Cash Flows")Condensed Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+Nine months ended
+December 31, 2025 December 31, 2024
+(Expressed in thousands)$$
+Cash flows from operating activities:
+Net loss(6,615)(10,204)
+Adjustments:
+Depreciation expense 5 5
+Stock-based compensation 616 600
+Change in fair value of derivative warrant liabilities(900)(578)
+Deferred income tax benefit—(2,181)
+Changes in operating assets and liabilities:
+Receivables 106 421
+Prepaid expenses(66)(300)
+Trade and other payables(320)287
+Net cash used in operating activities(7,174)(11,950)
+
+Cash flows from investing activities:
+Maturity of short-term investments—15
+Purchase of short-term investments—(15)
+Net cash used in investing activities——
+
+Cash flows from financing activities:
+Proceeds from issuance of common stock from common warrant exercises 4,040—
+Payment of stock issuance costs(327)—
+Net cash provided by financing activities 3,713—
+
+Net decrease in cash and cash equivalents(3,461)(11,950)
+
+Cash and cash equivalents, beginning of period 22,133 23,005
+Cash and cash equivalents, end of period 18,672 11,055
+
+Cash and cash equivalents are comprised of:
+Cash 1,187 836
+Cash equivalents 17,485 10,219
+**Supplemental schedule of non-cash financing activities are comprised of:**
+Settlement of derivative warrant liability 241—
+
+See accompanying notes to unaudited condensed consolidated financial statements.
+
+9
+
+GRACE THERAPEUTICS, INC.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Notes")Notes to Condensed Consolidated Financial Statements
+
+(Unaudited)
+
+(Expressed in thousands except share and per share data)
+
+1. Nature of operations
+
+General
+
+Grace Therapeutics, Inc. (formerly known as Acasti Pharma Inc.) (“Acasti Delaware” or “the Company”), is a Delaware corporation that, as further described below, previously existed under the laws of the Province of Québec, Canada (“Acasti Québec”), before changing its jurisdiction on October 1, 2024 (the “Continuance”) to the Province of British Columbia, Canada (“Acasti British Columbia”). On October 7, 2024, Acasti British Columbia changed its jurisdiction to the State of Delaware in the United States of America (the “Domestication”). Effective October 28, 2024, the Company changed its corporate name to Grace Therapeutics, Inc.
+
+Liquidity and Financial Condition
+
+The Company has incurred operating losses and negative cash flows from operations in each period since its inception. The Company expects to incur significant expenses and continued operating losses for the foreseeable future.
+
+10
+
+In May 2023, the Company implemented a strategic realignment plan to enhance shareholder value that resulted in the Company engaging a new management team, streamlining its research and development activities, and greatly reducing its workforce. Following the realignment, the Company is a smaller, more focused organization, based in the United States, and concentrated on its development of its lead product candidate GTx-104. Further development of GTx-102 and GTx-101 will occur at such a time when the Company is able to secure additional funding or enters into strategic partnerships for license or sale with third parties.
+
+In February 2025, the Company completed a private placement of the Company securities with certain institutional and accredited investors. Net proceeds to the Company were $13,705. Refer to Note 5, Stockholder’s Equity - 2025 Private Placement, for additional information.
+
+In October 2025, the Company received $4,040 in gross proceeds from exercises of 1,345,464 common warrants that were previously issued in a private placement in September 2023 for 1,345,464 shares of Common Stock. The remaining 1,190,927 common warrants issued in the 2023 private placement have expired in accordance with the terms of the common warrants as the 60th day after the FDA’s acceptance for review of the Company’s NDA for GTx-104 has passed.
+
+The Company plans to use its cash and cash equivalents to further the regulatory review process for GTx-104, pre-commercial planning, commercial team buildout, and product launch if GTx-104 is approved, working capital and other general corporate purposes. The Company believes its existing cash and cash equivalents will be sufficient to sustain planned operations through at least 12 months from the issuance date of these unaudited condensed consolidated financial statements.
+
+The Company will require additional capital to fund its daily operating needs. The Company does not expect to generate revenue from product sales unless and until it obtains regulatory approval for GTx-104, which is subject to significant uncertainty. To date, the Company has financed its operations primarily through public offerings and private placements of its common equity, warrants and convertible debt, warrant exercises, and the proceeds from research tax credits. Until such time that the Company can generate significant revenue from drug product sales, if ever, it will require additional financing, which is expected to be sourced from a combination of public or private equity or debt financing or other non-dilutive sources, which may include fees, milestone payments and royalties from collaborations with third parties. Arrangements with collaborators or others may require the Company to relinquish certain rights related to its technologies or drug product candidates. Adequate additional financing may not be available to the Company on acceptable terms, or at all. The Company’s inability to raise capital as and when needed could have a negative impact on its financial condition and its ability to pursue its business strategy. The Company plans to raise additional capital in order to maintain adequate liquidity. Negative results from studies or trials, if any, the timing and ability to receive FDA approval for marketing the Company’s drug candidates or depressed prices of the Company’s stock could impact the Company’s ability to raise additional financing. Raising additional equity capital is subject to market conditions that are not within the Company’s control. If the Company is unable to raise additional funds, the Company may not be able to realize its assets and discharge its liabilities in the normal course of business.
+
+The Company remains subject to risks similar to other development stage companies in the biopharmaceutical industry, including compliance with government regulations, protection of proprietary technology, dependence on third-party contractors and consultants and potential product liability, among others. Please refer to the risk factors included in Part 1, Item 1A of the Company’s Annual Report on Form 10-K for the year ended March 31, 2025, filed with the SEC on June 23, 2025 (the “Annual Report”).
+
+2. Summary of significant accounting policies:
+
+Basis of presentation
+
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with generally accepted accounting principles in the United States of America (“U.S. GAAP”) for interim financial information and with the instructions to Form 10-Q and Article 8 of Regulation S-X under the Securities Exchange Act of 1934. Any reference in these notes to applicable guidance is meant to refer to the authoritative U.S. GAAP as found in the Accounting Standards Codification (“ASC”) and as amended by Accounting Standards Updates (“ASU”) of the Financial Accounting Standards Board (“FASB”).
+
+The unaudited condensed consolidated financial statements have been prepared on the same basis as the audited annual consolidated financial statements as of and for the year ended March 31, 2025, and, in the opinion of management, reflect all adjustments, consisting of normal recurring adjustments, necessary for the fair presentation of the Company’s consolidated financial position as of December 31, 2025, the consolidated results of its operations for the three and nine months ended December 31, 2025 and 2024, its statements of stockholders’ equity for the three and nine months ended December 31, 2025 and 2024, and its consolidated cash flows for the nine months ended December 31, 2025 and 2024.
+
+11
+
+These unaudited condensed consolidated financial statements should be read in conjunction with the Company’s audited consolidated financial statements and the accompanying notes for the year ended March 31, 2025 included in the Annual Report. The condensed consolidated balance sheet data as of March 31, 2025 presented for comparative purposes was derived from the Company’s audited consolidated financial statements. The results for the three and nine months ended December 31, 2025 are not necessarily indicative of the operating results to be expected for the full year or for any other subsequent interim period.
+
+The Company’s significant accounting policies are disclosed in the audited consolidated financial statements for the year ended March 31, 2025 included in the Annual Report. There have been no changes to the Company’s significant accounting policies since the date of the audited consolidated financial statements for the year ended March 31, 2025 included in the Annual Report.
+
+Use of estimates
+
+The preparation of these unaudited condensed consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, income, and expenses. Actual results may differ from these estimates.
+
+Estimates are based on management’s best knowledge of current events and actions that management may undertake in the future. Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognized in the period in which the estimates are revised and in any future periods affected.
+
+Estimates and assumptions include the measurement of stock-based compensation, derivative warrant liabilities, accruals for research and development contracts and contract research organization agreements, and valuation of intangibles and goodwill.
+
+Recent accounting pronouncements
+
+In November 2024, the FASB issued ASU 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40) (“ASU 2024-03”), to improve the disclosures about a public business entity’s expenses and address requests from investors for more detailed information about the types of expenses (including purchases of inventory, employee compensation, depreciation, amortization and depletion) in commonly presented expense captions (such as cost of sales, SG&A and research and development).
+
+ASU 2024-03 applies to all public business entities and is effective for annual reporting periods beginning after December 15, 2026 and interim reporting periods within annual reporting periods beginning after December 15, 2027. The requirements will be applied prospectively with the option for retrospective application. Early adoption is permitted. The Company is currently evaluating the effect of adopting this new guidance on its consolidated financial statements and disclosures. The Company is currently assessing the impact of the new guidance on its financial statement disclosures.
+
+The Company has considered all other recent accounting pronouncements and concluded that they are either not applicable to the Company’s business or that the effect is not expected to be material to the consolidated financial statements as a result of future adoption.
+
+12
+
+3. Fair value measurements
+
+Assets and liabilities measured at fair value on a recurring basis as of December 31, 2025 are as follows:
+
+Total Quoted prices 
+
+in active markets 
+
+(Level 1)Significant other 
+
+observable inputs 
+
+(Level 2)Significant 
+
+unobservable inputs 
+
+(Level 3)
+$$$$
+Assets
+Treasury bills classified as cash equivalents 17,485 17,485——
+Total assets 17,485 17,485——
+Total liabilities————
+
+Assets and liabilities measured at fair value on a recurring basis as of March 31, 2025 are as follows:
+
+Total Quoted prices 
+
+in active markets 
+
+(Level 1)Significant other 
+
+observable inputs 
+
+(Level 2)Significant 
+
+unobservable inputs 
+
+(Level 3)
+$$$$
+Assets
+Treasury bills classified as cash equivalents 21,304 21,304——
+Total assets 21,304 21,304——
+Liabilities
+Derivative warrant liabilities 1,141——1,141
+Total liabilities 1,141——1,141
+
+There were no changes in valuation techniques or transfers between Levels 1, 2 or 3 during the nine months ended December 31, 2025.The Company’s derivative warrant liabilities are measured at fair value on a recurring basis using unobservable inputs that are classified as Level 3 inputs.The Company does no t have derivative warrant liabilities on its consolidated balance sheet as of December 31, 2025, as the derivative warrant liabilities were settled on October 21, 2025.Refer to Note 5, _Stockholders’ Equity_, for the valuation techniques and assumptions used in estimating the fair value of the derivative warrant liabilities.
+
+13
+
+4. Trade and other payables
+
+December 31, 2025 March 31, 2025
+$$
+Trade payables 114 601
+Accrued research and development expenses 425 565
+Employee salaries and benefits payable 550 661
+Accrued liabilities and payables 195 103
+Total trade and other payables 1,284 1,930
+
+5. Stockholders’ equity
+
+Preferred Stock
+
+The Company is authorized to issue up to 10,000,000 shares of preferred stock, par value $0.0001 per share. No shares of the Company’s preferred stock are issued or outstanding.
+
+Common Stock
+
+In connection with the consummation of the Domestication, on October 7, 2024, the Company adopted a Certificate of Incorporation (as amended, the “Charter”) and Bylaws (as amended, the “Bylaws”). The rights of holders of the Company’s Common Stock, par value $0.0001 per share (“Common Stock”) are governed by the Charter, the Bylaws, and the General Corporation Law of the State of Delaware. The Company is authorized to issue up to 100,000,000 shares of Common Stock.
+
+2025 Private Placement
+
+In February 2025, the Company agreed to offer and sell in a private placement (the “2025 Private Placement”) an aggregate of 3,252,132 shares of Common Stock at a purchase price of $3.395 per share of Common Stock (the “Shares”) and pre-funded warrants (the “2025 Pre-Funded Warrants”) to purchase up to 1,166,160 shares of Common Stock at a purchase price equal to the purchase price per Share less $0.0001 (the “2025 Pre-Funded Warrant Shares”). Each 2025 Pre-Funded Warrant is exercisable for one share of Common Stock at an exercise price of $0.0001 per share, exercisable immediately and will expire once exercised in full.
+
+Pursuant to the securities purchase agreement with certain institutional and accredited investors in connection with the 2025 Private Placement (the “2025 Purchase Agreement”) for each Share and each 2025 Pre-Funded Warrant issued, the Company agreed to issue to each purchaser an accompanying common warrant (the “2025 Common Warrants” and, together with the 2025 Pre-Funded Warrants, the “2025 Warrants”) to purchase shares of Common Stock (or 2025 Pre-Funded Warrants in lieu thereof), exercisable for an aggregate of 4,418,292 shares of Common Stock (or 2025 Pre-Funded Warrants in lieu thereof). Each 2025 Common Warrant is exercisable for one share of Common Stock at an exercise price of $3.395 per share (or one 2025 Pre-Funded Warrant at an exercise price of $3.3949 per share in lieu thereof), is immediately exercisable and will expire on the earlier of (i) the 60th day after the date the FDA approves the NDA for GTx-104 and (ii) September 25, 2028. The 2025 Common Warrants were offered and sold at a purchase price of $0.125 per 2025 Common Warrant, which purchase price is included in the offering price per Share and 2025 Pre-Funded Warrant issued in the 2025 Private Placement.
+
+The 2025 Private Placement included the issuance of Common Stock, 2025 Pre-Funded Warrants, and 2025 Common Warrants to related parties namely (i) Shore Pharma LLC, an entity held in a trust for the benefit of immediate family members of Vimal Kavuru, the Chair of the Company’s Board of Directors, (ii) ADAR1 Partners, LP, (iii) AIGH Investment Partners, LP, and (iv) SS Pharma LLC, each a beneficial owner of more than 5% of the Common Stock prior to the 2025 Private Placement, resulting in proceeds of $5,694 in the year ended March 31, 2025.
+
+The Company paid TD Securities (USA) LLC, the placement agent, customary placement fees in its capacity as placement agent for the sale of the Company’s securities to certain of the investors in the 2025 Private Placement.
+
+14
+
+The 2025 Private Placement closed on February 11, 2025 (the “Closing Date”). The net proceeds to the Company were $13,705, after deducting fees and expenses.
+
+Both 2025 Pre-funded Warrants and 2025 Common Warrants are presented under additional paid-in capital in the equity section of the unaudited condensed consolidated balance sheet as of December 31, 2025.
+
+During the three and nine months ended December 31, 2025, 0 and 410,460 of the 2025 Pre-Funded Warrants were exercised for 0 and 410,456 shares of Common Stock, respectively, resulting in inconsequential proceeds.
+
+2023 Private Placement
+
+In September 2023, the Company entered into a securities purchase agreement (the “2023 Purchase Agreement”) with certain institutional and accredited investors in connection with a private placement offering of the Company’s securities (the “2023 Private Placement”). Pursuant to the 2023 Purchase Agreement, the Company offered and sold 1,951,371 Common Shares, at a purchase price of $1.848 per Common Share and pre-funded warrants (“2023 Pre-Funded Warrants”) to purchase up to 2,106,853 Common Shares at a purchase price equal to the purchase price per Common Share less $0.0001. Each 2023 Pre-Funded Warrant is exercisable for one Common Share at an exercise price of $0.0001 per Common Share, is immediately exercisable, and will expire once exercised in full. Pursuant to the 2023 Purchase Agreement, the Company also issued, to such institutional and accredited investors, common warrants (the “2023 Common Warrants” and, together with the 2023 Pre-Funded Warrants, the “2023 Warrants”) to purchase Common Shares exercisable for an aggregate of 2,536,391 Common Shares. Under the terms of the 2023 Purchase Agreement, for each Common Share and each 2023 Pre-Funded Warrant issued in the 2023 Private Placement, an accompanying five-eighths (0.625) of a 2023 Common Warrant was issued to the purchaser thereof. Each whole 2023 Common Warrant is exercisable for one Common Share at an exercise price of $3.003 per Common Share, is immediately exercisable, and will expire on the earlier of (i) the 60th day after the date of the acceptance by the FDA of an NDA for the Company’s product candidate GTx-104 or (ii) five years from the date of issuance. The 2023 Private Placement closed on September 25, 2023. The net proceeds to the Company from the 2023 Private Placement were $7,338, after deducting fees and expenses.
+
+The 2023 Private Placement included the issuance of Common Shares, 2023 Pre-Funded Warrants, and 2023 Common Warrants to related parties namely (i) Shore Pharma LLC, an entity that was controlled by Vimal Kavuru, , the Chair of the Company’s Board of Directors, at the time of the 2023 Private Placement and (ii) SS Pharma LLC, the beneficial owner of 5.5% of Common Shares outstanding prior to the 2023 Private Placement, resulting in proceeds of $2,500.
+
+In October 2025, the Company received $4,040 in gross proceeds from exercises of 1,345,464 common warrants that were previously issued in a private placement in September 2023 for 1,345,464 shares of Common Stock. The remaining 1,190,927 common warrants issued in the 2023 private placement have expired in accordance with the terms of the common warrant as the 60th day after the FDA’s acceptance for review of the Company’s NDA for GTx-104 has passed.
+
+The following table summarizes the Company’s outstanding warrants as of December 31, 2025, all of which are exercisable for shares of Common Stock:
+
+December 31, 2025
+No. of 
+
+ warrants Exercise 
+
+ Price ($)Expiration 
+
+ Date
+Liability classified warrants (Derivative Warrant Liabilities)
+Common warrants issued in connection with 2023 Private Placement (2023 Common Warrants)—3.003(1)
+
+Equity classified warrants
+Pre-funded warrants issued in connection with 2023 Private Placement (2023 Pre-Funded Warrants)808,502 0.0001 No expiration
+Common warrants issued in connection with 2025 Private Placement (2025 Common Warrants)4,418,291 3.395(2)
+Pre-funded warrants issued in connection with 2025 Private Placement (2025 Pre-Funded Warrants)987,458 0.0001 No expiration
+
+1. Following the exercise of 1,345,464 2023 Common Warrants in October 2025, the remaining 1,190,927 2023 Common Warrants expired on October 21, 2025, which was the 60th day after the date of the acceptance by the FDA of the NDA for the Company’s product candidate GTx-104.
+
+2.
+
+The 2025 Common Warrants will expire on the earlier of: (i) the 60th day after the date the FDA approves the NDA for GTx-104 or (ii) September 25, 2028.
+
+In connection with the Continuance and the Domestication, the Company continues its obligations under the 2023 Purchase Agreement and the 2023 Warrants. Upon the effectiveness of the Continuance, each outstanding 2023 Warrant exercisable for Common Shares remained exercisable for an equivalent number of common shares of Acasti British Columbia for the equivalent exercise price per share without any action by the holder. Upon the effectiveness of the Domestication, each outstanding 2023 Warrant exercisable for common shares of Acasti British Columbia remained exercisable for an equivalent number of shares of Common Stock for the equivalent exercise price per share without any action by the holder.
+
+Derivative Warrant Liabilities
+
+The 2023 Common Warrants issued as a part of the 2023 Private Placement were derivative warrant liabilities given that the 2023 Common Warrants did not meet the fixed-for-fixed criteria and that the 2023 Common Warrants were not indexed to the Company's own stock.
+
+15
+
+The derivative warrant liabilities are measured at fair value at each reporting period and the reconciliation of changes in fair value is presented in the following table:
+
+Nine months ended
+December 31, 2025 December 31, 2024
+$$
+Beginning balance 1,141 4,359
+Issued during the year——
+Change in fair value(
+
+900)(
+
+578)
+Settlement of liability(241)—
+Ending balance—3,781
+
+The warrant liability was determined based on the fair value of 2023 Common Warrants at the issue date and the reporting dates using the Black-Scholes model with the following assumptions. The 2023 Common Warrants expired on October 21, 2025, which was the 60th day after the date of the acceptance by the FDA of the NDA for the Company's product candidate GTx-104, which resulted in a $241 settlement of the derivative warrant liability on our consolidated balance sheet as of December 31, 2025.The settlement value of the warrant liability was determined using the Black-Scholes model with the following assumptions:
+
+October 21, 2025
+Risk-free interest rate 4.2%
+Share price$3.22
+Expected warrant life 0.0
+Dividend yield 0%
+Expected volatility 60.08%
+
+As of December 31, 2025 and March 31, 2025, the balance of derivative warrant liabilities from related parties was $0 and $952, respectively.
+
+6. Stock-based compensation
+
+2024 Equity Incentive Plan
+
+At the Annual and Special Meeting of Shareholders on September 30, 2024, the Company’s shareholders approved the Acasti Pharma Inc. 2024 Equity Incentive Plan (the “2024 Plan”) which became effective on the date of the Domestication. The 2024 Plan replaced the Acasti Pharma Inc. Stock Option Plan and the Acasti Pharma Inc. Equity Incentive Plan (the “Prior Plans”). The 2024 Plan provides for the grant of awards of stock options, stock appreciation rights, restricted stock, restricted stock units, deferred stock units, unrestricted stock, dividend equivalent rights, performance-based awards and other equity-based awards to eligible persons as defined under the 2024 Plan. Any of these awards may, but need not, be made as performance incentives to reward the holders of such awards for the achievement of performance goals in accordance with the terms of the 2024 Plan. Stock options granted under the 2024 Plan may be non-qualified stock options or incentive stock options, as provided in the 2024 Plan.
+
+16
+
+17
+
+7. Loss per share
+
+The Company has generated a net loss for all periods presented. Therefore, diluted loss per share is the same as basic loss per share since the inclusion of potentially dilutive securities would have had an anti-dilutive effect. All currently outstanding options and warrants could potentially be dilutive in the future.
+
+The Company excluded the following potential shares of Common Stock, presented based on amounts outstanding at each period end, from the computation of diluted net loss per share attributable to stockholders for the periods indicated because including them would have had an anti-dilutive effect:
+
+Nine months ended
+December 31, 2025 December 31, 2024
+Options outstanding 1,305,453 919,923
+September 2023 Common Warrants—2,536,391
+February 2025 Common Warrants 4,418,291—
+
+Basic and diluted net loss per share is calculated based upon the weighted-average number of shares of Common Stock outstanding during the year. Common Stock underlying the 2025 Pre-Funded Warrants and 2023 Pre-Funded Warrants are included in the calculation of basic and diluted earnings per share.
+
+8. Segment Information
+
+An operating segment is a component of an entity whose operating results are regularly reviewed by its chief operating decision maker (“CODM”) to make decisions about resources to be allocated to the segment and assess its performance. Factors used by the Company in determining the reportable segment include the nature of the Company's operating activities, the organizational and reporting structure and the type of information reviewed by the CODM to allocate resources and evaluate financial performance.
+
+The Company has one reportable operating segment: the development and commercialization of pharmaceutical applications of its patents and licensed rights. The Company’s CODM is its Chief Executive Officer. The accounting policies of the segment are those described in the summary of significant accounting policies.
+
+The CODM assesses the performance of the segment based on net loss, which is reported on the unaudited condensed consolidated statement of net loss and comprehensive loss as Net loss and total comprehensive loss. The measure of segment assets is reported on the unaudited condensed consolidated balance sheet as Total assets.
+
+The Company has not generated any revenue and expects to continue to incur significant expenses and operating losses as it advances product candidates through all stages of development, and ultimately, receive regulatory approval. Accordingly, the CODM utilizes the cash budget and forecasts in assessing the entity-wide operating results and performance, and in deciding how to allocate resources across the organization and its segment. Net loss and total comprehensive loss is used to monitor budgets against actual results, which then is used in assessing the performance of the segment.
+
+18
+
+The table below summarizes the significant expenses, by category regularly reviewed by the CODM, for the three and nine months ended December 31, 2025 and 2024:
+
+Three months ended Nine months ended
+December 
+
+ 31, 2025 December 
+
+ 31, 2024 December 
+
+31, 2025 December
+
+ 31, 2024
+$$$$
+Clinical development programs 124 1,910 651 6,977
+Professional fees 870 620 2,962 3,095
+Salaries and benefits 751 654 2,313 1,984
+Stock-based compensation 109 160 616 600
+Other general and administrative expenses (1)595 349 1,525 840
+Other segment income (2)38 1,194(905)(567)
+Interest income, net(172)(127)(547)(544)
+Tax benefits—(605)—(2,181)
+Segment and consolidated loss 2,315 4,155 6,615 10,204
+
+1.
+
+Other general and administrative expenses include depreciation, travel, and other administrative costs.
+
+2.
+
+Other segment income includes change in fair value of derivative warrant liabilities and foreign exchange (loss)/gain.
+
+9. Income taxes
+
+The provision for income taxes and the effective income tax rates were as follows:
+
+Three months ended Nine months ended
+December 
+
+31, 2025 December 
+
+31, 2024 December 
+
+31, 2025 December 
+
+31, 2024
+Provision for income taxes—(605)—(2,181)
+Effective income tax rate 0.0%12.7%0.0%17.6%
+
+The variance in effective tax rates for the three and nine months ended December 31, 2025 and 2024 is primarily attributable to the Company’s partial valuation allowance applied to its net domestic deferred tax assets.
+
+As of December 31, 2025, the Company had a partial valuation allowance against its net domestic deferred tax assets, for which realization cannot be considered more likely than not at this time. Management assesses the need for the valuation allowance on a quarterly basis. In assessing the need for a valuation allowance, the Company considers all positive and negative evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax planning strategies, and past financial performance.
+
+In December 2023, the FASB issued ASU 2023-09, Improvements to Income Tax Disclosures (Topic 740), which requires incremental annual disclosures on income taxes, including rate reconciliations, income taxes paid, and other disclosures. The Company will prospectively adopt this guidance beginning March 31, 2026.The Company does not anticipate a material impact on its consolidated financial statements.
+
+On July 4, 2025, the One Big Beautiful Bill Act (“OBBBA”) was enacted in the U.S. The OBBBA includes significant provisions, such as the permanent extension of certain expiring provision of the Tax Cuts and Jobs Act, modification to the international tax framework and the restoration of favorable tax treatment for certain business provisions. The legislation has multiple effective dates, with certain provisions effective in 2025 and other implemented through 2027. The Company does not anticipate the bill will have a material impact on its consolidated financial statements.
+
+19
+
+10. Commitments and contingencies
+
+Research and development contracts and contract research organizations agreements
+
+The Company utilizes CMOs for the development and production of clinical materials and CROs to perform services related to its clinical trials. Pursuant to the agreements with these CMOs and CROs, the Company has either the right to terminate the agreements without penalties or under certain penalty conditions. As of December 31, 2025, the Company has $185 of commitments to CMOs and no commitments to CROs for the next twelve months.
+
+Legal proceedings and disputes
+
+In the ordinary course of business, the Company is at times subject to various legal proceedings and disputes. The Company assesses its liabilities and contingencies in connection with outstanding legal proceedings utilizing the latest information available. Where it is probable that the Company will incur a loss and the amount of the loss can be reasonably estimated, the Company records a liability in its unaudited condensed consolidated financial statements. These legal contingencies may be adjusted to reflect any relevant developments on a quarterly basis. Where a loss is not probable or the amount of loss is not estimable, the Company does not accrue legal contingencies. While the outcome of legal proceedings is inherently uncertain, based on information currently available, no reserves or liabilities have been accrued at December 31, 2025.
+
+20
+
+Item 2.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Management’s Discussion and Analysis of Financial Condition and Results of Operations")Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+This management’s discussion and analysis (“MD&A”) is presented in order to provide the reader with an overview of the financial results and changes to our financial position as at December 31, 2025 and for the three and nine months then ended. This MD&A also explains the material variations in our operations, financial positions and cash flows for the three and nine months ended December 31, 2025 and 2024.
+
+Market data, and certain industry data and forecasts included in this MD&A were obtained from internal Company surveys and market research conducted by third parties hired by us, publicly available information, reports of governmental agencies and industry publications, and independent third-party surveys. We have relied upon industry publications as our primary sources for third-party industry data and forecasts. Industry surveys, publications, and forecasts generally state that the information they contain has been obtained from sources believed to be reliable, but that the accuracy and completeness of that information are not guaranteed. We have not independently verified any of the data from third-party sources or the underlying economic assumptions they have made. Similarly, internal surveys, industry forecasts and market research, which we believe to be reliable based upon our management’s or contracted third parties’ knowledge of our industry, have not been independently verified. Our estimates involve risks and uncertainties, including assumptions that may prove not to be accurate, and these estimates and certain industry data are subject to change based on various factors, including those discussed in this quarterly report and in our most recently filed Annual Report on Form 10-K, filed with the Securities and Exchange Commission (the “SEC”) on June 23, 2025 (the “Annual Report”). This MD&A contains forward-looking information. You should review our Special Note Regarding Forward-Looking Statements presented at the beginning of this quarterly report.
+
+This MD&A should be read in conjunction with our unaudited condensed consolidated interim financial statements for the three and nine months ended December 31, 2025 and 2024 included elsewhere in this quarterly report. Our unaudited condensed consolidated financial statements were prepared in accordance with U.S. GAAP.
+
+All amounts appearing in this MD&A for the period-by-period discussions are in thousands of U.S. dollars, except share and per share amounts or unless otherwise indicated.
+
+Business Overview
+
+We are focused on developing and commercializing products for rare and orphan diseases that have the potential to improve clinical outcomes by using our novel drug delivery technologies. We seek to apply new proprietary formulations to approved and marketed pharmaceutical compounds to achieve enhanced efficacy, faster onset of action, reduced side effects, more convenient drug delivery and increased patient compliance; all of which could result in improved patient outcomes. The active pharmaceutical ingredients used in the drug candidates under development by us may be already approved in a target indication or could be repurposed for use in new indications.
+
+Our therapeutic pipeline consists of three unique clinical-stage drug candidates supported by an intellectual property portfolio of more than 40 granted and pending patents in various jurisdictions worldwide. These drug candidates aim to improve clinical outcomes in the treatment of rare and orphan diseases by applying proprietary formulation and drug delivery technologies to existing pharmaceutical compounds to achieve improvements over the current standard of care, or to provide treatment for diseases with no currently approved therapies.
+
+The existing well understood efficacy and safety profiles of these marketed compounds provide the opportunity for us to utilize the Section 505(b)(2) regulatory pathway under the Federal Food, Drug and Cosmetic Act (“FDCA”) for the development of our reformulated versions of these drugs, and therefore may provide a potentially shorter path to regulatory approval. Under Section 505(b)(2), if sufficient support of a product’s safety and efficacy either through previous U.S. Food and Drug Administration (“FDA”) experience or sufficiently within the existing and accepted scientific literature, can be established, it may eliminate the need to conduct some of the pre-clinical studies and clinical trials that new drug candidates might otherwise require.
+
+We believe rare disorders represent an attractive area for drug development, and there remains an opportunity for us to utilize already approved drugs that have established safety profiles and clinical experience to potentially address significant unmet medical needs. A key advantage of pursuing therapies for rare disorders is the potential to receive orphan drug designation (“ODD”) from the FDA. Our three drug candidates have received ODD status and, provided certain conditions are met at new drug application approval, those candidates, if approved, will be entitled to orphan drug exclusivity (“ODE”), which blocks FDA from approving for seven years any other application for a product that is the same drug for the same orphan indication, except in limited circumstances, such as a showing of clinical superiority to the product with ODE. ODD status can also result in tax credits of up to 25% of clinical development costs conducted in the United States upon marketing approval and a waiver of the NDA fees, which we estimate can translate into savings of approximately $4.3 million for our lead drug candidate, GTx-104. Developing drugs for rare diseases can often allow for clinical trials that are more manageably scaled and may require a smaller, more targeted commercial infrastructure.
+
+21
+
+The specific diseases targeted for drug development by us are well understood, although the patient populations suffering from such diseases may remain poorly served by available therapies or, in some cases, approved therapies do not yet exist. We aim to effectively treat debilitating symptoms that result from these underlying diseases.
+
+Our management team possesses significant experience in drug formulation, drug delivery research and development, clinical and pharmaceutical development, manufacturing, regulatory affairs, business development, as well as late-stage drug development and commercialization. Importantly, our team is comprised of industry professionals with deep expertise and knowledge, including a world-renowned practicing neurosurgeon-scientist and respected authority in aneurysmal subarachnoid hemorrhage, as well as product development, chemistry, manufacturing and controls (“CMC”), planning, implementation, management, and execution of global Phase 2 and Phase 3 trials for GTx-104, and drug commercialization.
+
+Recent Developments
+
+GTx-104
+
+On June 25, 2025, we announced the submission of a New Drug Application (“NDA”) to the FDA for GTx-104, a clinical-stage, novel, injectable formulation of nimodipine being developed for intravenous (“IV”) infusion to address significant unmet medical needs in aneurysmal subarachnoid hemorrhage (“aSAH”) patients. On August 22, 2025 the FDA accepted our NDA for review and established April 23, 2026 as the Prescription Drug User Fee Act (PDUFA) target date for completing its review of our submission.
+
+On September 18, 2025 we announced that the U.S. Patent and Trademark Office issued a U.S. Patent No. 12,414,943, titled “Nimodipine Parenteral Administration”. The new method of use patent, published on September 16, 2025, covers the dosing regimen for IV administration of nimodipine used in the Phase 3 STRIVE-ON safety trial for GTx-104.
+
+This new patent enhances our multi-layered intellectual property estate for GTx-104, which includes five patents on the composition of our formulation of nimodipine, providing patent protection to 2037. The new patent on the IV dosing regimen for GTx-104 strengthens our intellectual property position and extends protection to 2043.
+
+In September 2025, results from our STRIVE-ON trial were presented at the 2025 Neurocritical Care Society annual meeting, held in Montreal, Quebec, Canada. The Neurocritical Care Society is the only professional society representing multi-disciplinary teams of neurocritical care providers around the world whose mission is to improve outcomes for patients with life-threatening neurological illnesses. In an oral presentation titled Safety and Tolerability of GTx-104 (Nimodipine Injection for I.V. Infusion) Compared with Oral Nimodipine in Patients with Aneurysmal Subarachnoid Hemorrhage: a Prospective, Randomized Trial, Dr. H. Alex Choi (Professor of Neurosurgery and Neurology at UT Health Houston McGovern Medical School, member of the Grace Scientific Advisory Board) highlighted the trial results demonstrating the safety and tolerability of GTx-104 in the treatment of aSAH.
+
+During our second fiscal quarter, we conducted market research analysis to update our assessment of the GTx-104 commercial opportunity and to guide our commercialization planning. We believe the results of this research confirm that GTx-104 is seen as valuable for its improved tolerability, potential cost savings, and simpler route of IV administration compared to the oral form of nimodipine.
+
+Our Pipeline
+
+•
+
+GTx-104 is a clinical stage, novel, injectable formulation of nimodipine being developed for IV infusion in aSAH patients to address significant unmet medical needs. The unique nanoparticle technology of GTx-104 facilitates aqueous formulation of insoluble nimodipine for a standard peripheral IV infusion. GTx-104 provides a convenient IV delivery of nimodipine in the Intensive Care Unit potentially eliminating the need for nasogastric tube administration in unconscious or dysphagic patients. IV delivery of GTx-104 also has the potential to lower food effects, drug-to-drug interactions, and eliminate potential dosing errors. Further, GTx-104 has the potential to better manage hypotension in aSAH patients. GTx-104 has been administered in over 200 patients and healthy volunteers and was well tolerated with significantly lower inter- and intra-subject pharmacokinetic variability compared to oral nimodipine.
+
+•
+
+GTx-102 is targeted for the treatment of ataxia-telangiectasia (“A-T”) in a pediatric population. A-T is caused by mutations in the ataxia telangiectasia mutated gene. Children with A-T experience cerebellar ataxia and other motor dysfunctions, oculomotor apraxia, dysarthria, and dysphagia. A Phase-1 pharmacokinetic study was successfully completed and GTx-102 was well tolerated with no serious events reported.
+
+22
+
+•
+
+GTx-101 is a topical bio adhesive film-forming bupivacaine spray for Postherpetic Neuralgia (“PHN”), which can be persistent and often causes debilitating pain following infection by the shingles virus. Four single-dose Phase 1 studies to evaluate the PK, safety, dose proportionality and tolerability of GTx-101 have been performed. In these trials, no serious adverse events were reported and GTx-101 was well tolerated. We believe that GTx-101 could be administered to patients with PHN to treat pain associated with the disease. In May 2023, we implemented a strategic realignment plan to enhance shareholder value that resulted in engaging a new management team, streamlining our research and development activities, and greatly reducing our workforce. Following the realignment, we are a smaller, more focused organization, based in the United States, and concentrated on the development of our lead product candidate GTx-104. Further development of GTx-102 and GTx-101 will occur at such a time when we are able to secure additional funding or enter strategic partnerships for license or sale with third parties.
+
+•
+
+We have worldwide commercialization rights for all our pipeline drug candidates and plan to maximize the value of each of our drug candidates over time.
+
+GTx-104 Overview
+
+About aneurysmal Subarachnoid Hemorrhage (aSAH)
+
+aSAH is bleeding over the surface of the brain in the subarachnoid space between the brain and the skull, which contains blood vessels that supply the brain. A primary cause of such bleeding is the rupture of an aneurysm in the brain. The result is a relatively uncommon type of stroke that accounts for about 5% of all strokes and an estimated 42,500 U.S. hospital treated patients per year.
+
+Unmet Needs with Oral Nimodipine
+
+Nimodipine was granted FDA approval in 1988 and is the only approved drug that has been clinically shown to improve neurological outcomes in aSAH patients. It is only available in the United States as a generic oral capsule, as a branded oral liquid solution called NYMALIZE™, which is manufactured and sold by Arbor Pharmaceuticals (acquired in September 2021 by Azurity Pharmaceuticals), and as a generic oral liquid solution. Nimodipine has poor water solubility and high permeability characteristics because of its high lipophilicity. Additionally, orally administered nimodipine has dose-limiting side-effects such as hypotension, poor absorption and low bioavailability resulting from high first-pass metabolism, and a narrow administration window as food effects lower bioavailability significantly. Due to these issues, blood levels of orally administered nimodipine can be highly variable, making it difficult to manage blood pressure in aSAH patients, often leading to frequent dose interruptions. Nimodipine capsules are also difficult to administer, particularly to unconscious patients or those with impaired ability to swallow, while the oral liquid solution has tolerability challenges due to solubility limitations of nimodipine.
+
+GTx-104 Technology
+
+Our lead drug candidate, GTx-104, is a novel injectable formulation of nimodipine for the treatment of aSAH. This formulation offers several potential advantages over oral administration of nimodipine that is the current Standard of Care (SoC) in the United States.
+
+●
+
+Novel injectable formulation of nimodipine
+
+●
+
+Overcomes solubility limitations of nimodipine
+
+●
+
+A patented formulation that uses non-ionic surfactant micelles as the drug carrier to solubilize nimodipine
+
+●
+
+Simple to prepare in a pharmacy and stable at room temperature
+
+23
+
+Value Proposition
+
+GTx-104 provides a convenient IV delivery of nimodipine in the Intensive Care Unit, potentially eliminating the need for nasogastric tube administration in unconscious or dysphagic patients. Intravenous delivery of GTx-104 also has the potential to lower food effects, drug-to-drug interactions, and eliminate potential dosing errors. Further, GTx-104 has the potential to better manage hypotension in aSAH patients. GTx-104 has been administered in over 200 patients and healthy volunteers and was well tolerated with significantly lower inter- and intra-subject pharmacokinetic variability compared to oral nimodipine.
+
+GTx-104 is designed to address significant unmet medical needs for patients with aSAH. We believe that our novel nimodipine IV formulation may offer a potential value to physicians, hospitals, and their patients.
+
+![Image 1](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/image.jpg)
+
+24
+
+GTx-104 Market Opportunity
+
+Approximately 42,500 patients in the United States are affected by aSAH per year. Company sponsored third party market research including claims analysis suggests that aSAH incidence may be as high as approximately 70,000 per year in the United States. Outside of the United States, annual cases of aSAH are estimated at approximately 60,000 in the European Union, and approximately 150,000 in China.
+
+The unmet needs in the treatment of aSAH patients and the potential of GTx-104 to address the limitations of the current standard of care were the subject of a Key Opinion Leader event we hosted in November 2024. In an independent market research survey we conducted of hospital administrators and critical and neuro intensive care physicians at institutions with Comprehensive or Advanced Stroke Center certification who are involved in purchasing decisions for their institutions/units, respondents reported 80% likelihood of adopting an IV formulation of nimodipine, assuming 100% bioavailability, better safety, no food effects, effective hypotension management, potential hospital value and patient value.
+
+Clinical Data
+
+Pivotal Phase 3 STRIVE-ON Randomized Safety Trial
+
+The STRIVE-ON trial was a prospective, randomized open-label Phase 3 trial of GTx-104 compared with oral nimodipine in patients hospitalized with aSAH. 50 patients were administered GTx-104 and 52 patients received oral nimodipine. The primary endpoint was the number of patients with at least one episode of clinically significant hypotension reasonably considered to be caused by the drug, and additional endpoints included safety, clinical, and pharmacoeconomic outcomes. Each patient was evaluated for up to 90 days inclusive of the 21-day treatment period. There was a higher proportion of the most severe cases of aSAH (Hunt & Hess Grade V) with the worst prognosis in the GTx-104 arm (8%) compared to the oral nimodipine arm (2%).
+
+![Image 2](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/image_8.jpg)
+
+25
+
+On September 25, 2024, we announced the completion of enrollment in our Phase 3 STRIVE-ON trial for GTx-104. On February 10, 2025, we announced the trial met its primary endpoint and provided evidence of clinical benefit for GTx-104 compared to orally administered nimodipine. Patients receiving GTx-104 were observed to have a 19% reduction in at least one incidence of clinically significant hypotension compared to oral nimodipine (28% versus 35%). Other measures also favored or were comparable to GTx-104, including:
+
+•
+
+54% of patients who received GTx-104 had a relative dose intensity of 95% or higher of the prescribed dose compared to only 8% on oral nimodipine.
+
+•
+
+29% relative increase in the number of patients receiving GTx-104 compared to oral nimodipine with favorable outcomes at 90 days follow up on the modified Rankin scale. Quality of life as measured by EQ-5D-3L also favored patients receiving GTx-104 versus oral nimodipine.
+
+•
+
+Fewer intensive care unit (ICU) readmissions, ICU days, and ventilator days for patients receiving GTx-104 versus oral nimodipine.
+
+•
+
+Adverse events were comparable between the two arms and no new safety issues were identified with patients receiving GTx-104. All deaths in both arms of the trial were due to severity of the patient’s underlying disease. There were eight deaths on the GTx-104 arm compared to four deaths on the oral nimodipine arm. The survival status of one patient on the oral nimodipine arm was unknown. No deaths were determined to be related to GTx-104 or oral nimodipine.
+
+•
+
+Pharmacoeconomic measures favored the use of GTx-104 for patients with aSAH.
+
+On June 25, 2025, we announced the submission of our NDA to the FDA for GTx-104. On August 22, 2025, the FDA accepted our NDA for review and established April 23, 2026 as the PDUFA target date for completing its review of our submission.
+
+In September 2025, results from our STRIVE-ON trial were presented by Dr. H. Alex Choi (Professor of Neurosurgery and Neurology at UT Health Houston McGovern Medical School, member of the Grace Scientific Advisory Board) at the 2025 Neurocritical Care annual meeting, held in Montreal, Quebec, Canada.
+
+We believe these data validate the GTx-104 value proposition. If approved, GTx-104 has the potential to address significant challenges with oral nimodipine administration and may transform the standard of care for patients with aSAH.
+
+GTx-104 Phase 1 PK Trial
+
+In September 2021, we initiated our pharmacokinetic (“PK”) bridging trial to evaluate the relative bioavailability of GTx-104 compared to currently marketed oral nimodipine capsules in approximately 50 healthy subjects. This PK trial established the 505(b)(2) regulatory pathway for GTx-104.
+
+Final results from this PK trial were reported in May 2022, and showed that the bioavailability of GTx-104 compared favorably with the oral formulation of nimodipine in all subjects, and no serious adverse events were observed for GTx-104.
+
+26
+
+In this trial, all endpoints indicated that statistically there was no difference in exposures between GTx-104 and oral nimodipine over the defined time periods for both maximum exposure and total exposure. Plasma concentrations obtained following IV administration showed significantly less variability between subjects as compared to oral administration of capsules because IV administration is not as sensitive to some of the physiological processes that affect oral administration, such as taking the drug with and without meals, variable gastrointestinal transit time, variable drug uptake from the gastrointestinal tract into the systemic circulation, and variable hepatic blood flow and hepatic first pass metabolism. Previous studies have shown these processes significantly affect the oral bioavailability of nimodipine, and therefore cause oral administration to be prone to larger inter- and intra-subject variability.
+
+The bioavailability of oral nimodipine capsules observed was only approximately 7% compared to 100% for GTx-104. Consequently, about one-twelfth the amount of nimodipine is delivered with GTx-104 to achieve comparable PKs as with the oral capsules. This data is presented in the chart below.
+
+![Image 3](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/image_9.jpg)
+
+Regulatory
+
+In April 2025, we announced details of a Type C written meeting response with the FDA. The purpose of this meeting was to obtain feedback on the completed Phase 3 STRIVE-ON safety trial of GTx-104 and our NDA submission, including clinical, non-clinical, and CMC requirements.
+
+27
+
+Feedback from the FDA informed our data and regulatory packages, and we submitted the NDA for GTx-104 on June 25, 2025. The FDA accepted our NDA for review on August 22, 2025, and established April 23, 2026 as its PDUFA target date.
+
+Commercialization Strategy
+
+If we receive regulatory approval for GTx-104 in the U.S., we plan to commercialize GTx-104 with a highly experienced and targeted hospital-based sales force. We may seek commercial partnerships to fully exploit the market potential of GTx-104 in the U.S. and in territories outside the U.S.
+
+A recent market research analysis we conducted assessed the commercial potential of GTx-104 if approved by the FDA. A third-party research firm conducted interviews, primary research, and market data analysis, and concluded that GTx-104 is seen as a valuable addition to the treatment of aSAH patients, with broad potential for formulary inclusion by hospital Pharmacy and Therapeutics (“P&T”) committees. The research identified three primary perceived benefits among survey respondents:
+
+●
+
+Efficacy – respondents emphasized that the reduction in hypotension with GTx-104 is meaningful, as it allows more patients to remain on therapy and avoid dose limiting side effects
+
+●
+
+Pharmacoeconomic - Health care providers highlighted that even modest reductions in ICU or ventilator time can have a significant impact on hospital costs, suggesting GTx-104’s potential to deliver value beyond drug price—particularly given the high-cost aSAH care settings
+
+●
+
+Route of Administration - GTx-104’s immediate usability without nasogastric tube placement was seen as an advantage, enabling earlier intervention, especially in unstable or intubated patients where time sensitive dosing is key
+
+These results were obtained from a survey of 45 healthcare professionals (“HCPs”), including neuro-intensivist, neurosurgeons, P&T committee members, and hospital pharmacists, during the summer of 2025. During the three months ended December 31, 2025, we provided grant support for the development of a Continuing Medical Education (“CME”) program for healthcare professionals in these and related specialties. Content for the CME program was independently developed by leading providers of CME content, and is intended to educate HCPs on the challenges represented by oral nimodipine administration in the care of aSAH patients. We believe the CME program can play an important role in educating the professional marketplace on the potential benefits of GTx-104 should it be approved by the FDA.
+
+GTx-102 Overview
+
+GTx-102 is a novel, concentrated oral-mucosal spray of betamethasone intended to improve neurological symptoms of A-T for which there are currently no FDA-approved therapies. GTx-102 is a stable, concentrated oral spray formulation comprised of the gluco-corticosteroid betamethasone that, together with other excipients, can be sprayed conveniently over the tongue of the A-T patient and is rapidly absorbed.
+
+We have licensed the data from the multicenter, double-blinded, randomized, placebo-controlled crossover trial from Azienda Ospedaliera Universitaria Senese, Siena, Italy, where Dr. Zannolli et al. studied the effect of oral liquid solution of betamethasone to reduce ataxia symptoms in patients with A-T. This oral liquid solution is not marketed in the United States, and therefore is not available for clinical use. Currently, betamethasone is only available in the United States as an injectable or as a topical cream. This license gives us the right to reference the trial’s data in our NDA filing. On November 12, 2015, we submitted the data from the Zannolli trial to the FDA’s Division of Neurology at a pre-Investigational New Drug (“IND”) meeting and received guidance from the agency on the regulatory requirements to seek approval.
+
+About Ataxia Telangiectasia
+
+A-T is a rare genetic progressive autosomal recessive neurodegenerative disorder that affects children, with the hallmark symptoms of cerebellar ataxia and other motor dysfunction, and dilated blood vessels (telangiectasia) that occur in the sclera of the eyes. A-T is caused by mutations in the ataxia telangiectasia gene, which is responsible for modulating cellular response to stress, including breaks in the double strands of DNA.
+
+Children with A-T begin to experience balance and coordination problems when they begin to walk (toddler age), and ultimately become wheelchair-bound in their second decade of life. In pre-adolescence (between ages 5 and 8), patients experience oculomotor apraxia, dysarthria, and dysphagia. They also often develop compromised immune systems and are at increased risk of developing respiratory tract infections and cancer (typically lymphomas and leukemia).
+
+Unmet Needs
+
+There is no known treatment to slow disease progression, and treatments that are used are strictly aimed at controlling the symptoms (or conditions secondary to the disease). There are no FDA-approved therapeutic options currently available. Patients typically die by age 25 from complications of lung disease or cancer.
+
+Market Opportunity
+
+According to a third-party report we commissioned, A-T affects approximately 4,300 patients per year in the United States and has a potential total addressable market of $150 million, based on the number of treatable patients in the United States.
+
+Clinical Data
+
+In a multicenter, double-blind, randomized, placebo-controlled crossover trial conducted in Italy, Dr. Zannolli et al. studied the effect of an oral liquid solution of betamethasone on the reduction of ataxia symptoms in 13 children (between ages 2 to 8 years) with A-T. The primary outcome measure was the reduction in ataxia symptoms as assessed by the International Cooperative Ataxia Rating Scale (“ICARS”).
+
+In the trial, oral liquid betamethasone reduced the ICARS total score by a median of 13 points in the intent-to-treat population and 16 points in the per-protocol population (the median percent decreases of ataxia symptoms of 28% and 31%, respectively). Adverse events in the trial were minimal, with no compulsory withdrawals and only minor side effects that did not require medical intervention. Clinical trial results in A-T patients administered oral betamethasone indicated that betamethasone significantly reduced ICARS total score relative to placebo (P = 0.01). The median ICARS change score (change in score with betamethasone minus change in score with placebo) was -13 points (95% confidence interval for the difference in medians was -19 to -5.5 points).
+
+28
+
+Based on the Zannolli data, we believe that our GTx-102 concentrated oral spray has the potential to provide clinical benefits in decreasing A-T symptoms, including assessments of posture and gait disturbance and kinetic, speech and oculomotor functions. In addition, GTx-102 may ease drug administration for patients experiencing A-T given its application of 1-3x/day of 140µL of concentrated betamethasone liquid sprayed onto the tongue using a more convenient metered dose delivery system, as these A-T patients typically have difficulty swallowing.
+
+Pharmacokinetic Data
+
+GTx-102 administered as a concentrated oral spray achieves similar blood levels at only 1/70th the volume of an oral solution of betamethasone. This more convenient mode of administration will be important for A-T patients who have difficulties swallowing large volumes of liquids.
+
+![Image 4](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/image_10.jpg)
+
+We initiated a PK bridging trial of GTx-102 as compared to the oral liquid solution of betamethasone used in the Zannolli trial and against the injectable form of betamethasone that is approved in the U.S. in the third calendar quarter of 2022. The primary objectives of the PK bridging trial were to evaluate the bioavailability, pharmacokinetics, and safety of GTx-102. In December 2022, we reported that the topline results of this trial met all primary outcome measures.
+
+Next Steps
+
+The further development of GTx-102 has been deprioritized in favor of our focus on development of GTx-104. On February 13, 2025, we announced FDA’s written responses to our GTx-102 End of Phase 1 meeting request where FDA made recommendations on the path toward an NDA. They provided guidance on the design of a single pivotal efficacy and safety trial, including the neurological assessment scale for the primary endpoint, that could, with appropriate confirmatory evidence, support an NDA. We plan to collaborate with our scientific advisory board and FDA (via Type C meeting) on the design of a potential pivotal efficacy and safety trial and will determine the next steps after that time. Further clinical development work will be contingent on additional funding for GTx-102 or the signing of a strategic partnership. It is also possible that we may out-license or sell our GTx-102 drug candidate for the U.S. and/or global markets.
+
+29
+
+GTx-101 Overview
+
+GTx-101 is a non-narcotic, topical bio-adhesive film-forming bupivacaine spray designed to ease the symptoms of patients suffering with PHN. GTx-101 is administered via a metered-dose of bupivacaine spray and forms a thin bio-adhesive topical film on the surface of the patient’s skin, which enables a touch-free, non-greasy application. It also comes in convenient, portable 30 ml plastic bottles. Unlike oral gabapentin and lidocaine patches which are used for the treatment of PHN, we believe that the biphasic delivery mechanism of GTx-101 has the potential for rapid onset of action and continuous pain relief for up to eight hours. No skin sensitivity was reported in a Phase 1 trial.
+
+About Postherpetic Neuralgia (PHN)
+
+PHN is neuropathic pain due to damage caused by the varicella zoster virus (“VZV”). Infection with VZV causes two distinct clinical conditions. Primary VZV infection causes varicella (i.e., chickenpox), a contagious rash illness that typically occurs among young children. Secondary VZV can reactivate clinically, decades after initial infection, to cause herpes zoster (“HZ”), otherwise known as shingles. Acute HZ arises when dormant virus particles, persisting within an affected sensory ganglion from the earlier, primary infection with VZV become reactivated when cellular immunity to varicella decreases. Viral particles replicate and may spread to the dorsal root, into the dorsal horn of the spinal cord, and through peripheral sensory nerve fibers down to the level of the skin. Viral particles also may circulate in the blood. This reactivation is accompanied by inflammation of the skin, immune response, hemorrhage, and destruction of peripheral and central neurons and their fibers. Following such neural degeneration, distinct types of pathophysiological mechanisms involving both the central and peripheral nervous systems may give rise to the severe nerve pain associated with PHN. While the rash associated with HZ typically heals within two to four weeks, the pain may persist for months or even years, and this PHN manifestation is the most common and debilitating complication of HZ. There is currently no consensus definition for PHN, but it has been suggested by the Centers for Disease Control and Prevention that PHN is best defined as pain lasting at least three months after resolution of the rash.
+
+Unmet Need
+
+PHN is associated with significant loss of function and reduced quality of life, particularly in the elderly. It has a detrimental effect on all aspects of a patient’s quality of life. The nature of PHN pain varies from mild to severe, constant, intermittent, or triggered by trivial stimuli. Approximately half of patients with PHN describe their pain as “horrible” or “excruciating,” ranging in duration from a few minutes to constant on a daily or almost daily basis. The pain can disrupt sleep, mood, work, and activities of daily living, adversely impacting the quality of life and leading to social withdrawal and depression. PHN is the foremost cause of intractable, debilitating pain in the elderly, and has been cited as the leading cause of suicide in chronic pain patients over the age of 70.
+
+30
+
+Current treatment of PHN most often consists of oral gabapentin (first line) and prescription lidocaine patches or antidepressants (second line), and refractory cases may be prescribed opioids to address persistent pain. Gabapentin and opioid abuse have continued to proliferate, and lidocaine patches are suboptimal for many reasons. An independent third-party market research firm we commissioned interviewed more than 250 physicians who regularly treat PHN patients and found that approximately 40% of patients using lidocaine patches experience insufficient pain relief. Lidocaine patches are difficult to use, fall off, and look unsightly with possible skin sensitivity and irritation. Additionally, lidocaine patches can only be used for 12 hours and then need to be removed for 12 hours before being reapplied. Prescription lidocaine patches are only approved for PHN, and the market is currently made up of both branded and generic offerings.
+
+Market Potential
+
+It is estimated that PHN affects approximately 120,000 patients per year in the United States. According to a third-party report, the total addressable market for GTx-101 could be as large as $2.5 billion, consisting of approximately $200 million for PHN pain and $2.3 billion for non-PHN pain indications.
+
+Clinical Data
+
+To date, we have conducted four Phase I trials in healthy volunteers to assess the PK, safety, and tolerability of GTx-101 and to determine the plasma levels of bupivacaine hydrogen chloride administered as a single dose in various concentrations between 30 mg (three sprays) and 2100 mg (twenty sprays).
+
+These trials demonstrated that GTx-101 is well absorbed through the skin, as indicated in the graph below, while very little is absorbed systemically.
+
+In all four trials, the administration of GTx-101 to healthy volunteers was safe and well tolerated. In addition, no evidence of skin irritation was observed at the application site following the spray administrations. The data below is from two separate trials superimposed on each other – one trial of GTx-101 and one trial of the Lidoderm patch.
+
+![Image 5](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/image_11.jpg)
+
+31
+
+Regulatory
+
+The data from the single dose Phase 1 clinical trial for GTx-101 was submitted to the FDA’s Division of Anesthesiology and feedback was received at a pre-IND meeting that informed the design of pre-clinical toxicology studies and a clinical and regulatory pathway to approval under section 505(b)(2). We completed a minipig skin sensitivity study in the second calendar quarter of 2022, and we initiated a single dose PK trial in healthy human volunteers in July 2022. Topline results from this single dose PK trial were reported in December 2022, and the results met all primary outcome measures.
+
+Next Steps
+
+The further development of GTx-101 has been deprioritized in favor of our focus on development of GTx-104. Pending additional funding for GTx-101 or the signing of a strategic partnership, we plan to follow this successful PK trial with the next step of the clinical development plan including a multiple ascending dose trial. Results from these non-clinical studies and clinical trials are required before the initiation of our Phase 2 program in PHN patients. It is also possible that we may out-license or sell our GTx-101 drug candidate for the U.S. and/or global markets.
+
+Basis of Presentation of the Financial Statements
+
+Our unaudited condensed consolidated financial statements, which include the accounts of our wholly owned subsidiary, have been prepared in accordance with U.S. GAAP and the rules and regulations of the SEC related to quarterly reports filed on Form 10-Q. All intercompany transactions and balances are eliminated on consolidation.
+
+Our assets as of December 31, 2025 include cash and cash equivalents of $18,672 and intangible assets and goodwill of $49,266. Our current liabilities of $1,284 as of December 31, 2025 were comprised primarily of amounts due to or accrued for creditors.
+
+In February 2025, we completed a private placement of Company securities with certain institutional and accredited investors. Net proceeds to the Company were $13,705. Refer to Note 5, Stockholders’ Equity -2025 Private Placement, in the accompanying unaudited condensed consolidated financial statements elsewhere in this document for additional information. In October 2025, the Company received $4,040 in gross proceeds from exercises of common warrants that were previously issued in a private placement in September 2023. We believe our existing cash and cash equivalents will be sufficient to sustain planned operations through at least 12 months from the issuance date of these unaudited condensed consolidated financial statements.
+
+Results of Operations
+
+Comparison of the three and nine months ended December 31, 2025 and 2024
+
+The following table summarizes our results of operations for the three and nine months ended December 31, 2025 and 2024:
+
+(expressed in thousands)
+
+Three months ended Nine months ended
+December
+
+ 31,
+
+ 2025 December
+
+ 31,
+
+ 2024 Increase  (Decrease)December
+
+ 31,
+
+ 2025 December
+
+ 31,
+
+ 2024 Increase
+
+ (Decrease)
+$$$$$$
+Operating expenses
+Research and development expenses, net of government assistance(462)(2,194)(1,732)(1,985)(7,877)(5,892)
+General and administrative expenses(1,987)(1,510)477(6,082)(5,619)463
+Loss from operating activities(2,449)(3,704)(1,255)(8,067)(13,496)(5,429)
+Foreign exchange (loss) gain 4(16)(20)5(11)(16)
+Change in fair value of derivative warrant liabilities(40)(1,178)1,138 900 578 322
+Interest and other income, net 170 138 32 547 544 3
+Income tax benefit—605(605)—2,181(2,181)
+Net loss(2,315)(4,155)(1,840)(6,615)(10,204)(3,589)
+
+32
+
+Net Loss
+
+The net loss of $2,315, or $0.14 per share, for the three months ended December 31, 2025, decreased by $1,840 from the net loss of $4,155, or $0.36 per share, for the three months ended December 31, 2024. The decrease in net loss was primarily due to a $1,732 decrease in research and development expenses and a $1,138 decrease in the change of fair value of derivative warrant liabilities, partially offset by increases in general administrative expenses of $477 and a decrease in income tax benefit of $605. The net loss of $6,615, or $0.41 per share, for the nine months ended December 31, 2025, decreased by $3,589 from the net loss of $10,204, or $0.89 per share, for the nine months ended December 31, 2024. The decrease in net loss was primarily due to a $5,892 decrease in research and development expenses, partially offset by a $463 increase in general and administrative expenses and a $2,181 decrease in income tax benefit and a $322 difference in the change in fair value of derivative warrant liabilities.
+
+Research and development expenses, net of government assistance
+
+Research and development expenses consist primarily of:
+
+•
+
+fees paid to external service providers such as CROs and CMOs related to clinical trials, including contractual obligations for clinical development, clinical sites, manufacturing, and scale-up, and formulation of clinical drug supplies; and
+
+•
+
+salaries and related expenses for research and development personnel, including expenses related to equity compensation.
+
+We record research and development expenses as incurred.
+
+Our research and development activities during the three and nine months ended December 31, 2025 were focused primarily on completing the clinical development program for our GTx-104 drug candidate and preparation and submission of our GTx-104 NDA to the FDA. Our research and development activities during the three and nine months ended December 31, 2024 were focused primarily on our clinical development program for our GTx-104 drug candidate.
+
+The following table summarizes our research and development expenses:
+
+(expressed in thousands)
+
+Three months ended Nine months ended
+December
+
+ 31, 2025 December
+
+ 31, 2024 Increase
+
+ (Decrease)December
+
+ 31, 2025 December
+
+ 31, 2024 Increase
+
+ (Decrease)
+$$$$$$
+Total third-party research and development expenses 1 127 1,973(1,846)892 7,123(6,231)
+Salaries and benefits 295 171 124 926 578 348
+Research and development expense before stock-based compensation and depreciation 422 2,144(1,722)1,818 7,701(5,883)
+Stock-based compensation 40 50(10)167 176(9)
+Total 462 2,194(1,732)1,985 7,877(5,892)
+
+1 Total third-party research and development expenses are calculated before salaries and benefits and stock-based compensation.
+
+Total research and development expenses for the three months ended December 31, 2025 were $462, compared to $2,194 for the three months ended December 31, 2024. The decrease of $1,732 was primarily due to a $1,846 decrease in research activities mainly due to completion of our GTx-104 pivotal Phase 3 STRIVE-ON safety clinical trial in February 2025, partially offset by a $124 increase in salaries and benefits due to merit increases.
+
+Total research and development expenses for the nine months ended December 31, 2025 were $1,985, compared to $7,877 for the nine months ended December 31, 2024. The decrease of $5,892 was primarily due to a $6,231 decrease in research activities mainly due to completion of our GTx-104 pivotal Phase 3 STRIVE-ON safety clinical trial in February 2025, partially offset by a $348 increase in salaries and benefits due to merit increases.
+
+33
+
+Stock-based compensation of $40 and $167 for the three and nine months ended December 31, 2025, respectively, decreased by $10 and $9 compared to $50 and $176 for the three and nine months ended December 31, 2024, respectively.
+
+General and administrative expenses
+
+General and administrative expenses consist primarily of salaries and related benefits, including stock-based compensation, related to our executive, finance, legal, and support functions, including professional fees for auditing, tax, consulting, rent and utilities and insurance.
+
+We expect our general and administrative expenses to continue to increase for the foreseeable future as we continue to advance our research and development programs, grow our business and prepare for possible commercial launch if GTx-104 receives marketing approval.
+
+(expressed in thousands)
+
+Three months ended Nine months ended
+December
+
+ 31, 2025 December
+
+ 31, 2024 Increase
+
+ (Decrease)December
+
+ 31, 2025 December
+
+ 31, 2024 Increase
+
+ (Decrease)
+$$$$$$
+Salaries and benefits 390 521(131)1,313 1,406(93)
+Professional fees 927 518 409 2,789 2,949(160)
+Other 599 360 239 1,526 835 691
+General and administrative expense before stock-based compensation and depreciation 1 1,916 1,399 517 5,628 5,190 438
+Stock-based compensation 69 110(41)449 424 25
+Depreciation and loss on disposal 2 1 1 5 5—
+Total 1,987 1,510 477 6,082 5,619 463
+
+1 General and administrative sub-total expenses are calculated before stock-based compensation and depreciation.
+
+General and administrative expenses were $1,987 for the three months ended December 31, 2025, an increase of $477 from $1,510 for the three months ended December 31, 2024. The increase was primarily a result of an increase in professional fees and other general and administrative expenses due to costs for the GTx-104 pre-commercial planning.
+
+General and administrative expenses were $6,082 for the nine months ended December 31, 2025, an increase of $463 from $5,619 for the nine months ended December 31, 2024. The increase was primarily a result of an increase in other general and administrative expenses due to costs for the GTx-104 pre-commercial planning.
+
+Change in fair value of derivative warrant liabilities
+
+The change in the fair value of derivative warrant liabilities was attributable to expiration of the 2023 Common Warrants which expired on October 21, 2025, the 60th day after the date of the acceptance by the FDA of the NDA for the Company’s product candidate GTx-104. There is no remaining derivative warrant liability as there are no liability classified warrants outstanding as of December 31, 2025.
+
+Interest and other income, net
+
+Interest and other income, net was $170 and $547 for the three and nine months ended December 31, 2025, respectively, compared to $138 and $544 for the three and nine months ended December 31, 2024, respectively. The $32 and $3 increases in our interest and other income was due to increased cash and cash equivalents balances compared to the prior year periods.
+
+Income tax benefit
+
+For the three and nine months ended December 31, 2025, the Company did not record an income tax benefit. For the three and nine months ended December 31, 2024, the Company recorded an income tax benefit of $605 and $2,181, respectively. The period-over-period change is primarily attributable to the establishment of a partial valuation allowance against the Company’s net domestic deferred tax assets. This allowance reflects management’s determination that realization of these assets is not more likely than not at this time. No such valuation allowance was recorded in the prior period.
+
+34
+
+Liquidity and Capital Resources
+
+Cash flows and financial condition for the nine months ended December 31, 2025 and 2024
+
+Summary
+
+As of December 31, 2025, cash and cash equivalents were $18,672, a net decrease of $3,461 compared to cash and cash equivalents of $22,133 at March 31, 2025.
+
+As described below, in February 2025, we completed a private placement of our securities with certain institutional and accredited investors. Net proceeds to us were $13,705. In October 2025, we received $4,040 in gross proceeds from exercises of common warrants that were previously issued in a private placement in September 2023. We believe our existing cash and cash equivalents will be sufficient to sustain planned operations through at least 12 months from the issuance date of the unaudited condensed consolidated financial statements included with this Form 10-Q.
+
+We will require additional capital to fund our daily operating needs beyond that time. We do not expect to generate revenue from product sales unless we obtain regulatory approval, which is subject to significant uncertainty. To date, we have financed our operations primarily through public offerings and private placements of our common equity, warrants and convertible debt, warrant exercises and the proceeds from research tax credits. Until such time that we can generate significant revenue from drug product sales, if ever, we will require additional financing, which is expected to be sourced from a combination of public or private equity or debt financing or other non-dilutive sources, including fees, milestone payments and royalties from collaborations with third parties. Arrangements with collaborators or others may require us to relinquish certain rights related to our technologies or drug product candidates. Adequate additional financing may not be available to us on acceptable terms, or at all. Our inability to raise capital as and when needed could have a negative impact on our financial condition and our ability to pursue our business strategy. We plan to raise additional capital in order to maintain adequate liquidity. Negative results from studies or trials, if any, or depressed prices of our Common Stock could impact our ability to raise additional financing. Raising additional equity capital is subject to market conditions that are not within our control.
+
+Net cash used in operating activities
+
+Net cash used in operating activities for the nine months ended December 31, 2025 was $7,174, compared to $11,950 for the nine months ended December 31, 2024, a decrease of $4,776. The decrease in net cash used in operating activities was primarily due to a $5,892 decrease in research and development activities mainly due to completion of our GTx-104 pivotal Phase 3 STRIVE-ON trial, offset in part by an increase in general and administrative expenses of $463, change in trade and other payables of $607, and a change in fair value of derivative warrant liabilities of $322.
+
+Net cash used in investing activities
+
+There were no investing activities for the nine months ended December 31, 2025. Investing activities for the nine months ended December 31, 2024 were from the purchase of short-term investments of $15 offset by the maturity of short-term investments of $15.
+
+Net cash provided by financing activities
+
+Net cash provided by financing activities for the nine months ended December 31, 2025 was from gross proceeds from common warrant exercises of $4,040, offset from the payment of stock issuance costs of $327 in connection with the 2025 Private Placement. There were no financing activities for the nine months ended December 31, 2024.
+
+2025 Private Placement
+
+In February 2025, we agreed to offer and sell in a private placement (the “2025 Private Placement”) an aggregate of 3,252,132 shares of Common Stock, at a purchase price of $3.395 per share of Common Stock (the “Shares”), and pre-funded warrants to purchase up to 1,166,160 shares of Common Stock, at a purchase price equal to the purchase price per Share less $0.0001 (the “2025 Pre-Funded Warrants”). Each 2025 Pre-Funded Warrant is exercisable for one share of Common Stock at an exercise price of $0.0001 per share, is exercisable immediately and will expire once exercised in full. For each Share and 2025 Pre-Funded Warrant issued, we agreed to issue to each purchaser an accompanying common warrant to purchase shares of Common Stock (or 2025 Pre-Funded Warrants in lieu thereof), exercisable for an aggregate of 4,418,292 shares of Common Stock (or 2025 Pre-Funded Warrants in lieu thereof) (the “2025 Common Warrants”). Each 2025 Common Warrant is exercisable for one share of Common Stock at an exercise price of $3.395 per share, is immediately exercisable and will expire on the earlier of (i) the 60th day after the date the FDA approves the NDA for GTx-104 and (ii) September 25, 2028. The 2025 Private Placement closed on February 11, 2025. The net proceeds to us from the 2025 Private Placement were $13,705, after deducting fees and expenses.
+
+35
+
+2023 Private Placement
+
+In September 2023, we entered into a securities purchase agreement (the “2023 Purchase Agreement”) with certain institutional and accredited investors in connection with a private placement offering of our securities (the “2023 Private Placement”). Pursuant to the 2023 Purchase Agreement, we sold 1,951,371 Common Shares, at a purchase price of $1.848 per Common Share and pre-funded warrants (the “2023 Pre-Funded Warrants”) to purchase up to 2,106,853 Common Shares at a purchase price equal to the purchase price per Common Share less $0.0001. Each 2023 Pre-Funded Warrant is exercisable for one Common Share at an exercise price of $0.0001 per Common Share, is immediately exercisable, and will expire once exercised in full. Pursuant to the 2023 Purchase Agreement, we also issued to such institutional and accredited investors common warrants (the “2023 Common Warrants”, and together with the 2023 Pre-Funded Warrants, the “Warrants”) to purchase Common Shares, exercisable for an aggregate of 2,536,391 Common Shares. Under the terms of the 2023 Purchase Agreement, for each Common Share and each 2023 Pre-Funded Warrant issued in the 2023 Private Placement, an accompanying five-eighths (0.625) of a 2023 Common Warrant was issued to the purchaser thereof. Each whole 2023 Common Warrant is exercisable for one Common Share at an exercise price of $3.003 per Common Share, is immediately exercisable, and will expire on the earlier of (i) the 60th day after the date of the acceptance by the FDA of an NDA for our product candidate GTx-104 or (ii) five years from the date of issuance. The 2023 Private Placement closed on September 25, 2023. The net proceeds to us from the 2023 Private Placement were $7,338, after deducting fees and expenses. In October 2025, the Company received $4,040 in gross proceeds from exercises of 1,345,464 2023 Common Warrants that were issued in the 2023 Private Placement. for 1,345,464 shares of Common Stock. The remaining 1,190,927 2023 Common Warrants issued in the 2023 Private Placement have expired on October 21, 2025 in accordance with the terms of the common warrants as the 60th day after the FDA’s acceptance for review of our NDA for GTx-104 has passed.
+
+Contractual Obligations and Commitments
+
+Our contractual obligations and commitments primarily include trade payables, CMO and CRO agreements.
+
+Research and development contracts and contract research organizations agreements
+
+We utilize CMOs for the development and production of clinical materials, and CROs to perform services related to our clinical trials. Pursuant to the agreements with CMOs and CROs, we have either the right to terminate the agreements without penalties or under certain penalty conditions. As of December 31, 2025, the Company has $185 of commitments to CMOs and no commitments to CROs for the next twelve months.
+
+Contingencies
+
+We evaluate contingencies on an ongoing basis and establish loss provisions for matters in which losses are probable and the amount of the loss can be reasonably estimated.
+
+Use of Estimates and Measurement of Uncertainty
+
+The preparation of these unaudited condensed consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, income, and expenses. Actual results may differ from these estimates.
+
+Estimates are based on management’s best knowledge of current events and actions that management may undertake in the future. Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognized in the period in which the estimates are revised and in any future periods affected.
+
+Estimates and assumptions include the measurement of stock-based compensation, derivative warrant liabilities, accruals for research and development contracts and contract organization agreements, and valuation of intangibles and goodwill. Estimates and assumptions are also involved in determining which research and development expenses qualify for research and development tax credits and in what amounts. We recognize the tax credits once we have reasonable assurance that they will be realized.
+
+Critical Accounting Policies
+
+During the three months ended December 31, 2025, there were no material changes to our critical accounting policies from those described in our Annual Report for the year ended March 31, 2025.
+
+36
+
+Item 3.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Quantitative and Qualitative Disclosures About Market Risk")Quantitative and Qualitative Disclosures About Market Risk
+
+A smaller reporting company is not required to provide the information required by this Item.
+
+Item 4.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Controls and Procedures")Controls and Procedures
+
+Disclosure Controls and Procedures
+
+As of the end of the period covered by this quarterly report, our management, with the participation of our Chief Executive Officer and Principal Financial Officer, has performed an evaluation of the effectiveness of our disclosure controls and procedures within the meaning of Rules 13a-15(e) and 15d-15(e) of the Exchange Act. Based upon this evaluation, our management has concluded that, as of December 31, 2025, our existing disclosure controls and procedures were effective. It should be noted that while our Chief Executive Officer and Principal Financial Officer believe that our disclosure controls and procedures provide a reasonable level of assurance that they are effective, they do not expect the disclosure controls and procedures to be capable of preventing all errors and fraud. A control system, no matter how well conceived or operated, can provide only reasonable, but not absolute, assurance that the objectives of the control system are met.
+
+Changes in Internal Control over Financial Reporting
+
+No changes were made to our internal controls over financial reporting that occurred during the quarter ended December 31, 2025, that have materially affected, or are reasonably likely to materially affect, our internal controls over financial reporting.
+
+PART II. OTHER INFORMATION
+
+Item 1.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Legal Proceedings")Legal Proceedings
+
+In the ordinary course of business, we are at times subject to various legal proceedings and disputes. We assess our liabilities and contingencies in connection with outstanding legal proceedings utilizing the latest information available. Where it is probable that we will incur a loss and the amount of the loss can be reasonably estimated, we record a liability in our unaudited condensed consolidated financial statements. These legal contingencies may be adjusted to reflect any relevant developments on a quarterly basis. Where a loss is not probable or the amount of loss is not estimable, we do not accrue legal contingencies. While the outcome of legal proceedings is inherently uncertain, based on information currently available, no reserves have been accrued at December 31, 2025. However, it is possible that the ultimate resolution of these matters, if unfavorable, may be material to our financial position, results of operations, or cash flows. We are not currently a party to any legal proceedings that, in the opinion of management, are likely to have a material adverse effect on our business.
+
+37
+
+Item 1A.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Risk Factors")Risk Factors
+
+There have been no material changes from the risk factors disclosed in our Annual Report.
+
+Item 2.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Unregistered Sales of Equity Securities and Use of Proceeds")Unregistered Sales of Equity Securities and Use of Proceeds
+
+None.
+
+Item 3.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Defaults upon Senior Securities")Defaults upon Senior Securities
+
+None.
+
+Item 4.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Mine Safety Disclosures")Mine Safety Disclosures
+
+Not applicable.
+
+Item 5.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Other Information")Other Information
+
+During the three months ended December 31, 2025, no director or officer of the Company
+
+adopted
+or
+
+terminated
+a Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement, as each term is defined in Item 408(a) of Regulation S-K.
+
+Item 6.
+
+[](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ef20060621_10q.htm "Exhibits")Exhibits
+
+Exhibit No.Description
+
+[3.1](https://www.sec.gov/Archives/edgar/data/1444192/000114036124042968/ef20036564_ex3-1.htm)Certificate of Incorporation of Grace Therapeutics, Inc. (incorporated by reference to Exhibit 3.1 on the Current Report on Form 8-K filed with the Commission on October 7, 2024)
+
+[3.2](https://www.sec.gov/Archives/edgar/data/1444192/000114036124044363/ef20037633_ex3-1.htm)Certificate of Amendment to the Certificate of Incorporation of Grace Therapeutics, Inc. (incorporated by reference to Exhibit 3.1 on the Current Report on Form 8-K filed with the Commission on October 28, 2024)
+
+[3.3](https://www.sec.gov/Archives/edgar/data/1444192/000114036124044363/ef20037633_ex3-2.htm)Bylaws of Grace Therapeutics, Inc. (incorporated by reference to Exhibit 3.2 on the Current Report on Form 8-K filed with the Commission on October 28, 2024)
+
+[10.1†](https://www.sec.gov/Archives/edgar/data/1444192/000114036125041804/ef20054994_ex10-1.htm)Amendment No. 1 to Letter Agreement by and between Prashant Kohli and the Company, dated November 12, 2025 (incorporated by reference to Exhibit 10.1 to the Quarterly Report on Form 10-Q filed with the Commission on November 13, 2025)
+
+[10.2†](https://www.sec.gov/Archives/edgar/data/1444192/000114036125041804/ef20054994_ex10-2.htm)Letter Agreement by and between Robert J. DelAversano and the Company, dated November 12, 2025 (incorporated by reference to Exhibit 10.2 to the Quarterly Report on Form 10-Q filed with the Commission on November 13, 2025)
+
+[10.3†](https://www.sec.gov/Archives/edgar/data/1444192/000114036125041804/ef20054994_ex10-3.htm)Letter Agreement by and between Amresh Kumar and the Company, dated November 12, 2025 (incorporated by reference to Exhibit 10.3 to the Quarterly Report on Form 10-Q filed with the Commission on November 13, 2025)
+
+[10.4†](https://www.sec.gov/Archives/edgar/data/1444192/000114036125041804/ef20054994_ex10-4.htm)Letter Agreement by and between Carrie D’Andrea and the Company, dated November 12, 2025 (incorporated by reference to Exhibit 10.4 to the Quarterly Report on Form 10-Q filed with the Commission on November 13, 2025)
+
+[10.5†](https://www.sec.gov/Archives/edgar/data/1444192/000114036125041804/ef20054994_ex10-5.htm)Letter Agreement by and between R. Loch Macdonald and the Company, dated November 12, 2025 (incorporated by reference to Exhibit 10.5 to the Quarterly Report on Form 10-Q filed with the Commission on November 13, 2025)
+
+[10.6†](https://www.sec.gov/Archives/edgar/data/1444192/000114036126000995/ef20062691_ex10-1.htm)Amendment No. 2 to Letter Agreement by and between Prashant Kohli and the Company, dated January 10, 2026 (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K filed with the Commission on January 12, 2026)
+
+[10.7†](https://www.sec.gov/Archives/edgar/data/1444192/000114036126000995/ef20062691_ex10-2.htm)Amendment No. 1 to Letter Agreement by and between Robert J. DelAversano and the Company, dated January 10, 2026 (incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K filed with the Commission on January 12, 2026)
+
+[10.8†](https://www.sec.gov/Archives/edgar/data/1444192/000114036126000995/ef20062691_ex10-3.htm)Amendment No. 1 to Letter Agreement by and between Amresh Kumar and the Company, dated January 10, 2026 (incorporated by reference to Exhibit 10.3 to the Current Report on Form 8-K filed with the Commission on January 12, 2026)
+
+[10.9†](https://www.sec.gov/Archives/edgar/data/1444192/000114036126000995/ef20062691_ex10-4.htm)Amendment No. 1 to Letter Agreement by and between Carrie D’Andrea and the Company, dated January 10, 2026 (incorporated by reference to Exhibit 10.4 to the Current Report on Form 8-K filed with the Commission on January 12, 2026)
+
+[10.10†](https://www.sec.gov/Archives/edgar/data/1444192/000114036126000995/ef20062691_ex10-5.htm)Amendment No. 1 to Letter Agreement by and between R. Loch Macdonald and the Company, dated January 10, 2026 (incorporated by reference to Exhibit 10.5 to the Current Report on Form 8-K filed with the Commission on January 12, 2026)
+
+[31.1*](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ex31-1.htm)Certification of Chief Executive Officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934
+
+[31.2*](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ex31-2.htm)Certification of Principal Financial Officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934
+
+[32.1*](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ex32-1.htm)Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+[32.2*](https://www.gracetx.com/investors/sec-filings/all-sec-filings/content/0001140361-26-004924/ex32-2.htm)Certification of the Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+101.INS Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+
+101.SCH Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents
+
+104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+* Filed or furnished herewith
+
+† Indicates a management contract or compensatory plan.
+
+38
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Dated: February 12, 2026
+
+GRACE THERAPEUTICS, INC.
+
+By:/s/ Prashant Kohli
+Name: Prashant Kohli
+Title: Chief Executive Officer (Principal Executive Officer)
+
+By:/s/ Robert DelAversano
+Name: Robert DelAversano
+Title: Principal Financial Officer (Principal Financial Officer)
+
+* * *

@@ -1,0 +1,384 @@
+Title: 7 Free Sales Commission Structure Templates to Streamline Your Compensation Process
+
+URL Source: https://www.captivateiq.com/blog/sales-commission-structure-templates
+
+Published Time: Mon, 13 Apr 2026 18:36:07 GMT
+
+Markdown Content:
+Calculating sales commissions for different commission structures is as important as it is complex.
+
+According to our [2024 State of Incentive Compensation Management Report](https://stateoficmreport.captivateiq.com/), one-third of incentive compensation leaders manage variable compensation for over 1,000 reps.
+
+Additionally, 37% of respondents report spending too much time on manual tasks — like revenue planning — which keeps them from fully focusing on strategic decisions.
+
+To help alleviate this burden, we’ve created a series of Google Sheets and Excel templates designed to simplify calculations for the most common sales commission structures.
+
+Because your commission plan will vary depending on a number of variables —like industry, size of your sales team, or commission percentage —we've analyzed the most common types of sales commission structures and built a sale commission calculator with examples for each.
+
+In each sales commission template, you’ll find:
+
+*   A detailed overview of the sale commission template;
+*   The purpose each template serves based on different sales commission structures;
+*   How to customize the Google Sheets or Excel template to your unique needs. 
+
+We’ve also included screenshots and examples to ensure you can make the most of each sales commission structure template —no matter your use case.
+
+By the end of this article, you’ll have a comprehensive set of resources to help you manage your [sales commissions](https://www.captivateiq.com/blog/sales-commission) with ease and accuracy.
+
+Happy calculations!
+
+## **What Is a Commission Structure Template?**
+
+A commission structure template is a pre-built framework that shows how sellers are compensated for their performance. It outlines fixed and variable pay, commission rates, and rules for calculating payouts. These templates provide consistency, reduce errors, and make it easier for sales leaders to scale compensation programs.
+
+The key elements of a commission structure template are:
+
+*   **Base salary**: Fixed pay regardless of sales.
+*   **Commission rate**: Percentage of revenue, profit, or quota attainment.
+*   **Commission formula**
+*   **Commissionable items:** Which products, services, or deals count.
+*   **Bonus or accelerators**: Higher rates once reps exceed quota.
+*   **Payout schedule:**When earnings are paid (monthly, quarterly, annually).
+*   **Eligibility rules:** Conditions for deals, clawbacks, or SPIFFs
+
+## Sales Commission Structure Templates
+
+| Structure | How it Works | Best For |
+| --- | --- | --- |
+| Salary + Commission | Base + % of sales | Balanced income + incentive |
+| Tiered | Higher % at higher sales | Overperformance motivation |
+| Draw | Advance against commissions | Long cycles/uncertain revenue |
+| Residual | Ongoing % of renewals | SaaS, subscription models |
+| Profit-based | % of profit margin | Focus on high-margin deals |
+| Territory Volume | % of territory sales | Regional growth |
+
+Jump to any sales commission template on this list to get started.
+
+1.   [Salary + Commission Calculator Template](https://www.captivateiq.com/blog/sales-commission-structure-templates#1-salary-commission-calculator-template)
+2.   [Tiered Commission Calculator Template](https://www.captivateiq.com/blog/sales-commission-structure-templates#2-tiered-commission-calculator-template)
+3.   [Draw Against Commission Calculator Template](https://www.captivateiq.com/blog/sales-commission-structure-templates#3-draw-against-commission-calculator-template)
+4.   [Residual Commission Calculator Template](https://www.captivateiq.com/blog/sales-commission-structure-templates#4-residual-commission-calculator-template)
+5.   [Variable Revenue-Based Commission Calculator Template](https://www.captivateiq.com/blog/sales-commission-structure-templates#5-variable-revenue-based-commission-calculator-template)
+6.   [Variable Profit-Based Commission Calculator Template](https://www.captivateiq.com/blog/sales-commission-structure-templates#6-variable-profit-based-commission-calculator-template)
+7.   [Territory Volume Commission Calculator Template](https://www.captivateiq.com/blog/sales-commission-structure-templates#7-territory-volume-commission-calculator-template)
+
+## 1. Salary + Commission Calculator Template
+
+![Image 1: Sales + Commission Structure Template](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf050eb476e90f2eb3b_4isft6mo53.avif)
+
+Salary + Commission Structure Template
+
+_Make your own copy of this sales commission template_[_here_](https://docs.google.com/spreadsheets/d/1Pp6MTaw0dKlLVAHHT70iW2fCVOnXIR75c9rgcvofMio/edit#gid=58897845)
+
+Let’s start with a classic. The base salary plus [commission structure](https://www.captivateiq.com/blog/sales-commission-structures-examples) provides a stable income for sales representatives while still incentivizing them to achieve higher sales.
+
+In our commission plan template, you’ll find two tables. The first (pictured above) is broken down into the following columns:
+
+*   **Sales Reps**, where you’ll add the names of the sellers on your team
+*   **Base Salary**, or base rate where you’ll input the base salary of each sales rep
+*   **Sales**, which will be auto-populated with the total sales amount (in dollars) for each rep in the time frame you’re calculating (weekly, monthly, quarterly, etc.)
+*   **Commission rate** (our template assumes 10%, but you can adjust it to match your company’s rate without breaking the formulas. _If you use a tiered commission structure, the other templates on this list are better suited to your use case_.)
+*   **Commission ($)** which calculates the dollar amount of each sales rep’s total commissions
+*   **Net salary,**which will auto-populate with the net salary for each sales rep
+*   **Total,**which calculates the total commission and net salary for your team
+
+The second table (pictured below) is where you’ll add information about each seller’s activity. This will let you easily calculate the additional compensation amount to add to their base rate.
+
+In each line item, you’ll input **the seller’s name**and **Sales Amount**for individual transactions.
+
+You also have the option of adding a **Description**of the sale and the **Date**won**.**
+
+![Image 2: Salary  Commission Structure Template](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf006153556970d166c_hnvst49iv2.avif)
+
+Add Descriptions and Date of the sale for future reference
+
+If you want to include more members of your sales team, just add more rows to the first table and drag down the cells with the formulas to auto-populate the new rows.
+
+Make sure the sales reps' names exactly match in both tables. This is important because the template uses a SUMIF formula to pull sales amounts from the second table and calculate the total amount in the first table.
+
+## 2. Tiered Commission Calculator Template
+
+![Image 3: Tiered Commission Calculator Template](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf03afdcacd4aafc6ed_2jp7x643h9.avif)
+
+Tiered Commission Calculator Template
+
+_Make your own copy of this sales commission template_[_here_](https://docs.google.com/spreadsheets/d/1vxdW-8pUnFs89xXhwSxGJW_UkHqLSLjTLdh1tPzWWpI/edit?usp=sharing)
+
+The tiered commission plan structure rewards your sales reps progressively more as they achieve higher sales levels. This is an excellent way to enhance sales performance by targeting a commission rate increase.
+
+This could support a commission-only structure or be in addition to base pay.
+
+It’s particularly effective at motivating sellers to exceed their targets and achieve higher [levels of performance](https://www.captivateiq.com/blog/pay-for-performance-pros-cons).
+
+In our Google Sheets or Excel template, you’ll find three tables. The first (pictured above) and third (pictured just below) are similar to the previous template.
+
+To complete them, you need only provide the **Sales Reps’ names**, their **Base Salary**(or base pay), and the **Sales Amount**of each transaction. Once again, you have the option of adding a **Description** and a **Date**.
+
+![Image 4: Sales tiered commissions template](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf03105ca15e46fed70_ktuph3853u.avif)
+
+Add additional details as necessary
+
+The second table (pictured below) is where the tiered aspect comes into play. Our Google Sheets or Excel template assumes 8 tiers that you can customize to match your organization’s commission levels.
+
+You can adjust or delete dollar amounts and rates for each tier at leisure without breaking the formulas.
+
+![Image 5](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf02d2e2f8e4d0441fd_8o7qr7wlzh.avif)
+
+Commission Tiers Template Breakdown
+
+However, if you want to add more tiers to the **Commission Tiers Table**, you’ll have to adjust the VLOOKUP formula in column D (**Commissions**) of the first table so it pulls from the complete range of tiers.
+
+As it stands, the tiers range from **B21** (the first start tier) to **D28** (the last commission rate).
+
+For instance, the formula to calculate sales commissions for SR1 is as follows:
+
+=VLOOKUP(C7,$B$21:$D$28,3,1)*C7
+
+If you were to add another tier by adding a new row to column D, the formula would look like:
+
+=VLOOKUP(C7,$B$21:$D$29,3,1)*C7
+
+The only thing you’re doing is adjusting the row where the table now ends (from D28 to D29.) It’s the same logic for however many tiers you add.
+
+## 3. Draw Against Commission Calculator Template
+
+![Image 6: Draw Against Commissions Template](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf2b17b7bd75be43109_jz4bc50m76.avif)
+
+Draw Against Commissions Template
+
+_Make your own copy of this sales commission template_[_here_](https://docs.google.com/spreadsheets/d/1715RtvH8YuCGKi1wulBR0273Y4B213YMnDIqNlZpfvE/edit?usp=sharing)
+
+The draw against sales commission structure provides your sales team with an advance on future commissions.
+
+This type of sales commission plan can help stabilize income for your reps, especially in roles where [sales cycles are long](https://www.captivateiq.com/blog/long-sales-cycles) or revenue commission is unpredictable.
+
+Aside from the **Sales Reps names** and their **Base Salary**, the first table in this Google Sheets or Excel template (pictured above to the left) also includes:
+
+*   **Draw amount,**where you’ll input how much each rep withdrew against their commissions in a given time period
+*   **Total commissions,**which will auto-populate based on the information you input in the second table (pictured below)
+*   **Net commissions,**which will auto-populate based on the draw amount and total commissions
+*   **Net salary,**which automatically calculates the net salary for each rep according to the base salary plus the net commissions
+
+The second table (pictured above, to the right) includes the [**Commission Rates**](https://www.captivateiq.com//blog/sales-commission-rates-by-industry).
+
+Once again, you can customize the tiers to match your company’s total compensation and sales commission plan.
+
+If you want to add tiers, you’ll have to adjust the VLOOKUP formula in the **Commission Rate**column of the third table (pictured below.)
+
+![Image 7](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf03f5b15d51c3158de_bb0vem2vun.avif)
+
+Add the Commission Rate and Amount 
+
+As it stands, the tiers in the **Commission Rate Table**range from**H9** (**$0)** to **J13**(**12%)**. The formula for the first line item is as follows:
+
+=IFERROR(VLOOKUP(D21,$H$9:$J$13,3,1))
+
+If you were to add a new tier to the **Commission Rate Table**, the formula would be adjusted to:
+
+=IFERROR(VLOOKUP(D21,$H$9:$J$14,3,1))
+
+The **Commission ($)**column will automatically calculate the dollar amount of each commission based on the individual **Sales amounts** and the **Commission Rates**.
+
+## 4. Residual Commission Calculator Template
+
+![Image 8: residual commission calculator template](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf0e413093850635a3f_nllddteetq.avif)
+
+Residual Commission Calculator Template
+
+_Make your own copy of this sales commission template_[_here_](https://docs.google.com/spreadsheets/d/1xrlFhTOA2UO2vt21fQZgGsX53BVbXo0GCbmBstTrBjU/edit?usp=sharing)
+
+With residual commissions, sales reps earn a percentage of the revenue from their accounts for as long as the customers continue to generate sales.
+
+The first and second tables of the Google Sheets or Excel template (pictured above) will look familiar. Once again, all you have to do is add your **Sales Reps’ names** and their **Base Rate Salaries** and adjust the **Commission Rate Table**to match your compensation strategy parameters.
+
+The**Commissions**and **Net Salary**columns will auto-populate once you fill out the information on the third table.
+
+The mandatory fields in the third column (pictured below) are the **Sales Reps’ names** (remember, they have to match those in the first table) and the **Recurring Fee**earned from each account. The **Commission Rate**column will automatically be filled out according to the information in the **Commission Rate Table**.
+
+![Image 9: recurring fee section residual commission calculator template](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf0fc9d47c13e71d75d_zv7p0trg3y.avif)
+
+Add Recurring Fee earned from each account
+
+If you want to add more tiers, it’s the same logic as before. As it stands, the tiers range from **H9** to **J13**.
+
+The formula for the first line item is as follows:
+
+=IFERROR(VLOOKUP(C21,$F$9:$H$13,3,1))
+
+If you were to add a new tier to the **Commission Rate Table**, the formula would be adjusted to account for the new row:
+
+=IFERROR(VLOOKUP(C21,$F$9:$H$14,3,1))
+
+The **Commission Amount**column will then auto-populate with the compensation amount for each individual commission.
+
+The first table acts as a sales commission calculator to automatically calculate the total commissions for each sales rep.
+
+## 5. Variable Revenue-Based Commission Calculator Template
+
+![Image 10: Variable Revenue Based Calculator Template](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf03f5b15d51c3158e2_nwfsdruusj.avif)
+
+Variable Revenue Based Commission Calculator Template
+
+_Make your own copy of this sales commission template_[_here_](https://docs.google.com/spreadsheets/d/1j8kUWE9m8cFWtmVxVsR0mrQ6AJwpzDGIsCGFleTHTMM/edit?usp=sharing)
+
+The variable revenue-based commission structure rewards your team members based on revenue growth.
+
+This revenue commission model is flexible. The commission plan can be tailored to align with your company’s strategic goals for [sales performance](https://www.captivateiq.com/blog/sales-performance-metrics), such as promoting high-margin products or targeting specific customer segments.
+
+Every table in this sales commission plan template is essentially the same as the previous two.
+
+The only difference is that instead of sales amount or recurring fee, in the second table (pictured below), you input the **Revenue** to target specifically the revenue growth that each rep generated with individual sales.
+
+![Image 11: Revenue section in ](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf05c30ccce31a4fe47_aqpe88ftsj.avif)
+
+Add revenue to target revenue growth specifically
+
+The process of adding a new tier to your **Commission Rate Table**is the same as before.
+
+You simply add a new row to the table and then adjust the VLOOKUP formula in the **Commission Rate**column of the second table. As it stands, the tiers range from **H9** to **J13**.
+
+The formula for the first line item is as follows:
+
+=IFERROR(VLOOKUP(D23,$F$14:$H$18,3,1))
+
+If you were to add a new tier to the **Commission Rate Table**, the formula would be adjusted to:
+
+=IFERROR(VLOOKUP(D23,$F$14:$H$19,3,1))
+
+Again, the **Commission Amount, Commissions,**and **Net Salary**columns will auto-populate with the correct values.
+
+## 6. Variable Profit-Based Commission Calculator Template
+
+![Image 12: variable profit-based commission calculator template](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf099c0c21a70d7c4ef_mqy70vvhbn.avif)
+
+Variable Profit-Based Commission Calculator Template
+
+_Make your own copy of this sales commission template_[_here_](https://docs.google.com/spreadsheets/d/1MbF1L8Bc11culeA7w3mKlzn7t5gmVyc7-U4ZyH5E6l0/edit?usp=sharing)
+
+The variable profit-based commission plan structure depends on the profit generated from sales, rather than just the sales revenue generated.
+
+It encourages sales teams to focus on high-gross margin products, high-value deals, and efficient selling practices.
+
+You won’t find anything new in the first two tables of the Sheets or Excel template (pictured above). The only difference is in the third table (pictured below), where we added a column for costs alongside revenue generated from sales.
+
+![Image 13: Costs column variable profit-based template](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf1f92611d40e555c79_c6ffmm2qt3.avif)
+
+Add a column for costs alongside revenue
+
+All you have to do is input the **Revenue**and **Cost**associated with each transaction, and the **commission rate**and **Commission Amount**columns will automatically calculate the values.
+
+If you want to add or remove tiers in the Sheets or Excel template, just follow the exact same process we outlined in previous sections.
+
+## 7. Territory Volume Commission Calculator Template
+
+![Image 14: Territory volume commission template](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf0fdf82eb7e4dcf0ec_ydfcob48zr.avif)
+
+Territory Volume Commission Calculator Template
+
+_Make your own copy of this template_[_here_](https://docs.google.com/spreadsheets/d/1I4gjsmB7kFHwPj4EigCIsprRpqs-q2RIr9IJU-5qUnk/edit#gid=1389244961)
+
+The territory volume commission structure rewards sales reps based on the total sales volume generated within a specific [sales territory](https://www.captivateiq.com/blog/sales-territory-optimization-best-practices).
+
+This structure is particularly effective if your company wants to drive market penetration and growth in specific regions.
+
+Here's how to use the volume-based sale commission calculator.
+
+The first change you’ll notice is in the table pictured above, where there’s a new column for **Territory.**You’ll input this information manually, along with the **Sales Reps’ names** and their **Base Salaries**.
+
+In the second column (pictured below), you’ll add the **Sales Quota**for each territory along with the **Commission percentage (%)**received if the sales quota is reached.
+
+![Image 15: territory volume commission calculator template](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf0b387ea5de0898a6d_hjrh0cfart.avif)
+
+Add sales quota for each territory and commission percentage
+
+The **# Reps**column will auto-populate based on the information in the first table.
+
+If you want to add more reps, you first have to add a new row to that table. Then, you have to adjust the range in the COUNTIF formula of the **# Reps**column in the second table.
+
+As it stands, the formula looks like this:
+
+=COUNTIF($B$8:$B$17,A21)
+
+If you add a new rep, the formula will look like this to account for the new rep/row:
+
+=COUNTIF($B$8:$B$18,A21)
+
+If you want to add a new territory, add a new row to the second table, pull the formulas down, and associate it with the respective seller(s) in the first table.
+
+Just like the reps’ names, make sure the territory names follow the exact same format throughout all tables.
+
+The **Commission ($)**and **Commission/rep**columns will auto-populate with the information from the other columns. **Actual Sales**will be automatically calculated as if with a sales commission calculator based on the information you add to the third table, pictured below:
+
+![Image 16: Actual sales and commission amount](https://cdn.prod.website-files.com/5ea8631963eccd041cf3575f/6686edf00243187760e43907_ez3wi1ancb.avif)
+
+Actual sales will auto-calculate
+
+Here, you don’t have to manually input the territory associated with each sale and rep.
+
+The VLOOKUP formula will automatically fill out the **Territory** column with data from the first table. If you add more sales reps, you’ll also have to adjust the formula to account for the new range.
+
+As it stands, it looks like this:
+
+=IFERROR(VLOOKUP(C29,$A$8:$B$17,2,0))
+
+If you were to add a new rep, it would look like this to account for the change in range:
+
+=IFERROR(VLOOKUP(C29,$A$8:$B$18,2,0))
+
+## Sales Commission Templates Only Get You So Far
+
+Let’s be real: Google and Excel Spreadsheets can only get you so far in streamlining commission calculations.
+
+As your team grows and your compensation plans become more sophisticated, you need a solution that scales with you.
+
+CaptivateIQ offers a robust, scalable, and user-friendly platform that goes beyond what static templates can provide.
+
+Say goodbye to manual tasks and hello to accuracy, transparency, and more time to focus on strategic initiatives.
+
+Ready to optimize your sales commission plan management? [Book a demo today](https://www.captivateiq.com/request-demo).
+
+## Frequently Asked Questions (FAQs)
+
+### **How do You Structure a Commission Sheet?**
+
+First include each rep’s name, role, and quota. Then outline the key components of their plan: base pay, variable pay, commission rate(s), deal size, and performance metrics. Add columns to track actual sales, commission earned, bonuses, and any applicable SPIFFs or clawbacks.
+
+Keep in mind that while spreadsheets work for small teams, they can quickly become time-consuming and error-prone. Many scaling organizations turn to tools like CaptivateIQ to automate commission calculations, reduce manual work, and give reps real-time visibility into their earnings.
+
+### **How to Create a Commission Structure?**
+
+First, define your sales goals and decide which behaviors to reward. Choose a commission type (e.g., base + commission, tiered, residual), set rates as a percentage of revenue or profit, and document eligibility rules and payout schedules.
+
+### **What is a Typical Commission Structure?**
+
+**‍**The most common structure is base salary plus commission, where reps earn a fixed salary plus a percentage of their sales. Rates typically range from 5–10% of revenue, depending on industry and margins.
+
+### **Is 20% Commission Normal?**‍
+
+A 20% commission is higher than average but not uncommon in industries with high margins, such as luxury goods, real estate, or software with recurring revenue. Most sales roles fall between 5–15%.
+
+### **What is the Formula for Sales Commission?**
+
+The simplest sales commission formula is:**Commission = Sales Revenue × Commission Rate**
+
+For example, if a rep closes $100,000 in new business at a 7% commission rate, they earn $7,000. More complex plans may layer in tiered rates, accelerators, or bonuses — like paying a higher percentage once a rep surpasses their quota.
+
+### **What is an Example of a Sales Commission Plan?**
+
+Let’s say a rep has a $500,000 annual quota with the following structure:
+
+*   **Base Salary:** $70,000
+*   **Commission Rate:** 8%
+*   **Accelerator:** 10% for sales beyond quota
+
+If the rep sells $600,000, they’d earn 8% on the first $500K ($40,000) and 10% on the additional $100K ($10,000), for a total commission of $50,000.
+
+### **How to Set Up a Tiered Commission Structure?**
+
+A tiered commission structure increases payout percentages as reps hit higher sales thresholds. Start by defining tiers based on sales volume — for example:
+
+*   **Tier 1:** 5% commission on $0–$50K
+*   **Tier 2:** 7% commission on $50K–$100K
+*   **Tier 3:** 10% commission on $100K+
+
+This structure motivates reps to exceed quota by rewarding overperformance. The key is ensuring accurate calculation and clear communication, especially when deals span multiple tiers.

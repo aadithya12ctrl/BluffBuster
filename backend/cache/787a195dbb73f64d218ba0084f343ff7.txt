@@ -1,0 +1,360 @@
+Title: Medical Record Retrieval | Cotiviti
+
+URL Source: https://www.cotiviti.com/solutions/risk-adjustment/medical-record-retrieval
+
+Markdown Content:
+# Medical Record Retrieval | Cotiviti
+
+We use cookies to offer you a better browsing experience, analyze site traffic, personalize content, and serve targeted advertising. Click “Cookie Settings” to see the types of cookies used and to update your cookie preferences for this browser. You can view our [Privacy Policy](https://www.cotiviti.com/privacy-policy) for more information.
+
+If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
+
+Cookies settings
+
+Accept Decline
+
+Cotiviti Completes Acquisition of Edifecs.[Read the press release.](https://www.cotiviti.com/press-release/cotiviti-completes-acquisition-of-edifecs)[](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-retrieval#)
+
+[Client Center](https://www.cotiviti.com/client-portal-cotiviti)
+
+[Cancel](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-retrieval#)
+
+[](https://www.cotiviti.com/)
+
+*   [About](https://www.cotiviti.com/about)
+    *   [About Us](https://www.cotiviti.com/about)
+    *   [Vision and Mission](https://www.cotiviti.com/about#vision-and-mission)
+    *   [Client Pledge](https://www.cotiviti.com/client-pledge)
+    *   [Cotiviti Cares](https://www.cotiviti.com/about/csr)
+    *   [Associations and Certifications](https://www.cotiviti.com/about/associations)
+    *   [Investor Relations](mailto:investorrelations@cotiviti.com)
+
+*   [Markets](https://www.cotiviti.com/markets)
+    *   [Payers](https://www.cotiviti.com/markets#tab_1)
+    *   [Government](https://www.cotiviti.com/markets#tab_2)
+    *   [Healthcare Providers](https://www.cotiviti.com/markets#tab_3)
+    *   [Employers, Brokers and TPAs](https://www.cotiviti.com/markets#tab_4)
+    *   [Retailers](https://www.cotiviti.com/markets#tab_5)
+
+*   [Solutions](https://www.cotiviti.com/solutions)
+    *   [Payment Accuracy](https://www.cotiviti.com/solutions/payment-accuracy)
+    *   [Health Enablement](https://www.cotiviti.com/solutions/health-enablement)
+    *   [Retail](https://retail.cotiviti.com/)
+
+    *   [Risk Adjustment](https://www.cotiviti.com/solutions/risk-adjustment)
+    *   [Retrospective Solutions](https://www.cotiviti.com/solutions/risk-adjustment#retrospective-solutions)
+    *   [Suspect Analytics](https://www.cotiviti.com/solutions/risk-adjustment/suspect-analytics)
+    *   [Medical Record Retrieval](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-retrieval)
+    *   [Medical Record Coding](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-coding)
+    *   [Second Level Review](https://www.cotiviti.com/solutions/risk-adjustment/second-level-review)
+    *   [Retrospective Review](https://www.cotiviti.com/solutions/risk-adjustment/retrospective-review)
+    *   [Prospective and Concurrent Solutions](https://www.cotiviti.com/solutions/risk-adjustment#prospective-concurrent-solutions)
+    *   [Member Suspecting](https://www.cotiviti.com/solutions/risk-adjustment/member-suspecting)
+    *   [Pre-Visit Prep](https://www.cotiviti.com/solutions/risk-adjustment/pre-visit-prep)
+    *   [Post-Visit Review](https://www.cotiviti.com/solutions/risk-adjustment/post-visit-review)
+    *   [Concurrent Risk Adjustment](https://www.cotiviti.com/solutions/risk-adjustment/concurrent-risk-adjustment)
+    *   [Submissions](https://www.cotiviti.com/solutions/risk-adjustment#submissions)
+    *   [Encounter Management](https://www.cotiviti.com/solutions/risk-adjustment/encounter-management)
+    *   [Risk Assessment](https://www.cotiviti.com/solutions/risk-adjustment#risk-assessment)
+    *   [DxCG Intelligence](https://www.cotiviti.com/solutions/risk-adjustment/dxcg-intelligence)
+
+    *   [Quality and Stars](https://www.cotiviti.com/solutions/quality-and-stars)
+    *   [Quality Intelligence](https://www.cotiviti.com/solutions/quality-and-stars/quality-intelligence)
+    *   [Star Intelligence](https://www.cotiviti.com/solutions/quality-and-stars/star-intelligence)
+    *   [Medical Intelligence](https://www.cotiviti.com/solutions/quality-and-stars/medical-intelligence)
+    *   [Medical Record Retrieval](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-retrieval)
+    *   [Medical Record Abstraction](https://www.cotiviti.com/solutions/quality-and-stars/medical-record-abstraction)
+    *   [Engagement](https://www.cotiviti.com/solutions/engagement)
+    *   [Engagement Hub](https://www.cotiviti.com/solutions/engagement/engagement-hub)
+    *   [Eliza](https://www.cotiviti.com/solutions/engagement/eliza-member-engagement)
+
+    *   [Claim Accuracy](https://www.cotiviti.com/solutions/payment-accuracy/ensure-claim-accuracy)
+    *   [Payment Policy Management](https://www.cotiviti.com/solutions/payment-accuracy/payment-policy-management)
+    *   [Coding Validation](https://www.cotiviti.com/solutions/payment-accuracy/coding-validation)
+    *   [Dental Claim Accuracy](https://www.cotiviti.com/solutions/payment-accuracy/dental-claim-accuracy)
+    *   [Clinical Chart Validation](https://www.cotiviti.com/solutions/payment-accuracy/clinical-chart-validation)
+    *   [Data Mining](https://www.cotiviti.com/solutions/payment-accuracy/data-mining)
+    *   [Contract Compliance](https://www.cotiviti.com/solutions/payment-accuracy/contract-compliance)
+
+    *   [Claim Responsibility](https://www.cotiviti.com/solutions/payment-accuracy/cob-validation)
+    *   [COB Validation](https://www.cotiviti.com/solutions/payment-accuracy/cob-validation)
+    *   [FWA Patterns](https://www.cotiviti.com/solutions/payment-accuracy/360-pattern-review)
+    *   [Claim Pattern Review](https://www.cotiviti.com/solutions/payment-accuracy/claim-pattern-review)
+    *   [FWA Pattern Review](https://www.cotiviti.com/solutions/payment-accuracy/fwa-pattern-review)
+
+*   [Knowledge Bank](https://www.cotiviti.com/knowledge-bank-cotiviti)
+    *   [Resources](https://resources.cotiviti.com/)
+    *   [Blog](https://blog.cotiviti.com/)
+    *   [Events](https://www.cotiviti.com/events)
+    *   [Press Releases](https://www.cotiviti.com/knowledge-bank/press-releases)
+    *   [Media Coverage](https://www.cotiviti.com/media-mentions)
+
+*   [Careers](https://www.cotiviti.com/careers)
+    *   [US Job Postings](https://careers-cotiviti.icims.com/jobs/intro)
+    *   [International Job Postings](https://globalcareers-cotiviti.icims.com/)
+    *   [Culture and Values](https://www.cotiviti.com/careers#culture-and-values)
+    *   [The Way We Work](https://www.cotiviti.com/careers#thewaywework)
+    *   [Benefits](https://www.cotiviti.com/careers#benefits)
+    *   [Career Development](https://www.cotiviti.com/careers#career-development)
+
+*   [Contact](https://www.cotiviti.com/contact-us-cotiviti)
+    *   [Connect with Sales](https://info.cotiviti.com/sales-focused-contact-us)
+    *   [Subscribe to our Content](https://info.cotiviti.com/subscribe)
+    *   [MyCotiviti Portal](https://my.cotiviti.com/login.jsp)
+    *   [Our Headquarters](https://www.cotiviti.com/contact-us-cotiviti#headquarters)
+    *   [Career Opportunities](https://www.cotiviti.com/careers)
+
+*   [Client Center](https://www.cotiviti.com/client-portal-cotiviti)
+
+[![Image 1: Cotiviti Logo](https://www.cotiviti.com/hs-fs/hubfs/Cotiviti_Theme/img/cotiviti-logo.png?noresize&width=200&name=cotiviti-logo.png)](https://www.cotiviti.com/)
+
+[Cancel](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-retrieval#)
+
+*   [About](https://www.cotiviti.com/about)
+    *   [Main Menu](javascript:void(0))
+    *   [Overview](https://www.cotiviti.com/about)
+    *   [About Us](https://www.cotiviti.com/about)
+    *   [Vision and Mission](https://www.cotiviti.com/about#vision-and-mission)
+    *   [Client Pledge](https://www.cotiviti.com/client-pledge)
+    *   [Cotiviti Cares](https://www.cotiviti.com/about/csr)
+    *   [Associations and Certifications](https://www.cotiviti.com/about/associations)
+    *   [Investor Relations](mailto:investorrelations@cotiviti.com)
+
+*   [Markets](https://www.cotiviti.com/markets)
+    *   [Main Menu](javascript:void(0))
+    *   [Overview](https://www.cotiviti.com/markets)
+    *   [Payers](https://www.cotiviti.com/markets#tab_1)
+    *   [Government](https://www.cotiviti.com/markets#tab_2)
+    *   [Healthcare Providers](https://www.cotiviti.com/markets#tab_3)
+    *   [Employers, Brokers and TPAs](https://www.cotiviti.com/markets#tab_4)
+    *   [Retailers](https://www.cotiviti.com/markets#tab_5)
+
+*   [Solutions](https://www.cotiviti.com/solutions)
+    *   [Main Menu](javascript:void(0))
+    *   [Overview](https://www.cotiviti.com/solutions)
+    *   [Payment Accuracy](https://www.cotiviti.com/solutions/payment-accuracy)
+        *   [Main Menu](javascript:void(0))
+        *   [Overview](https://www.cotiviti.com/solutions/payment-accuracy)
+        *   [Claim Accuracy](https://www.cotiviti.com/solutions/payment-accuracy/ensure-claim-accuracy)
+        *   [Payment Policy Management](https://www.cotiviti.com/solutions/payment-accuracy/payment-policy-management)
+        *   [Coding Validation](https://www.cotiviti.com/solutions/payment-accuracy/coding-validation)
+        *   [Dental Claim Accuracy](https://www.cotiviti.com/solutions/payment-accuracy/dental-claim-accuracy)
+        *   [Clinical Chart Validation](https://www.cotiviti.com/solutions/payment-accuracy/clinical-chart-validation)
+        *   [Data Mining](https://www.cotiviti.com/solutions/payment-accuracy/data-mining)
+        *   [Contract Compliance](https://www.cotiviti.com/solutions/payment-accuracy/contract-compliance)
+        *   [Claim Responsibility](https://www.cotiviti.com/solutions/payment-accuracy/cob-validation)
+        *   [COB Validation](https://www.cotiviti.com/solutions/payment-accuracy/cob-validation)
+        *   [FWA Patterns](https://www.cotiviti.com/solutions/payment-accuracy/360-pattern-review)
+        *   [Claim Pattern Review](https://www.cotiviti.com/solutions/payment-accuracy/claim-pattern-review)
+        *   [FWA Pattern Review](https://www.cotiviti.com/solutions/payment-accuracy/fwa-pattern-review)
+
+    *   [Health Enablement](https://www.cotiviti.com/solutions/health-enablement)
+        *   [Main Menu](javascript:void(0))
+        *   [Overview](https://www.cotiviti.com/solutions/health-enablement)
+        *   [Risk Adjustment](https://www.cotiviti.com/solutions/risk-adjustment)
+        *   [Retrospective Solutions](https://www.cotiviti.com/solutions/risk-adjustment#retrospective-solutions)
+        *   [Suspect Analytics](https://www.cotiviti.com/solutions/risk-adjustment/suspect-analytics)
+        *   [Medical Record Retrieval](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-retrieval)
+        *   [Medical Record Coding](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-coding)
+        *   [Second Level Review](https://www.cotiviti.com/solutions/risk-adjustment/second-level-review)
+        *   [Retrospective Review](https://www.cotiviti.com/solutions/risk-adjustment/retrospective-review)
+        *   [Prospective and Concurrent Solutions](https://www.cotiviti.com/solutions/risk-adjustment#prospective-concurrent-solutions)
+        *   [Member Suspecting](https://www.cotiviti.com/solutions/risk-adjustment/member-suspecting)
+        *   [Pre-Visit Prep](https://www.cotiviti.com/solutions/risk-adjustment/pre-visit-prep)
+        *   [Post-Visit Review](https://www.cotiviti.com/solutions/risk-adjustment/post-visit-review)
+        *   [Concurrent Risk Adjustment](https://www.cotiviti.com/solutions/risk-adjustment/concurrent-risk-adjustment)
+        *   [Submissions](https://www.cotiviti.com/solutions/risk-adjustment#submissions)
+        *   [Encounter Management](https://www.cotiviti.com/solutions/risk-adjustment/encounter-management)
+        *   [Risk Assessment](https://www.cotiviti.com/solutions/risk-adjustment#risk-assessment)
+        *   [DxCG Intelligence](https://www.cotiviti.com/solutions/risk-adjustment/dxcg-intelligence)
+        *   [Quality and Stars](https://www.cotiviti.com/solutions/quality-and-stars)
+        *   [Quality Intelligence](https://www.cotiviti.com/solutions/quality-and-stars/quality-intelligence)
+        *   [Star Intelligence](https://www.cotiviti.com/solutions/quality-and-stars/star-intelligence)
+        *   [Medical Intelligence](https://www.cotiviti.com/solutions/quality-and-stars/medical-intelligence)
+        *   [Medical Record Retrieval](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-retrieval)
+        *   [Medical Record Abstraction](https://www.cotiviti.com/solutions/quality-and-stars/medical-record-abstraction)
+        *   [Engagement](https://www.cotiviti.com/solutions/engagement)
+        *   [Engagement Hub](https://www.cotiviti.com/solutions/engagement/engagement-hub)
+        *   [Eliza](https://www.cotiviti.com/solutions/engagement/eliza-member-engagement)
+
+    *   [Retail](https://retail.cotiviti.com/)
+
+*   [Knowledge Bank](https://www.cotiviti.com/knowledge-bank-cotiviti)
+    *   [Main Menu](javascript:void(0))
+    *   [Overview](https://www.cotiviti.com/knowledge-bank-cotiviti)
+    *   [Resources](https://resources.cotiviti.com/)
+    *   [Blog](https://blog.cotiviti.com/)
+    *   [Events](https://www.cotiviti.com/events)
+    *   [Press Releases](https://www.cotiviti.com/knowledge-bank/press-releases)
+    *   [Media Coverage](https://www.cotiviti.com/media-mentions)
+
+*   [Careers](https://www.cotiviti.com/careers)
+    *   [Main Menu](javascript:void(0))
+    *   [Overview](https://www.cotiviti.com/careers)
+    *   [US Job Postings](https://careers-cotiviti.icims.com/jobs/intro)
+    *   [International Job Postings](https://globalcareers-cotiviti.icims.com/)
+    *   [Culture and Values](https://www.cotiviti.com/careers#culture-and-values)
+    *   [The Way We Work](https://www.cotiviti.com/careers#thewaywework)
+    *   [Benefits](https://www.cotiviti.com/careers#benefits)
+    *   [Career Development](https://www.cotiviti.com/careers#career-development)
+
+*   [Contact](https://www.cotiviti.com/contact-us-cotiviti)
+    *   [Main Menu](javascript:void(0))
+    *   [Overview](https://www.cotiviti.com/contact-us-cotiviti)
+    *   [Connect with Sales](https://info.cotiviti.com/sales-focused-contact-us)
+    *   [Subscribe to our Content](https://info.cotiviti.com/subscribe)
+    *   [MyCotiviti Portal](https://my.cotiviti.com/login.jsp)
+    *   [Our Headquarters](https://www.cotiviti.com/contact-us-cotiviti#headquarters)
+    *   [Career Opportunities](https://www.cotiviti.com/careers)
+
+*   [Client Center](https://www.cotiviti.com/client-portal-cotiviti)
+*   [Client Center](https://www.cotiviti.com/client-portal-cotiviti)
+
+# Medical Record Retrieval
+
+## Improve risk adjustment and HEDIS® results 
+
+while minimizing provider abrasion
+
+![Image 2: a dollar sign icon with arrows](https://www.cotiviti.com/hubfs/solutions-icons/ICON_RiskAdjustment-MAGENTA.svg)
+
+Medical Record Retrieval is part of Cotiviti's 
+
+[Risk Adjustment](https://www.cotiviti.com/solutions/risk-adjustment) solution suite.
+
+![Image 3: Icon of a medical file](https://www.cotiviti.com/hubfs/solutions-icons/Icon_MedicalRecordRetrieval_REVERSE.svg)
+
+Health plans need to acquire, exchange, and share large volumes of clinical data to support appropriate reimbursement and drive quality member care. A successful retrieval solution operates efficiently at scale and allows health plans to conduct outreach in a coordinated, minimally intrusive manner that meets providers where they are.
+
+[Read the fact sheet](https://resources.cotiviti.com/risk-adjustment-solutions/medical-record-retrieval-solution)
+
+_"Our Cotiviti partnership continues to be outstanding from preparation of the upcoming season to the end of Medical Record Retrieval"_
+
+_-Cotiviti client, Blue health plan_
+
+### Cotiviti's Medical Record Retrieval solution offers comprehensive, web-based medical record retrieval, aggregation, indexing, and storage—fulfilling even high-volume record requests with minimal disruption to providers and their office staff.
+
+Cotiviti deploys a range of capabilities to meet providers' preferences for retrieval methods and for accurate record location. Our digital-first approach helps streamline outreach efforts, with a range of tactics to overcome barriers and achieve project completion. Achieve optimal retrieval strategies and achieve stronger results thanks to our long-term expertise, expert processes, and data management on provider preferences and performance.
+
+Medical Record Retrieval also prioritizes interoperability. Plans benefit from high-quality data sourced from a growing network of hospital connections, health information exchanges (HIEs), and EMR vendors. Our strategic digital data partnerships and network management help increase the number of charts captured digitally, obtaining clinical data in the C-CDA r2.1 or FHIR format.
+
+### Medical Record Retrieval results
+
+#### >1.8M
+
+providers in our curated proprietary database
+
+#### >88%
+
+risk retrieval rate for MA plans
+
+#### 90%
+
+Average HEDIS retrieval rate
+
+[](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-retrieval#)[](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-retrieval#)[](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-retrieval#)
+
+### Medical Record Retrieval benefits
+
+Gain retrieval efficiency and lower provider abrasion with our proprietary record retrieval software and processes, with features that include:
+
+*   **Provider insights.** Before outreach, we match provider data found within the approved chase with industry data as well as an extensive proprietary database of historical provider data to reflect the most current provider preferences and locations.
+*   **Configurable retrieval process.** We help optimize retrieval and prioritize provider requests with a solution that can configure processes for various modes of retrieval. Our fully integrated scheduling and project management system contains detailed provider information that can be tracked, stored, and managed to determine the optimal method for retrieval.
+*   **Client-facing platform.** Applications accessed via our client retrieval portal allow clients to track requests in real time, view detailed notes and alerts from Cotiviti retrieval agents, and manage post-retrieval project workflows.
+*   **Ability to scale.** Medical Record Retrieval is adaptable to plans of all sizes, available for a variety of different project and plan needs, all with the same high level of support.
+*   **Range of applications.** Medical Record Retrieval can be applied to a wide number of purposes including, but not limited to:
+
+    *   HEDIS reporting
+    *   Star Ratings initiatives
+    *   Risk adjustment
+    *   Clinical chart (DRG) review
+
+_HEDIS® is a registered trademark of the National Committee for Quality Assurance._
+
+### What makes Cotiviti different?
+
+Cotiviti's Medical Record Retrieval solution gives health plans key benefits that differentiate us from the competition:
+
+*   >25 years of industry experience partnering with national and regional health plans
+*   Extensive provider dataset and ability to optimize requests with site-grouping and accurate record location
+*   Digital-first approach and strong healthcare interoperability expertise
+*   Expansive database of provider locations and engagement preferences
+*   Technology-driven workflows and configurable processes
+
+[Read the fact sheet](https://resources.cotiviti.com/risk-adjustment-solutions/medical-record-retrieval-solution)
+
+### Ready to learn more? Talk to one of our sales representatives—fill out the form below to schedule a call.
+
+First Name:* 
+
+Last Name:* 
+
+Work Email:* 
+
+Job level* 
+
+Job Title:* 
+
+Area(s) of responsibility:* 
+
+*   - [x] Overall risk adjustment 
+*   - [x] Retrospective programs 
+*   - [x] Prospective programs 
+*   - [x] Interoperability, Technology, AI 
+*   - [x] Compliance 
+*   - [x] Other 
+
+Organization Type: 
+
+Are you interested in a Demo? 
+
+*   - [x] Subscribe to our blog? 
+
+Persona 
+
+HoneyPot 
+
+*   [Company](https://www.cotiviti.com/)
+*   [About Us](https://www.cotiviti.com/about)
+*   [Solutions](https://www.cotiviti.com/solutions)
+*   [Markets](https://www.cotiviti.com/markets)
+*   [Cotiviti Cares](https://www.cotiviti.com/about/csr)
+
+*   [Knowledge Bank](https://www.cotiviti.com/knowledge-bank-cotiviti)
+*   [Resources](https://resources.cotiviti.com/)
+*   [Blog](https://blog.cotiviti.com/)
+*   [Events](https://www.cotiviti.com/events)
+*   [Press Releases](https://www.cotiviti.com/knowledge-bank/press-releases)
+*   [Media Coverage](https://www.cotiviti.com/media-mentions)
+
+*   [Contact](https://www.cotiviti.com/contact-us-cotiviti)
+*   [Contact Us](https://www.cotiviti.com/contact-us-cotiviti)
+*   [Client Center](https://www.cotiviti.com/client-portal-cotiviti)
+*   [Careers](https://www.cotiviti.com/careers)
+*   [Investor Relations](https://www.cotiviti.com/about#investor-relations)
+
+*   [About](https://www.cotiviti.com/about)
+*   [Solutions](https://www.cotiviti.com/solutions)
+*   [Knowledge Bank](https://www.cotiviti.com/knowledge-bank-cotiviti)
+*   [Blog](https://blog.cotiviti.com/)
+*   [Careers](https://www.cotiviti.com/careers)
+*   [Contact](https://www.cotiviti.com/contact-us-cotiviti)
+*   [Client Center](https://www.cotiviti.com/client-portal-cotiviti)
+
+*   [](https://www.youtube.com/@Cotiviti "YouTube")
+*   [](https://www.linkedin.com/company/cotiviti/ "LinkedIn")
+*   [](https://www.facebook.com/CotivitiInc/ "Facebook")
+*   [](https://blog.cotiviti.com/ "Cotiviti Blog")
+
+*   [Privacy Policy](https://www.cotiviti.com/privacy-policy)
+*   [Terms and Conditions](https://www.cotiviti.com/terms-use)
+*   [Cookie Settings](https://www.cotiviti.com/solutions/risk-adjustment/medical-record-retrieval)
+*   © 2026 Cotiviti, Inc. All rights reserved. All proprietary information shall remain the sole and exclusive property of Cotiviti, Inc.
+
+[](https://www.cotiviti.com/)
+
+Cookie Settings
+
+### How can I:
+
+[Pay claims accurately and protect payment integrity?](https://www.cotiviti.com/solutions/payment-accuracy "Pay claims accurately and protect payment integrity?")[Optimize HEDIS and Star Ratings outcomes?](https://www.cotiviti.com/solutions/quality-and-performance "Optimize HEDIS and Star Ratings outcomes?")[Improve risk score accuracy and reimbursement?](https://www.cotiviti.com/solutions/risk-adjustment "Improve risk score accuracy and reimbursement?")[Drive member action and improve health outcomes?](https://www.cotiviti.com/solutions/consumer-engagement/eliza-member-engagement "Drive member action and improve health outcomes?")

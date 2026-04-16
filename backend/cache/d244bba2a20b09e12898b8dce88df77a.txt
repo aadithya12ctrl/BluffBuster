@@ -1,0 +1,254 @@
+Title: AirBnb: The Growth Story You Didn’t Know - GrowthHackers.com
+
+URL Source: https://growthhackers.com/growth-studies/airbnb/
+
+Published Time: 2023-04-18T17:22:11+00:00
+
+Markdown Content:
+In 2007, designers Brian Chesky and Joe Gebbia couldn’t afford the rent on their San Francisco apartment. To make ends meet, they decided to turn their loft into a lodging space, but, as Gebbia explains:
+
+> “We didn’t want to post on Craigslist because we felt it was too impersonal. Our entrepreneur instinct said ‘build your own site.’ So we did.”[[1]](https://allentrepreneur.wordpress.com/2009/08/26/travel-like-a-human-with-joe-gebbia-co-founder-of-airbnb/)
+
+There was a design conference coming to town and hotel space was limited, so they set up a simple website with pictures of their their loft-turned-lodging space—complete with three air mattresses on the floor and the promise of a home-cooked breakfast in the morning. This site got them their first three renters, each one paying $80, and after that first weekend they began receiving emails from people around the world asking when the site would be available for destinations like Buenos Aires, London, and Japan. Gebbia explains:
+
+The following spring, they enlisted former roommate and engineer Nathan Blecharczyk to help them get Airbed & Breakfast off the ground. They planned the launch around the Democratic National Convention in order to capitalize on the resulting lack of hotel space. Fast forward seven years, and Airbed and Breakfast is now Airbnb—a household name that has surpassed industry legacy Hilton Hotels in nights booked. As of spring 2014, the platform had 10 million guests and 550,000 properties listed worldwide, along with a $10B valuation—making Airbnb worth more than legacy players like Wyndham and Hyatt.[[2]](http://techcrunch.com/gallery/a-brief-history-of-airbnb/)The company has received $776.4M from investors like Y Combinator, Sequoia Capital, Keith Rabois, Andreessen Horowitz, Ashton Kutcher, Founders Fund, and TPG Growth in a total of seven funding rounds—the last of which raised $500M alone.[[3]](http://www.crunchbase.com/organization/airbnb)
+
+![Image 1](https://growthhackers.com/wp-content/uploads/2023/04/AirBnb-Guest-Growth-768x378.png)
+
+![Image 2](https://growthhackers.com/wp-content/uploads/2023/04/AirBnb-Funding-Growth-1024x806.png)
+
+![Image 3](https://growthhackers.com/wp-content/uploads/2023/04/AirBnb-Listings-Growth-1024x814.png)
+
+But how did a few air mattresses on the floor of a San Francisco loft become the most widely-used anecdote for startup growth hacking?
+
+### **Early Growth**
+
+#### “Pure, Unadulterated Hustle” in the Face of Initial Resistance
+
+As they were starting out in the summer of 2008, the founders needed a way to raise money. They bought a ton of cereal and designed special edition election-themed boxes, released that fall—Obama O’s and Cap’n McCain’s, which they sold at convention parties for $40 a box. They sold 500 boxes of each cereal, helping them to raise around $30k for Airbed & Breakfast.
+
+Still, the site did not gain much traction initially, and the founders resorted to living off of leftover Cap’n McCain’s (the Obama O’s sold out)—a time they refer to as a real “low point.” This low point did not last for long, however, as the following spring they had dinner with Paul Graham.
+
+Nevertheless, Airbed & Breakfast soon joined Y Combinator’s 2009 winter class, receiving another $20,000 in funding. They renamed the business Airbnb, and soon received another $600k in a seed round from Sequoia Capital and Y Ventures.[[2]](http://techcrunch.com/gallery/a-brief-history-of-airbnb/%20)Not everyone was as impressed with Airbnb’s business model, however, and the young startup was also notoriously rejected by Fred Wilson and Union Square Ventures—a decision Wilson now admits wasn’t a good one. Wilson claimed in 2011 that Union Square kept a box of Obama O’s in their conference room to remind themselves not to make the same mistake again. It also serves as an example of an early stage startup doing everything necessary to get off the ground. As Wilson explains:
+
+But it wasn’t just Airbnb’s business model that posed a concern. When Gebbia and Chesky—both of whom are Rhode Island School of Design alums—were initially seeking funding for their startup, potential investors didn’t know what to make of a company with two designers, despite the fact that Blecharczyk, with a solid background in tech, had already signed on as an engineer. Chesky explains that it was hard for many in the Valley to see the company’s potential because, “they thought we just made things pretty.”[[4]](https://www.fastcompany.com/3017358/most-innovative-companies-2012/19airbnb)Yet it was most likely this design background that helped Airbnb to find such innovative, unexpected solutions—like the limited edition presidential cereal campaign—to the very real problems that all early stage startups face. It is this ability to innovate that informs much of Airbnb’s growth strategy.
+
+**Craigslist Platform Integration**
+
+It’s unclear exactly when Airbnb implemented what’s become their most famous growth hack, but there is evidence of the Craigslist platform hack as early as 2010.[[6]](http://www.gettingmoreawesome.com/2010/11/24/airbnb-leverages-craigslist-in-a-really-cool-way/)Though the startup worked hard to distinguish themselves from the more impersonal, scam-filled super platform, Craigslist had one thing that Airbnb did not—a massive user base.
+
+![Image 4](https://growthhackers.com/wp-content/uploads/2023/04/AirBnb-Craigslit-Integration-Idea-768x486.png)
+
+In order to tap into this market, Airbnb offered users who listed properties on Airbnb the opportunity to post them to Craigslist as well—despite the fact that there was no sanctioned way from Craigslist to do so.
+
+Though fairly straightforward in hindsight, the execution was anything but simple, as explained by writer and entrepreneur Andrew Chen. We’re going to touch on the high points without delving too deeply into the technical details. For starters, because Craigslist saves listing information using a unique url rather than a cookie, Airbnb was able to build a bot to visit Craigslist, snag a unique URL, input the listing info, and forward the URL to the user for publishing—as Rishi Shah documented in the screenshot below.
+
+![Image 5](https://growthhackers.com/wp-content/uploads/2023/04/airbnb-craigslist-email.png)
+
+But that’s just the beginning. The bot also had to fill out a handful of forms, the simplest of which was the Craigslist category. Region proved a bit more of a challenge since there are hundreds of different versions of Craigslist, some much more specific than others—for example, six sub-regions within a region for the Bay Area, yet one Craigslist for the entire state of Maine. This means it was necessary to visit every Craigslist and scrape the names and codes for every region. Furthermore, there was the issue of the anonymous email assigned by Craigslist. This function had to be turned off and replaced with a link to the Airbnb listing. And to ensure that the listing stood out among the standard Craigslist fare, the platform’s limited HTML support had to be taken into consideration as well. As Chen explains:
+
+> “This kind of integration is not trivial. … I wouldn’t be surprised if the initial integration took some very smart people a lot of time to perfect. A traditional marketer would not even be close to imagining the integration above – there’s too many technical details needed for it to happen. As a result, it could only have come out of the mind of an engineer tasked with the problem of acquiring more users from Craigslist.”[[7]](http://web.archive.org/web/20151114192320/http://andrewchen.co/2012/04/27/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/)
+
+The benefits of the Airbnb/Craigslist integration were numerous. Not only was it the sheer volume of potential users accessible via Craigslist, but the fact that Airbnb listings were far superior to the other properties available—more personal, with better descriptions and nicer photos—made them more appealing to Craigslist users looking for vacation properties. Once those Craigslist users made the switch, they were more likely to ignore Craigslist and book through Airbnb in the future. Not only that, but those with properties listed on Airbnb ended up making more money on their listings, which kept them using the service as well.[[7]](http://web.archive.org/web/20151114192320/http://andrewchen.co/2012/04/27/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/)
+
+#### Craigslist Poaching
+
+While the first integration got much needed traffic to Airbnb listings, in Craigslist the company saw another opportunity for getting more users to list their properties on Airbnb in the first place. Dave Gooden, who admittedly works in the vacation rental sector, says that in late 2009 he began looking into Airbnb’s mysterious growth. He explains:
+
+> “When a competing company comes on my radar, I always do my due diligence. In my AirBnB research, I didn’t find great SEO results or a gazillion followers on Twitter or any massive advertising spends on Google or Facebook. I looked everywhere but I couldn’t find any rational or traditional reasons for this type of growth. All of these AirBnB users can’t be coming from tech blogs, can they? Word of mouth? I didn’t think so. After thinking on it for a day or two, only one possible answer popped into my head: ‘These guys are black hats!’”[[50]](http://web.archive.org/web/20151114192320/http://davegooden.com/2011/05/how-airbnb-became-a-billion-dollar-company/)
+
+To test his theory, Gooden set up a “mouse trap” by posting a couple of rental properties to Craigslist, both using Craigslist’s “anonymous” email option and clearly specifying that he did not want to be contacted about other offers. Within a couple of hours, Gooden says he received an email from a “young lady” who really liked his property and wanted him to check out Airbnb. He claims that this email alone was 99% of the evidence needed to support his Airbnb/Craigslist spam theory. However, he wanted to be sure the email wasn’t simply from an excited Airbnb user, so he decided to dig a bit more. Over the next weekend, Gooden built a site that used Craigslist email harvesting technology and mass mailing technology to target Craigslist users with vacation rentals. The result was over 1,000 vacation rental owners who signed up to list their properties on Gooden’s test site. He then re-listed one of the properties on Craigslist, and within a day he received the following email:
+
+![Image 6](https://growthhackers.com/wp-content/uploads/2023/04/airbnb-craigslist-outreach-800x433-1.jpeg)
+
+The next week he listed two more properties, and received two more emails. The week after that, he listed yet another property, and received two more emails. As Gooden explains:
+
+> “When you scale a black hat operation like this you could easily reach tens of thousands of highly targeted people per day…and quickly gain 60,000 members on the supply-side, which again, is the hardest and most important part of growing a market place. I am pretty sure that AirBnB isn’t the only company that has used this strategy/technique, but I think they are the first to turn it into a one hundred million dollar investment at a one billion dollar valuation.”[[50]](http://web.archive.org/web/20151114192320/http://davegooden.com/2011/05/how-airbnb-became-a-billion-dollar-company/)
+
+Though this hack isn’t as clever as the Craigslist platform integration discussed above—and it and it definitely constitutes spam—it certainly helped Airbnb to grow their listings quickly and at almost no cost.
+
+#### Start with the Perfect Experience and Work Backward
+
+As we mentioned in the introduction, after hosting their first three guests in their San Francisco apartment, Gebbia and Chesky began receiving emails from people around the world requesting Airbnb in their own cities and cities they’d like to visit, or as Gebbia put it, “People told us what they wanted, so we set off to create it for them.”[[1]](http://web.archive.org/web/20151114192320/http://allentrepreneur.wordpress.com/2009/08/26/travel-like-a-human-with-joe-gebbia-co-founder-of-airbnb/)Indeed, much of Airbnb’s growth can be attributed to the fact that—despite what venture capitalists thought—people wanted the service Airbnb offered. One way in which this is apparent is with their approach the photographs on listings.
+
+In the summer of 2009, as the company was searching for new office space, Chesky stayed exclusively in Airbnb listings in order to gather firsthand data about the service.[[2]](http://web.archive.org/web/20151114192320/http://techcrunch.com/gallery/a-brief-history-of-airbnb/)That same summer, Airbnb wasn’t gaining much traction in New York, so Gebbia and Chesky flew out and booked spaces with 24 hosts to figure out what the problem was. As it turned out, users weren’t doing a great job of presenting their listings. According to Gebbia, “The photos were really bad. People were using camera phones and taking Craigslist-quality pictures. Surprise! No one was booking because you couldn’t see what you were paying for.” Their solution was low-tech but effective. According to Chesky, “A web startup would say, ‘Let’s send emails, teach [users] professional photography, and test them. “We said, ‘Screw that.'”[[4]](http://web.archive.org/web/20151114192320/http://www.fastcompany.com/3017358/most-innovative-companies-2012/19airbnb)
+
+Instead, they rented a $5,000 camera and went door to door, taking professional pictures of as many New York listings as possible. This approach led to two to three times as many bookings on New York listings[[2]](http://web.archive.org/web/20151114192320/http://techcrunch.com/gallery/a-brief-history-of-airbnb/), and by the end of the month Airbnb’s revenue in the city had doubled. What was stunting growth in New York was also stunting growth in Paris, London, Vancouver, and Miami.[[4]](http://web.archive.org/web/20151114192320/http://www.fastcompany.com/3017358/most-innovative-companies-2012/19airbnb)
+
+This led to the Airbnb photography program, which was officially launched in the summer of 2010. Hosts could automatically schedule a professional photographer to come and photograph their space.[[4]](http://web.archive.org/web/20151114192320/http://www.fastcompany.com/3017358/most-innovative-companies-2012/19airbnb)Though initially only 20 photographers were contracted by Airbnb, the service became an instant hit.[[2]](http://web.archive.org/web/20151114192320/http://techcrunch.com/gallery/a-brief-history-of-airbnb/)Though this initiative wasn’t cheap for the cash-strapped startup, the founders felt that the long-term benefits—enhanced listings resultings from this program are two and half times more likely to be booked, and they earn their hosts an average of $1,025 per month—were well worth the cost. By 2012, that number had grown to more than 2,000 freelance photographers employed by Airbnb to photograph 13,000 listings on six continents.[[4]](http://web.archive.org/web/20151114192320/http://www.fastcompany.com/3017358/most-innovative-companies-2012/19airbnb)
+
+![Image 7](https://growthhackers.com/wp-content/uploads/2023/04/AirBnb-Photography-Program-1024x665.png)
+
+![Image 8](https://growthhackers.com/wp-content/uploads/2023/04/airbnb-photographers-chart.png)
+
+Image via Analytics Lessons Learned
+
+As Chesky explains, “We start with the perfect experience and then work backward. That’s how we’re going to continue to be successful.”[[4]](http://web.archive.org/web/20151114192320/http://www.fastcompany.com/3017358/most-innovative-companies-2012/19airbnb)However, this applies not only to their treatment of listing photos. Airbnb looked at the characteristics users valued and worked to engineer those into the entire site.
+
+#### Disrupting an Established (Yet Stagnant) Market
+
+When Chesky and Gebbia first advertised their loft-turned-lodging space and home cooked breakfast, they were promising more than simply a place to sleep. And as we’ve already discussed, as Airbnb grew, this nevertheless remained a core component of the user experience. It was this ability to deliver more than just a place to sleep that allowed Airbnb to disrupt the established lodging market in such a major way. Yet in order to really compete with hotels, they had to do more than just offer a better experience. Another major advantage of Airbnb was that it tended to be substantially cheaper—generally 30-80% lower than area hotels[[8]](http://web.archive.org/web/20151114192320/https://www.quora.com/Airbnb/Why-was-Airbnb-so-successful). A 2008 TechCrunch article on the startup, which was still called AirBed and Breakfast at the time, explained:
+
+> In general, the prices are usually much cheaper (rates in San Francisco, for instance, range from $10 to $175 a night, with the median being $85). And you get to stay with a friendly local who can steer you to restaurants and stores you probably would never find otherwise.”[[9]](http://web.archive.org/web/20151114192320/http://techcrunch.com/2008/08/11/airbed-and-breakfast-takes-pad-crashing-to-a-whole-new-level/)
+
+Yet as one commenter pointed out, there is one drawback to Airbnb:
+
+> “If this ever becomes mainstream, the whole thing will come crashing down. The kind of people that *DO* rob, abuse, rape and murder people will start using these systems, and that will spread legitimate fear, corrupting the whole thing. Pray that this remains underground, that’s the only way it can survive.”[[9]](http://web.archive.org/web/20151114192320/http://techcrunch.com/2008/08/11/airbed-and-breakfast-takes-pad-crashing-to-a-whole-new-level/)
+
+With more nights booked than Hilton and a greater valuation than Wyndham and Hyatt,[[2]](http://web.archive.org/web/20151114192320/http://techcrunch.com/gallery/a-brief-history-of-airbnb/)there’s no denying that Airbnb has gone mainstream. Yet the whole thing has not come crashing down thanks to a number of efforts to help overcome the inherent trust issues—not that Airbnb hasn’t facilitated its fair share of robberies, which we’ll discuss in just a bit.
+
+For starters, professional photographs did a lot to inspire trust on one side of the equation—not only by helping to ensure that listings weren’t complete dumps, but also by simply verifying addresses.
+
+#### Social Connections
+
+In addition to enhanced photos, in the summer of 2011 the company introduced Airbnb Social Connections, which leverages users’ social graphs via Facebook Connect. When it is enabled, the listing showed mutual connections who have stayed with the host or are friends with the host.
+
+![Image 9](https://growthhackers.com/wp-content/uploads/2023/04/AirBnB-Social-Connctions-1024x650.png)
+
+When the feature launched in 2011, Chesky also claimed that there were already 16,516,967 connections among current Airbnb members—a number that has surely grown since.
+
+## **Heart vs. Star – Optimizing the Product for Engagement**
+
+In the summer of 2012, Airbnb redesigned the site around a new Wish Lists feature. Just four months later, 45% of Airbnb users were engaging with Wish Lists, and over a million had been created. [[54]](https://www.fastcodesign.com/1670890/how-airbnb-evolved-to-focus-on-social-rather-than-searches)The Wish Lists product optimization started much smaller, however. The ability to save properties by starring them had been possible on the Airbnb site for a couple years, but the team wondered whether the function was optimized for maximum engagement.
+
+![Image 10](https://growthhackers.com/wp-content/uploads/2023/04/Airbnb-Wish-List-Idea-1024x672.png)
+
+They decided to change the generic star to a heart, and they were surprised to when engagement increased by 30% as a result of that simple change.
+
+Gebbia explains that the heart, “showed us the potential for something bigger.” [[54]](https://www.fastcodesign.com/1670890/how-airbnb-evolved-to-focus-on-social-rather-than-searches) That potential was aspirational rather than utilitarian—something more than a simple accommodations search tool. It’s the aspirational difference between a star and a heart that led Airbnb to develop Wish Lists.
+
+Wish Lists are functional, designed to facilitate sharing and collaboration, but they also speak to the aspirational potential of the heart by helping positional Airbnb listings as content and giving users a reason to visit the site not only when they’re looking to book a room, but when work is boring or the weather is oppressive. Users can visit Wish Lists as a means of escape, browsing whimsical AIrbnb curated lists such as It Yurts So Good and Castles. Ultimately, like the site’s use of social connections, Wish Lists have helped the site to stand out among competitors. Rather than merely a place to search for accommodations, Wish Lists helped Airbnb to move toward a more engaging social discovery model.
+
+## **Early Controversy**
+
+The same summer that Airbnb debuted social connections, they received $112M in a Series B funding round from Andreessen Horowitz, Digital Sky Technologies, General Catalyst Partners, Jeff Bezos, Ashton Kutcher—who also joined the company’s advisory board—and CrunchFund. Then on June 22nd, just three days after this funding—which valued Airbnb at over $1B—an AirBnB user’s home was ransacked.[[11]](https://ejroundtheworld.blogspot.com/2011/06/violated-travelers-lost-faith-difficult.html)It’s unclear whether the company actually refused to help out the user, named EJ, as TechCrunch’s Michael Arrington initially reported:
+
+Airbnb was quick to email TechCrunch with the following corrections, which appear as an update at the end of the article:
+
+1.   We have been assisting investigators and they have a suspect in custody.
+2.   We have been working with the host since the event and we have offered to assist her to the situation to [everyone’s] satisfaction. If you read the blog post, you’ll see that she points this out:
+3.   We actually have an entire safety FAQ for our users. You can find it here:[http://www.airbnb.com/safety](https://www.airbnb.com/safety)
+
+The same day the TechCrunch article went live, Chesky also contributed a guest post on TechCrunch entitled “On Safety: A Word from Airbnb,” in which he asserted, among other things that:
+
+Among these improvements, Airbnb promised they were working to double their customer support staff, create a dedicated Trust & Safety department, create a Host Education Center with safety tips for hosts, design enhanced userprofile verification, facilitate richer communication between guests and hosts pre-booking, and offer insurance options to hosts—though the specifics of those insurance options were initially unclear.[[13]](http://techcrunch.com/2011/07/27/on-safety-a-word-from-airbnb/)
+
+Then in May of 2012, Airbnb partnered with Lloyds of London to expand their guarantee even further, covering every booking with their $1,000,000 Host Guarantee. The company points out, however, that the guarantee isn’t a replacement for home or renter’s insurance, and it does not cover cash and securities, collectibles, rare artwork, jewelry, pets, or personal liability.
+
+Though the company’s initial handling of the situation was pretty poor, they certainly seem to have learned from their mistakes regarding damages and liability, and the $1,000,000 Host Guarantee is now one of the company’s greatest assets. By moving quickly to address these concerns Airbnb was able to continue growing with these incidents becoming hiccups on an otherwise frantic growth curve.
+
+## **Current & Future Growth Engine**
+
+### **International**
+
+From the earliest days of Airbed and Breakfast when the founders received emails from people around the world requesting the site’s expansion, international users have played a significant role in Airbnb’s growth. In May of 2011, Gebbia told GigaOM’s Colleen Taylor:
+
+With the acquisition of German knockoff Accoleo for an undisclosed amount the following month, Airbnb opened its first European office in Hamburg, Germany, to be headed by Accoleo founder Gunnar Froh.[[21]](http://techcrunch.com/2011/06/01/airbnb-buys-german-clone-accoleo-opens-first-european-office-in-hamburg/)
+
+The following spring, Airbnb acquired their largest UK-based competitor Crashpadder just in time for the 2012 Summer Olympics in London. That same year, Airbnb opened offices across Europe, in not only London by also Paris, Barcelona, and Milan.[[22]](http://techcrunch.com/2014/03/20/airbnb-big-in-europe/)
+
+In August of 2014, Airbnb’s Rebecca Rosenfelt gave a talk entitled “Going for Global,” in which she outlined some of the company’s recent international growth strategies.
+
+Rosenfelt began by pointing out that though people in the Valley think of Airbnb as a mature company, in parts of the world they are still more of a “scrappy startup.” She explained, “We’ve had to crack growth over and over and over again as we break into new regions.”
+
+![Image 11](https://growthhackers.com/wp-content/uploads/2023/04/AirBnb-International-Growth-1024x666.png)
+
+According to Rosenfelt, part of the struggle is that Airbnb is a two-sided marketplace. That means that in every new market, they have to grow both the demand side (travelers) and the supply side (hosts). As it turns out, the supply side is much harder to grow, as it takes a bit to get people comfortable with the idea of opening their homes up to strangers.
+
+One market in which Airbnb knew they needed to grow was France—though people were traveling to typical tourist locations in France using Airbnb, not many people were using Airbnb to vacation within France. They decided to take two approaches to growing, setting up an A/B test in which they chose several small vacation markets within France that they thought would be popular. They randomly selected half of the locations to physically visit, and half to target using Facebook ads like the one below:
+
+![Image 12](https://growthhackers.com/wp-content/uploads/2023/04/airbnb-facebook-ad.png)
+
+By contrast, in the markets they physically visited, teams of two to three people would talk to the few users already in that market to get an idea of what was going on. They’d also throw parties and info sessions, sets up booths around town, post flyers, and, as Rosenfelt says, “do whatever it takes.”[[51]](http://web.archive.org/web/20151114192320/http://www.slideshare.net/500startups/05-rebecca-rosenfelt-airbnb-draft-1)They also made sure to get contact info for everyone they talked to who showed interest in hosting, and they followed up later with more information, an offer to create a listing for them to review, and the like.
+
+Airbnb kept meticulous track of what it cost to send people (including the cost of throwing parties, setting up booths, and other “on the ground” activities) and the listings that resulted, and compared that to the Facebook ads and resulting listings in the markets they didn’t visit.
+
+It turned out that cost per acquisition was 5x better for actually sending people into markets. Not only that, but after “kickstarting” these markets with a human presence, they kept growing 2x faster by themselves. Based on Airbnb’s experience, Rosenfelt claims that sometimes it’s beneficial to do things that don’t scale, because an un-scaleable tactic might be more scaleable than initially thought, as was the case with sending teams into new markets.
+
+At the very least, these initiatives result in valuable feedback in terms of what’s going on and other, more scalable opportunities for growth. This push for international growth has proven effective for the company, as the shifting demographics of the company user base indicate. In 2011, for example, around half of Airbnb’s guests were from the United States, but as of March 2014 that number had dropped to less than 30%, all the while more than half of its guest over the previous year were from Europe. Furthermore, the company projected the number of European guests to more than double in 2014.[[22]](http://web.archive.org/web/20151114192320/http://techcrunch.com/2014/03/20/airbnb-big-in-europe/)
+
+### Expansion: “The Entire Trip”
+
+But Airbnb didn’t just focus on expanding to offer lodging in more cities around the world; the company also expanded to offer more than just lodging. As Chesky explained to Fast Company in early 2014, “Our business isn’t [renting] the house—our business is the entire trip.”[[23]](http://web.archive.org/web/20151114192320/http://www.fastcompany.com/3029361/most-innovative-companies-2014/airbnb-reportedly-closes-new-round-of-funding-valuing-it-at-1) This has been achieved primarily through a focus on delivering a local experience, but the company has dipped its toe in other areas as well, including maid service and “experiences.
+
+#### An Entire Hospitality Brand
+
+According to Fast Company’s Austin Carr, the concept of hospitality used to be considered “a relic of Old World grand hotels.” Now, by contrast, the word is used so frequently that it’s somewhat of an inside joke: “You hear it in the halls: Whenever an employee holds a door open for fellow coworkers or offers to clear their plates in the cafeteria, others tease, ‘Oh, so hospitable!’”[[24]](http://web.archive.org/web/20151114192320/http://www.fastcompany.com/3027107/punk-meet-rock-airbnb-brian-chesky-chip-conley)It is this concept of hospitality that drives much of Airbnb’s current and future growth initiatives.
+
+As Paul Graham explains, “If you ask Brian now what drives Airbnb’s growth, it’s not that people want to get a cheaper space. Airbnb could’ve spread out horizontally into the sharing of power tools and cars and stuff like that. But Brian has decided the growth is in hospitality.”
+
+#### Local
+
+It is that local experience that draws many guests to Airbnb. Indeed, despite all the emphasis on hospitality, one of the major selling points—and, as we previously discussed, also one of the major drawbacks—is that Airbnb is not a hotel. Guests who use the site typically want to experience a city in a more local, authentic way. Tapping into this desire—perhaps an extension of Chesky’s “starting with the perfect experience and working backward”[[4]](http://web.archive.org/web/20151114192320/http://www.fastcompany.com/3017358/most-innovative-companies-2012/19airbnb)—the company has been placing increasing emphasis on facilitating this local experience. In November of 2012, Airbnb launched two local initiatives—Airbnb Neighborhoods, which the company refers to as “the definitive guide to neighborhood experiences around the world”[[25]](http://web.archive.org/web/20151114192320/http://blog.airbnb.com/introducing-airbnb-neighborhoods/), and Local Lounges. In the company post announcing Neighborhoods, Vivek Wagle explained:
+
+“Our users have told us that location is the single most important criterion when choosing a place to stay. And with such overwhelming choice, travelers often have trouble planning their accommodations. … But imagine if someone created a tool that matched you with the neighborhood that’s right for your trip.”[[25]](http://web.archive.org/web/20151114192320/http://blog.airbnb.com/introducing-airbnb-neighborhoods/)
+
+![Image 13](https://growthhackers.com/wp-content/uploads/2023/04/AirBnb-Neibourhoods-1024x650.png)
+
+Airbnb Neighborhoods leverages many of the features that have proven successful for the company in the past, including professional photography and local perspective.
+
+#### Cleaning Services
+
+Chesky explains, “It’s full-service cleaning, with stocking, which means leaving towels, bed sheets, mints, and a welcome package, like Vitaminwater in the fridge. And also staging, which is making sure the heating and lights are on.”[[24]](https://www.fastcompany.com/3027107/punk-meet-rock-airbnb-brian-chesky-chip-conley)Cleaning service starts at $55 for a one bedroom, one bathroom listing, and are available through third-party partners Homejoy and Handybook, both of which interview and run background checks on each of their cleaners.[[30]](https://www.airbnb.com/help/article/488). According to the company’s own help article, this experimental feature may be extended to more cities and more hosts in the future.[[30]](https://www.airbnb.com/help/article/488)
+
+![Image 14](https://growthhackers.com/wp-content/uploads/2023/04/Airbnb-Cleaning-Services-1024x673.png)
+
+#### **Mobile**
+
+Airbnb has been optimizing their service hosts and guests on mobile devices in response to the increasing consumer shift toward mobile—a shift that has been largely beneficial for Airbnb.
+
+![Image 15](https://growthhackers.com/wp-content/uploads/2023/04/Mobile-Experience-1024x666.png)
+
+Mike Curtis, Airbnb head of engineering, claimed in October of 2013, “We’re really concentrating on mobile right now, building out our mobile team and building out our mobile product.”[[34]](http://techcrunch.com/2013/10/16/scott-raymond-airbnb/)In July of 2013, Airbnb for the first time allowed hosts to create listing and upload photos via mobile devices, even offering a how-to guide for first-time hosts.[[35]](https://www.fastcompany.com/3020134/fast-feed/airbnb-just-hired-gowalla-cofounder-to-focus-on-mobile)[[36]](http://techcrunch.com/2013/07/31/airbnb-mobile-app-update/)By October, around 50% of hosts were using the mobile app[[34]](http://techcrunch.com/2013/10/16/scott-raymond-airbnb/), and those hosts tended to respond to guests three times faster than those on desktop—meaning bookings can happen as much as eight times faster via the Airbnb app.[[36]](http://techcrunch.com/2013/07/31/airbnb-mobile-app-update/)As Chesky explains, “Can you imagine if every Uber driver had to go home first to check their laptop in order to find their next ride?”[[24]](https://www.fastcompany.com/3027107/punk-meet-rock-airbnb-brian-chesky-chip-conley)
+
+The new app also included updated features for guests. “Larger, more dynamic images, easily navigable maps, and thoughtful animations” contributed to a more immersive design, and a new Discover Feed featured Airbnb’s most unique and popular properties like lofts, treehouses, and castles, and allowed users to explore based on destination, theme, or trip type. The mobile booking process was also streamlined.[[37]](https://blog.airbnb.com/new-airbnb-mobile-apps/)
+
+#### **Referral**
+
+In late 2013, Airbnb decided to relaunch their “underutilized and underperforming” [53] referral program. Because the majority of emails are actually read on mobile, they decided to support sending and accepting mobile referrals—something very few apps do.
+
+![Image 16](https://growthhackers.com/wp-content/uploads/2023/04/Relaunch-Referral-Program-1024x670.png)
+
+Gustaf Alströmer, Growth Product Manager at Airbnb, described the referral system below as something they weren’t proud of:
+
+![Image 17](https://growthhackers.com/wp-content/uploads/2023/04/airbnb-referral-credit-1.0.jpeg)
+
+To begin, Alströmer says they looked at all the referral data they already had, which helped them to get an idea of how the product was doing and what was working, as well as make some forecasts as to what kind of growth might be possible from an improved referrals program. They also talked to companies with successful referral programs to get a better idea of industry standards and the potential for growth with a well-executed relaunch.
+
+Though they knew it would be a challenge, they decided to redesign and relaunch web, iOS, and Android referrals simultaneously, and the five person team in charge of the project rented out an Airbnb apartment in order to work offsite and focus in on the task at hand. After 3 months and 30,000 lines of code, Airbnb’s referrals program relaunched in January of 2014. From day one, they tracked everything about the relaunch using their in-house event logging platform air_events.
+
+![Image 18](https://growthhackers.com/wp-content/uploads/2023/04/airbnb-logging-system-800x450-1.png)
+
+They measured invites sent via email, Twitter, Facebook, and direct link, and they immediately A/B tested all kinds of variables to learn as much as possible. They wanted to ensure that invites felt like gifts (rather than promotions), and It turned out that invites with a photo of the sender helped to reinforce that feeling.
+
+They also found that using the Recommended Contacts feature from Gmail and Android APIs resulted in a higher conversion rate, likely because these contacts are closer to the sender.[[52]](http://web.archive.org/web/20151114192320/http://www.slideshare.net/500startups/500distro-under-the-microscope-how-airbnb-thinks-about-productmarket-fit-team-more)Another A/B test involved the promotional emails sent by Airbnb to potential referrers.
+
+When testing self-interested versus altruistic language, they found that altruistic emails resulted in more invitations sent globally—which is also in-keeping with the idea of Airbnb referrals as a gift.[[53]](http://web.archive.org/web/20151114192320/http://nerds.airbnb.com/making-referrals-work-for-airbnb/)
+
+![Image 19](https://growthhackers.com/wp-content/uploads/2023/04/airbnb-give-get-800x513-1.png)
+
+Airbnb’s new referrals program has already resulted in hundreds of thousands of nights booked by referred users in 2014,[[52]](http://web.archive.org/web/20151114192320/http://www.slideshare.net/500startups/500distro-under-the-microscope-how-airbnb-thinks-about-productmarket-fit-team-more)and referrals increased booking as much as 25% in some markets.[[53]](http://web.archive.org/web/20151114192320/http://nerds.airbnb.com/making-referrals-work-for-airbnb/)Not only that, but Airbnb found that referred users tend to be better than the average user—in other words, they’re not merely in it for a free night. They tend to remain engaged with Airbnb and book future trips, and they are much more likely to send referrals themselves. As Alströmer explained at a talk on the relaunch in August of 2014, Airbnb is still experimenting with their referrals program—including its use of the popular Recommended Contacts function—in order to keep driving and improving referrals. Nevertheless, he claims that Airbnb’s goal is user experience over growth, and rather than simply driving as many referrals as possible, the company wants to gain quality users who will continue to use and enjoy Airbnb.[[52]](http://web.archive.org/web/20151114192320/http://www.slideshare.net/500startups/500distro-under-the-microscope-how-airbnb-thinks-about-productmarket-fit-team-more)
+
+#### Rebranding
+
+Only July 16, 2014, Airbnb officially relaunched their site and mobile apps with an entirely new look and feel.
+
+This rebranding was the result of a full year of brand study, for which they collected user research, interviewed guests and hosts in more than a dozen countries, and brought in London-based DesignStudio for additional assistance.
+
+After conducting intense research into their own brand as well as others, Chesky claims he was able to distill it all into a single concept—belonging. He explains, “Airbnb is about belonging anywhere. The brand shouldn’t say we’re about community, or our international [reach], or renting homes—it’s about belonging.”
+
+![Image 20](https://growthhackers.com/wp-content/uploads/2023/04/airbnb-new-logo.jpeg)
+
+Their new logo, the Bélo, embodies all this and more, combining visual elements of a person, a location pin, a heart, and the “A” in Airbnb. Chesky has high hopes that the logo will grow to become a “universal symbol of sharing.” He explains:
+
+> “Imagine one day you’re walking down the street and you see the Airbnb symbol in a window—you’ll know that it’s an Airbnb and a place that can be shared. … A restaurant could put this on its window telling travelers that it’s an Airbnb-friendly place. I can’t go into specifics, but you’re going to see this design continue to permeate the real world.”
+
+#### Final Thoughts
+
+Thanks to effective user and address verification processes and the company’s $1M host guarantee, the safety and liability concerns of 2011 are less of an issue for Airbnb. As the company has expanded and refined its business model, they’ve grown from a more friendly, personal alternative to Craigslist into a more friendly, personal alternative to hotels.
+
+After all, based on the number of beds offered, Airbnb is the fifth-largest hotelier in the world, with prices at least one-sixth cheaper than traditional competitors and a presence in almost every country worldwide.
+
+Testing and iterating new ideas was a fundamental part of that journey, and that is what makes Airbnb such a great case study for growth.
+
+Written by **Morgan Brown**, co-author of Hacking Growth.
