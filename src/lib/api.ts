@@ -54,6 +54,16 @@ export const api = {
    * Get the status and full results of a session
    */
   getSession: async (sessionId: string): Promise<SessionResult> => {
+    // Zero-latency demo mode: fetch from local public assets if ID matches
+    if (sessionId === 'demo-founder') {
+      const response = await fetch('/demo_founder.json');
+      return response.json();
+    }
+    if (sessionId === 'demo-vc') {
+      const response = await fetch('/demo_vc.json');
+      return response.json();
+    }
+
     const response = await fetch(`${API_BASE_URL}/session/${sessionId}`);
     
     if (!response.ok) {

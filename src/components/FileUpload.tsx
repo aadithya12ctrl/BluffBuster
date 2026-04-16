@@ -191,6 +191,16 @@ export default function FileUpload() {
                 <>START ANALYSIS</>
               )}
             </button>
+
+            {!isUploading && (
+              <button 
+                onClick={() => navigate(`/dashboard/demo-${mode}`)}
+                className="w-full mt-4 glass py-4 border border-white/10 text-muted-forensic font-pixel text-[9px] tracking-[0.2em] uppercase hover:text-off-white hover:border-white/30 transition-all duration-300 flex items-center justify-center gap-3"
+              >
+                <Target className="w-4 h-4" />
+                TRY DEMO (FOODDEL.PDF)
+              </button>
+            )}
           </motion.div>
         )}
       </div>
