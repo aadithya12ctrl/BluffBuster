@@ -203,12 +203,15 @@ graph LR
     E --> F["Financial Stress"]
     F --> G["Competitor Blind"]
     G --> H["Adversarial Debate"]
+    H --> HITL{"Human-in-the-Loop"}
+    HITL -. "Judge Intervention" .-> H
     H --> I["Truth Heatmap"]
     I --> J["END"]
 
     style A fill:#00C896,stroke:#0A0A0F,color:#0A0A0F
     style C fill:#FF3D3D,stroke:#0A0A0F,color:#fff
     style H fill:#FF9500,stroke:#0A0A0F,color:#0A0A0F
+    style HITL fill:#61DAFB,stroke:#0A0A0F,color:#0A0A0F
     style I fill:#FF3D3D,stroke:#0A0A0F,color:#fff
 ```
 
@@ -222,12 +225,15 @@ graph LR
     D --> E["Red Flag Scorer"]
     E --> F["Domain Credibility"]
     F --> G["Adversarial Debate"]
+    G --> HITL{"Human-in-the-Loop"}
+    HITL -. "Judge Intervention" .-> G
     G --> H["Truth Heatmap"]
     H --> I["END"]
 
     style A fill:#00C896,stroke:#0A0A0F,color:#0A0A0F
     style B fill:#FF3D3D,stroke:#0A0A0F,color:#fff
     style G fill:#FF9500,stroke:#0A0A0F,color:#0A0A0F
+    style HITL fill:#61DAFB,stroke:#0A0A0F,color:#0A0A0F
     style H fill:#FF3D3D,stroke:#0A0A0F,color:#fff
 ```
 

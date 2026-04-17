@@ -40,7 +40,7 @@ export default function BlindSpotDetector({ data }: BlindSpotDetectorProps) {
           </p>
           <div className="flex flex-wrap gap-2 pt-4">
             <span className="font-pixel text-[6px] text-muted-forensic uppercase tracking-widest self-center mr-2">Mentioned in Deck:</span>
-            {data.mentioned_competitors.map((name, i) => (
+            {(data.mentioned_competitors || []).map((name, i) => (
               <span key={i} className="px-2 py-1 bg-white/5 border border-white/10 rounded-sm font-pixel text-[6px] text-off-white/60">
                 {name}
               </span>

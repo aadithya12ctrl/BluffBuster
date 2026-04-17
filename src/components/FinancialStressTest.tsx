@@ -117,7 +117,7 @@ export default function FinancialStressTest({ data }: FinancialStressTestProps) 
           <h3 className="font-bebas text-2xl tracking-widest text-off-white uppercase">Critical Leakage Detection</h3>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {data.flags.map((flag, i) => (
+          {(data.flags || []).map((flag, i) => (
             <motion.div 
               key={i}
               initial={{ opacity: 0, y: 10 }}

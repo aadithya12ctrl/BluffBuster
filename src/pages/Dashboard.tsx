@@ -1,9 +1,49 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, Component, ErrorInfo, ReactNode } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { Loader2, AlertTriangle, ArrowLeft, Target, Fingerprint, ShieldAlert } from 'lucide-react';
 import { api, SessionResult } from '../lib/api';
 import { PieChart, Pie, Cell, ResponsiveContainer } from 'recharts';
+import DashboardScrollSnake from '../components/DashboardScrollSnake';
+
+// Error Boundary to catch render crashes and show a message instead of black screen
+class DashboardErrorBoundary extends Component<{children: ReactNode, onReset: () => void}, {hasError: boolean, error: Error | null}> {
+  constructor(props: any) {
+    super(props);
+    this.state = { hasError: false, error: null };
+  }
+  static getDerivedStateFromError(error: Error) {
+    return { hasError: true, error };
+  }
+  componentDidCatch(error: Error, info: ErrorInfo) {
+    console.error('[BluffBuster Dashboard] Render crash:', error, info);
+  }
+  render() {
+    if (this.state.hasError) {
+      return (
+        <div className="min-h-screen bg-transparent flex items-center justify-center p-4">
+          <div className="glass p-8 border-red-forensic/40 max-w-lg text-center space-y-4">
+            <AlertTriangle className="w-12 h-12 text-red-forensic mx-auto" />
+            <h2 className="font-bebas text-3xl text-off-white tracking-widest">RENDER CRASH DETECTED</h2>
+            <p className="font-pixel text-[9px] text-red-forensic/80 tracking-wider uppercase leading-relaxed">
+              {this.state.error?.message || 'Unknown error'}
+            </p>
+            <p className="font-pixel text-[8px] text-muted-forensic tracking-wider uppercase leading-relaxed">
+              A component failed to render. The analysis data may have an unexpected shape.
+            </p>
+            <button
+              onClick={this.props.onReset}
+              className="glass-red px-6 py-3 font-pixel text-[10px] tracking-widest uppercase text-off-white hover:text-red-forensic transition-colors"
+            >
+              RETURN TO BASE
+            </button>
+          </div>
+        </div>
+      );
+    }
+    return this.props.children;
+  }
+}
 
 const GaugeChart = ({ score, color }: { score: number, color: string }) => {
   const data = [
@@ -114,7 +154,7 @@ export default function Dashboard() {
 
   if (error) {
     return (
-      <div className="min-h-screen bg-background flex items-center justify-center p-4">
+      <div className="min-h-screen bg-transparent flex items-center justify-center p-4">
         <div className="glass p-8 border-red-forensic/40 max-w-md text-center">
           <AlertTriangle className="w-12 h-12 text-red-forensic mx-auto mb-4" />
           <h2 className="font-bebas text-2xl text-off-white tracking-widest mb-4">SYSTEM ERROR</h2>
@@ -132,7 +172,7 @@ export default function Dashboard() {
 
   if (!session || session.status === 'processing') {
     return (
-      <div className="min-h-screen bg-background flex flex-col items-center justify-center text-center">
+      <div className="min-h-screen bg-transparent flex flex-col items-center justify-center text-center">
         <Loader2 className="w-16 h-16 text-red-forensic animate-spin mb-8" />
         <h2 className="font-bebas text-5xl tracking-[0.2em] text-off-white mb-4">FORENSIC SCAN ACTIVE</h2>
         <motion.p 
@@ -152,7 +192,9 @@ export default function Dashboard() {
   if (!res) return null;
 
   return (
-    <div className="min-h-screen bg-background text-off-white py-24 px-4 md:px-20 relative overflow-hidden">
+    <DashboardErrorBoundary onReset={() => navigate('/')}>
+      <DashboardScrollSnake />
+    <div className="min-h-screen bg-transparent text-off-white py-24 px-4 md:px-20 relative overflow-hidden">
       {/* Background decorations */}
       <div className="fixed inset-0 pointer-events-none opacity-[0.02] z-0">
         <svg width="100%" height="100%">
@@ -517,5 +559,6 @@ export default function Dashboard() {
 
       </motion.div>
     </div>
+    </DashboardErrorBoundary>
   );
 }

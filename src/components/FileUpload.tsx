@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import { motion } from 'framer-motion';
-import { Upload, File, X, AlertCircle, Loader2 } from 'lucide-react';
+import { Upload, File, X, AlertCircle, Loader2, Target } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { api } from '../lib/api';
 import { useModeStore } from '../store/modeStore';

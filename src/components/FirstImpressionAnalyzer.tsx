@@ -98,7 +98,7 @@ export default function FirstImpressionAnalyzer({ data }: FirstImpressionAnalyze
         </div>
         
         <div className="grid grid-cols-1 gap-6">
-          {data.rewrites.map((rw, i) => (
+          {(data.rewrites || []).map((rw, i) => (
             <motion.div 
               key={i}
               initial={{ opacity: 0, x: -20 }}

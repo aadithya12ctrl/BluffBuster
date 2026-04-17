@@ -1,0 +1,494 @@
+================================================================================
+                      🔴 B L U F F B U S T E R 🔴
+              Forensic Pitch Deck Analysis — v2.4
+         "Lies are obvious. Exaggerated truths aren't."
+================================================================================
+             PRESENTATION DEMO GUIDE — HACKATHON EDITION
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 1 — THE PROBLEM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Every year, thousands of pitch decks land in investors' inboxes. The dirty truth:
+
+  • 73% of pitch decks contain exaggerated TAM (Total Addressable Market) claims
+  • Founders routinely cite data that is 6–18 months stale
+  • "AI-powered" is the new "blockchain-powered" — buzzwords replace substance
+  • Financial projections go completely unchallenged until the term sheet
+
+The industry's current "solution" is to paste the deck into ChatGPT and ask
+"Is this legit?" ChatGPT gives you an OPINION. BluffBuster gives you EVIDENCE
+WITH RECEIPTS.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 2 — WHAT IS BLUFFBUSTER?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BluffBuster is a FORENSIC AI SYSTEM that:
+
+  1. EXTRACTS every factual, quantitative, and comparative claim from a pitch
+     deck PDF automatically.
+
+  2. SEARCHES the live web (DuckDuckGo + Jina AI deep-scraping) for
+     corroborating or contradicting evidence in real time.
+
+  3. VERIFIES each claim with one of four machine verdicts:
+       → VERIFIED       (claim is well-supported)
+       → EXAGGERATED    (technically true but overstated)
+       → FALSE          (contradicted by live evidence)
+       → UNVERIFIABLE   (no reliable evidence either way)
+
+  4. DEBATES the most contentious claims in a live adversarial courtroom:
+       → Defender Agent  argues in the founder's favor
+       → Prosecutor Agent cites contradicting data and tears the claim apart
+
+  5. VISUALIZES every finding on a per-page Truth Heatmap with a weighted
+     overall Trust Score (0.0 — 1.0).
+
+  ALL OF THIS IN UNDER 90 SECONDS.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 3 — KEY FEATURES (DEMO TALKING POINTS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+── DUAL-MODE ANALYSIS ────────────────────────────────────────────────────────
+
+  FOUNDER MODE 🟢 (Self-Defense)
+  --------------------------------
+  Designed for founders who want to stress-test their own deck BEFORE
+  investors do.
+
+  Features:
+  • First Impression Analyzer   — Scores opening 3 slides for hook strength,
+                                   problem clarity, and solution comprehension.
+                                   Rewrites weak slides on the spot.
+  • Claim Repair Feed           — For every FALSE or EXAGGERATED claim, the AI
+                                   generates a defensible, rewritten version
+                                   backed by real evidence.
+  • Financial Stress Test       — Benchmarks projections against real industry
+                                   medians. Flags "100% YoY for 5 years" as
+                                   implausible vs. SaaS median of ~30%.
+  • Competitor Blind Spot Detector — Finds competitors you forgot to mention.
+                                     Before investors find them for you.
+  • Adversarial Debate Engine   — Tests your deck's weakest claims in a
+                                   Defender vs. Prosecutor courtroom.
+  • Truth Heatmap               — Color-coded per-page visualization of claim
+                                   integrity. 🟢 Green | 🟡 Amber | 🔴 Red
+  • Temporal Claim Decay        — Shows which claims have a "freshness score"
+                                   and are about to expire due to market shifts.
+
+  VC MODE 🟡 (Due Diligence Weaponized)
+  ----------------------------------------
+  Designed for investors who want forensic-grade due diligence in under 90s.
+
+  Features:
+  • Red Flag Scorer             — Weighted severity scoring: Critical / Major /
+                                   Minor. Prioritizes which claims need follow-up
+                                   questions.
+  • Investor Fingerprint        — Runs the analysis through the specific lens
+                                   of a VC firm's thesis (see below).
+  • Domain Credibility Check    — Cross-references founding team claims about
+                                   domain expertise with their actual content.
+  • Competitor Mapper           — Structured competitive intelligence: funding
+                                   rounds, trajectories, moat comparison.
+  • Adversarial Debate Engine   — Same courtroom mode as Founder, but from the
+                                   investor's critical perspective.
+  • Truth Heatmap + Trust Score — Same forensic visualization.
+  • Temporal Claim Decay        — Flags stale market claims with expiry dates.
+
+── INVESTOR FINGERPRINT SYSTEM (UNIQUE TO VC MODE) ──────────────────────────
+
+  Run the same deck through 5 different VC lenses. Each persona biases the
+  analysis to that firm's documented investment thesis:
+
+  • Standard       — Balanced forensic audit. Trust no one without proof.
+  • Sequoia Capital — Market dominance obsessed. Penalizes small TAMs brutally.
+  • Y Combinator   — Velocity & founder-market fit. Hates bloated tech stacks.
+  • Tiger Global   — Aggressive scale. Obsessed with YoY revenue & GMV.
+  • Benchmark      — Unit economics. Penalizes high CAC & marketing-led growth.
+
+  A deck rejected by Sequoia's lens might pass YC's. BluffBuster shows you why.
+
+── ADVERSARIAL DEBATE ENGINE ─────────────────────────────────────────────────
+
+  For the top 3 most contentious claims (FALSE or EXAGGERATED), two AI agents
+  stage a live courtroom argument:
+
+  • Defender 🟢  — Argues the founder's case. Finds charitable interpretations.
+  • Prosecutor 🔴 — Cites evidence. Aggressively dismantles the claim.
+
+  Users can INTERVENE via chat — submit your own argument and a Judge Agent
+  issues an official ruling: SUSTAINED / OVERRULED / PARTIALLY_SUSTAINED.
+
+── TRUTH HEATMAP ─────────────────────────────────────────────────────────────
+
+  Every page of the deck gets a score:
+  • > 0.7 = 🟢 Green (trustworthy)
+  • 0.3–0.7 = 🟡 Amber (caution)
+  • < 0.3 = 🔴 Red (high-risk page)
+
+  Business-critical categories (TAM, growth, financial, competitor) are
+  weighted 3x more than soft categories (team, general).
+
+  Result: A single number that captures the deck's forensic integrity.
+
+── TEMPORAL CLAIM DECAY ──────────────────────────────────────────────────────
+
+  "We are the only player in X" — how long does this claim stay true?
+
+  BluffBuster fetches LIVE data on recent funding rounds and new market entrants,
+  then assigns each claim a Freshness Score (0.0 – 1.0) and an estimated
+  claim expiry date. Investors know which claims to verify NOW.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 4 — HOW IT WORKS (PIPELINE WALKTHROUGH)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  [1] User uploads a PDF pitch deck (drag & drop, max 20MB)
+
+  [2] Backend extracts text from every page using pdfplumber (local, ~2s)
+
+  [3] LLM extracts all factual/quantitative claims — categorized as:
+      TAM | Growth | Competitor | Financial | Technical | Team | General
+
+  [4] For each claim, a web evidence pipeline runs:
+      → DuckDuckGo search (5 results per claim)
+      → Top result deep-scraped via Jina AI Reader (full-page markdown)
+      → Keyword-relevant context extracted (±15 lines)
+
+  [5] ALL claims + ALL evidence bundled into ONE batch LLM call.
+      Uses [ID: CX] tags for deterministic 1:1 claim-to-verdict mapping.
+      → Output: verdict + confidence + reasoning + source URLs
+
+  [6] Mode-specific agents run in parallel:
+      → Founder: First Impression + Claim Repair + Financial Stress + Blind Spots
+      → VC: Red Flag Scoring + Domain Credibility + Competitor Mapping
+
+  [7] Temporal Decay agent fetches live market data, assigns freshness scores.
+
+  [8] Adversarial Debate — single batch LLM call generates both sides
+      simultaneously for the top 3 contentious claims.
+
+  [9] Truth Heatmap computed (no LLM needed — pure math, <1s)
+
+  [10] Dashboard renders all results live via React + WebSocket.
+
+  TOTAL: ~90 seconds end-to-end for a 15-slide deck.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 5 — TECH STACK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BACKEND
+─────────────────────────────────────────────────────────────────────────────
+  Language:     Python 3.12
+  API Server:   FastAPI (REST + WebSocket)
+  Agent Graph:  LangGraph (StateGraph-based multi-agent orchestration)
+  PDF Parsing:  pdfplumber (local extraction, no API cost)
+  Web Search:   DuckDuckGo Search API (free, no rate limits)
+  Web Scraping: Jina AI Reader (converts any URL to clean markdown)
+  Embeddings:   Sentence Transformers — all-MiniLM-L6-v2 (runs LOCAL)
+  Vector DB:    ChromaDB (in-memory, semantic claim similarity)
+  Database:     SQLite (zero-config session persistence)
+  Validation:   Pydantic v2
+  LLM Layer:    OpenAI-compatible client (works with any provider:
+                AICredits / OpenRouter / Groq / OpenAI)
+
+  LLM RESILIENCE:
+  • Exponential backoff — up to 8 retries on 429 rate-limit errors
+  • JSON-mode fallback — retries without response_format if unsupported
+  • Multi-strategy JSON parser: direct → markdown block → brace match →
+    bracket match → positional fallback
+
+FRONTEND
+─────────────────────────────────────────────────────────────────────────────
+  Framework:    React 19 + TypeScript 5.8
+  Build Tool:   Vite 6.2
+  Styling:      TailwindCSS 4.1 (utility-first)
+  Animations:   Framer Motion 12.x (declarative UI transitions)
+                GSAP 3.15 (scroll-triggered animations, horizontal scroll)
+  Smooth Scroll: Lenis 1.3
+  State:        Zustand 5.0 (lightweight global store)
+  Charts:       Recharts 3.8 (data visualization)
+  Routing:      React Router 7.14
+
+  UI DESIGN SYSTEM:
+  • Retro Arcade × Dark Forensics aesthetic
+  • 4-color palette: Red (#FF3D3D), Amber (#FF9500), Green (#00C896),
+    Black (#0A0A0F)
+  • Fonts: Press Start 2P (pixel art headings), Bebas Neue (section titles)
+  • Glassmorphism cards with backdrop blur + neon glow variants
+  • CRT scanline overlay for retro authenticity
+  • Mouse-tracking spotlight effect on claim cards
+  • Globally animated gradient blobs (ambient atmosphere)
+
+INFRASTRUCTURE
+─────────────────────────────────────────────────────────────────────────────
+  • Provider-agnostic LLM layer — swap any OpenAI-compatible API via .env
+  • Disk-based search cache (MD5 hash) — repeated analyses skip web search
+  • Session-based architecture — stateless frontend, all state in SQLite
+  • WebSocket streaming — live progress updates during analysis
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 6 — WHY WE ARE NOT CHATGPT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+"Just ask ChatGPT to review the deck" is what everyone says. Here's why that
+is fundamentally insufficient:
+
+FEATURE                   CHATGPT (PROMPT)        BLUFFBUSTER
+─────────────────────────────────────────────────────────────────────────────
+Evidence Sourcing         Training data cutoff     LIVE web search + deep
+                          (knowledge is stale)     page scraping per claim
+─────────────────────────────────────────────────────────────────────────────
+Hallucination Risk        HIGH — may fabricate     ZERO fabricated sources.
+                          sources and statistics   Every verdict cites real URLs
+─────────────────────────────────────────────────────────────────────────────
+Output Format             Free-form opinion.       Structured machine verdicts:
+                          Vague qualifiers.        VERIFIED / EXAGGERATED /
+                                                   FALSE / UNVERIFIABLE
+─────────────────────────────────────────────────────────────────────────────
+Adversarial Challenge     Single perspective.      Defender vs. Prosecutor
+                          Will agree with you if   courtroom. Guaranteed
+                          you push back.           both sides of every argument.
+─────────────────────────────────────────────────────────────────────────────
+Financial Benchmarking    Generic commentary       Real industry-specific stress
+                          ("seems high")           testing against real medians
+─────────────────────────────────────────────────────────────────────────────
+Temporal Awareness        Static. Knows nothing    Freshness scores + claim
+                          about last week.         expiry estimates w/ live data
+─────────────────────────────────────────────────────────────────────────────
+Investor Lens             Completely generic.      5 VC personas with
+                          No differentiation.      documented thesis alignment
+─────────────────────────────────────────────────────────────────────────────
+Reproducibility           Different every time     Deterministic LangGraph
+                          (non-deterministic)      pipeline — same deck =
+                                                   same results
+─────────────────────────────────────────────────────────────────────────────
+Speed                     2–5 mins manual copy     <90 seconds, fully
+                          paste + iteration        automated end-to-end
+─────────────────────────────────────────────────────────────────────────────
+User Workflow             Upload → Chat → Hope     Upload PDF → structured
+                          it reads it correctly    forensic report delivered
+─────────────────────────────────────────────────────────────────────────────
+Claim-Level Tracking      Bulk summary only        Per-claim verdict with
+                                                   individual confidence,
+                                                   evidence, and repair
+─────────────────────────────────────────────────────────────────────────────
+
+ONE-LINE SUMMARY:
+ChatGPT gives you opinions. BluffBuster gives you a forensic dossier —
+with citations, verdicts, counter-arguments, and receipts.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 7 — USE CASES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FOR FOUNDERS 🟢
+  → Pre-pitch stress test: Find every weak claim before investors do
+  → Claim hardening: AI rewrites your slides into defensible versions
+  → Competitive audit: Discover the competitors you forgot to mention
+  → Financial sanity check: Know if your projections pass the smell test
+  → First impression audit: Score your opening 3 slides
+
+FOR INVESTORS / VCs 🟡
+  → 90-second due diligence on any deck
+  → Thesis-aligned forensic analysis (Sequoia, YC, Tiger, Benchmark lenses)
+  → Evidence-backed red flag triage (Critical / Major / Minor severity)
+  → Temporal awareness: know which claims are about to go stale
+
+FOR ACCELERATORS & COMPETITIONS 🔴
+  → Batch-process dozens of applications with consistent forensic quality
+  → Weighted Trust Scores enable objective ranking
+  → Auto-generate structured feedback for rejected applicants
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 8 — BUSINESS MODEL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TIER 1 — FREEMIUM (Lead Generation)
+  • Free: 1 deck analysis per month (limited to 10 slides, Founder Mode only)
+  • No credit card required
+  • Watermarked PDF report
+  • Purpose: Get founders hooked, create word-of-mouth
+
+TIER 2 — FOUNDER PRO ($49/month or $399/year)
+  • Unlimited deck analyses
+  • All Founder Mode features
+  • PDF export of forensic report
+  • Version tracking (compare deck v1 vs v2)
+  • Priority processing queue
+  • Target: Seed-stage founders, pre-pitch prep
+
+TIER 3 — INVESTOR SEAT ($199/seat/month)
+  • Full VC Mode with all 5 Investor Fingerprint personas
+  • Bulk deck processing (up to 50/month)
+  • Team workspace + shared analysis sessions
+  • API access for CRM integration (Affinity, Notion, Airtable)
+  • Custom investor persona builder (coming soon)
+  • Target: Solo GPs, emerging fund managers, angel syndicates
+
+TIER 4 — ENTERPRISE / FUND LICENSE (Custom pricing)
+  • Dedicated instance (self-hosted option)
+  • Unlimited analysts, unlimited decks
+  • Custom VC personas for proprietary thesis
+  • White-label option for accelerators
+  • Portfolio monitoring: track claim decay across existing investments
+  • Priority support + SLA
+  • Target: Top-tier VC firms, large accelerators, pitch competitions
+
+── B2B PARTNERSHIP PLAYS ──────────────────────────────────────────────────────
+
+  Accelerator Programs (Y Combinator, Techstars, etc.)
+  → License BluffBuster as an evaluation tool for their batch review process.
+  → Standardize scoring across judges. Eliminate bias.
+
+  Law Firms (startup due diligence practice)
+  → BluffBuster as a first-pass forensic layer before lawyers do deep DD.
+
+  Corporate Venture Arms
+  → Large corporations with CVC divisions need systematic deal flow filtering.
+
+  Pitch Competition Organizers
+  → Sponsor-level integrations — BluffBuster scores every submission.
+
+── UNIT ECONOMICS (BALLPARK) ──────────────────────────────────────────────────
+
+  Cost per analysis (LLM + Search):  ~$0.08–$0.15 per deck
+  Founder Pro ARPU:                   $49/month
+  Gross margin (Tier 2):              ~95% at scale (LLM costs drop w/ volume)
+  Payback period per user:            < 1 month
+
+── REVENUE PROJECTIONS (CONSERVATIVE) ────────────────────────────────────────
+
+  Year 1:  500 Founder Pro + 50 Investor seats  → ~$420K ARR
+  Year 2:  2,000 Founder Pro + 300 seats + 5 enterprise → ~$2.1M ARR
+  Year 3:  10K+ users + fund licensing → $10M+ ARR
+
+── WHY THIS MARKET NOW ────────────────────────────────────────────────────────
+
+  • 2024–2026: AI startup funding at all-time high. Every deck claims to be
+    "AI-native." Differentiation is harder. Forensic verification is critical.
+
+  • Regulation pressure: LP scrutiny of VC firms is intensifying. Documented,
+    reproducible due diligence is becoming a compliance expectation.
+
+  • Speed of capital deployment: Funds are making faster decisions with less
+    time for traditional DD. BluffBuster is the 90-second filter.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 9 — DEMO SCRIPT (LIVE WALKTHROUGH)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  STEP 1: Open bluffbuster in browser (localhost:3000 or hosted URL)
+    → Point out the retro arcade landing page design
+    → "This isn't your typical SaaS UI. Forensics should feel serious."
+
+  STEP 2: Click "Founder Mode" or "VC Mode"
+    → If VC mode: select "Sequoia Capital" persona from the fingerprint selector
+    → Explain: "We're now analyzing through Sequoia's lens — they care about
+      market dominance and TAM above all else."
+
+  STEP 3: Upload the sample pitch deck (FooDel.pdf or Pitch-Deck-Example.pdf)
+    → Drag and drop into the upload zone
+    → Watch the progress indicators fire up
+    → "Under the hood, DuckDuckGo is searching for evidence for each claim.
+       Jina AI is deep-scraping the top result for each one. All in parallel."
+
+  STEP 4: Results land — show the Truth Heatmap first
+    → Point to a 🔴 red page: "Slide 7. Their TAM claim. False."
+    → Point to the overall trust score: "0.47 out of 1.0 — Amber zone."
+
+  STEP 5: Show Claim Autopsy grid
+    → Pick one FALSE claim. Show the evidence URL. "We found this. They said X.
+      The actual figure is Y. Citation right there."
+
+  STEP 6: Show Adversarial Debate
+    → "Watch the Defender try to save this claim..."
+    → "Now the Prosecutor tears it apart with data."
+    → Type a message to intervene. Watch the Judge ruling come back.
+
+  STEP 7 (Founder Mode): Show Claim Repair Feed
+    → "Here's the original claim. Here's what they SHOULD have said —
+       rewritten to be defensible and accurate. Ready to paste back in."
+
+  STEP 8 (VC Mode): Show Red Flag Report
+    → "Three critical flags. Two major. Severity-weighted. Sequoia's lens
+       killed them on the TAM. YC's lens would have been different — let me
+       switch."
+    → Switch to YC persona live. Watch scores shift.
+
+  STEP 9: Show Temporal Decay
+    → "This claim has a freshness score of 0.3. It expires in ~45 days based
+       on current market velocity. Two new competitors raised Series A this
+       quarter."
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 10 — KEY DEFENSIBLE MOATS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  1. PIPELINE ARCHITECTURE — Not a chatbot. A deterministic multi-agent
+     LangGraph graph. Same deck = same pipeline = reproducible results.
+     This is auditable. ChatGPT is not.
+
+  2. LIVE EVIDENCE GROUNDING — Every verdict is anchored to a real URL found
+     at analysis time. We don't rely on training data that's 12 months old.
+
+  3. ADVERSARIAL BY DESIGN — Structured argument between two opposing agents
+     is NOT something you can replicate with a prompt. It's an architecture.
+
+  4. INVESTOR FINGERPRINT — VC-thesis-specific analysis is a unique workflow
+     that maps directly to how real fund managers think. Built with their
+     documented investment criteria.
+
+  5. TEMPORAL DECAY — Claim freshness is a problem no one else is solving.
+     "We are the only player" is only true until it isn't. We track that.
+
+  6. CATEGORY + WEIGHTED SCORING — TAM/revenue claims weighted 3x generalisms.
+     Business-relevant precision that a generic LLM prompt cannot replicate.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 11 — FUTURE ROADMAP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ● Multi-deck Portfolio View        — Upload 10 decks, get a ranked leaderboard
+  ● Slide-Level Visual Heatmap       — Red/amber/green overlaid ON PDF thumbnails
+  ● Real-time WebSocket Streaming    — Progressive claim verdicts as they arrive
+  ● Custom Investor Persona Builder  — Define your own VC thesis
+  ● Historical Claim Tracking        — Compare deck v1 vs v2 over time
+  ● PDF Forensic Report Export       — Downloadable, shareable evidence dossier
+  ● Team Collaboration               — Shared sessions for co-investors
+  ● Mobile-Responsive Dashboard      — Full tablet + phone support
+  ● API Integrations                 — Affinity, Notion, Airtable CRM hooks
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  CLOSING STATEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Founders lie. Not always on purpose — but they always optimize for optimism.
+  Investors know this. But they don't have time to fact-check every slide.
+
+  BluffBuster is the first tool built specifically for the adversarial reality
+  of venture capital: where every claim is suspect, evidence is king, and
+  90 seconds is all the time you have before the next deck lands.
+
+  "Lies are obvious. Exaggerated truths aren't."
+  BluffBuster finds both.
+
+  ─────────────────────────────────────────────────────────
+  BluffBuster — Forensic Truth Protocol Alpha v2.4
+  Built for the 2026 Hackathon
+  ─────────────────────────────────────────────────────────

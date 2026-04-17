@@ -99,7 +99,7 @@ export default function CompetitorMap({ competitors }: CompetitorMapProps) {
                 <div className="flex items-center gap-2 font-pixel text-[8px] text-red-forensic uppercase tracking-widest mb-2">
                   <Target className="w-3 h-3" /> Comparison Points
                 </div>
-                {comp.comparison_points.map((point, pIdx) => (
+                {(comp.comparison_points || []).map((point, pIdx) => (
                   <div key={pIdx} className="flex gap-3 items-start group/point">
                     <div className="mt-1.5 w-1.5 h-1.5 rounded-full bg-red-forensic shrink-0 group-hover/point:scale-125 transition-transform" />
                     <p className="font-space text-xs text-off-white/80 leading-relaxed italic">
